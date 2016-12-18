@@ -3,13 +3,13 @@ layout: default
 ---
 <header>
   <h1 class="header-small">
-    <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
+    <i class="fa fa-home" aria-hidden="true"></i> <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
   </h1>
 </header>
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
+    <time>{{ page.date | date: "%B %e, %Y" }}</time>
   </span>
   <div class="post-tag">
     <ul>
@@ -25,21 +25,5 @@ layout: default
   </div>
 
   {{ content }}
-
-
-  <!-- Share -->
-  {% if page.share != false %}
-  <div class="post-share">
-    <hr>
-    {% include share.html %}
-    <hr>
-  </div>
-  {% endif %}
-
-  <!-- Disqus -->
-  {% if page.comments != false and site.disqus.id %}
-  <section id="disqus_thread"></section>
-  {% include disqus.html %}
-  {% endif %}
 
 </div>
