@@ -34,13 +34,15 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "/about"
+    url:            "/about/"
+  - name:           "Photos"
+    url:            "/photos/"
   - name:           "Archive"
-    url:            "/archive"
+    url:            "/archive/"
   - name:           "Tags"
-    url:            "/tags"
+    url:            "/tags/"
   - name:           "Now"
-    url:            "/now"
+    url:            "/now/"
 
 # Sass
 sass:
