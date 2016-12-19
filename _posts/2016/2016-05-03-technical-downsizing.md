@@ -1,6 +1,7 @@
 ---
 title: Technical Downsizing
 description: I’m hanging up my SysAdmin chores after ten years and saying goodbye to some projects.
+Tags: Technology
 ---
 
 Around ten years ago I ran my own servers at home. I had a free-standing half-rack with several machines rack-mounted in it along with the necessary UPS and network equipment. Even a fancy KVM at one point. I ran my websites on those machines and even my own mail server. It was fun to run this stuff and my equivalent of having a garden to tend or a workbench to tinker with things. However, it was a lot of work and the costs of maintaining it all was too much.
