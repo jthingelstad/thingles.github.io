@@ -1,6 +1,6 @@
 ---
 title: Meeting my Brother for the First Time
-description: With that email started dozens of emails back and forth with my brother that I had never met.
+description: Getting to know my brother Isaiah and our first face to face meeting.
 tags: Journal
 ---
 
