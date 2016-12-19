@@ -46,7 +46,7 @@ I don't see a good way to extend GTD tooling to a collaborative environment, but
  2. I use GTD language, such as asking people what their *next actions* are for a project.
  3. Use your GTD system to interact with others, but always through a discussion. I will routinely bring up an OmniFocus perspective and walk through items during a status. The other person often is doing the same. We have different tools and labels, but it works just fine.
 
-I *do* think that groups of people who use GTD together will be more effecient. However, I would hold on using a tool to solve the problem. Let everyone adopt the system that works for them, share the concepts and language.
+I *do* think that groups of people who use GTD together will be more efficient. However, I would hold on using a tool to solve the problem. Let everyone adopt the system that works for them, share the concepts and language.
 
 *[Getting Things Done][gtd] and GTD are &reg; trademarks of The David Allen Company.*
 
