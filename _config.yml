@@ -20,7 +20,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:           America/Chicago
-permalink:          /:title/
+permalink:          /:year/:title/
 
 # Pagination
 paginate:           5

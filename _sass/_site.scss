@@ -60,7 +60,6 @@ body {
     a {
       color: lighten($base-color, 50);
       font-weight: 300;
-      text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
@@ -137,7 +136,6 @@ body {
       font-size: .75rem;
       display: inline;
       list-style-type: none;
-      text-transform: lowercase;
     }
     span {
       float: left;
@@ -233,7 +231,6 @@ body {
     font-size: .75rem;
     display: inline;
     list-style-type: none;
-    text-transform: lowercase;
 
 
     a {
@@ -259,7 +256,6 @@ body {
   &-title {
 		font-size: 1.4rem;
 		font-weight: 600;
-		text-transform: lowercase;
 		padding-top: 1rem;
   }
 

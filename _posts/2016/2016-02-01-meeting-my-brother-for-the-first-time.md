@@ -1,7 +1,7 @@
 ---
 title: Meeting my Brother for the First Time
 description: With that email started dozens of emails back and forth with my brother that I had never met.
-tags: Me
+tags: Journal
 ---
 
 A year ago I got an email late at night from someone named Isaiah introducing himself to me and sharing that his father's name was Michael Ringwall. My father's name is Michael Ringwall. My name was Jamie Ringwall and became Thingelstad when my step-father adopted me. Hence why I have my website at thingelstad.com and not ringwall.com. :-) My parents got divorced when I was young and I haven't seen that side of my family since I was in elementary school.

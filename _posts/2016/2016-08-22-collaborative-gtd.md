@@ -1,7 +1,7 @@
 ---
 title: Collaborative GTD?
 description: Trying to use GTD tools for collaboration? I don't think this is a good idea.
-tags: gtd
+tags: GTD
 ---
 
 A friend of mine that has been on the path to GTD for a long time now recently emailed me about using GTD in a collaborative environment. His specific question was pretty direct:
