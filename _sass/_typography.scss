@@ -90,8 +90,7 @@ dd {
 }
 
 ul {
-  list-style: inside circle;
-  padding-left: 0;
+  list-style: disc;
 
   li {
     margin-bottom: .25rem;
@@ -99,7 +98,6 @@ ul {
 
   ul,
   ol {
-    list-style: inside;
     margin-left: 2rem;
     margin-top: .25rem;
     margin-bottom: .5rem;
@@ -107,8 +105,7 @@ ul {
 }
 
 ol {
-  list-style: inside decimal;
-  padding-left: 0;
+  list-style: decimal;
 
   li {
     margin-bottom: .25rem;
