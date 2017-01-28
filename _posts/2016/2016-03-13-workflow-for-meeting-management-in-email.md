@@ -26,11 +26,11 @@ My workflow for accepting meeting invites is completely unrelated to processing 
 
 **Rule:** Meeting Invitation
 
-**After the message arrives and…**  <br />
+**After the message arrives and…**  
 the message is Meeting Request.
 
-**Do the following…**  <br />
-move the message to folder ‘Meetings’  <br />
+**Do the following…**  
+move the message to folder ‘Meetings’  
 and stop processing more rule on this message
 
 Typically first thing in the morning I process all items in this Meetings folder acting upon each request as appropriate.
@@ -49,13 +49,13 @@ Note that this rule includes a forward as well. If you have someone who helps ma
 
 **Rule:** Meeting Declines
 
-**After the message arrives and…**
-the message is Meeting Response.
+**After the message arrives and…**  
+the message is Meeting Response.  
 and the message includes specific words in the subject ‘Declined:’
 
-**Do the following…**
-forward the message to ‘John Doe’
-and move the message to folder ‘Review’
+**Do the following…**  
+forward the message to ‘John Doe’  
+and move the message to folder ‘Review’  
 and stop processing more rule on this message
 
 #### New Time Proposed 
@@ -64,13 +64,13 @@ Sometimes people don’t decline but suggest a new time. Now I need to visit my 
 
 **Rule:** Meeting New Time Proposal
 
-**After the message arrives and…**
-the message is Meeting Response.
+**After the message arrives and…**  
+the message is Meeting Response.  
 and the message includes specific words in the subject ‘New Time Proposed:’
 
-**Do the following…**
-forward the message to ‘John Doe’
-and move the message to folder ‘Review’
+**Do the following…**  
+forward the message to ‘John Doe’  
+and move the message to folder ‘Review’  
 and stop processing more rule on this message
 
 #### Forward
@@ -79,12 +79,12 @@ Meeting forwards don’t require revisiting the schedule, but I do want to know 
 
 **Rule:** Meeting Forward
 
-**After the message arrives and…**
+**After the message arrives and…**  
 the message includes specific words in the subject ‘Meeting Forward Notification:’
 
-**Do the following…**
-forward the message to ‘John Doe’
-and move the message to folder ‘Review’
+**Do the following…**  
+forward the message to ‘John Doe’  
+and move the message to folder ‘Review’  
 and stop processing more rule on this message
 
 ### Meeting Acceptances
@@ -95,12 +95,12 @@ Meeting acceptances are complete noise. The rules above make sure I see only act
 
 **Rule:** Meeting Acceptance
 
-**After the message arrives and…**
+**After the message arrives and…**  
 the message is Meeting Response.
 
-**Do the following…**
-mark the message as Read
-and move the message to folder ‘Affirmative’
+**Do the following…**  
+mark the message as Read  
+and move the message to folder ‘Affirmative’  
 and stop processing more rule on this message
 
 ## Optimize Schedule and Decrease Distractions
