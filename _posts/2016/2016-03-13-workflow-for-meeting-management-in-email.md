@@ -26,11 +26,11 @@ My workflow for accepting meeting invites is completely unrelated to processing 
 
 **Rule:** Meeting Invitation
 
-**After the message arrives and…**  
+**After the message arrives and…**  <br />
 the message is Meeting Request.
 
-**Do the following…**  
-move the message to folder ‘Meetings’  
+**Do the following…**  <br />
+move the message to folder ‘Meetings’  <br />
 and stop processing more rule on this message
 
 Typically first thing in the morning I process all items in this Meetings folder acting upon each request as appropriate.
