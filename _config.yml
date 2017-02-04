@@ -23,7 +23,7 @@ timezone:           America/Chicago
 permalink:          /:year/:title/
 
 # Pagination
-paginate:           5
+paginate:           10
 paginate_path:      /page:num/
 
 # Markdown
