@@ -107,7 +107,11 @@ body {
 .post {
 
   &-title {
-    margin-bottom: 0rem;
+    margin-bottom: .3rem;
+  }
+
+  &-description {
+    margin-bottom: .2rem;
   }
 
   &-date {
@@ -119,6 +123,7 @@ body {
 
   &-tag {
     margin-bottom: 1rem;
+    margin-left: -2rem;
     .tag {
       display: inline-block;
       margin: 4px;
