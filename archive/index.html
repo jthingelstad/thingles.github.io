@@ -3,11 +3,19 @@ layout: page
 title: Archive
 ---
 <div class="archive">
+
+<p>Archive of all published posts.<p>
+
   <div class="archive-list">
   {% if site.posts.size == 0 %}
     <h2>No post found</h2>
   {% else %}
   {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != nyear %}
+    <div class="archive-list-year">{{ post.date | date: '%Y' }}</div>
+    {% endif %}
     <div class="archive-list-post">
       {% if post.link %}
       <a href="{{ post.link }}">
@@ -18,7 +26,7 @@ title: Archive
           {{ post.title }}
         </span>
         <span class="archive-list-post-date">
-          <time>| {{ post.date | date: "%B %e, %Y" }}</time>
+          <time>{{ post.date | date: "%B %e, %Y" }}</time>
         </span>
       </a>
     </div>

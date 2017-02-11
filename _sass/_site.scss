@@ -280,6 +280,13 @@ body {
   -------------- */
 .archive {
   &-list {
+    &-year {
+      font-size : 1.6em;
+      font-weight: 600;
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+    }
+
     &-post {
 
       a {
