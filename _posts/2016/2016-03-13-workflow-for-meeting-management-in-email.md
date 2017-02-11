@@ -1,7 +1,7 @@
 ---
 title: Workflow for Meeting Management in Email
 description: A more effective way to handle meeting related emails so you can ignore noise but take action on the items that matter.
-tags: Productivity
+tags: Productivity Email
 ---
 
 I’m not sure why it took me a couple of decades to come up with this but I've had these mail rules in place for a little over a year, and they are great! After putting these in place, I was able to streamline my processing of meeting related notices and more importantly take action on the important messages.
