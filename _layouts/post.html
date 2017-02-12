@@ -10,7 +10,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <h3 class="post-description">{{ page.description }}</h3>
   <span class="post-date">
-    By Jamie Thingelstad, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
+    By {{ site.author }}, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
   </span>
   <div class="post-tag">
     <ul>
