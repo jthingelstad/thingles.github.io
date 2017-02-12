@@ -3,10 +3,12 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "thingelstad.com"
+title:              "thingelstad.com"
+description:        "Personal website of Jamie Thingelstad"
 
-author:
-  name:             Jamie Thingelstad
+author:             Jamie Thingelstad
+
+social:
   twitter:          thingles
   github:           thingles
   linkedin:         jthingelstad
