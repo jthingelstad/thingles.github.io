@@ -7,6 +7,8 @@ image: /assets/posts/2017/woz-at-augsburg-college.jpg
 
 [Steve Wozniak][woz], or "Woz", was a guest at [Augsburg College][augsburg] today and it was a pleasure to see him talk about his early days in technology and his first experimentations with [microchips][] which eventually led to the creation of the [Apple I](https://en.wikipedia.org/wiki/Apple_I) and beyond. 
 
+Woz is an amazing person. He individually did more to create the personal computer industry than possibly anyone else. He is a creative genius with technology. He so clearly is passionate and understands the design of technology like nobody else. On top of all that, Woz just seems like a nice person. Woz seems like someone that you'd love to have dinner with and just spend time discussing the world. He's an "engineer's engineer". You could give yourself a nearly impossible challenge just by looking at your project and asking "What would Woz do with this?"
+
 ![Steve Wozniak at Augsburg College](/assets/posts/2017/woz-at-augsburg-college.jpg)
 
 Some highlights from the discussion with Woz: 
