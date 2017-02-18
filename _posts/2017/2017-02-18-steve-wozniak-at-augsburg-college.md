@@ -2,6 +2,7 @@
 title: Steve Wozniak at Augsburg College
 description: A great chance to see Woz talk about how he got into technology and the early days of Apple.
 tags: Technology
+date: 2017-02-18 12:00:00 -06:00
 image: /assets/posts/2017/woz-at-augsburg-college.jpg
 ---
 
