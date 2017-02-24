@@ -4,7 +4,7 @@ title: About
 
 Check out my [now page]({% link about/now.md %}) if you are curious about what I'm focusing on now.
 
-Let me introduce myself. I'm 44 and am married to my amazing wife Tammy. We have two fabulous kids, Mazie and Tyler. I love being a Dad. It's the best thing ever. We have a dog named Chase who thinks he is a lap dog in a black lab body.
+Let me introduce myself. I'm 45 and am married to my amazing wife Tammy. We have two fabulous kids, Mazie and Tyler. I love being a Dad. It's the best thing ever. We have a dog named Chase who thinks he is a lap dog in a black lab body.
 
 I really like to explore new things. The result of that is that I have too many hobbies. I would consider myself an amateur photographer. I'm a fairly avid blogger at thingelstad.com where I write about whatever I feel like. I am fanatical about the [Big Green Egg](http://biggreenegg.com/). I am a lucky member of the R/W Book Club. I'm a supporter of the open web and support Wikipedia, Creative Commons, Archive.org and the EFF.
 
