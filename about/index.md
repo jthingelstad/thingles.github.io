@@ -1,7 +1,8 @@
 ---
 title: About
-permalink: /about/
 ---
+
+Check out my [now page]({% link about/now.md %}) if you are curious about what I'm focusing on now.
 
 Let me introduce myself. I'm 44 and am married to my amazing wife Tammy. We have two fabulous kids, Mazie and Tyler. I love being a Dad. It's the best thing ever. We have a dog named Chase who thinks he is a lap dog in a black lab body.
 
