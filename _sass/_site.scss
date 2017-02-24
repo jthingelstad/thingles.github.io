@@ -78,7 +78,6 @@ body {
 	margin-bottom: .75rem;
 	font-size: .75rem;
 	font-weight: 600;
-	text-transform: uppercase;
 
 	a {
 		color: $base-color;
@@ -118,7 +117,6 @@ body {
     margin-bottom: .5rem;
     color: $base-lighten-color;
     font-size: .75rem;
-    text-transform: uppercase;
   }
 
   &-tag {
@@ -179,7 +177,6 @@ body {
     &-date {
       color: $base-lighten-color;
       font-size: .75rem;
-      text-transform: uppercase;
     }
 
     &-desc {
@@ -310,7 +307,6 @@ body {
       &-date {
         color: $base-lighten-color;
         font-size: .75rem;
-        text-transform: uppercase;
       }
     }
   }
