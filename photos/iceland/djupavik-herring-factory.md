@@ -2,7 +2,7 @@
 title: Djúpavík Herring Factory
 ---
 
-We decided to explore the Northern reaches of Iceland and drove to [Djúpavík](http://en.wikipedia.org/wiki/Djúpav%C3%ADk). Djúpavík is home to a [deserted Herring factory](http://www.djupavik.com/en_herringfactory.php) that has been closed since 1954. The factory has been sitting abandoned with much of the original equipment left in place. The factory was dark with bright shafts of light coming through sparse windows and cracks.
+We decided to explore the Northern reaches of Iceland and drove to [Djúpavík](http://en.wikipedia.org/wiki/Djúpav%C3%ADk). Djúpavík is home to a [deserted Herring factory](http://djupavik.is/en/sildarverksmidjan-2/) that has been closed since 1954. The factory has been sitting abandoned with much of the original equipment left in place. The factory was dark with bright shafts of light coming through sparse windows and cracks.
 Photographically the entire scene struck me as a perfect opportunity for [HDR](http://en.wikipedia.org/wiki/High_dynamic_range_imaging) photography.
 
 ![](/assets/photos/iceland/djupavik-herring-factory/20120902-154144.jpg)
