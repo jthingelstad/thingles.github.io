@@ -97,6 +97,38 @@ body {
   &-title {
     margin-bottom: 2rem;
   }
+
+  &-breadcrumb {
+  margin-bottom: 1rem;
+  margin-left: -2rem;
+  .crumb {
+    display: inline-block;
+    margin: 4px;
+    margin-left: 0px;
+    color: #fff;
+    background-color: $base-lighten-color;
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  .crumb-active {
+    display: inline-block;
+    margin: 4px;
+    margin-left: 0px;
+    color: #fff;
+    background-color: lighten($base-color,20);
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  li {
+    font-size: .75rem;
+    display: inline;
+    list-style-type: none;
+  }
+  span {
+    float: left;
+    padding: .5px 5px;
+  }
+}
 }
 
 

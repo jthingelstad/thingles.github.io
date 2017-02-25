@@ -1,6 +1,5 @@
 ---
 title: Djúpavík Herring Factory
-permalink: /photos/iceland/djupavik-herring-factory
 ---
 
 We decided to explore the Northern reaches of Iceland and drove to [Djúpavík](http://en.wikipedia.org/wiki/Djúpav%C3%ADk). Djúpavík is home to a [deserted Herring factory](http://www.djupavik.com/en_herringfactory.php) that has been closed since 1954. The factory has been sitting abandoned with much of the original equipment left in place. The factory was dark with bright shafts of light coming through sparse windows and cracks.
