@@ -11,7 +11,7 @@ clean:
 	rm -rf _site/
 
 local:
-	$J serve --watch --drafts
+	$J serve --watch --drafts --incremental
 
 new:
 	./new_post.sh

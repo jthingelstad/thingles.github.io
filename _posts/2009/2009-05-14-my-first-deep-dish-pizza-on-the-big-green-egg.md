@@ -1,0 +1,14 @@
+---
+title: My first deep dish pizza
+categories:
+- Cooking
+tags:
+- Big Green Egg
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/ebeecb5dce588c19f8b23a3fa1cbdc51.png)
+  
+
+
+
+On the Big Green Egg.

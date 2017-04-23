@@ -1,0 +1,14 @@
+---
+title: “Somebody’s hands are sticking out!”
+categories:
+- Dear Diary
+tags:
+- Mazie
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/f511d8dcfb5cb63e7ca462852746e10c.png)
+  
+
+
+
+Mazie's reaction to some interesting art.

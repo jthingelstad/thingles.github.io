@@ -1,0 +1,9 @@
+---
+title: Fun with MRTG and SNMP
+categories:
+- Techie
+---
+
+I've been busy [obsessed] with getting SNMP monitoring of my home network working with [MRTG](http://people.ee.ethz.ch/~oetiker/webtools/mrtg/) for the last couple of weeks. It's been much harder than I would have expected, but in the end I sure know a lot more about SNMP than I did before. This gives me a lot of information on my home network, like knowing how much traffic is going to through my gateway.
+
+I found really strange things that don't make sense to me. For example, different CPUs end up in different OIDs from one installation to another of Windows Server 2003. That's very confusing and doesn't seem right, but I've got proof positive right here on my box.

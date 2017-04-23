@@ -1,0 +1,12 @@
+---
+title: Pulled Pork Sandwich
+categories:
+- Dear Diary
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/da2a6034b6c969f797a56706775dc8ae.jpg)
+  
+
+
+
+Stellar pulled pork sandwich with muenster cheese on Texas toast at The Old Fashioned in Madison.

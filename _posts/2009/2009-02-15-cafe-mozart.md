@@ -1,0 +1,14 @@
+---
+title: Cafe Mozart
+categories:
+- Dear Diary
+tags:
+- Mazie
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/68f1572ca6ff59e5e381b24bbbaa52c9.png)
+  
+
+
+
+Mazie and I are reading and relaxing at [Cafe Mozart](http://centerstagechicago.com/restaurants/cafe-mozart.html) this morning. Really great espresso.

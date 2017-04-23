@@ -1,0 +1,9 @@
+---
+title: Triple Hoppy!
+categories:
+- Dear Diary
+tags:
+- Beer
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/dfa053ace31685673c2a6f2df2322b22.jpg)

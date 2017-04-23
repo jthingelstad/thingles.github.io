@@ -1,0 +1,14 @@
+---
+title: Snow Shelf
+categories:
+- Dear Diary
+tags:
+- Snow
+---
+
+![](/assets/posts/{{ page.date | date: "%Y" }}/photo4.jpg)
+  
+
+
+
+I couldn't figure out any way to clear the alley where I leave the recycling out. Just too much snow. Solution? Flatten the top with a shovel and make it a shelf! Excellent!
