@@ -1,12 +1,4 @@
 ---
-excerpt: '<p>I was pretty excited to read about recent <a href="http://googlereader.blogspot.com/2009/08/flurry-of-features-for-feed-readers.html">enhancments
-  to Google Reader, particularly the "Send to..."</a> feature that allows you to post
-  items from Google Reader into Facebook, Twitter, Delicious and many other sites.
-
-  However, where I wanted to send things was to WordPress and that isn''t in the list.
-  I was excited that the Reader team though smartly left a way for you to manually
-  add your own "Send to..." destinations. I considered this and thought it may match
-  well with WordPress built-in "Press this" function. And it does!</p>'
 title: Using Google Reader "Send To" with WordPress
 categories:
 - Techie

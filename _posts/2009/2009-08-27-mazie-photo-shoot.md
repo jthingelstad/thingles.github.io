@@ -1,9 +1,4 @@
 ---
-excerpt: <p>Last Friday Mazie and I had a super fun "Daddy-Daughter" day filled with
-  many fun things. Part of our fun day was a trip to a store to get a new dress (we
-  ended up getting two) followed by a photo shoot in her new clothes. We decided to
-  do the photo shoot in our front yard, taking advantage of all the wonderful tall
-  grasses and native plants. Mazie had a ton of fun, and so did I behind the camera.</p>
 title: Mazie Photo Shoot
 categories:
 - Dear Diary

@@ -1,8 +1,4 @@
 ---
-excerpt: <p>Starting at the beginning of this year I was asked to join the board of
-  directors at CaringBridge. I've been hoping to find a non-profit that fit well with
-  my background, and CaringBridge fit that squarely. I've been very impressed learning
-  more about CaringBridge and the amazing and wonderful relationships that they enable.</p>
 title: Joining the Board of CaringBridge
 categories:
 - Business

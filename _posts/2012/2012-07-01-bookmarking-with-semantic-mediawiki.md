@@ -1,8 +1,4 @@
 ---
-excerpt: <p>I have been doing a lot of exploration using MediaWiki and the Semantic
-  Mediawiki suite of extensions. I've deployed a number of wikis doing a wide variety
-  of things. For a few months I had been pondering the idea of hosting my own bookmarking
-  site using Semantic MediaWiki. I decided to give it a try and put together links_thing.</p>
 title: Bookmarking with Semantic MediaWiki
 categories:
 - Techie

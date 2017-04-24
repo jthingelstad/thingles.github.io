@@ -1,8 +1,4 @@
 ---
-excerpt: <p>I don't have an official bug report for this but I'm seeing a very ugly
-  bug in Mac OS X Address Book or some part of the applications that work with its
-  data. In short, it seems that in some situation Address Book can duplicate all the
-  images associated with contacts, multiple times.</p>
 title: Ugly Bug in Mac OS X Address Book?
 categories:
 - Techie

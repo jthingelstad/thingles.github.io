@@ -1,8 +1,4 @@
 ---
-excerpt: <p>There is a secondary question that people have asked about extending something
-  like VeloTweets into other sports. I think it is possible that could work, but I
-  think that cycling has some unique characteristics that make it particularly well
-  suited for Twitter. Through Twitter the peloton can send two really clear messages.</p>
 title: Why do Cyclists Tweet?
 categories:
 - Cycling

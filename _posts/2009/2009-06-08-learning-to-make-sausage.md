@@ -1,7 +1,4 @@
 ---
-excerpt: <p>Kent and I try our hand at making our own sausage at the North House Folk
-  School in Grand Marais. The video shows the process of working your own sausage
-  all the way through.</p>
 title: Learning to Make Sausage
 categories:
 - Dear Diary

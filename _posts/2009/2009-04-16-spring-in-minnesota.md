@@ -1,6 +1,4 @@
 ---
-excerpt: <p>Today, at 11:45 am the temperature at our house went over 70&deg; for
-  the first time in many, many months.</p>
 title: Spring in Minnesota
 categories:
 - Dear Diary

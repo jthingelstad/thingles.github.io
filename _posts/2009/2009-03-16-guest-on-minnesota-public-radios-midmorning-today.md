@@ -1,7 +1,4 @@
 ---
-excerpt: <p>This morning I got the opportunity to be a guest on <a href="http://minnesota.publicradio.org/radio/programs/midmorning/">Midmorning</a>
-  at <a href="http://minnesota.publicradio.org/">Minnesota Public Radio</a>. The topic
-  was <a href="http://www.twitter.com/">Twitter</a>!</p>
 title: Guest On Minnesota Public Radio's Midmorning Today
 categories:
 - Web

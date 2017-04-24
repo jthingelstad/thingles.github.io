@@ -1,8 +1,4 @@
 ---
-excerpt: <p>I recently redid my email signature. I figured since I was going to redo
-  it I would simplify, but also wanted to add some function. So, I decided to make
-  use the hCard microformat in the signature. It wasn't too hard to get right, and
-  it looks normal when viewed but an hCard aware client would see the data markup.</p>
 title: Fancy Email Signatures with hCard Microformat
 categories:
 - Techie

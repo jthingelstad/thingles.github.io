@@ -1,9 +1,4 @@
 ---
-excerpt: <p>This script requires Ruby, the Twitter4R library and is intended to be
-  ran on a schedule with a utility like cron. Edit the code to use your login credentials
-  and set the days that you want to expire tweets after. This program will then repeatedly
-  look at your timeline and delete status messages that occur more than the number
-  of days you specify ago.</p>
 title: How to Expire Tweets on Twitter
 categories:
 - Techie

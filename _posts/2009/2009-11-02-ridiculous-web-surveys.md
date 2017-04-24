@@ -1,10 +1,4 @@
 ---
-excerpt: <p>It amazes me when I actually attempt to take a survey on the web how poorly
-  designed they are. Most of the time I disregard them, but sometimes a product that
-  I like runs a survey and I would like to offer my feedback. I got one of those recently
-  and on the third page, which by the way is already two pages too long, they present
-  this screen. The question being asked is, in essence, "what one feature do you most
-  wish the product had?"</p>
 title: Ridiculous Web Surveys
 categories:
 - Web

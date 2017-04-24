@@ -1,9 +1,4 @@
 ---
-excerpt: <p>I enjoy a lot of different music and I have a constant challenge keeping
-  new music highlighted in this big pool of nearly twenty thousand songs. Today I
-  had an idea for a Smart Playlist that I'm finding very useful. I call the playlist
-  Three Plays and the basic idea is that any new track added to my collection should
-  get three plays before it gets shuffled into the general archive.</p>
 title: 'iTunes Smart Playlist: Three Plays'
 categories:
 - Music

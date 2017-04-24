@@ -1,6 +1,4 @@
 ---
-excerpt: <p>An exploration into using CSS to turn an unordered list into a properly
-  formatted comma separated list of values.</p>
 title: Unordered Lists to Comma Separated List
 categories:
 - Techie

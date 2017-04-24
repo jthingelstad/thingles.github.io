@@ -1,7 +1,4 @@
 ---
-excerpt: <p>A couple of weeks ago I was reading one of my favorite typography websites,
-  I Love Typography, and saw their article about Theodore Rosendorf's The Typographic
-  Desk Reference. I was intrigued right away.</p>
 title: The Typographic Desk Reference
 categories:
 - Books

@@ -1,13 +1,4 @@
 ---
-excerpt: <p>This weekend, thanks to my awesome <a href="http://www.smallerthanaredwood.com/">wife</a>,
-  I got to spend Saturday and Sunday at a photography workshop. The workshop was led
-  by John Gregor of <a href="http://coldsnap.com/">ColdSnap Photography</a>. It was
-  a two day workshop focused on composition as well as technique. We started both
-  days shooting over by <a href="http://en.wikipedia.org/wiki/Lake_Harriet_(Hennepin_County,_Minnesota)">Lake
-  Harriet</a> in the <a href="http://www.minneapolisparks.org/default.asp?PageID=4&parkid=349">Peace
-  Garden</a> and <a href="http://www.minneapolisparks.org/default.asp?PageID=4&parkid=350">Rose
-  Garden</a> and finished the second half of the day with seminars held at the <a
-  href="http://www.rei.com/stores/15">REI in Bloomington</a>.</p>
 title: ColdSnap "Art of Seeing" Photo Workshop
 categories:
 - Photography

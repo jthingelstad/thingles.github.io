@@ -1,9 +1,4 @@
 ---
-excerpt: <p>You've got an iPod, three Apple TV's and then your laptop. The idea is
-  that I should be able to setup iTunes on a laptop or any other computer that is
-  just a sync partner with another computers iTunes library. iTunes can already sync
-  over the network to an AppleTV, so the hooks are all in place and should be easily
-  extended to another iTunes installation.</p>
 title: iTunes Needs iTunes Syncing
 categories:
 - Techie

@@ -1,8 +1,4 @@
 ---
-excerpt: <p>It hit me that there was something interesting here and that if these
-  Twitter streams were put together with the right display as well as some additional
-  metadata it could be a really interesting way to experience the sport from a never
-  before seen perspective. The idea of VeloTweets was born!</p>
 title: Introducing VeloTweets - The Pulse of the Peloton
 categories:
 - Techie

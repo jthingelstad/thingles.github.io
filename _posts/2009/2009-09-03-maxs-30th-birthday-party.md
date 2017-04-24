@@ -1,8 +1,4 @@
 ---
-excerpt: <p>My brother-in-law Max turned 30 today and there was a nice get together
-  at the <a href="http://www.bayviewevent.com/grille.html">Bayside Grill</a> on <a
-  href="http://www.lakeminnetonka.com/">Lake Minnetonka</a> to celebrate. Just a few
-  photos from the evening.</p>
 title: Max's 30th Birthday Party
 categories:
 - Family

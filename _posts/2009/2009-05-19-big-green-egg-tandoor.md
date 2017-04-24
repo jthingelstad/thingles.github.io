@@ -1,6 +1,4 @@
 ---
-excerpt: <p>A very successful first attempt at using the Big Green Egg as a tandoor
-  oven. Very good eats!</p>
 title: Big Green Egg Tandoor!
 categories:
 - Cooking

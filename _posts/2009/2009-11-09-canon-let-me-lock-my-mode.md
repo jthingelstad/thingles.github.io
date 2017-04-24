@@ -1,9 +1,4 @@
 ---
-excerpt: <p>I've been absolutely loving my new Canon 5D Mark II. It's a serious camera
-  and having a full-frame sensor means I'm shooting a lot with my Canon 70-200mm f/2.8L
-  IS USM lens. Together though, that combination weighs over 5 pounds and I rarely
-  want to put that around my neck. I tend to sling the camera over my shoulder instead
-  which actually works quiet well, with one really big problem.</p>
 title: Canon, let me lock my mode!
 categories:
 - Photography

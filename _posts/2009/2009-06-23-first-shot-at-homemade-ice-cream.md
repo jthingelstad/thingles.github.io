@@ -1,10 +1,4 @@
 ---
-excerpt: <p>Cooking was definitely the action for this years Father's Day gifts. Tammy
-  signed me up for a couple more of the Grillmaster cooking classes at Kitchen Window.
-  Mazie got me something I've wanted to play around with for a while, an ice cream
-  maker. We gave it a go for the first time tonight with a basic vanilla ice cream
-  recipe. Mazie put the ingredients together and I did the measuring, we then poured
-  it into the machine and started it up.</p>
 title: First Shot at Homemade Ice Cream
 categories:
 - Dear Diary

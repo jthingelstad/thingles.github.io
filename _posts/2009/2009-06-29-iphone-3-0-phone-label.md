@@ -1,8 +1,4 @@
 ---
-excerpt: <p>This is a little change in the iPhone 3.0 release that I hadn't seen anyone
-  mention. When you change the type of a phone number in Address Book on the iPhone
-  you've always been able to set custom labels in addition to the built-in ones. However,
-  there was a new one added in 3.0 for "iPhone".</p>
 title: iPhone 3.0 Phone Label
 categories:
 - Techie

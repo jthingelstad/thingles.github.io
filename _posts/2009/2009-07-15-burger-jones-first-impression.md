@@ -1,9 +1,4 @@
 ---
-excerpt: <p>First impression was good, but unfortunately the whole experience just
-  stayed there at just good. I got a burger because, hey, you're at Burger Jones.
-  I ordered the burger medium, but it came well without any pink at all. It was a
-  pretty uninspiring burger and I would take a burger of my own off of the Big Green
-  Egg most any day.</p>
 title: Burger Jones First Impression
 categories:
 - Local

@@ -1,10 +1,4 @@
 ---
-excerpt: <p>A couple of months ago we decided to re-tile out downstairs bathroom shower.
-  After 20 years the house had settled enough that there were notable cracks that
-  we didn't feel we could just caulk over. We pondered what to do with the tiling
-  and considered a number of designs. Our friend that was helping <a href="http://www.smallerthanaredwood.com/">Tammy</a>
-  with the design did a <a href="http://en.wikipedia.org/wiki/Tetris">Tetris&reg;</a>
-  concept and I loved it right away!</p>
 title: Tetris Shower
 categories:
 - Dear Diary

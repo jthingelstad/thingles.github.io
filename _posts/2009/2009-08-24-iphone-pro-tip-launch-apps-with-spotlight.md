@@ -1,16 +1,4 @@
 ---
-excerpt: '<p>With the 3.0 release of the iPhone software Apple brought the platform
-  level search capabilities of <a href="http://en.wikipedia.org/wiki/Spotlight_(software)">Spotlight</a>
-  to the iPhone. This has been a really nice addition, one that I''ve been using very
-  regularly.
-
-  I''m a bit of an "app-aholic". I''ve got more than a handful of applications installed
-  and as a result I often have to flip through pages of apps in Springboard to find
-  the right application. Sometimes I have a hard time finding the icon I''m looking
-  for. I was thinking how I really wished that the iPhone had something like <a href="http://en.wikipedia.org/wiki/Quicksilver_(software)">Quicksilver</a>,
-  and then it dawned on me that Quicksilver was really made as an optimization of
-  using Spotlight as a launcher. Well, the iPhone has Spotlight so this should work,
-  right?</p>'
 title: 'iPhone Pro Tip: Launch Apps with Spotlight'
 categories:
 - Techie
