@@ -7,7 +7,7 @@ categories:
 I had read rumors over the last couple of days that [Lance Armstrong](http://lancearmstrong.com/) was going to be returning to racing, but there were rumors only and I figured they were very far fetched. Why would the 7-time Tour de France winner return?
 Well, it wasn't a rumor! [He is racing in 2009](http://www.livestrong.com/lance2009/)! Wow!
 
-[![Lance Returns to Cycling.png](/assets/posts/{{ page.date | date: "%Y" }}/lance-returns-to-cycling.png)](http://www.livestrong.com/lance2009/)
+[![Lance Returns to Cycling.png](/assets/posts/2008/lance-returns-to-cycling.png)](http://www.livestrong.com/lance2009/)
 
 _[I can't seem to make this video embed not play on load. Grr... Click more to watch the video.]_<!-- more -->
 

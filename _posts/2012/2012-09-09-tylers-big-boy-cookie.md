@@ -7,6 +7,6 @@ tags:
 ---
 
 They were out of the small kids chocolate chip cookies at Yum! tonight. Tyler didn't seem to mind! I'm pretty sure it was bigger than his head.
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20120909-205037.jpg)](http://thingelstad.com/s/tylers-big-boy-cookie/20120909-205037-jpg/img)
+[![](/assets/posts/2012/20120909-205037.jpg)](http://thingelstad.com/s/tylers-big-boy-cookie/20120909-205037-jpg/img)
 
 And to answer the obvious question? He ate it all, minus a couple of bites he shared with Dad!

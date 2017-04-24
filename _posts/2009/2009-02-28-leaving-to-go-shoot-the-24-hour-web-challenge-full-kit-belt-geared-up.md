@@ -4,7 +4,7 @@ categories:
 - Photography
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/3bfdcb8cd63cbe94ec50b717c1af3590.png)
+![](/assets/posts/2009/3bfdcb8cd63cbe94ec50b717c1af3590.png)
   
 
 

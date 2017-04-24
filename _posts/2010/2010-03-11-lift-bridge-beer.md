@@ -6,7 +6,7 @@ tags:
 - Beer
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Lift-Bridge-Crosscut-Pale-Ale-e1298229989558.jpg)
+![](/assets/posts/2010/Lift-Bridge-Crosscut-Pale-Ale-e1298229989558.jpg)
   
 
 

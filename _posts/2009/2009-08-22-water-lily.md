@@ -6,7 +6,7 @@ tags:
 - Canon
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20090822-145825-10237.jpg)
+![](/assets/posts/2009/20090822-145825-10237.jpg)
   
 
 

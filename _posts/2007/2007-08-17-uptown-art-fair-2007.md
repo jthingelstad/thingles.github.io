@@ -9,7 +9,7 @@ My favorite art fair in the cities was a couple of weeks ago, the [Uptown Art Fa
 
 We decided our purchase was going to be one of Lanza's paintings. We both really liked this piece entitled "G0L147H vs. Davidia". It is very wide, and the colors have an interesting depth to them while being muted. The theme is also cool, a futuristic take on the story of David and Goliath.
 
-![untitled.jpg](/assets/posts/{{ page.date | date: "%Y" }}/untitled1.jpg)
+![untitled.jpg](/assets/posts/2007/untitled1.jpg)
 
 **[John Turula](http://web.mac.com/johnturula/iWeb/Site/John%20Turula.html)**
 

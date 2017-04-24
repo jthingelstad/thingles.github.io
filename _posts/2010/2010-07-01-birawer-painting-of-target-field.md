@@ -4,7 +4,7 @@ categories:
 - Art
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Birawer-Painting-at-Target-Field.png)
+![](/assets/posts/2010/Birawer-Painting-at-Target-Field.png)
   
 
 

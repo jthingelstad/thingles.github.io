@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/moneyball-movie-poster.jpg)
+![](/assets/posts/2011/moneyball-movie-poster.jpg)
   
 
 

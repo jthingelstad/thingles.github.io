@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/grilling-in-the-rain.png)
+![](/assets/posts/2010/grilling-in-the-rain.png)
   
 
 

@@ -6,7 +6,7 @@ tags:
 - Tammy
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20110402-173945-0001.jpg)
+![](/assets/posts/2011/20110402-173945-0001.jpg)
   
 
 

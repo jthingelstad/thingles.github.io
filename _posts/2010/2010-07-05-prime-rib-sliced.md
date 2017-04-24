@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/prime-rib-sliced.png)
+![](/assets/posts/2010/prime-rib-sliced.png)
   
 
 

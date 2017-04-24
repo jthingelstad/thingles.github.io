@@ -7,4 +7,4 @@ tags:
 - Chicken
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/c70e40dae609819df0ad84457d3238f1.png)
+![](/assets/posts/2009/c70e40dae609819df0ad84457d3238f1.png)

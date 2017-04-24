@@ -11,27 +11,27 @@ My buddy [Garrick](http://garrickvanburen.com/) came over yesterday and we enjoy
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6627.jpg)
+   ![](/assets/posts/2012/IMG_6627.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6629.jpg)
+   ![](/assets/posts/2012/IMG_6629.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6631.jpg)
+   ![](/assets/posts/2012/IMG_6631.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6634.jpg)
+   ![](/assets/posts/2012/IMG_6634.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6635.jpg)
+   ![](/assets/posts/2012/IMG_6635.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_6636.jpg)
+   ![](/assets/posts/2012/IMG_6636.jpg)
   
 
 

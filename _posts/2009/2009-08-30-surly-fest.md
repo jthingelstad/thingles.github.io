@@ -7,4 +7,4 @@ tags:
 ---
 
 Just ordered my tickets for [Surly](http://www.surlybrewing.com/) Fest!
-![logo](/assets/posts/{{ page.date | date: "%Y" }}/surly-logo.gif)
+![logo](/assets/posts/2009/surly-logo.gif)

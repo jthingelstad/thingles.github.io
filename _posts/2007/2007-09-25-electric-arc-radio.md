@@ -13,7 +13,7 @@ A little over a week ago Tammy and I went with [some friends](http://www.thetang
 > 
 > </blockquote>
 
-[![electricarcradio.jpg](/assets/posts/{{ page.date | date: "%Y" }}/electricarcradio1.jpg)](http://www.electricarcradio.com/)
+[![electricarcradio.jpg](/assets/posts/2007/electricarcradio1.jpg)](http://www.electricarcradio.com/)
 
 The performance was really cool and very fresh. There were a lot of laughs. Tammy was head over heels for it and can't wait to go back. It's a bit quirky, entirely in a good way.
 

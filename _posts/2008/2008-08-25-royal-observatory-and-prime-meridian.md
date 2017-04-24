@@ -9,7 +9,7 @@ tags:
 
 Today is pretty much summed up with one picture, and if you are familiar with this location you know exactly what we did today. :-)
 
-![20080825-183731-5067.jpg](/assets/posts/{{ page.date | date: "%Y" }}/20080825-183731-5067.jpg)
+![20080825-183731-5067.jpg](/assets/posts/2008/20080825-183731-5067.jpg)
 
 Visiting the [Royal Observatory](http://www.rog.nmm.ac.uk/) was something that I always thought would be kind of cool, and a few weeks back I realized that it would be an easy day trip while in London. We took a boat up the [Thames](http://en.wikipedia.org/wiki/River_Thames) and got a fun introduction to several of the buildings that line it and after about an hour we got to Greenwich Pier. We grabbed some fish and chips in a pub and then walked up to the Royal Observatory.
 

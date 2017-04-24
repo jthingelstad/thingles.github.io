@@ -15,7 +15,7 @@ I was just updating our oldest Mac, my original MacBook (black) that is now pret
 
   2. The battery is so wasted that it couldn't even make it through the update process. Ouch! I fired up [CoconutBattery](http://www.coconut-flavour.com/coconutbattery/) to see how bad it was and promptly ordered a new battery.
 
-![MacBook-Battery.png](/assets/posts/{{ page.date | date: "%Y" }}/macbook-battery.png)
+![MacBook-Battery.png](/assets/posts/2008/macbook-battery.png)
 
 184 load cycles and 31 months isn't horrible though.
 
@@ -25,4 +25,4 @@ I was just updating our oldest Mac, my original MacBook (black) that is now pret
 
 Took a quick trip to the Apple Store and got a new battery. The old black MacBook is now like new! Actually, better than new looking at the numbers.
 
-![macbook-new-battery](/assets/posts/{{ page.date | date: "%Y" }}/macbook-new-battery.png)
+![macbook-new-battery](/assets/posts/2008/macbook-new-battery.png)

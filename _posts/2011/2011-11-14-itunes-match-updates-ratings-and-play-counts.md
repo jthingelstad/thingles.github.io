@@ -7,7 +7,7 @@ tags:
 ---
 
 Apple launched iTunes Match today and having all my music in iTunes, with three different computers, an iPhone 4S, iPad 2 and three Apple TVs I figured I could benefit from using iTunes Match for my music. I enabled it and it is still in the process of doing its first update. I was very curious about how iTunes Match dealt with certain metadata.
-![](/assets/posts/{{ page.date | date: "%Y" }}/itunes_match_apple-thumb-640xauto-22372.jpg)
+![](/assets/posts/2011/itunes_match_apple-thumb-640xauto-22372.jpg)
 
 I'm a big user of Smart Playlists and many of them rely on song ratings, play counts and last played dates. I also often have Smart Playlists that reference other Smart Playlists. Some quick learnings from an hour of playing around.
 

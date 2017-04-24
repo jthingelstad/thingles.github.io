@@ -11,7 +11,7 @@ categories:
 ---
 
 Cooking was definitely the action for this years Father's Day gifts. Tammy signed me up for a couple more of the Grillmaster cooking classes at [Kitchen Window](http://kitchenwindow.com/). Mazie got me something I've wanted to play around with for a while, an ice cream maker. We gave it a go for the first time tonight with a basic vanilla ice cream recipe. Mazie put the ingredients together and I did the measuring, we then [poured it into the machine and started it up](http://things.thingelstad.com/post/129006745/first-time-making-homemade-ice-cream).
-[![Cuisinart Ice Cream Maker](/assets/posts/{{ page.date | date: "%Y" }}/Cuisinart-Ice-Cream-Maker.jpg)](http://www.amazon.com/dp/B0006ONQOC/?tag=thingelstad-20)
+[![Cuisinart Ice Cream Maker](/assets/posts/2009/Cuisinart-Ice-Cream-Maker.jpg)](http://www.amazon.com/dp/B0006ONQOC/?tag=thingelstad-20)
 
 <!-- more -->
 

@@ -13,11 +13,11 @@ I find it frustrating when I cannot find good quality, high-resolution album or 
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Peppa-Pig-Cold-Winter-Day-DVD-Cover.jpg)
+   ![](/assets/posts/2009/Peppa-Pig-Cold-Winter-Day-DVD-Cover.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Peppa-Pig-Stars-DVD-Cover.jpg)
+   ![](/assets/posts/2009/Peppa-Pig-Stars-DVD-Cover.jpg)
   
 
 

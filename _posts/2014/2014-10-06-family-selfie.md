@@ -4,4 +4,4 @@ categories:
 - Family
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_2466.jpg)
+![](/assets/posts/2014/IMG_2466.jpg)

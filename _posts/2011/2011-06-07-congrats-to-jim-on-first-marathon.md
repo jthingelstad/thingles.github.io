@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Jim-Finishing-Marathon.jpg)
+![](/assets/posts/2011/Jim-Finishing-Marathon.jpg)
   
 
 

@@ -7,7 +7,7 @@ tags:
 - iPhone
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/c1cb45bc7d74d3c1aae62e3a77c563bc.png)
+![](/assets/posts/2009/c1cb45bc7d74d3c1aae62e3a77c563bc.png)
   
 
 

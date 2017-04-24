@@ -7,7 +7,7 @@ tags:
 - Remodel
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20110926-195840.jpg)
+![](/assets/posts/2011/20110926-195840.jpg)
   
 
 

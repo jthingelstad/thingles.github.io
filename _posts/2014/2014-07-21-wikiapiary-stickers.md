@@ -6,7 +6,7 @@ tags:
 - WikiApiary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140721-221622-80182242.jpg)
+![](/assets/posts/2014/20140721-221622-80182242.jpg)
   
 
 

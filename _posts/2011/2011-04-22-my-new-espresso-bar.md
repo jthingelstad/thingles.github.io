@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/my-new-espresso-bar.jpg)
+![](/assets/posts/2011/my-new-espresso-bar.jpg)
   
 
 

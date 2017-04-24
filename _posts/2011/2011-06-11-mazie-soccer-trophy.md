@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/mazie-soccer-trophy.jpg)
+![](/assets/posts/2011/mazie-soccer-trophy.jpg)
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Cycling
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_GeorgeWinsStage.jpeg)Everyone, really, anybody knows [Lance](http://www.lancearmstrong.com/) [Armstrong](http://www.lancearmstrong.com/) and the [Tour de France](http://www.letour.com/indexus.html).Not everyone knows one of [Lance](http://www.lancearmstrong.com/)'s close friends and longtime teammate
+![](/assets/posts/2005/o_GeorgeWinsStage.jpeg)Everyone, really, anybody knows [Lance](http://www.lancearmstrong.com/) [Armstrong](http://www.lancearmstrong.com/) and the [Tour de France](http://www.letour.com/indexus.html).Not everyone knows one of [Lance](http://www.lancearmstrong.com/)'s close friends and longtime teammate
 George Hincapie who took his first [Tour de France](http://www.letour.com/indexus.html) stage win today on the "Queen's
 Stage" (thus named for being the hardest day of the tour).
 

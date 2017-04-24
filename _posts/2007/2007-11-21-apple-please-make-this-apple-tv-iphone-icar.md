@@ -14,7 +14,7 @@ I've had a [Phatbox in my Audi A6](/thingelstad/phatbox-installed) for a while n
 
 My proposal is simple. Take the guts of the Apple TV and shove it into a DIN unit for installation into a car. Then, on the front of the panel put a touch interface with coverflow like the iPhone and iPod Touch. Voila! Done. Really, there isn't much more to it than that. This is what it could look like.
 
-[![icar-small.jpg](/assets/posts/{{ page.date | date: "%Y" }}/icar-small1.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/icar1.jpg)
+[![icar-small.jpg](/assets/posts/2007/icar-small1.jpg)](/assets/posts/2007/icar1.jpg)
 
 The Apple TV has the hard drive brains to sync with iTunes via WiFi. The only thing it lacks in a car is an interface. The touch interface of the iPhone is an ideal solution for the car. Fling, press, listen. Awesome. You can even have the touch interface itself easily snap off to protect from theft and maybe it could have 8G of storage locally to listen to something while your running an errand. How beautiful would this be? Pull into your garage and your car would show up in iTunes and get the latest podcasts and purchases copied to it. iTunes would also get new information to update play counts and last play times. I get excited just typing this stuff.
 

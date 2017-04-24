@@ -10,13 +10,13 @@ In my last note I mentioned how confusing Paris was to get around. Amazingly eno
 
 ### City of Light
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040728-235344-8046.jpg) ![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040728-231322-8031.jpg) ![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040729-001620-8048.jpg)
+![](/assets/posts/2004/t_20040728-235344-8046.jpg) ![](/assets/posts/2004/t_20040728-231322-8031.jpg) ![](/assets/posts/2004/t_20040729-001620-8048.jpg)
 
 Last night we hopped on the metro after dinner to do some night photography. I brought my little portable tripod (thanks REI!) and did some fun 'bulb' exposure shots. For those that are not aware, that means taking pictures where you leave your shutter open for a very long time. These shots were taken with 20 to 30 second exposures. I dig this stuff probably because it's really easy to create a shot that looks so cool. I've put three above that I liked particularly well. Paris get's to be both the _City of Light_ and the _City of Love_! Pretty lucky, both light and love!
 
 ### Anniversary Art
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040729-160512-6505.jpg)
+![](/assets/posts/2004/t_20040729-160512-6505.jpg)
 
 Some of you may know that Tammy and I decided when we got married that our wedding presents were going to be art, and that after that we wouldn't get each other anniversary presents but instead together get a piece of art. As you'll know from reading our site this is only our 2nd anniversary, but the tradition continues. We went out today to find a piece that we really enjoyed and came out even better than expected. The beginning of the search was a bit disappointing as we got excited about 15,000€ paintings that we obviously weren't bringing home. We then returned to a gallery we had visited shortly right by the Louvre called [Art Club](http://www.artclub.fr/). We found a a piece called _Allez Saute!_ that we thought was great -- and now it's ours! It's by a young Parisienne artist named Corniere. She had a number of pieces but this one we particularly liked and it fit our budget.
 

@@ -6,7 +6,7 @@ tags:
 - FAIL
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/4c727b9ba10ab61d484c246b270cd7c9.png)
+![](/assets/posts/2009/4c727b9ba10ab61d484c246b270cd7c9.png)
   
 
 

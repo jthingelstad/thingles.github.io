@@ -10,7 +10,7 @@ We recently ordered new drinking glasses for home. The ones we had before were f
 
 Here are the new glasses.
 
-![new-glasses.jpg](/assets/posts/{{ page.date | date: "%Y" }}/new-glasses1.jpg)
+![new-glasses.jpg](/assets/posts/2007/new-glasses1.jpg)
 
 There is nothing all that notable about these either, except that they are red, and **the water tastes funny**.
 

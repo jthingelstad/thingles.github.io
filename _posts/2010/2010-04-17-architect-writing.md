@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Architect-Writing.jpeg)
+![](/assets/posts/2010/Architect-Writing.jpeg)
   
 
 

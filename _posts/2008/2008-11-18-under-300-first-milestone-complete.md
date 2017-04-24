@@ -9,7 +9,7 @@ tags:
 
 Today I hit the first milestone on my fitness program. I stepped on the scale to do my weigh-in and was **under 300**! I'm just under two months in and I've now dropped just around 25 pounds.
 
-![weight-update-under-300.png](/assets/posts/{{ page.date | date: "%Y" }}/weight-update-under-300.png)
+![weight-update-under-300.png](/assets/posts/2008/weight-update-under-300.png)
 
 I hit this goal much faster than I expected. I had originally targeted 300 by the end of the year and I did it in about half the time I had allocated. I know that can easily be a _bad_ thing, but I think it's fine. I'm eating comfortably, and even am having desserts from time to time. I'm not working out crazy. I'm doing my walk with the dogs every morning, and now 2 spin classes a week. I'm feeling great, and the weight has come off pretty quickly.
 

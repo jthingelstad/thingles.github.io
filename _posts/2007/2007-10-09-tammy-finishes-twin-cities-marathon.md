@@ -9,7 +9,7 @@ tags:
 
 This past weekend Tammy finished the [Twin Cities Marathon](http://www.mtcmarathon.org/)! This was her first marathon attempt ever. She now has that 26.2 mile event under her belt. In [2004 she did the TC 10 mile run](/thingelstad/tc-10-mile-run).
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/tcmarathon1.jpg)](http://www.mtcmarathon.org/)
+[![](/assets/posts/2007/tcmarathon1.jpg)](http://www.mtcmarathon.org/)
 
 She wasn't real sure about the marathon. She signed up for it months in advance, as required, and started her training right on track. She did a great job, but started to not enjoy the running once it got over 2 hours. She backed off a bit and took another go at it, but still just found that mentally after 2 hours she was sick of running. She started to really not like running, and rather than hate it entirely decided to remove the pressure of the marathon.
 

@@ -6,7 +6,7 @@ tags:
 - Apple
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Document-Version-Screen-from-Mac-OS-X-Lion.png)
+![](/assets/posts/2011/Document-Version-Screen-from-Mac-OS-X-Lion.png)
   
 
 

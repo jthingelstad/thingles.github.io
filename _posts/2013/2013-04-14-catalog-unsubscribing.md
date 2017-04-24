@@ -5,7 +5,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}//img.png)
+![](/assets/posts/2013//img.png)
   
 
 

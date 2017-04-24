@@ -7,7 +7,7 @@ tags:
 - Microsoft
 ---
 
-![altnet2_small.png](/assets/posts/{{ page.date | date: "%Y" }}/altnet2-small.png)I received an email this morning from [Ira Mitchell](http://webloggist.com/) clueing me in on a group that [Freemind](http://freemind.net/) is helping get going called ALT.NET. The first thing I noticed was that they have a really cool [Minneapolis-inspired](http://en.wikipedia.org/wiki/Grain_Belt_(beer)) logo for the group and then I started trying to figure out what it was all about. From the [ALT.NET site](http://mplsalt.net/):
+![altnet2_small.png](/assets/posts/2008/altnet2-small.png)I received an email this morning from [Ira Mitchell](http://webloggist.com/) clueing me in on a group that [Freemind](http://freemind.net/) is helping get going called ALT.NET. The first thing I noticed was that they have a really cool [Minneapolis-inspired](http://en.wikipedia.org/wiki/Grain_Belt_(beer)) logo for the group and then I started trying to figure out what it was all about. From the [ALT.NET site](http://mplsalt.net/):
 
 <blockquote>At it's purest, the driving force behind the ALT.NET developer community may be described simply as "The pursuit of happiness." While Microsoft has provided developers with a powerful framework and a bunch of very good tools and packages to build upon, it often feels like too much effort was put into a "one-size-fits-all" design philosophy that can make it complex, tedious, or just plain impossible to do things that don't follow Microsoft's prescribed approach.
 > 

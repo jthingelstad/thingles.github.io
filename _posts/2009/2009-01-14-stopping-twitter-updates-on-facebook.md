@@ -9,7 +9,7 @@ tags:
 
 If you are a friend of mine on Facebook you are going to see a lot fewer updates from me going forward. I've decided to no longer send [Twitter](http://twitter.com/) updates to [my Facebook profile](http://www.facebook.com/profile.php?id=605776057).
 
-![Twitter-Not-Updating-Facebook.png](/assets/posts/{{ page.date | date: "%Y" }}/twitter-not-updating-facebook.png)
+![Twitter-Not-Updating-Facebook.png](/assets/posts/2009/twitter-not-updating-facebook.png)
 
 I was having a [great lunch](http://www.cueatguthrie.com/) with my friend [Jim Bernard](http://www.jimbernard.net/) and he had mentioned that he had severed the Twitter-Facebook bridge and I was curious. He explained to me his reasoning and much of it rung true to me. I also reflected on feedback I got from people that I know on Facebook and they were commenting that I updated a lot, usually with a note of annoyance. The reality was I used Twitter a decent amount, and I never do Facebook updates.
 

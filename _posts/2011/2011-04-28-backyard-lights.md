@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/backyard-lights.jpg)
+![](/assets/posts/2011/backyard-lights.jpg)
   
 
 

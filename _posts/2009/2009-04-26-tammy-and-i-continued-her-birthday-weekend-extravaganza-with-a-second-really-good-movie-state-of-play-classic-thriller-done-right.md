@@ -6,7 +6,7 @@ tags:
 - Tammy
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/517d02d392444e0df4f13087a48f0817.jpg)
+![](/assets/posts/2009/517d02d392444e0df4f13087a48f0817.jpg)
   
 
 

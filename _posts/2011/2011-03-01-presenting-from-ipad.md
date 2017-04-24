@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/presenting-from-ipad.jpg)
+![](/assets/posts/2011/presenting-from-ipad.jpg)
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/inboxcount-week.png)
+![](/assets/posts/2014/inboxcount-week.png)
   
 
 

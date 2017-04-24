@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/spring-2011-cyclones.jpg)
+![](/assets/posts/2011/spring-2011-cyclones.jpg)
   
 
 

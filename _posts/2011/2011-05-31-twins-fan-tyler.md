@@ -8,4 +8,4 @@ tags:
 ---
 
 Tyler did his best to try and help our [last place team](http://minnesota.twins.mlb.com/). Doesn't seem to have had much effect yet.
-[![](/assets/posts/{{ page.date | date: "%Y" }}/photo1.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/twins-fan-tyler.jpg)
+[![](/assets/posts/2011/photo1.jpg)](/assets/posts/2011/twins-fan-tyler.jpg)

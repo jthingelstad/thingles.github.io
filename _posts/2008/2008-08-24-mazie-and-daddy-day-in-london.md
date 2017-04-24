@@ -16,7 +16,7 @@ This morning Tammy and my Mom took off for Liverpool. When we were looking at ou
 
 I hadn't done a great job of planning out our day, but it came together really well.
 
-![150px-ZSL_London_Zoo_logo.png](/assets/posts/{{ page.date | date: "%Y" }}/150px-zsl-london-zoo-logo.png)
+![150px-ZSL_London_Zoo_logo.png](/assets/posts/2008/150px-zsl-london-zoo-logo.png)
 
 
 #### London Zoo
@@ -39,7 +39,7 @@ At the end of our zoo trip we debated taking the bus or train back to the apartm
 
 I tried to convince Mazie to take a good nap because we had a special afternoon planned. We were going to High Tea at the Orangery!
 
-![Orangery.png](/assets/posts/{{ page.date | date: "%Y" }}/orangery.png)
+![Orangery.png](/assets/posts/2008/orangery.png)
 
 
 #### High Tea
@@ -58,7 +58,7 @@ I had the traditional tea and really liked it. We had a great time sitting and c
 
 After tea we went into the gardens at Kensington Palace and looked around, followed by some full on running in the park surrounding the palace.
 
-![ftl_logo.gif](/assets/posts/{{ page.date | date: "%Y" }}/ftl-logo.gif)
+![ftl_logo.gif](/assets/posts/2008/ftl-logo.gif)
 
 
 #### Too Much Sugar

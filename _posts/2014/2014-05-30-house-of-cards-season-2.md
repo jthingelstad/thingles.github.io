@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140530-214259-78179642.jpg)
+![](/assets/posts/2014/20140530-214259-78179642.jpg)
   
 
 

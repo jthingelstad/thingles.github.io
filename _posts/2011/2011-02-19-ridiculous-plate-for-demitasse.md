@@ -6,7 +6,7 @@ tags:
 - Coffee
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Photo12.jpg)
+![](/assets/posts/2011/Photo12.jpg)
   
 
 

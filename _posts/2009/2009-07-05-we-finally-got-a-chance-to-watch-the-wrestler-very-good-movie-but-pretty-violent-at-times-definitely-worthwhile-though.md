@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/bcd4ea631eb174f131ac6cae6cda0b0d.jpg)
+![](/assets/posts/2009/bcd4ea631eb174f131ac6cae6cda0b0d.jpg)
   
 
 

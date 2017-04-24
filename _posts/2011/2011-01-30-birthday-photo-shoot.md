@@ -11,21 +11,21 @@ The only issue was on flash recharge rate. My flash ate 8 AA batteries and when 
 
 Here are nine shots that I really liked from the night. I couldn't pass up an excuse to get a bunch of adults to do a pyramid! Starting with the birthday boy.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222015-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222015-0001.jpg)
+[![](/assets/posts/2011/20110121-222015-0001.jpg)](/assets/posts/2011/20110121-222015-0001.jpg)
 <!-- more -->
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222146-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222146-0001.jpg)
+[![](/assets/posts/2011/20110121-222146-0001.jpg)](/assets/posts/2011/20110121-222146-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222226-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-222226-0001.jpg)
+[![](/assets/posts/2011/20110121-222226-0001.jpg)](/assets/posts/2011/20110121-222226-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-223111-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-223111-0001.jpg)
+[![](/assets/posts/2011/20110121-223111-0001.jpg)](/assets/posts/2011/20110121-223111-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-224610-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-224610-0001.jpg)
+[![](/assets/posts/2011/20110121-224610-0001.jpg)](/assets/posts/2011/20110121-224610-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231215-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231215-0001.jpg)
+[![](/assets/posts/2011/20110121-231215-0001.jpg)](/assets/posts/2011/20110121-231215-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231316-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231316-0001.jpg)
+[![](/assets/posts/2011/20110121-231316-0001.jpg)](/assets/posts/2011/20110121-231316-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231708-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-231708-0001.jpg)
+[![](/assets/posts/2011/20110121-231708-0001.jpg)](/assets/posts/2011/20110121-231708-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20110121-232833-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20110121-232833-0001.jpg)
+[![](/assets/posts/2011/20110121-232833-0001.jpg)](/assets/posts/2011/20110121-232833-0001.jpg)

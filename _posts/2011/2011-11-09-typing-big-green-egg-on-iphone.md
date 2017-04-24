@@ -11,4 +11,4 @@ Settings - General - Keyboard - Shortcuts
 
 Then create this shortcut to save your thumbs significant effort.
 
-[![20111109-232413.jpg](/assets/posts/{{ page.date | date: "%Y" }}/20111109-232413.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20111109-232413.jpg)
+[![20111109-232413.jpg](/assets/posts/2011/20111109-232413.jpg)](/assets/posts/2011/20111109-232413.jpg)

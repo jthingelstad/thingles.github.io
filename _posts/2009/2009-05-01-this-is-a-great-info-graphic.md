@@ -6,4 +6,4 @@ tags:
 - Coffee
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/517eb2cec81641c5450a67970391f831.png)
+![](/assets/posts/2009/517eb2cec81641c5450a67970391f831.png)

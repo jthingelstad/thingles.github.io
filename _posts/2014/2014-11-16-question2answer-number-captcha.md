@@ -12,6 +12,6 @@ Question2Answer has built in support for [ReCaptcha](http://www.google.com/reca
 
 I decided to apply the same type of [spam defense I've successfully used for MediaWiki](/thingelstad/updated-dynamic-questy-captchas) and early results are great. It uses the [Numbers_Words](http://pear.php.net/package-info.php?package=Numbers_Words) PHP package to spell out a number of nine digits and then ask the user to identify the number in a specific position. The question looks like this:
 
-![screenshot](/assets/posts/{{ page.date | date: "%Y" }}/screenshot.png)
+![screenshot](/assets/posts/2014/screenshot.png)
 
 This works really well. You can grab [q2a-number-captcha](https://github.com/thingles/q2a-number-captcha) and `git clone` it for your own use.

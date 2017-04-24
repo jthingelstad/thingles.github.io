@@ -5,4 +5,4 @@ categories:
 ---
 
 This made me laugh yesterday. What a great network name!
-![](/assets/posts/{{ page.date | date: "%Y" }}/best-wifi-name-ever.png)
+![](/assets/posts/2012/best-wifi-name-ever.png)

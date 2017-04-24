@@ -8,4 +8,4 @@ Last year we had the landscaping in front of our house redone completely. We use
 
 Before, our landscaping was boring and dull. When we sat down with our landscaper she said that with our native plantings we would get a lot of birds and butterflies visiting us. We certainly haven't been let down. We've got a constant array of visitors gracing us with their presence. I love it. See photos with bees harvesting pollen, a great yellow bird that visits us often and a huge monarch butterfly that stopped by.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_garden-bees.jpg) ![](/assets/posts/{{ page.date | date: "%Y" }}/o_garden-bird.jpg) ![](/assets/posts/{{ page.date | date: "%Y" }}/o_garden-butterfly.jpg)
+![](/assets/posts/2005/o_garden-bees.jpg) ![](/assets/posts/2005/o_garden-bird.jpg) ![](/assets/posts/2005/o_garden-butterfly.jpg)

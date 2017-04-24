@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/photo5.jpg)
+![](/assets/posts/2011/photo5.jpg)
   
 
 

@@ -6,4 +6,4 @@ categories:
 
 We went and saw the new TRON movie tonight as part of mybirthday fun. In short, it was great.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/image-440x440.jpg)](http://disney.go.com/tron/)
+[![](/assets/posts/2011/image-440x440.jpg)](http://disney.go.com/tron/)

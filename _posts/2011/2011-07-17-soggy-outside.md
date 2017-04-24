@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/soggy-outside.jpg)
+![](/assets/posts/2011/soggy-outside.jpg)
   
 
 

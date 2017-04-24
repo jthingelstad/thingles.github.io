@@ -6,7 +6,7 @@ tags:
 - The New Standards
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/New-Standards-Pano.jpg)
+![](/assets/posts/2011/New-Standards-Pano.jpg)
   
 
 

@@ -8,7 +8,7 @@ tags:
 
 I just upgraded to the new Google Earth 5.0 beta and was really surprised when I first launched it to get this dialog.
 
-![Google Forcing Software Update Install.png](/assets/posts/{{ page.date | date: "%Y" }}/google-forcing-software-update-install.png)
+![Google Forcing Software Update Install.png](/assets/posts/2009/google-forcing-software-update-install.png)
 
 The problem with this are the options. So, I get to either install Google Software Update, or Quit Google Earth. Where is the button saying "Decline" and allow me to just happily run my software and update it myself. Smells a lot like Microsoft. The last paragraph of the text is the worst (highlighting is my addition).
 

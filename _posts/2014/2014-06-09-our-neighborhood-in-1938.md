@@ -4,7 +4,7 @@ categories:
 - Local
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/MP-2-186-5237-morgan.jpg)
+![](/assets/posts/2014/MP-2-186-5237-morgan.jpg)
   
 
 

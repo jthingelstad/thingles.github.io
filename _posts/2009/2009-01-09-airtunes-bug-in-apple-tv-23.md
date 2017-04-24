@@ -11,7 +11,7 @@ Mazie wanted to watch a quick show so I fired that up and it worked great, no is
 
 It hit me then that this Apple TV typically connects to the [AirTunes](http://en.wikipedia.org/wiki/AirTunes#AirTunes) destination for the Living Room, and that with no network connection it wouldn't be able to see that. **Bug!** I tested it out and verified that this is indeed a bug in Apple TV 2.3.
 
-![Apple TV Bug.jpg](/assets/posts/{{ page.date | date: "%Y" }}/apple-tv-bug.jpg)
+![Apple TV Bug.jpg](/assets/posts/2009/apple-tv-bug.jpg)
 
 If you have your Apple TV set to play through an AirTunes destination, and you then take the Apple TV off of all networks, it will fail on playback of content that it would typically send to AirTunes (video will work fine since that never goes to AirTunes). Now, what really kills about this bug is that since there is no network the menus have no options to deselect an AirTunes destination. It seemed the only way to get rid of this issue would have been to do a reset, or get it back on a network and deselect the remote speaker destination. Ugly.
 

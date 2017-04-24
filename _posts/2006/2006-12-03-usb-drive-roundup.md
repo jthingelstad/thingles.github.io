@@ -9,13 +9,13 @@ I went on the hunt for a replacement and decided to try some non-traditional for
 
 The drives fit a bunch of different sizes and use cases (pictured here with a quarter for comparison).
 
-![20061203-160154-0016.jpg](/assets/posts/{{ page.date | date: "%Y" }}/20061203-160154-00161.jpg)
+![20061203-160154-0016.jpg](/assets/posts/2006/20061203-160154-00161.jpg)
 
 <!-- more -->**OCZ Rally2 4G**
 
 OCZ has revised this drive from the one that I bought a couple of months ago. They added a lanyard strap to keep the drive from getting lost, however the cap still doesn't have anything to attach it to the drive placing it at risk of getting lost. The drive is spacious and it turns out respectively faster than even the last one. The last version (2G) maxed out at 9.5M/sec write and 19.7M/sec read. This new version ramps it up to **12.8M/sec write and 22.5M/sec read**!
 
-![rally2-4g.gif](/assets/posts/{{ page.date | date: "%Y" }}/rally2-4g1.gif)
+![rally2-4g.gif](/assets/posts/2006/rally2-4g1.gif)
 
 The traditional form factor makes this drive still not great for constant road warrior use, but the size is great for moving ISO images around and it's got the speed to keep up.** **
 
@@ -23,7 +23,7 @@ The traditional form factor makes this drive still not great for constant road w
 
 The Mini-Kart is a trip. It is slightly thicker than a credit card, and has a non-traditional USB plug that sits in the USB slot. It could be placed in your wallet pretty easily, and doesn't require any protection on the plug. It's big enough for most applications, and sports a nice blue LED on the end to indicate activity. I did a speed test and was pretty impressed with the performance for a compact unit. It topped out at **7.3M/sec write and 13.2M/sec read**.
 
-![minikart-2g.gif](/assets/posts/{{ page.date | date: "%Y" }}/minikart-2g1.gif)
+![minikart-2g.gif](/assets/posts/2006/minikart-2g1.gif)
 
 This drive should be great for road warrior usage, but I worry about the exposed connector and I think it could be snapped if it's flexed too much. However, it is very solid and I'm sure would take a big beating.
 
@@ -31,7 +31,7 @@ This drive should be great for road warrior usage, but I worry about the exposed
 
 The Roadster is the drive made for the road warrior. It is a clam shell design, collapsing the USB plug in on itself making it both small and exceptionally tough. I love the design, and love the size. It can be attached to your key chain and forget about it. However, the drive performs miserably. This is a big let down as this is the perfect drive for ultra-mobility, but it's speed limits its viability for mobile applications. The drive posts a pretty sad **2.3M/sec write and 9.8M/sec write**. Very sad since the average "give-away" free USB drive performs about this well.
 
-![roadster-1g.gif](/assets/posts/{{ page.date | date: "%Y" }}/roadster-1g1.gif)
+![roadster-1g.gif](/assets/posts/2006/roadster-1g1.gif)
 
 Great form factor, but the performance is very limiting.
 

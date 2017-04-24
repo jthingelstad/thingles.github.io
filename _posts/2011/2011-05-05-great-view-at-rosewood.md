@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/great-view-at-rosewood.jpg)
+![](/assets/posts/2011/great-view-at-rosewood.jpg)
   
 
 

@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/memorial-day-grilling.jpg)
+![](/assets/posts/2011/memorial-day-grilling.jpg)
   
 
 

@@ -14,7 +14,7 @@ This post is the study guide for this assignment. I've compiled the lyrics for t
 
 <!-- more -->
 
-### ![between the breaks.jpg](/assets/posts/{{ page.date | date: "%Y" }}/between-the-breaks1.jpg)The Mary Ellen Carter by Stan Rogers
+### ![between the breaks.jpg](/assets/posts/2007/between-the-breaks1.jpg)The Mary Ellen Carter by Stan Rogers
 
 The Mary Ellen Carter ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=256370588&s=143441)) is a pretty amazing song. On the [Wikipedia page for the song](http://en.wikipedia.org/wiki/The_Mary_Ellen_Carter) it is credited with savings someone's life! The lyrics for it are substantial and have some areas where emphasis is needed (highlighted in yellow). This will take a while to get it right. I'd suggest focusing most attention on this song.
 
@@ -111,7 +111,7 @@ Like the Mary Ellen Carter rise again
 > 
 > </blockquote>
 
-### ![thyme.jpg](/assets/posts/{{ page.date | date: "%Y" }}/thyme1.jpg)Wild Mountain Thyme
+### ![thyme.jpg](/assets/posts/2007/thyme1.jpg)Wild Mountain Thyme
 
 This is a traditional Irish song. As such, the lyrics are modified by various performers. This recording by Carl Peterson ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=261872728&s=143441)) isn't the best but it's a good one to learn the lyrics with. It's really slow, and you can go along at your own pace without any issue.
 
@@ -173,7 +173,7 @@ Grows around the blooming heather.
 > 
 > </blockquote>
 
-### ![amazing.jpg](/assets/posts/{{ page.date | date: "%Y" }}/amazing1.jpg)Amazing Grace
+### ![amazing.jpg](/assets/posts/2007/amazing1.jpg)Amazing Grace
 
 I'm sure you know most of the words to [Amazing Grace](http://en.wikipedia.org/wiki/Amazing_Grace). This recording by Anne Murray ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=1130682&s=143441)) is a good one to hammer the lyrics in with. I know, Anne Murray? Yes, I know. It is what it is.
 

@@ -6,7 +6,7 @@ tags:
 - Water
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/c20dfcac6fffc315b878f0a7508171b0.jpg)
+![](/assets/posts/2009/c20dfcac6fffc315b878f0a7508171b0.jpg)
   
 
 

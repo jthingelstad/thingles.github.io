@@ -6,7 +6,7 @@ tags:
 - Bicycle
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/1915174e096899d479687a8e7a547762.png)
+![](/assets/posts/2009/1915174e096899d479687a8e7a547762.png)
   
 
 

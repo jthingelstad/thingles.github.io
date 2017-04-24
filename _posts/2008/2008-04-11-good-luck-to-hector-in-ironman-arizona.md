@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/im_az_logo.gif)](http://www.ironmanarizona.com/)My brother-in-law [Hector](http://www.iwilltri.com/) is racing in [Ironman Arizona](http://www.ironmanarizona.com/) this weekend!
+[![](/assets/posts/2008/im_az_logo.gif)](http://www.ironmanarizona.com/)My brother-in-law [Hector](http://www.iwilltri.com/) is racing in [Ironman Arizona](http://www.ironmanarizona.com/) this weekend!
 On Sunday morning he is going to do the epic 2.4 mile swim, 112 mile bike and 26.2 mile run. It's a pretty amazing feat, and it's his 2nd Ironman ([he did Ironman Wisconsin](http://iwilltri.com/2007/09/ironman-race-report/) last year).
 
 His [bib number is 297](http://ironmanlive.com/events/ironman/arizona) and you can follow his progress yourself at [Ironman Live](http://www.ironmanlive.com/).

@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/tired-tyler.jpg)
+![](/assets/posts/2011/tired-tyler.jpg)
   
 
 

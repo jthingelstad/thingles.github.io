@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/bare-drive-kit.jpg)
+![](/assets/posts/2011/bare-drive-kit.jpg)
   
 
 

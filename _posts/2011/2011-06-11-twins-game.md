@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/twins-game.jpg)
+![](/assets/posts/2011/twins-game.jpg)
   
 
 

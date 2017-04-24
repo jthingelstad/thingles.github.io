@@ -49,35 +49,35 @@ Other than that, just enjoy some amazing tandoor cooking at home. We want to try
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-182238.jpg)
+   ![](/assets/posts/2009/20090517-182238.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-182447.jpg)
+   ![](/assets/posts/2009/20090517-182447.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-182828.jpg)
+   ![](/assets/posts/2009/20090517-182828.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-182848.jpg)
+   ![](/assets/posts/2009/20090517-182848.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-182926.jpg)
+   ![](/assets/posts/2009/20090517-182926.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-183051.jpg)
+   ![](/assets/posts/2009/20090517-183051.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-184404.jpg)
+   ![](/assets/posts/2009/20090517-184404.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/20090517-184618.jpg)
+   ![](/assets/posts/2009/20090517-184618.jpg)
   
 
 

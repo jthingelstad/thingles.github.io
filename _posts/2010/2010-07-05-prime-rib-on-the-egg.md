@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Dinner-on-the-egg.png)
+![](/assets/posts/2010/Dinner-on-the-egg.png)
   
 
 

@@ -8,4 +8,4 @@ tags:
 - Tammy
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/a04c853620b0d44101e9fa10829d09c7.png)
+![](/assets/posts/2009/a04c853620b0d44101e9fa10829d09c7.png)

@@ -9,11 +9,11 @@ Four of my friends from the [B-Squad Softball team](http://www.bsquad.org/) are 
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Good-Commies-Three-Houses.jpg)
+   ![](/assets/posts/2011/Good-Commies-Three-Houses.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Good-Commies-Red-Rug.jpg)
+   ![](/assets/posts/2011/Good-Commies-Red-Rug.jpg)
   
 
 

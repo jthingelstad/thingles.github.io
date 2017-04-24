@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_mazie-and-daddy.jpg)Mazie turns 4 today, 4 days that is. It's been an incredible four days. I realize everyone all over the world goes through this process all the time. As a result, it should seem somewhat routine from a global perspective, but on an individual level everything seems profound and amazing and like you are the first person in the world to ever do any of this stuff.
+![](/assets/posts/2005/o_mazie-and-daddy.jpg)Mazie turns 4 today, 4 days that is. It's been an incredible four days. I realize everyone all over the world goes through this process all the time. As a result, it should seem somewhat routine from a global perspective, but on an individual level everything seems profound and amazing and like you are the first person in the world to ever do any of this stuff.
 
 Mazie overall is doing great. She needs to catch up on diapers. There are numbers she's supposed to be hitting and she's behind. How do you like that? Four days old and already behind quota. She sleeps really well, usually getting two 4 to 5 hour sessions in per day, along with some shorter naps. She's a great sucker!
 

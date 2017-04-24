@@ -6,7 +6,7 @@ tags:
 - Surly
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/photo9.jpg)
+![](/assets/posts/2011/photo9.jpg)
   
 
 

@@ -6,7 +6,7 @@ tags:
 - Visualization
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/LinkedIn-InMap.png)
+![](/assets/posts/2011/LinkedIn-InMap.png)
   
 
 

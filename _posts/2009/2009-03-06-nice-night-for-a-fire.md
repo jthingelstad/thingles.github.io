@@ -6,4 +6,4 @@ tags:
 - Fire
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/d438f25f612cf78998057254a5025bec.png)
+![](/assets/posts/2009/d438f25f612cf78998057254a5025bec.png)

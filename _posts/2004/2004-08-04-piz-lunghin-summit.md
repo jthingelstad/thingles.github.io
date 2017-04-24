@@ -11,7 +11,7 @@ Shirley left us this morning. Shirley is one of the happy members of our hiking 
 
 Anyway, onto our hike. Today was awesome! Simply great. Best day of hiking I've ever had.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/r_hike5.png)
+![](/assets/posts/2004/r_hike5.png)
 
 We started the day at 8:30am and stopped at a bakery in Sils Maria to get some lunch for the trail. No huts on todays hike. I didn't even see any water springs now that I think of it. We hiked out of town and up into the trees. We took a route that was relatively gradual for a few kilometers to get some altitude. It was a very nice way to get up. Not too tiring and gave us time to get our legs warmed up for the day and let breakfast get down. We only had 7 people in our group (including Annica and Julie, our guides). There was another hike that wouldn't go as high as we were that had a few people in it and several people decided to take today off and go to St. Moritz for the day. We are only a few minutes by bus from the famous resort town and people wanted to check it out. I think the note in the itinerary that today would be the hardest day of the trip also helped tip the scales for some.
 
@@ -33,6 +33,6 @@ After completing the summit we did the long and steep descent down to Maloja whe
 
 What a day! Such fun, such a great time.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/r_profile-day5.png)
+![](/assets/posts/2004/r_profile-day5.png)
 
 We have a fancy dinner tonight. The Hotel Edelweiss is having a "konzert diner". There will be a small orchestra playing music in between the courses. Pretty neat! Tomorrow looks like it is a pretty mild hike with some really great scenery and things to check out on our way to our final city of Soglio. Soglio is supposed to be great. Can't wait.

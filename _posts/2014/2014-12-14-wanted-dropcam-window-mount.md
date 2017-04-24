@@ -9,11 +9,11 @@ tags:
 I've had a [Dropcam](https://www.dropcam.com) now for several months and I really like the device. It is super simple to setup, has a very small and manageable form factor and it is one of those things that "just works". I have it setup in our house pointing at the garage and alley with 7-day continuous video recording and motion detection. We live in South Minneapolis and garage theft is a common occurrence. The Dropcam keeps an eye 24x7 on activity around our garage and through our alley.
 The biggest challenge I had was figuring out where to mount it. It has a really nice metal stand that provides a lot of options, but we have it placed in a bay window and there just wasn't any place I really had an option to screw the mount into. I finally decided to use some double-stick tape and attach it to the window.
 
-[![IMG_2362.JPG](/assets/posts/{{ page.date | date: "%Y" }}/IMG_2362.jpg)](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2362-jpg/img)
+[![IMG_2362.JPG](/assets/posts/2014/IMG_2362.jpg)](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2362-jpg/img)
 
 Once I did this it really struck me how nice it would be if Dropcam made a proper window mount for the camera. The camera itself is relatively light and fairly thin. It is like a small hockey puck that sits in the metal stand. It could easily be set directly onto a window.
 
-[![IMG_2361.JPG](/assets/posts/{{ page.date | date: "%Y" }}/IMG_2361.jpg)](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2361-jpg/img)
+[![IMG_2361.JPG](/assets/posts/2014/IMG_2361.jpg)](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2361-jpg/img)
 
 I have to think a lot of Dropcam units end up pointing at the outside through a window. This mount I did works okay, but has some real shortcomings that a proper mount would remove.
 

@@ -6,7 +6,7 @@ tags:
 - iTunes
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/ba9638e31b1acb22b5109017b6e8bacf.jpg)
+![](/assets/posts/2009/ba9638e31b1acb22b5109017b6e8bacf.jpg)
   
 
 

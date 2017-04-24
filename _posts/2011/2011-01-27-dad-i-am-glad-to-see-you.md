@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/mazie-picture-dad-missed-you.png)
+![](/assets/posts/2011/mazie-picture-dad-missed-you.png)
   
 
 

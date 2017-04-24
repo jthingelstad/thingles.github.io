@@ -9,15 +9,15 @@ Tyler is still very much constantly on the move. He has started to enjoy the nov
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Tyler-Sitting-1.jpg)
+   ![](/assets/posts/2011/Tyler-Sitting-1.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Tyler-Sitting-2.jpg)
+   ![](/assets/posts/2011/Tyler-Sitting-2.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/Tyler-Sitting-3.jpg)
+   ![](/assets/posts/2011/Tyler-Sitting-3.jpg)
   
 
 

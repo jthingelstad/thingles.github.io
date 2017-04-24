@@ -6,7 +6,7 @@ categories:
 
 After months of waiting [Pleo](http://www.pleoworld.com/) has finally arrived! Pleo is the first robot from [Ugobe](http://www.ugobe.com/).
 
-![pleo.jpg](/assets/posts/{{ page.date | date: "%Y" }}/pleo1.jpg)
+![pleo.jpg](/assets/posts/2007/pleo1.jpg)
 
 It seems not many people had pre-ordered Pleo (according to [Jyte](http://jyte.com/)). Of course there were only 2,000 of the special "First Hatch" editions available.
 

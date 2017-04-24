@@ -9,15 +9,15 @@ Another [contribution to the world to improve album art](/thingelstad/contributi
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/lola-and-the-red-hots-have-yourself-a-red-little-christmas.jpg)
+   ![](/assets/posts/2008/lola-and-the-red-hots-have-yourself-a-red-little-christmas.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/righteous-ike-and-the-spellcasters.jpg)
+   ![](/assets/posts/2008/righteous-ike-and-the-spellcasters.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/the-new-standards-candycane.jpg)
+   ![](/assets/posts/2008/the-new-standards-candycane.jpg)
   
 
 

@@ -6,7 +6,7 @@ tags:
 - Snow
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Photo15.jpg)
+![](/assets/posts/2011/Photo15.jpg)
   
 
 

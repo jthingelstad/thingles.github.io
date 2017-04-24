@@ -6,7 +6,7 @@ tags:
 - Home
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/ed2c7ab0209d6cf17cea21c4ac82c975.png)
+![](/assets/posts/2009/ed2c7ab0209d6cf17cea21c4ac82c975.png)
   
 
 

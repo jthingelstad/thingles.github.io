@@ -7,7 +7,7 @@ tags:
 - Minnestar
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/photo6.jpg)
+![](/assets/posts/2011/photo6.jpg)
   
 
 

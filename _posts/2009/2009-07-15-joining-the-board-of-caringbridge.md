@@ -9,7 +9,7 @@ categories:
 ---
 
 I'm very late in sharing this news. Starting at the beginning of this year I was asked to join the board of directors at [CaringBridge](http://www.caringbridge.org/). I've been hoping to find a non-profit that fit well with my background, and CaringBridge was perfect. I've been very impressed learning more about CaringBridge and the amazing and wonderful relationships that they enable.
-[![](/assets/posts/{{ page.date | date: "%Y" }}/caringbridge-logo-large.png)](http://www.caringbridge.org/)
+[![](/assets/posts/2009/caringbridge-logo-large.png)](http://www.caringbridge.org/)
 
 Unfamiliar with CaringBridge?
 

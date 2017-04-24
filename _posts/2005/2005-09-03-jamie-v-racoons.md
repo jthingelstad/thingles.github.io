@@ -8,7 +8,7 @@ A few weeks ago we had some sod put down in our backyard. The first two weeks we
 
 These little buggers figured out they could get in the seams of the sod and roll it around revealing a triumph of worms and grubs. I put everything back in place and hoped they would just move along.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_JamieVRacoons.jpg)
+![](/assets/posts/2005/o_JamieVRacoons.jpg)
 
 Like racoons would move along. They returned night after night. I tried staking down the grass with tent stakes. I didn't have enough stakes and they still made it through. I put more in and they decided to just rip the sod in the middle. I called our landscaper and they suggested using "lawn staples". I got fifty (yes, fifty!) of them and the racoons simply pulled them out.
 

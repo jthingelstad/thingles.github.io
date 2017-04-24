@@ -12,11 +12,11 @@ My friend [Kent](http://www.thetangens.net/) came up with this idea, so credit t
 
 Unzip the files to a location of your liking and then launch fluid. Here is the setup window. For extra fun, I took the [logo image off of RailsBrain](http://www.railsbrain.com/rails_brain.png) to use as the application icon.
 
-![Fluid-Setup-Screen-For-RailsAPI.png](/assets/posts/{{ page.date | date: "%Y" }}/fluid-setup-screen-for-railsapi1.png)
+![Fluid-Setup-Screen-For-RailsAPI.png](/assets/posts/2008/fluid-setup-screen-for-railsapi1.png)
 
 <!-- more -->
 After doing this hit create and you've got a brand new shiny application that runs local, will work offline, is never going to be slow, and can be launched easily via your launcher of choice.
 
-![Quicksilver-Launching-Fluid-RailsAPI.png](/assets/posts/{{ page.date | date: "%Y" }}/quicksilver-launching-fluid-railsapi1.png)
+![Quicksilver-Launching-Fluid-RailsAPI.png](/assets/posts/2008/quicksilver-launching-fluid-railsapi1.png)
 
 Plus, you can now alt-tab to it easily. Wow! Great idea Kent! This is really great, and it is blistering fast!

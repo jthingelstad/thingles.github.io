@@ -9,4 +9,4 @@ tags:
 ---
 
 Wishing my wife an awesome mother's day. She's a great mom! Love you dear!
-[![](/assets/posts/{{ page.date | date: "%Y" }}/Mothers-Day-2010.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/Mothers-Day-2010.jpg)
+[![](/assets/posts/2010/Mothers-Day-2010.jpg)](/assets/posts/2010/Mothers-Day-2010.jpg)

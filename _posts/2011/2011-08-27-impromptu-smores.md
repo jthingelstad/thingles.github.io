@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/impromptu-smores.jpg)
+![](/assets/posts/2011/impromptu-smores.jpg)
   
 
 

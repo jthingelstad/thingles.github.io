@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/91ee86a5b60656cdd73b040332c61248.png)
+![](/assets/posts/2009/91ee86a5b60656cdd73b040332c61248.png)

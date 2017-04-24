@@ -23,7 +23,7 @@ Now for an unfortunate item. RSS doesn't have a means (in a standard way at leas
 
 **Migrating Comments**
 
-Now that the posts are moved over, we need to deal with comments. At first I considered just starting fresh with no comments, but I have over 400 comments and that seemed like a lot of content to just throw away. The method below worked great for me. I purposefully focused on tools that I was comfortable with, this could be done many different ways. The basic approach is to export all the comments into a simple CSV file, then import them using a [custom PHP import script](/assets/posts/{{ page.date | date: "%Y" }}/commentscsv.txt) for WordPress. The connection between the comment and the post is the post title, so it is critical that you _do not edit the titles on any posts_ until you've imported your comments.
+Now that the posts are moved over, we need to deal with comments. At first I considered just starting fresh with no comments, but I have over 400 comments and that seemed like a lot of content to just throw away. The method below worked great for me. I purposefully focused on tools that I was comfortable with, this could be done many different ways. The basic approach is to export all the comments into a simple CSV file, then import them using a [custom PHP import script](/assets/posts/2006/commentscsv.txt) for WordPress. The connection between the comment and the post is the post title, so it is critical that you _do not edit the titles on any posts_ until you've imported your comments.
 
 The simplest way to get the comments into a CSV file is to use the SQL Server DTS tool. I selected a CSV file as a destination and used this SQL query to get the relevant content.
 
@@ -32,7 +32,7 @@ FROM         blog_Content comment
 INNER JOIN blog_Content posts ON comment.ParentID = posts.ID
 WHERE     (comment.PostType = 3) `
 
-This will get us a simple file with all of our comments dumped into it. With this file in hand, we can now do the import. To do this, [download the CommentsCSV importer](/assets/posts/{{ page.date | date: "%Y" }}/commentscsv.txt) and replace the TXT extension with PHP, then place it in the importer directory. Go to the import tab and you will see CommentsCSV listed. Upload the file and watch it do it's magic.
+This will get us a simple file with all of our comments dumped into it. With this file in hand, we can now do the import. To do this, [download the CommentsCSV importer](/assets/posts/2006/commentscsv.txt) and replace the TXT extension with PHP, then place it in the importer directory. Go to the import tab and you will see CommentsCSV listed. Upload the file and watch it do it's magic.
 
 Note that CommentsCSV does a minimal effort to make things XHTML compliant, but don't expect pretty XHTML at the end.
 

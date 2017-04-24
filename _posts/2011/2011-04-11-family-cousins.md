@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/family-cousins.jpg)
+![](/assets/posts/2011/family-cousins.jpg)
   
 
 

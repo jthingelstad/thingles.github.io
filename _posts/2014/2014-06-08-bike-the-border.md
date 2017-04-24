@@ -6,7 +6,7 @@ tags:
 - North Dakota
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140608-174701-64021366.jpg)
+![](/assets/posts/2014/20140608-174701-64021366.jpg)
   
 
 

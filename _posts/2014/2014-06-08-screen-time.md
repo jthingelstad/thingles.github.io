@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140608-092127-33687337.jpg)
+![](/assets/posts/2014/20140608-092127-33687337.jpg)
   
 
 

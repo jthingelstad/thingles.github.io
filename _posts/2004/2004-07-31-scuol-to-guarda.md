@@ -9,7 +9,7 @@ tags:
 _First of all, let me wish my sister Alona a Happy Birthday! I was on the other side of the world and was unable to get in touch. Hope this is some small consolation for that._ :-)
 **Today's Stats:** Moving Time **5h 25m** Distance** 12.99 miles** Ascent **2,250'** Max Elevation** 7,365'**
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/r_hike1.png)
+![](/assets/posts/2004/r_hike1.png)
 
 Today was the first day of our hiking trip! We just finished dinner with the group at the [Hotel Meisser](http://www.hotel-meisser.ch/) in Guarda. It was a buffet style dinner which suited me fine since I was starving after a long day on the trail. As I told Tammy, I was "deeply hungry". The sensation is similar to when I finish a century ride. I'm not completely sure how to explain it.
 
@@ -19,7 +19,7 @@ The scenery was simply amazing. Every bend in the trail made me think "wow". Tam
 
 We had a great picnic lunch mid-day and spent the entire day on the trail. We left at 8:50 am and arrived at 4:45 pm.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/r_profile-day1.png)
+![](/assets/posts/2004/r_profile-day1.png)
 
 We have also been lucky to be in Switzerland on one of their big national holidays. Today is [Dependence Day](http://switzerland.isyours.com/e/swiss-business-guide/swiss-national-day.html) in Switzerland (also called National Day). Not independence, but dependence. It is the celebration of when the major kingdoms of Switzerland came together and recognized their "dependence" on each other. One of the strong traditions of this holiday however is an amazingly independent tradition where people climb up in the mountains all over and light huge bonfires. On our hike today we saw some of these ready for the evening. After dinner tonight we looked at the ridge line and there were over 10 huge fires visible. How very cool. All of the cities shoot of fireworks as well. It's a big celebration.
 

@@ -6,7 +6,7 @@ tags:
 - Game
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/b7b45c18e9a29ed787703c526969d1be.png)
+![](/assets/posts/2009/b7b45c18e9a29ed787703c526969d1be.png)
   
 
 

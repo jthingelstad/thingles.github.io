@@ -7,7 +7,7 @@ tags:
 - Snow
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20101212-170544-0001.jpg)
+![](/assets/posts/2010/20101212-170544-0001.jpg)
   
 
 

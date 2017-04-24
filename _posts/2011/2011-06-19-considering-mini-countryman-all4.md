@@ -20,6 +20,6 @@ Those are actually bigger problems than they would seem since it means if Tammy 
 
 I've eyed the new Countryman All4 and think we are going to take one for a test drive and see what we think. I'm hoping it maintains enough of the Mini spirit to still feel like a Mini while solving all the problems above.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/Mini-2011-Countryman-All4.jpg)](http://thingelstad.com/s/considering-mini-countryman-all4/mini-2011-countryman-all4/img)
+[![](/assets/posts/2011/Mini-2011-Countryman-All4.jpg)](http://thingelstad.com/s/considering-mini-countryman-all4/mini-2011-countryman-all4/img)
 
 Anybody drove one of these?

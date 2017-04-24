@@ -4,7 +4,7 @@ categories:
 - Local
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/tesla-roadster-sighting.jpg)
+![](/assets/posts/2011/tesla-roadster-sighting.jpg)
   
 
 

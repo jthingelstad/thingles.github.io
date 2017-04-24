@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/cupcake-surprise.jpg)
+![](/assets/posts/2011/cupcake-surprise.jpg)
   
 
 

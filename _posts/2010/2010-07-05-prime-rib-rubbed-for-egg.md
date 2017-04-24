@@ -6,4 +6,4 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/prime-rib-ready-to-grill.png)
+![](/assets/posts/2010/prime-rib-ready-to-grill.png)

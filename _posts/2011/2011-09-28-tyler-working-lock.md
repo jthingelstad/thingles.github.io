@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/tyler-working-lock.jpg)
+![](/assets/posts/2011/tyler-working-lock.jpg)
   
 
 

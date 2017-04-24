@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/what-plants-for-our-backyard.jpg)
+![](/assets/posts/2011/what-plants-for-our-backyard.jpg)
   
 
 

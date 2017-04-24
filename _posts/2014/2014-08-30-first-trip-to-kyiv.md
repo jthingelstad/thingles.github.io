@@ -10,43 +10,43 @@ tags:
 
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/aroma-cappucino.jpg)
+   ![](/assets/posts/2014/aroma-cappucino.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/aroma.jpg)
+   ![](/assets/posts/2014/aroma.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/eurasia-business-center.jpg)
+   ![](/assets/posts/2014/eurasia-business-center.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/hilton-kyiv.jpg)
+   ![](/assets/posts/2014/hilton-kyiv.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/office.jpg)
+   ![](/assets/posts/2014/office.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/SPS-lobby.jpg)
+   ![](/assets/posts/2014/SPS-lobby.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/SPS-nameplate.jpg)
+   ![](/assets/posts/2014/SPS-nameplate.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/street-in-front-of-office.jpg)
+   ![](/assets/posts/2014/street-in-front-of-office.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/ua-phone.jpg)
+   ![](/assets/posts/2014/ua-phone.jpg)
   
 
   
-   ![](/assets/posts/{{ page.date | date: "%Y" }}/view-downtown.jpg)
+   ![](/assets/posts/2014/view-downtown.jpg)
   
 
 

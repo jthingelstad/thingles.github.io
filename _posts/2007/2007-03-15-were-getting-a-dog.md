@@ -12,9 +12,9 @@ tags:
 
 We've been thinking about getting a dog for awhile. We figured we would get one sometime after we had kids, since a dog does make travel a bit harder, and hey, so do kids so why not really make it hard! :-)
 
-![lolli.JPG](/assets/posts/{{ page.date | date: "%Y" }}/lolli.jpg)
-![lock-lolli.JPG](/assets/posts/{{ page.date | date: "%Y" }}/lock-lolli1.jpg)
-![lolli-lock.JPG](/assets/posts/{{ page.date | date: "%Y" }}/lolli-lock.jpg)
+![lolli.JPG](/assets/posts/2007/lolli.jpg)
+![lock-lolli.JPG](/assets/posts/2007/lock-lolli1.jpg)
+![lolli-lock.JPG](/assets/posts/2007/lolli-lock.jpg)
 _(She's the one on the left in the 2nd picture, and the right in the 3rd picture.)_
 
 Mazie loves dogs. She likes cats as well, and enjoys attempting to smother Logan on a regular basis. Gypsie is more of a flight risk, and rarely does Mazie get to have her way with her. However, Mazie is a big fan of Rusty, Grandpa and Grandma's dog, and Louie, Aunt Angie and Uncle Max's dog.

@@ -6,4 +6,4 @@ tags:
 - Beer
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/big-sky-scape-goat-beer.jpg)
+![](/assets/posts/2010/big-sky-scape-goat-beer.jpg)

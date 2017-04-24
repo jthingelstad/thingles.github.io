@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/photo3.jpg)
+![](/assets/posts/2011/photo3.jpg)
   
 
 

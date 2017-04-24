@@ -6,7 +6,7 @@ categories:
 
 Ever since Mazie arrived we have been learning that taking a car seat in and out of a station wagon is not a terribly comfortable thing to do. We've also been planning on getting a new car for Tammy. We started looking at minivans a few weeks ago and today we pulled the trigger!
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_odyssey.jpg)
+![](/assets/posts/2005/o_odyssey.jpg)
 
 We bought a 2006 [Honda Odyssey](http://automobiles.honda.com/models/model_overview.asp?ModelName=Odyssey). I got completely "shiny pebbled" (shi-ny peb-bled, v. 1. to get obsessed with bright and shiny gadgets and forget all practicality) as we were exploring our minivan options and went all out on the Touring edition with DVD and navigation system. I worked a good deal (thanks Internet!) and got a reasonable price relative to dealer invoice at [Richfield Bloomington Honda](http://www.rbhonda.com/). Their Internet sales guy was quick with emails, only took a couple of back and forths to get to a good price and we had a deal done. Walked into the store the next day and did the paperwork. We got the silver pearl metallic color, pictured above.
 

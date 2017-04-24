@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/mayday-we-did-it.jpg)
+![](/assets/posts/2014/mayday-we-did-it.jpg)
   
 
 

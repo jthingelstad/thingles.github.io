@@ -7,7 +7,7 @@ tags:
 - Iceland
 ---
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20120831-072654.jpg)](http://thingelstad.com/s/packed-for-iceland-photography-trip/20120831-072654-jpg/img)
+[![](/assets/posts/2012/20120831-072654.jpg)](http://thingelstad.com/s/packed-for-iceland-photography-trip/20120831-072654-jpg/img)
 I finished packing my kit to head to Iceland for a week of photography tonight. Here is what I decided to put in my camera backpack:
 
 

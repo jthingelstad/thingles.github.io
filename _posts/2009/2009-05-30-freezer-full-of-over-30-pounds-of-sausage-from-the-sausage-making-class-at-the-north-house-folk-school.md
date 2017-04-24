@@ -6,7 +6,7 @@ tags:
 - School
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/c2bd4d6e915076e3dee77039b6dba125.png)
+![](/assets/posts/2009/c2bd4d6e915076e3dee77039b6dba125.png)
   
 
 

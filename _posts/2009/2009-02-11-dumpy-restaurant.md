@@ -7,7 +7,7 @@ tags:
 - Restaurant
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/c85c4f5bdc929a30a76a5463b5ca7edb.png)
+![](/assets/posts/2009/c85c4f5bdc929a30a76a5463b5ca7edb.png)
   
 
 

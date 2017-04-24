@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/flush_game.jpg)
+![](/assets/posts/2010/flush_game.jpg)
   
 
 

@@ -22,13 +22,13 @@ We had dinner at the [Latina Cafe](http://www.latina.fr/) on the Champs Elysees.
 
 Today was a full blown tourist day. We slept in and made our morning voyage to the patisserie for some breakfast. We then headed to the [Louvre](http://www.louvre.fr/louvrea.htm).
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040728-122730-7907.jpg)
+![](/assets/posts/2004/t_20040728-122730-7907.jpg)
 
 Yes, that's a picture where you aren't supposed to take one. We headed straight for the [Mona Lisa](http://en.wikipedia.org/wiki/Mona_Lisa) (which seems to be a popular place to head to right away). Going to the [Louvre](http://www.louvre.fr/louvrea.htm) was like taking a bubble bath in art. It's huge. Gargantuan. So big that it would take weeks to take it all in. We only had three hours plus or minus. We strolled through the museum as if we were soaking in a huge bathtub overflowing with bubbles. We didn't take the time to question why the bubbles existed or what would become of the bubbles, we just enjoyed that they were there. We swam in art. And just like a bubble bath, it sticks with you after you get out. The power of art is almost hard to take at such high volumes.
 
 After our bath in art, we perused some local shops and had our _ugly American_ lunch in Paris. We went to what I must imagine is the American oasis for travellers in Paris. We visited the [Hard Rock Cafe Paris](http://www.hardrock.com/locations/cafes/Cafes.aspx?Lc=PARI). This place doesn't even bother to put out French menus. The waitress came up and spoke near perfect English. The food was as normal as we would get in Bloomington. The water even came with ice! Didn't have to ask.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/t_20040728-173458-7969.jpg)  
+![](/assets/posts/2004/t_20040728-173458-7969.jpg)  
 _Can you believe it's taken me until now  
 to put up a picture of the Eiffel tower!_
 

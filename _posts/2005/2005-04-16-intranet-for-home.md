@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_spiral.gif)
+![](/assets/posts/2005/o_spiral.gif)
 
 
 A couple of weeks ago I deployed my first intranet application for home. If your not familiar, an intranet application is just a website that you cannot get to generally on the web unless you have specific credentials. I was combing through my documents one afternoon and realized that I had a ton of little text files with notes on them. Things like information on my cable modem and home network to reminders about trips I'd like to take.

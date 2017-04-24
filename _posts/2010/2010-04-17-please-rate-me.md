@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/Please-Rate-Me.png)
+![](/assets/posts/2010/Please-Rate-Me.png)
   
 
 

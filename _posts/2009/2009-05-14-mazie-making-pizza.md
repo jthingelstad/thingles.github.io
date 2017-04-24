@@ -8,4 +8,4 @@ tags:
 - Pizza
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/1c4e090246ff02e8a2f15586cf08a1e1.png)
+![](/assets/posts/2009/1c4e090246ff02e8a2f15586cf08a1e1.png)

@@ -7,7 +7,7 @@ tags:
 - Minnestar
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/minnebar6-opening.jpg)
+![](/assets/posts/2011/minnebar6-opening.jpg)
   
 
 

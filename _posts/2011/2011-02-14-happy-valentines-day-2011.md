@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/valentine-for-dad.jpg)
+![](/assets/posts/2011/valentine-for-dad.jpg)
   
 
 

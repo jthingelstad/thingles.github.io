@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/o_potter.gif)
+![](/assets/posts/2004/o_potter.gif)
 
 
 I think it was three years ago that I caught the Harry Potter bug. In a matter of a couple of months I had read the four books that were available and loved every page. Yes, it's a kids book. But the story is just great.

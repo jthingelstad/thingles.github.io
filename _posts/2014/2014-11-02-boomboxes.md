@@ -4,4 +4,4 @@ categories:
 - Photography
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/IMG_2344.jpg)
+![](/assets/posts/2014/IMG_2344.jpg)

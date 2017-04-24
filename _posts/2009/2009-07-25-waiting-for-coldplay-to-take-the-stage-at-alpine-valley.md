@@ -6,7 +6,7 @@ tags:
 - Coldplay
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/d52c2206f61c4b75dd732049b1e5539e.jpg)
+![](/assets/posts/2009/d52c2206f61c4b75dd732049b1e5539e.jpg)
   
 
 

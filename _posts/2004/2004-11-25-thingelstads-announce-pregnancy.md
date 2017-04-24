@@ -13,7 +13,7 @@ The Thingelstads had decided that it was time to start a family shortly after ge
 
 After passing the first trimester the couple made a trip to get an ultrasound as initial tests for the heartbeat were not successful. The ultrasound showed a healthy, early stage baby with two legs, two arms, a huge head and a quickly beating heart. While conducting the ultrasound it kicked a few times and spun around. Fetal movement is a great sign of a healthy baby.
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/t_20041119-093320.jpg) ![](/assets/posts/{{ page.date | date: "%Y" }}/t_20041119-093357.jpg)
+![](/assets/posts/2004/t_20041119-093320.jpg) ![](/assets/posts/2004/t_20041119-093357.jpg)
 
 This is the first grandchild for both sets of grandparents. Upon reaching them they were overjoyed. Kaye Olson, mother of Tammy, simply shrieked after hearing the news! Rosalin Chrest, mother to Jamie, was excited to hear the news and started sewing baby clothes immediately. Meanwhile Don Olson, famed softball coach and father to Tammy, immediately renewed his contract with the local girl's softball league and quickly joined Tammy in hoping for a daughter. The numerous aunt's of the future child were all delighted as well.
 

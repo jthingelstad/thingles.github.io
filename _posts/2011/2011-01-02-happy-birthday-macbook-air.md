@@ -7,7 +7,7 @@ tags:
 - MacBook Air
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/MacBook-Air-11.jpg)
+![](/assets/posts/2011/MacBook-Air-11.jpg)
   
 
 

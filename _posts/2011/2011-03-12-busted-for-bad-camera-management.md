@@ -7,11 +7,11 @@ categories:
 This weekend I am up in the [Grand Marais](http://grandmarais.com/) area with my friends Steve and [Dennys](http://www.dennysphoto.com/) for a photography weekend. We went out shooting today and the weather wasn't cooperating. We had a lot of grey and dull everywhere, but we persevered.
 We shot a bunch in the morning out at Artists Point in Grand Marais and while I was shooting Steve and Dennys busted me for very bad camera management. Of course they photographed me in the act.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/Changing-Lenses-on-Shore.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/Changing-Lenses-on-Shore.jpg)
+[![](/assets/posts/2011/Changing-Lenses-on-Shore.jpg)](/assets/posts/2011/Changing-Lenses-on-Shore.jpg)
 
 Do you see all of my mistakes? Oh boy.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/Changing-Lenses-on-Shore-Zoom.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/Changing-Lenses-on-Shore-Zoom.jpg)
+[![](/assets/posts/2011/Changing-Lenses-on-Shore-Zoom.jpg)](/assets/posts/2011/Changing-Lenses-on-Shore-Zoom.jpg)
 
 Let me share to help us all be better camera owners.
 

@@ -11,4 +11,4 @@ In the past I've talked with people that have done a few marathons and then don'
 
 I was pretty proud after tonight's spinning session. I wore my heart rate monitor for the first time and I actually reached max heart rate a couple of times (about 187). Here is the floor under my bike. :-)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/p-640-480-b8de6629-c451-4dd9-94c6-35d83bb3abf9.jpeg)](/assets/posts/{{ page.date | date: "%Y" }}/p-640-480-b8de6629-c451-4dd9-94c6-35d83bb3abf9.jpeg)
+[![](/assets/posts/2008/p-640-480-b8de6629-c451-4dd9-94c6-35d83bb3abf9.jpeg)](/assets/posts/2008/p-640-480-b8de6629-c451-4dd9-94c6-35d83bb3abf9.jpeg)

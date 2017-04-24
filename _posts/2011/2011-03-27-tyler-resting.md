@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/tyler-resting.jpg)
+![](/assets/posts/2011/tyler-resting.jpg)
   
 
 

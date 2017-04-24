@@ -7,4 +7,4 @@ tags:
 ---
 
 Got a kicking Ford Transit to explore Iceland Euro-style.
-[![20120901-084507.jpg](/assets/posts/{{ page.date | date: "%Y" }}/20120901-084507.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20120901-084507.jpg)
+[![20120901-084507.jpg](/assets/posts/2012/20120901-084507.jpg)](/assets/posts/2012/20120901-084507.jpg)

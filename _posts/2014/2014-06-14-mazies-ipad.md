@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140614-090403-32643428.jpg)
+![](/assets/posts/2014/20140614-090403-32643428.jpg)
   
 
 

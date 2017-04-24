@@ -6,4 +6,4 @@ tags:
 - Mazie
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/f62d5c2ff8f5b02edb41d5350efdceab.png)
+![](/assets/posts/2009/f62d5c2ff8f5b02edb41d5350efdceab.png)

@@ -25,11 +25,11 @@ Just being able to do simple conditionals, loops and control statements in the s
 
 For a kids 4 to 8 years old Basic can still be a lot of fun. Plus, they will learn the horrors of GOTO and realize that even though some modern languages accommodate  GOTO it should never be used.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/739.png)](http://www.nicholson.com/rhn/basic/)Even though your modern machine will come with a ridiculous wealth of software it will not come with a BASIC interpreter. Open source software to the rescue with the [Chipmunk BASIC interpreter](http://www.nicholson.com/rhn/basic/). I downloaded the Mac version and spent a little while reliving memories just now.
+[![](/assets/posts/2010/739.png)](http://www.nicholson.com/rhn/basic/)Even though your modern machine will come with a ridiculous wealth of software it will not come with a BASIC interpreter. Open source software to the rescue with the [Chipmunk BASIC interpreter](http://www.nicholson.com/rhn/basic/). I downloaded the Mac version and spent a little while reliving memories just now.
 
 ### Logo
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/turtleact.jpg)](http://www.alancsmith.co.uk/logo/)The complement to showing young minds BASIC and all the text-based fun is a Logo interpreter. Logo is a fun little language where you move a "turtle" around on a canvas and place a pen up and down to create graphics. It's a wonderful little language that you can make pictures in. How great for kids to see the result of their code!
+[![](/assets/posts/2010/turtleact.jpg)](http://www.alancsmith.co.uk/logo/)The complement to showing young minds BASIC and all the text-based fun is a Logo interpreter. Logo is a fun little language where you move a "turtle" around on a canvas and place a pen up and down to create graphics. It's a wonderful little language that you can make pictures in. How great for kids to see the result of their code!
 
 Logo interpreters were never bundled with machines but you can download [ACSLogo for Mac OS X](http://www.alancsmith.co.uk/logo/) that works well and is a free download.
 

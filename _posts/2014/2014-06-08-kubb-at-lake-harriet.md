@@ -6,7 +6,7 @@ tags:
 - Kubb
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/20140608-174309-63789329.jpg)
+![](/assets/posts/2014/20140608-174309-63789329.jpg)
   
 
 

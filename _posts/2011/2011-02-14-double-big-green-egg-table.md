@@ -11,7 +11,7 @@ It was okay but pretty quickly I was disappointed with it. The build quality was
 
 I'm glad I did because it allowed me to really figure out what I wanted in a custom table for my Egg. After a lot of searching I found a carpenter to work with and after a design session with some sketches I now have my dream Egg table.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103025-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103025-0001.jpg)
+[![](/assets/posts/2011/20100829-103025-0001.jpg)](/assets/posts/2011/20100829-103025-0001.jpg)
 <!-- more -->
 It's a double Egg table to house both the Large Big Green Egg as well as the small. I also have a second prep table. There were a number of specific things that I wanted in the setup.
 
@@ -25,7 +25,7 @@ I thought for a long time about how I wanted to accommodate two Eggs. I consider
 
 One of the issues I have found when using my Egg is dealing with hot tools or grill parts, as well as dirty grids and such. I asked the carpenter if he could design something that slid out on the bottom of the table that could deal with this. He hit it out of the park!
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103118-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103118-0001.jpg)
+[![](/assets/posts/2011/20100829-103118-0001.jpg)](/assets/posts/2011/20100829-103118-0001.jpg)
 
 This shelf is just great. It's all metal, so I can put a hot plate setter on it and not worry. Since it slides underneath I can then store those things out-of-the-way and not worry about kids bumping into a 500 degree ceramic piece.
 
@@ -43,11 +43,11 @@ I can pop the granite out and pressure wash it easily enough. I have also found 
 
 The prep table was an indulgence. It serves a lot of purposes. First, I get a bunch of shelves to put my tools in. I now even have room to house a spice bin outside so there is less running around. I have another bin just with fire starting stuff. The room is nice.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103142-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103142-0001.jpg)
+[![](/assets/posts/2011/20100829-103142-0001.jpg)](/assets/posts/2011/20100829-103142-0001.jpg)
 
 I also like that the table is very mobile. If you need to shuck some corn, or prep food for the grill and have someone helping they can take the table wherever it is convenient for them. I also made the table "double-sided" so two people can work on either side easily. I also slapped some hooks on it so I can keep tools there, as well as hang a trash bag on the side if you have a lot of prep work to do.
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103048-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103048-0001.jpg)
+[![](/assets/posts/2011/20100829-103048-0001.jpg)](/assets/posts/2011/20100829-103048-0001.jpg)
 
 ### Finish
 
@@ -57,16 +57,16 @@ Feel free to riff off of any of these ideas. If you live in Minnesota and would 
 
 ### More Photos
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103237-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103237-0001.jpg)
+[![](/assets/posts/2011/20100829-103237-0001.jpg)](/assets/posts/2011/20100829-103237-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103204-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103204-0001.jpg)
+[![](/assets/posts/2011/20100829-103204-0001.jpg)](/assets/posts/2011/20100829-103204-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103109-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103109-0001.jpg)
+[![](/assets/posts/2011/20100829-103109-0001.jpg)](/assets/posts/2011/20100829-103109-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103103-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103103-0001.jpg)
+[![](/assets/posts/2011/20100829-103103-0001.jpg)](/assets/posts/2011/20100829-103103-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103055-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103055-0001.jpg)
+[![](/assets/posts/2011/20100829-103055-0001.jpg)](/assets/posts/2011/20100829-103055-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103042-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103042-0001.jpg)
+[![](/assets/posts/2011/20100829-103042-0001.jpg)](/assets/posts/2011/20100829-103042-0001.jpg)
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103034-0001.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/20100829-103034-0001.jpg)
+[![](/assets/posts/2011/20100829-103034-0001.jpg)](/assets/posts/2011/20100829-103034-0001.jpg)

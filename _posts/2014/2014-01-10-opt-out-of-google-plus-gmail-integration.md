@@ -5,4 +5,4 @@ categories:
 ---
 
 It’s lame when the only time you need to log into services is to disable privacy invading features that I have no interest in.
-![google-plus-opt-out](/assets/posts/{{ page.date | date: "%Y" }}/google-plus-opt-out.png)
+![google-plus-opt-out](/assets/posts/2014/google-plus-opt-out.png)

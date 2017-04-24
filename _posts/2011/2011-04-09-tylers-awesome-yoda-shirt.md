@@ -6,4 +6,4 @@ categories:
 
 "Judge me by my size you do?"
 
-[![](/assets/posts/{{ page.date | date: "%Y" }}/Photo1.jpg)](/assets/posts/{{ page.date | date: "%Y" }}/tylers-awesome-yoda-shirt.jpg)
+[![](/assets/posts/2011/Photo1.jpg)](/assets/posts/2011/tylers-awesome-yoda-shirt.jpg)

@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![A8xae9x69x1.jpg](/assets/posts/{{ page.date | date: "%Y" }}/a8xae9x69x1.jpg)Mazie and I had our very first [Tiny Tonka T-Ball](http://www.minnetonkacommunityed.org/insight/registry/classinfo.asp?courseID=34900&catID=) game last night. Sorry, no pictures or video from it. Tammy had plans, and I'm one of the **coaches**! Next week we'll get some media coverage.
+![A8xae9x69x1.jpg](/assets/posts/2008/a8xae9x69x1.jpg)Mazie and I had our very first [Tiny Tonka T-Ball](http://www.minnetonkacommunityed.org/insight/registry/classinfo.asp?courseID=34900&catID=) game last night. Sorry, no pictures or video from it. Tammy had plans, and I'm one of the **coaches**! Next week we'll get some media coverage.
 Of course [Mazie just turned 3](/thingelstad/daddys-girl-turns-three) a couple of weeks ago and you may be asking how exactly t-ball works with 3 and 4 year olds. Let me explain a bit.
 
 First, this is for fun and there are no scores, no strikes. In fact, there isn't much left of the "game" and it's more just fun for the kids. And fun they had!

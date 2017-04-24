@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/mazie-9mo.jpg)
+![](/assets/posts/2006/mazie-9mo.jpg)
 
 
 It seems amazing that in only 3 more months Mazie will turn 1! She is doing great. She has recovered from her 2nd real cold with lots of coughing and sneezing, and most notably plenty of running nose. An almost never-ending amount actually. She's decided she likes baby food and we think she has her 2nd set of teeth coming in since she's been eating her hand pretty much constantly lately.

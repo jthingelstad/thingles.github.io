@@ -13,8 +13,8 @@ Simple is good, but there are times when I just want a little bit of [metadata](
 
 [TextExpander](http://www.smileonmymac.com/TextExpander/) to the rescue! I've used TextExpander for a long time so I created a group of shortcuts called MySymbols. They are hardly shortcuts since I'm turning something longer that I can remember, like `:star` into the Unicode character ?. Great! Now I can easily make a mind map that has metadata in it, like this completely fictitious map.
 
-[![Test Map with Symbols](/assets/posts/{{ page.date | date: "%Y" }}/Test-Map-with-Symbols.png)](/assets/posts/{{ page.date | date: "%Y" }}/Test-Map-with-Symbols.pdf)
+[![Test Map with Symbols](/assets/posts/2009/Test-Map-with-Symbols.png)](/assets/posts/2009/Test-Map-with-Symbols.pdf)
 
 I have ranking of vacation destinations. I've been able to add a variety of other information into the nodes that is pretty easy to understand. Very nice!
 
-You could use any macro program to do this, you don't have to have TextExpander. In fact, if you figure out the funky keyboard combinations you could probably do it without another piece of software but I think it's just easier to remember things like `:plane` ?, `:check` ? and `:seven` ?. If you do use TextExpander you can [download my definition file](/assets/posts/{{ page.date | date: "%Y" }}/MySymbols.textexpander.zip.zip?format=original) to get started.
+You could use any macro program to do this, you don't have to have TextExpander. In fact, if you figure out the funky keyboard combinations you could probably do it without another piece of software but I think it's just easier to remember things like `:plane` ?, `:check` ? and `:seven` ?. If you do use TextExpander you can [download my definition file](/assets/posts/2009/MySymbols.textexpander.zip.zip?format=original) to get started.

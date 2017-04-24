@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![](/assets/posts/{{ page.date | date: "%Y" }}/photo10.jpg)
+![](/assets/posts/2011/photo10.jpg)
   
 
 
