@@ -151,6 +151,18 @@ body {
     font-size: .75rem;
   }
 
+  &-location {
+    margin-bottom: .5rem;
+    color: $base-lighten-color;
+    font-size: .75rem;
+  }
+
+  &-weather {
+    margin-bottom: .5rem;
+    color: $base-lighten-color;
+    font-size: .75rem;
+  }
+
   &-tag {
     margin-bottom: 1rem;
     margin-left: -2rem;

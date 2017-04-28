@@ -10,8 +10,18 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <h3 class="post-description">{{ page.description }}</h3>
   <span class="post-date">
-    By {{ site.author }}, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
+    By {{ site.author }}, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>.
   </span>
+  {% if page.location %}
+  <span class="post-location">
+    {{page.location}}.
+  </span>
+  {% endif %}
+  {% if page.weather %}
+  <span class="post-weather">
+    {{page.weather}}.
+  </span>
+  {% endif %}
   <div class="post-tag">
     <ul>
       {% for tag in page.tags %}
