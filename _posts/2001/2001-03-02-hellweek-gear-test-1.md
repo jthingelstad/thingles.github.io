@@ -9,9 +9,9 @@ Took my GPS on my ride with me to do a gear test before heading to Texas. Had th
 
 Below you can see the ride that I took today, total distance of 29.8 miles:
 
-![](photos/bf9a4b204fac6fa030a9720a03e8c090.jpeg "")
+![](/assets/posts/2001/bf9a4b204fac6fa030a9720a03e8c090.gif)
 
 Here is an elevation profile of the ride. This was good as the vertical climbing per mile is similar to what I'm expecting in Texas:
 
-![](photos/b24f86ccb0532df2d312d824581c2d70.jpeg "")
+![](/assets/posts/2001/b24f86ccb0532df2d312d824581c2d70.gif)
 

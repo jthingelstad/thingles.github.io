@@ -11,18 +11,18 @@ I think I finally got my eating right. Day 1 I ate 1,100 calories during the rid
 
 Onto the ride, here's the map. Todays is more impressive, looks like we went further. The default path was to go to highway 16 and then go up to Frederickburg, but that road has too many cars going too fast, so I backed up and went up 2093 back into town.
 
-![](photos/d305dd23fee5cced5b26ea471f57ad9d.jpeg "")
+![](/assets/posts/2001/d305dd23fee5cced5b26ea471f57ad9d.gif)
 
 The altitude profile wasn't as bad as yesterday, still had some serious climbing and that climbing was into the wind, adding insult to injury.
 
-![](photos/45b9d36cdfa0b4a7f83211de4dc232e1.jpeg "")
+![](/assets/posts/2001/45b9d36cdfa0b4a7f83211de4dc232e1.gif)
 
 Had some nice fast runs today. When we climbed out of the valley had about 10 miles on flats. I can't tell you how cool it feels when you're five hours into your ride and you can still hammer out at 25 miles an hour for a good while (of course, the wind at your back, shhh!)
 
-![](photos/58d7ab234f1de61e081204a57af1c68c.jpeg "")
+![](/assets/posts/2001/58d7ab234f1de61e081204a57af1c68c.gif)
 
 Average heart rate today was 119, lowest of all three days. Makes sense since we had less vertical climbing. As well, the body just gets tired.
 
-![](photos/75dfe2bf7a1cb9e31a13c097d210a991.jpeg "")
+![](/assets/posts/2001/75dfe2bf7a1cb9e31a13c097d210a991.gif)
 
 Tomorrow is Fred's Ride. Semper Fi! 8-)

@@ -25,18 +25,18 @@ The death ride took a little over 7 hours to finish and totaled 109 miles. It's 
 
 Here is the ride map.
 
-![](photos/e58f64dae82a97a68d4157813bbdb0d2.jpeg "")
+![](/assets/posts/2001/e58f64dae82a97a68d4157813bbdb0d2.gif)
 
 There are 6 major climbs to the death ride. The first is the most arduous, it's dead straight and you can see the entire beast as you begin to climb it's nearly 1,000 feet without any break. The first three are all bundled together, then you get three more on the back. The worst is when your 100 miles into the ride and ready to collapse, and there is the last climb staring at you.
 
-![](photos/11c9e1019afe7ad78fca252bb33dad6d.jpeg "")
+![](/assets/posts/2001/11c9e1019afe7ad78fca252bb33dad6d.gif)
 
 Who care's about average speed on this ride, it's dead on those climbs. I can tell you that you can climb standing at under 6 mph for about 10 minutes straight with your heart pounding at over 90% max, it hurts, but it can be done. I also set a new personal record for speed, hitting 50 mph on the descents. After one 47 mph descent I pulled over and found my newly rebuilt wheel had 6 "wiggly" loose spokes! WHOA! I deserve that nickname they gave me, Lucky. A little roadside truing of the wheel and I was off again.
 
-![](photos/925b4e15bc3c9ea219508a030c87e7b1.jpeg "")
+![](/assets/posts/2001/925b4e15bc3c9ea219508a030c87e7b1.gif)
 
 I decided to skip the heart rate chart today and instead show you an exertion chart. This chart shows you my "typical" training program on the left, and you can see the exertion factor that Hellweek demands. Yikes!
 
-![](photos/1276a8d52fdc44835d59133d7c2e01f4.jpeg "")
+![](/assets/posts/2001/1276a8d52fdc44835d59133d7c2e01f4.gif)
 
 I made it! The death ride is the hardest and longest ride of Hellweek, and I successfully pulled it off. Only two more days left.
