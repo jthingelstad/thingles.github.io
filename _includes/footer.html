@@ -2,16 +2,21 @@
 <div class="footer">
 	<hr />
 	<div class="footer-link">
+	
+		{% if site.social.microblog %}
+		<a href="https://micro.blog/{{ site.social.microblog }}" rel="me" /><i class="fa fa-comment" aria-hidden="true"></i></a>
+		{% endif %}
+
 		{% if site.social.twitter %}
-		<a href="https://twitter.com/{{ site.social.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		<a href="https://twitter.com/{{ site.social.twitter }}" rel="me"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 		{% endif %}
 
 		{% if site.social.github %}
-		<a href="https://github.com/{{ site.social.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+		<a href="https://github.com/{{ site.social.github }}" rel="me"><i class="fa fa-github" aria-hidden="true"></i></a>
 		{% endif %}
 
 		{% if site.social.linkedin %}
-		<a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+		<a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" rel="me"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 		{% endif %}
 
 		{% if site.social.email %}

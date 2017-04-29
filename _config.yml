@@ -13,6 +13,7 @@ social:
   github:           thingles
   linkedin:         jthingelstad
   email:            jamie@thingelstad.com
+  microblog:        jthingelstad
 
 # URL
 url:                "http://thingelstad.com" # the base hostname & protocol for your site
@@ -39,11 +40,11 @@ nav:
     url:            "/about/"
   - name:           "Photos"
     url:            "/photos/"
-  - name:           "Archive"
+  - name:           "<i class='fa fa-archive' aria-hidden='true'></i>"
     url:            "/archive/"
-  - name:           "Tags"
+  - name:           "<i class='fa fa-tags' aria-hidden='true'></i>"
     url:            "/tags/"
-  - name:           "Links"
+  - name:           "<i class='fa fa-bookmark' aria-hidden='true'></i>"
     url:            "/links/"
 
 # Sass
