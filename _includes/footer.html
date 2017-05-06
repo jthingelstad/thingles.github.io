@@ -7,6 +7,10 @@
 		<a href="https://micro.blog/{{ site.social.microblog }}" rel="me" /><i class="fa fa-comment" aria-hidden="true"></i></a>
 		{% endif %}
 
+		{% if site.social.pinboard %}
+		<a href="https://pinboard.in/u:{{ site.social.pinboard }}" rel="me" /><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>
+		{% endif %}
+
 		{% if site.social.twitter %}
 		<a href="https://twitter.com/{{ site.social.twitter }}" rel="me"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 		{% endif %}
