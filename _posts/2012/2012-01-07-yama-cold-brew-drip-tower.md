@@ -11,7 +11,7 @@ A few weeks ago I was discussing various ways of making coffee with [Ry4an](http
 
 Tammy thought the one I sent her a link to was about the ugliest thing she had ever seen, but she found an acceptable looking Yama and got it for me for my birthday from Mazie and Tyler.
 
-[![](/assets/posts/2012/20120107-141418-hdr.jpg)](http://thingelstad.com/s/yama-cold-brew-drip-tower/20120107-141418-hdr/img)
+![](/assets/posts/2012/20120107-141418-hdr.jpg)
 
 It takes **three hours** to brew **8 cups of coffee**. The resulting coffee is similar to cold press coffee, but with significantly more theater to the production. My first run didn't come out right. I tried to grind the beans myself and didn't get the right grind consistency and the water went through far too fast.
 

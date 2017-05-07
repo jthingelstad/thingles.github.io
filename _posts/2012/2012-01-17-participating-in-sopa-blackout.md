@@ -5,10 +5,6 @@ categories:
 ---
 
 I just added these crontab entries
-
-
-
-    
     
     0 8 18 1 * /srv/www/maint/sopa/deploy-sopa.sh
     0 20 18 1 * /srv/www/maint/sopa/remove-sopa.sh
