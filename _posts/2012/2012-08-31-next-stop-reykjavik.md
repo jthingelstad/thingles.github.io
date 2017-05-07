@@ -6,4 +6,4 @@ tags:
 - Iceland
 ---
 
-[![20120831-192640.jpg](/assets/posts/2012/20120831-192640.jpg)](/assets/posts/2012/20120831-192640.jpg)
+![](/assets/posts/2012/20120831-192640.jpg)

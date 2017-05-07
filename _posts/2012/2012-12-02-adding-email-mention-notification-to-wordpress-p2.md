@@ -7,10 +7,6 @@ tags:
 ---
 
 I'm using the P2 theme on a couple of websites, one of them is for the [team minne✱](http://team.minnestar.org/) to help coordination and collaboration. P2 supports the ability to use a @user notation to mention other users on the site, but it doesn't do anything other than highlight the user. This snippet of PHP added to the bottom of the P2 functions.php will send email notifications on those mentions. This isn't heavily tested but it works well for me.
-
-
-
-    
     
     /**
      * Custom code added to P2 to enable email notifications

@@ -8,22 +8,13 @@ tags:
 
 I recently went to `usakubb.com` forgetting to use `.org` to go to `usakubb.org`, the website for the [US National Kubb Championship](http://usakubb.com/). USA Kubb got this site registered and setup this winter. The domain information shows it was registered on Feb. 26, 2012.
 
-
-<blockquote>
-
->     
 >     Domain ID:D164823449-LROR
 >     Domain Name:USAKUBB.ORG
 >     Created On:<strong>26-Feb-2012</strong> 01:23:56 UTC
 >     Last Updated On:26-Apr-2012 03:50:06 UTC
 >     Expiration Date:26-Feb-2014 01:23:56 UTC
-> 
-> 
-</blockquote>
 
 When I put in usakubb.com though I was surprised that I got redirected to Americoob!
-
-<blockquote>
 
 >     
 >     % curl --head http://usakubb.com/
@@ -32,13 +23,8 @@ When I put in usakubb.com though I was surprised that I got redirected to Americ
 >     Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.7a mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_fcgid/2.3.5
 >     <strong>Location: http://www.americoob.com</strong>
 >     Content-Type: text/html; charset=iso-8859-1
-> 
-> 
-</blockquote>
 
 The same happens for usakubb.net.
-
-<blockquote>
 
 >     
 >     % curl --head http://usakubb.net/
@@ -47,13 +33,8 @@ The same happens for usakubb.net.
 >     Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.7a mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_fcgid/2.3.5
 >     <strong>Location: http://www.americoob.com</strong>
 >     Content-Type: text/html; charset=iso-8859-1
-> 
-> 
-</blockquote>
 
 That seemed super lame. I knew USA Kubb wasn't sending traffic to Americoob. So I looked up the registration information for usakubb.com:
-
-<blockquote>
 
 >     
 >     Domain Name: USAKUBB.COM
@@ -63,13 +44,8 @@ That seemed super lame. I knew USA Kubb wasn't sending traffic to Americoob. So 
 >     Updated Date: 31-mar-2012
 >     Creation Date: <strong>31-mar-2012</strong>
 >     Expiration Date: 31-mar-2014
-> 
-> 
-</blockquote>
 
 …and usakubb.net:
-
-<blockquote>
 
 >     
 >     Domain Name: USAKUBB.NET
@@ -79,9 +55,6 @@ That seemed super lame. I knew USA Kubb wasn't sending traffic to Americoob. So 
 >     Updated Date: 31-mar-2012
 >     Creation Date: <strong>31-mar-2012</strong>
 >     Expiration Date: 31-mar-2013
-> 
-> 
-</blockquote>
 
 Americoob registered these domains about a month after USA Kubb registered the proper .org domain name. So Americoob bought these two domains that are completely unrelated to them so that they could siphon traffic away from people who think they are going to the USA Kubb website. Now people that forget to type the domain all the way will be sent to Americoob, the manufacturer of a plastic game similar to Kubb, but **isn't even Kubb**! 5 batons and 4 baseline Kubbs? Made of plastic?
 
@@ -89,28 +62,14 @@ This is **incredibly lame** on Americoob's part. I think people should clearly c
 
 To make it easier, here is an email you can copy and paste to them:
 
-<blockquote>Americoob,
-> 
-> 
-
-> 
+> Americoob,
+>
 > Your organization recently registered the domains usakubb.com and usakubb.net and are redirecting visitors to those domains to your website at www.americoob.com. I would like to request that you turn these domains over to USA Kubb, the owners of usakubb.org and the organization behind the US National Kubb Championship.
-> 
-> 
-
 > 
 > Your attempt to siphon visitors to USA Kubb that do not put in the full domain is bad for the very sport that you are  attempting to be part of and profit in. Please do the right thing and turn the usakubb.com and usakubb.net domains over to USA Kubb.
 > 
-> 
-
-> 
 > Thank you,
 > 
-> 
-
-> 
 > [name]
-> 
-> </blockquote>
 
 _Please note, I'm purposefully not adding any hyperlinks to Americoob so I don't send any traffic to them._
