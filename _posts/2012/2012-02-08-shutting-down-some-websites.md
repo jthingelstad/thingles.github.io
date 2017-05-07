@@ -9,9 +9,6 @@ tags:
 I recently decided to prune some websites that I was hosting, mostly ideas that I set up and then never took anywhere. Tammy had also decided to take her blog, Smaller Than a Redwood, down. I could have just deleted them but I wanted to be a good "net.citizen" and not give people "404 Page not found" errors but instead the more appropriate "410 Gone" message. Here is a simple way to do this with [nginx](http://nginx.org/).
 First, I catch the websites main configuration which I keep in a file for each site in `/opt/etc/nginx/sites-available`. I try to keep these configurations really simple, just handling the URLs, ports and then doing the application configuration in an include.
 
-
-
-    
     # Redirect to non-www hostname
     server {
       listen 80;
@@ -28,9 +25,6 @@ First, I catch the websites main configuration which I keep in a file for each s
     }
 
 The include line then pulls in this configuration. I pointed this at a new directory in `/srv/www` so that any files that the site used to have could be left wherever they are. I also turn on an access log so I can easily see how many people are still going to the website. I still do a try_files because I have a robots.txt to help search engines know to go away. The important part is returning a 410 status and not a 404. The 410 is then handled by the @site-gone rule.
-
-
-
     
     # this config is loaded into sites that are dead
     root /srv/www/site-gone/public_html;

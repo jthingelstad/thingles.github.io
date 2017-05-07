@@ -5,6 +5,7 @@ categories:
 ---
 
 Friday night I had my friends Jim, Tom and Tim over for the first "movie night" in our new family room. I've been wanting to watch The Shining for a while, but Tammy wasn't interested [1. To be clear, Tammy has seen the Shining many times. She just didn't feel like watching again.]. I'm not much for watching any movie by myself, much less one of the most disturbing horror movies of all time.
+
 ![](/assets/posts/2012/The-Shining.jpg)
 
 The Shining has kept a firm place in my psyche for over two decades. I don't remember when I first saw it, but I do know that I was most likely far too young to see it. When I was a kid I had a ridiculously good imagination and if a room was dark, like when you go to sleep at night, I could see clearly whatever was in my head. The Grady twins were often in my head after seeing it.
