@@ -5,6 +5,7 @@ categories:
 ---
 
 About three months ago I decided to have a new roof put on our house. We are in the process of putting solar heat on our house and our shingles needed replacement before we put the panels up. I contacted a couple of contractors and ultimately decided to go with Minnesota Statewide Roofing & Remodeling. Their estimator was prompt to come out and give an estimate, and they provided a good price. I told them the timeline I was looking at and that I needed to coordinate the installation with some other work. Everything was fine.
+
 They were scheduled to start the job on Thursday, November 10th. I took the day off so that I could be at home when they got started, and to be there for a couple of other contractors that were visiting for some smaller projects. I expected a roofing crew to show up early and get going on the roof. Statewide had told me the job should take a full day with a half-day for finishing work.
 
 At around 9am a vehicle pulled up. I was working with one of the other contractors who was on time and saw that one person got out of the vehicle and looked around. After I got done showing the other contractor in, the vehicle that I thought was the roofing crew, was gone. At 10am, with nobody here still, I tried to contact Statewide.

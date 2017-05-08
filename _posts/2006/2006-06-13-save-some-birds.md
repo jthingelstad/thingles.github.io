@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-[![](http://www.windowalert.com/images/UV-glow.jpg)](http://www.windowalert.com/)Over this past weekend I applied some bird protection to our house. We live in an area with a lot of birds, and we have large parts of our house where we have a lot of windows. On top of that, I like to feed birds and with the landscaping work that we've done over the last three years we've seen a marked increase in the number of songbirds that frequent our yard.
+Over this past weekend I applied some bird protection to our house. We live in an area with a lot of birds, and we have large parts of our house where we have a lot of windows. On top of that, I like to feed birds and with the landscaping work that we've done over the last three years we've seen a marked increase in the number of songbirds that frequent our yard.
 
 However, we've also seen a huge increase in "bird strikes". Almost everyday birds would hit our windows, and sometimes the hit would be fatal. I searched for a while to find a solution to this problem and finally found [Window Alert](http://www.windowalert.com/).
 

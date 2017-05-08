@@ -7,7 +7,9 @@ tags:
 - Canon
 ---
 
-![12x36isii_586x225](/assets/posts/2006/canon_12x36_is_12x36isii_586x225.jpg)I recently got my after-Christmas Christmas present. What's that? Well, if I had something on my list and I didn't happen to get it, I thought I should clean up that list. We don't want to have things sitting on their forever now right?!
+![](/assets/posts/2006/canon_12x36_is_12x36isii_586x225.jpg)
+
+I recently got my after-Christmas Christmas present. What's that? Well, if I had something on my list and I didn't happen to get it, I thought I should clean up that list. We don't want to have things sitting on their forever now right?!
 
 A few weeks ago I decided I wanted to get a pair of binoculars. The primary use is for looking at wildlife around our house, and checking out birds. I'm sure that every time I mention bird watching I lose 10% of the audience to this website. Anyway, it is fun. The last use is for astronomical viewing. When out with the telescope, it's nice to have a pair of binoculars to do some viewing.
 

@@ -5,6 +5,7 @@ categories:
 ---
 
 **I'm mad.**
+
 I'm a big supporter of alternative energy. For the last 3 years I've voluntarily paid a surcharge to [Xcel Energy](http://www.xcelenergy.com/) to fund the purchase of wind power equal to the amount of electricity I consume. This program is called [Windsource](http://www.xcelenergy.com/XLWEB/CDA/0,3080,1-1-2_735_3857-3320-5_406_657-0,00.html). I pay $2.00 per 100 kWh of electricity, and I buy 16 units of this to account for our total electrical consumption. Every month I tack on $32 to my electricity bill and have been happy in the knowledge that our entire house is powered by renewable energy.
 
 In addition to the WindSource program that I just mentioned, Xcel also collects a "curtailment payment" from all customers to fund wind-generated electricity. This is not an optional payment. If you are a customer, you are paying it. Then the Star Tribune broke this article on June 1st, [Public Paid for idled wind farms](http://www.startribune.com/462/story/468717.html).

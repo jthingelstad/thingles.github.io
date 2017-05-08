@@ -5,6 +5,7 @@ categories:
 ---
 
 My home network has been pathetic for the last few months. While doing our solar project and other work in the utility room I had to make some quick cable moves. The unfortunate downside of this was that for over 3 months my gigabit network has been nada, since I've got a 100 mbit link in between it and everything that matters.
+
 I decided I've had enough of this and decided to redo the network -- right this time. I'm not done, but this weekend I got most of the physical work hung.
 
 ![](/assets/posts/2006/o_network-project-20060604.jpg)
