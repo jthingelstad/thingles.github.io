@@ -10,7 +10,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <h3 class="post-description">{{ page.description }}</h3>
   <span class="post-date">
-    By {{ site.author }}, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>.
+    By {% if page.author %}{{page.author}}{% else %}{{ site.author }}{% endif %}, <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>.
   </span>
   {% if page.location %}
   <span class="post-location">
@@ -35,6 +35,13 @@ layout: default
     </ul>
   </div>
 
+  {% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+  {% assign page_year = page_year | plus: 0 %}
+  {% if page_year < 2012 %}
+    {% include warning_old_post.html %}
+  {% endif %}
+
   {{ content }}
+
 
 </div>
