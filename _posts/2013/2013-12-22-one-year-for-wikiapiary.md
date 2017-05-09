@@ -7,7 +7,8 @@ tags:
 ---
 
 Yesterday [WikiApiary](http://wikiapiary.com/) had a very _meta_ tweet when it wished itself Happy Birthday! A while back I realized that if you looked the edit history of the "Main Page" of a MediaWiki website you could infer the date the wiki was started, it’s birthday. WikiApiary then wishes wikis a happy birthday on that date. Yesterday was WikiApiary's big day.
-https://twitter.com/WikiApiary/status/414548099256684544
+
+{% include tweet.html tweet_url="https://twitter.com/WikiApiary/status/414548099256684544" %}
 
 [![WikiApiary Logo](/assets/posts/2013/WikiApiary-Logo.png)](http://wikiapiary.com/)The first year of WikiApiary has been great! The comments people make about it and the great contributions that many people have made to the wiki reflect the utility and interest in the data. WikiApiary was a holiday break project for me in 2012 and it’s continued to get additions and modifications from a number of people throughout the world. It is the first project I've started that I feel has gotten a true community around it and people that are moving it forward independent of what I’m doing. That is really great! This idea of a "_Wiki to track other wikis_" clearly caught on with some people.
 
