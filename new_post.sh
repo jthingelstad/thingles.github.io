@@ -6,7 +6,7 @@ DTITLE=`echo -n $TITLE | sed 's/ /-/g' | tr "[:upper:]" "[:lower:]"`
 
 DATE=`date +%Y-%m-%d`
 YEAR=`date +%Y`
-TIME=`date +%H:%M:%S`
+TIMESTAMP=`date '+%Y-%m-%d %H:%M:%S %z'`
 
 FILENAME=_posts/$YEAR/$DATE-$DTITLE.md
 
@@ -24,7 +24,7 @@ else
 ---
 title: $TITLE
 location: $LOC
-time: $TIME
+date: $TIMESTAMP
 ---
 
 EOF
