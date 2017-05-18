@@ -6,8 +6,10 @@ I'm in Minneapolis, MN. What I'm currently focused on.
 
   * Being a present and engaged father for my daughter (11) and son (7) as well as a loving husband for my wife.
   * Succeeding in continual transformation and growth of the [SPS Commerce](http://www.spscommerce.com) technology team and platform.
+  * Launching my [Weekly Thing](http://weekly.thingelstad.com/) newsletter.
   * Building traditions with family and friends at our new cabin.
   * Building a habit of journaling every day with [Day One](http://dayoneapp.com).
+  * Learning to play [horseshoes]({% post_url 2017/2017-05-17-horseshoe-pits-completed %})
   * Reconnecting with photography to give my creative dimension cycles.
   * Giving back to the local technology community through my volunteer engagement with [minnestar](http://minnestar.org).
   * Reading books that expand my understanding and appreciation of a variety of topics with my friends in R/W Book Club.
