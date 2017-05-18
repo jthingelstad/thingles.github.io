@@ -30,6 +30,9 @@ permalink:          /:year/:title/
 paginate:           10
 paginate_path:      /page:num/
 
+# Feed config
+feed_posts:         20
+
 # Markdown
 markdown:           kramdown
 kramdown:
