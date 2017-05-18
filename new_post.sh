@@ -22,9 +22,12 @@ else
 
   cat > $FILENAME <<EOF
 ---
-title: $TITLE
-location: $LOC
+title: "$TITLE"
+location: "$LOC"
 date: $TIMESTAMP
+description: 
+image: 
+tags: 
 ---
 
 EOF
