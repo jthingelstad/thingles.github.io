@@ -11,6 +11,6 @@ I met Phil at the observation deck at about 8:00 pm and there was no way I was g
 
 The sky was great, however, the wind was problematic. As I took the pictures they looked really amazing on the view screen however when I downloaded them you could see the wind had shook the camera and the stars were blurry. Instead of the great pinpoints of light I had captured yesterday I was getting these blobs of light. In miniature the pictures look amazing, in full size they look blurry. Very disappointing. I took a 32-minute star trails picture that did come out pretty good, probably the best shot of the night. You can see the library and the dome in the bottom part of the picture.
 
-![](/assets/posts/2005/o_star%2520trails.jpg)
+![]({{ site.url }}/assets/posts/2005/o_star%2520trails.jpg)
 
 We leave this morning for Santa Fe and bid farewell to the stargazing. I'm really glad we came here, even if the weather was not very accommodating. Mainly it was great to get 3-nights of personal attention on using telescopes and doing everything astronomy related with a pro like Phil. I now feel much more comfortable with my own telescope.

@@ -10,7 +10,7 @@ tags:
 <tbody >
 <tr >
 
-<td valign="top" >![](/assets/posts/2005/o_commute-left.jpg)
+<td valign="top" >![]({{ site.url }}/assets/posts/2005/o_commute-left.jpg)
 </td>
 
 <td valign="top" >
@@ -54,7 +54,7 @@ help the environment, and my body, all at the same time.
 
 </td>
 
-<td valign="top" >![](/assets/posts/2005/o_commute-right.jpg)
+<td valign="top" >![]({{ site.url }}/assets/posts/2005/o_commute-right.jpg)
 </td>
 </tr>
 </tbody>

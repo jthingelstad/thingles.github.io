@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/2014/inboxcount-week.png)
+![]({{ site.url }}/assets/posts/2014/inboxcount-week.png)
   
 
 

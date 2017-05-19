@@ -9,7 +9,7 @@ Ever since we've arrived in Asheville, Mazie has had a horrible time sleeping. S
 
 The sleep issues have driven her father to the brink. I left the grocery store tonight with two 50 foot rolls of tinfoil. You bet, tinfoil! I'm determined to get this kid to sleep better. The room she was trying to sleep in was too bright. _So there I was at 7:00pm tonight slapping tinfoil on all the windows to black out the room._ I have to admit that I felt a little crazy while doing it.
 
-![](/assets/posts/2006/o_20060921-092337-8657.jpeg)
+![]({{ site.url }}/assets/posts/2006/o_20060921-092337-8657.jpeg)
 
 So far it's worked. She went down on her own (first time in Asheville!) and is still asleep. I only hope that she makes it the whole night. Oh please, oh please...
 

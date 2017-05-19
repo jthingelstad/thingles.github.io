@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![](/assets/posts/2014/20140608-174230-63750456.jpg)
+![]({{ site.url }}/assets/posts/2014/20140608-174230-63750456.jpg)
   
 
 

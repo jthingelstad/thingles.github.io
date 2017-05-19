@@ -12,6 +12,6 @@ Happily he now breaths [Ruby](http://www.ruby-lang.org/en/) with the [Twitter4R]
 
 Thinglesbot's followers fell off a lot when he went silent for months. We'll see if they pick up again. He currently has 18 followers.
 
-![thinglesbot-followers-200903.png](/assets/posts/2009/thinglesbot-followers-200903.png)
+![thinglesbot-followers-200903.png]({{ site.url }}/assets/posts/2009/thinglesbot-followers-200903.png)
 
 Welcome back!

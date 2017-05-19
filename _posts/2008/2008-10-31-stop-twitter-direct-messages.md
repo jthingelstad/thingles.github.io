@@ -14,7 +14,7 @@ I'd thought for a while that part of a Twitter Pro premium service could be to t
 
 The first thing to do is tell Twitter to stop notifying you of a direct message. Go to your account Settings and in the Notices tab uncheck the Direct Text emails option.
 
-![direct-text-email-setting.png](/assets/posts/2008/direct-text-email-setting.png)
+![direct-text-email-setting.png]({{ site.url }}/assets/posts/2008/direct-text-email-setting.png)
 
 Now, this 28-line Ruby program will simply respond (via direct message) to any direct messages you have received and then delete the direct message from your account, leaving no queue behind. If you don't like the delete, you can just comment out line 24. To make life easy this uses the [Twitter4R library for Ruby](http://twitter4r.rubyforge.org/). You will have to edit lines 9 and 19 to your credentials and personal message.
 

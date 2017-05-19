@@ -6,7 +6,7 @@ categories:
 
 We've had the Vitamix for about three months now and a morning smoothie has become part of our routine now. We use the Vitamix for many other things as well, but most mornings it will be stacked like this.
 
-![](/assets/posts/2012/Morning-Smoothie-Before.jpg)
+![]({{ site.url }}/assets/posts/2012/Morning-Smoothie-Before.jpg)
 
 <!-- more -->
 
@@ -16,6 +16,6 @@ I will typically splash a little almond milk in and pour a teaspoon or so of chi
 
 A few seconds later and I've got a delicious smoothie!
 
-![](/assets/posts/2012/Morning-Smoothie-Blended.jpg)
+![]({{ site.url }}/assets/posts/2012/Morning-Smoothie-Blended.jpg)
 
 The only thing not great is that the green spinach and colorful berries tend to make a brown smoothie. But it tastes awesome!

@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![](/assets/posts/2011/tyler-in-the-art-table.jpg)
+![]({{ site.url }}/assets/posts/2011/tyler-in-the-art-table.jpg)
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Cabin
 ---
 
-![](/assets/posts/2014/IMG_2970.jpg)
+![]({{ site.url }}/assets/posts/2014/IMG_2970.jpg)
   
 
 

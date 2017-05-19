@@ -6,7 +6,7 @@ tags:
 - WordPress
 ---
 
-I got a fun opportunity to attend a really nice event hosted by [True Ventures](http://www.trueventures.com/), [Automattic](http://automattic.com/), [Sphere](http://www.sphere.com/), [New York Times](http://www.nytimes.com/) and [Hearst Interactive](http://www.hearst.com/interactive_media/) at the [Hearst Tower](http://hearst.com/hearsttower/). It was a collection of who's who in the publishing/media sector and some great companies with some innovative web stuff. Big thanks to [Raanan](http://raanan.com/) over at Automattic for thinking of me. Two fanboy moments of chatting with [Matt Mullenweg](http://ma.tt/), the creator of [WordPress](/assets/posts/2008//img) and [Lindsay Campbell](http://lindsaycampbell.com/) formerly of [Wall Strip](http://www.wallstrip.com/) and now at [MobLogic.tv](http://www.moblogic.tv/).
+I got a fun opportunity to attend a really nice event hosted by [True Ventures](http://www.trueventures.com/), [Automattic](http://automattic.com/), [Sphere](http://www.sphere.com/), [New York Times](http://www.nytimes.com/) and [Hearst Interactive](http://www.hearst.com/interactive_media/) at the [Hearst Tower](http://hearst.com/hearsttower/). It was a collection of who's who in the publishing/media sector and some great companies with some innovative web stuff. Big thanks to [Raanan](http://raanan.com/) over at Automattic for thinking of me. Two fanboy moments of chatting with [Matt Mullenweg](http://ma.tt/), the creator of [WordPress]({{ site.url }}/assets/posts/2008//img) and [Lindsay Campbell](http://lindsaycampbell.com/) formerly of [Wall Strip](http://www.wallstrip.com/) and now at [MobLogic.tv](http://www.moblogic.tv/).
 
 
 

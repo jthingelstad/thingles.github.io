@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/2009/9130112bab4445a7fdc5e672d3a989a3.png)
+![]({{ site.url }}/assets/posts/2009/9130112bab4445a7fdc5e672d3a989a3.png)
   
 
 

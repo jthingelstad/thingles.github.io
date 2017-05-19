@@ -8,7 +8,7 @@ tags:
 
 Yesterday I took my first attempt at doing studio photography. I've done a variety of different shooting, but I hadn't yet attempted to set up lighting and do studio style portrait work. I've accumulated the bare essentials to do this over the last few months. I've got a Manfrotto Background Support system, one continuous light and the wireless system for my two Canon flashes. I learned quickly that is barely enough lighting to shoot with.
 
-![20090307-142058-9113.jpg](/assets/posts/2009/20090307-142058-9113.jpg)
+![20090307-142058-9113.jpg]({{ site.url }}/assets/posts/2009/20090307-142058-9113.jpg)
 
 I got everything set up and did photos of Mazie and her cousin Nora, followed by shots of our neighbors three kids. Free photos of your kids is a pretty easy way to practice studio portrait shooting. :-)
 

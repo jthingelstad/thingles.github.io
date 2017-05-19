@@ -6,7 +6,7 @@ tags:
 - Coffee
 ---
 
-![](/assets/posts/2009/5d2b746fb0c3d631f7945e826e3e8b2f.png)
+![]({{ site.url }}/assets/posts/2009/5d2b746fb0c3d631f7945e826e3e8b2f.png)
   
 
 

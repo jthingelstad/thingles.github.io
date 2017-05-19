@@ -5,7 +5,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/2006/headphones.jpg)
+![]({{ site.url }}/assets/posts/2006/headphones.jpg)
 
 I stepped off of my last flight, from Dallas to Minneapolis, and wanted to immediately go and get a pair of noise canceling headphones. I made a rookie mistake. Hoping for an empty middle seat back in coach I had moved from a row in the middle of the plane to the last row in the plane. I lost my bet when they shoved one last person onto the plane to sit in between me and the other guy in our row.
 

@@ -6,7 +6,7 @@ tags:
 - Apple
 ---
 
-![](/assets/posts/2009/40946a1ef6d273e7e14fce9332cbb4e6.jpg)
+![]({{ site.url }}/assets/posts/2009/40946a1ef6d273e7e14fce9332cbb4e6.jpg)
   
 
 

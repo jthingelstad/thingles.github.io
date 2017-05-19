@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-![](/assets/posts/2010/l_2048_1536_265381C8-95B0-4511-BD1A-C17DA019D0E0.jpeg)
+![]({{ site.url }}/assets/posts/2010/l_2048_1536_265381C8-95B0-4511-BD1A-C17DA019D0E0.jpeg)
   
 
 

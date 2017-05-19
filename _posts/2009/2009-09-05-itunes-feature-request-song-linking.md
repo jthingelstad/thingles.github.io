@@ -15,7 +15,7 @@ http://www.amazon.com/gp/product/B0000009OI?ie=UTF8&tag=thingelstad-20&linkCode=
 
 So, after all this iTunes looks like this.
 
-![Multiple-Songs-iTunes-Linking](/assets/posts/2009/Multiple-Songs-iTunes-Linking.png)
+![Multiple-Songs-iTunes-Linking]({{ site.url }}/assets/posts/2009/Multiple-Songs-iTunes-Linking.png)
 
 So, what would song linking do? Song Linking would allow to me select multiple songs and then **link** selected metadata for those songs. The songs would be unchanged in their various album locations, but I could have the option to link play count and last played date. These are **not** independent songs and when building a smart playlist based on last played date they should be treated as linked. They are independent songs if you are playing any of the albums that they are on.
 

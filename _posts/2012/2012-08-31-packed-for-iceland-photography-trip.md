@@ -7,7 +7,7 @@ tags:
 - Iceland
 ---
 
-![](/assets/posts/2012/20120831-072654.jpg)
+![]({{ site.url }}/assets/posts/2012/20120831-072654.jpg)
 
 I finished packing my kit to head to Iceland for a week of photography tonight. Here is what I decided to put in my camera backpack:
 

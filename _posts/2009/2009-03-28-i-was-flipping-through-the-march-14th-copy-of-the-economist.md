@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![](/assets/posts/2009/7ac0207998df41322cafbf503d0f13b6.jpg)
+![]({{ site.url }}/assets/posts/2009/7ac0207998df41322cafbf503d0f13b6.jpg)
   
 
 

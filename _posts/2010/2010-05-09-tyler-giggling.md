@@ -7,6 +7,6 @@ tags:
 ---
 
 Tyler loves to giggle.
-[![](/assets/posts/2010/Tyler-Giggling.jpg)](/assets/posts/2010/Tyler-Giggling.jpg)
+[![]({{ site.url }}/assets/posts/2010/Tyler-Giggling.jpg)]({{ site.url }}/assets/posts/2010/Tyler-Giggling.jpg)
 
 Happy Baby!

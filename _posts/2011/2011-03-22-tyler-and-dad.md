@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2011/tyler-and-dad.jpg)
+![]({{ site.url }}/assets/posts/2011/tyler-and-dad.jpg)

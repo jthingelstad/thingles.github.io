@@ -9,7 +9,7 @@ tags:
 **Today's Stats:** Moving Time **3h 54m **Distance **9.2 miles** Ascent **1,656'** Max Elevation **4,822'**
 
 
-![](/assets/posts/2004/r_hike6.png)
+![]({{ site.url }}/assets/posts/2004/r_hike6.png)
 
 We had the dessert course of our hiking trip today. Today's hike was an easier hike with some great views and a wonderful trek through history. We started our trip by grabbing a bus from Sils Maria to the small village of Casaccia. This bus descended down the Molaja Pass which is perhaps the most winding, twisty road I've ever seen. The bus has a special horn that it blows from time to time as it goes down to let traffic know it's there, as the bus requires the entire road to make it around the hairpin switchbacks.
 
@@ -25,10 +25,10 @@ Another really cool thing about today's hike was a section of the trail that is 
 
 We got our first glimpse of Soglio and it was so picteresque. Soglio isn't in the valley and the first glimpse from the trail didn't give the details of the ancient city inside. I've never seen a town with such narrow alleyways and corridors between buildings. It feels like you are walking in another century as you walk through the village.
 
-![](/assets/posts/2004/r_profile-day6.png)
+![]({{ site.url }}/assets/posts/2004/r_profile-day6.png)
 
 Tomorrow we start our journey back home. We head to Zurich and then the following day fly back home to Minneapolis. It's been a great time. Memorable in so many ways. The hiking trip was just great. Six days of hiking and 63 miles later I can't believe that I wish it wasn't ending.
 
 This is a map that shows our six days of hiking all together. You can see the gaps in the first half of the trip that were taken by train. The last half of the trip is all on foot.
 
-![](/assets/posts/2004/r_hike-all.png)
+![]({{ site.url }}/assets/posts/2004/r_hike-all.png)

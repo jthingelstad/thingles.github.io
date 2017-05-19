@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![britax-marathon](/assets/posts/2006/britax-marathon.jpg)
+![britax-marathon]({{ site.url }}/assets/posts/2006/britax-marathon.jpg)
 
 We got Mazie's next car seat today, a [Britax Marathon](http://www.britaxusa.com/products.cfm?action=ShowProduct&pro_id=7C71C785-4FBA-422D-83DC419B3D5B8213). They had a sporting pink one with flowers all over it, but we went for the more neutral and car appropriate (oh, and washable) version.
 

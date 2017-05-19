@@ -5,7 +5,7 @@ categories:
 ---
 
 This morning when I checked my email I found many more unread messages than typical. A bit concerned, I found many [PayPal](http://www.paypal.com/) messages.
-![paypal-transactions](/assets/posts/2009/paypal-transactions.png)
+![paypal-transactions]({{ site.url }}/assets/posts/2009/paypal-transactions.png)
 
 That isn't a great way to start the day. You see, I have no idea who "NC Interactive, Inc." is. Additionally, I can tell you that at that time I was fast asleep getting a good nights rest. Ugh!
 

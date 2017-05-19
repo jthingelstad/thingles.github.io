@@ -9,7 +9,7 @@ tags:
 - Summer of Love
 ---
 
-![20080524-111754-1456.jpg](/assets/posts/2008/20080524-111754-1456.jpg)
+![20080524-111754-1456.jpg]({{ site.url }}/assets/posts/2008/20080524-111754-1456.jpg)
 
 Today my little girl turns three years old! **Happy Birthday Mazie!**
 

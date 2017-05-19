@@ -9,47 +9,47 @@ I'm a big fan of high resolution album art. It improves the overall music experi
 
 
   
-   ![](/assets/posts/2008/carreras-domingo-pavarotti-favorite-arias-by-the-worlds-favorite-tenors.jpg)
+   ![]({{ site.url }}/assets/posts/2008/carreras-domingo-pavarotti-favorite-arias-by-the-worlds-favorite-tenors.jpg)
   
 
   
-   ![](/assets/posts/2008/carreras-domingo-pavarotti-in-concert-mehta.jpg)
+   ![]({{ site.url }}/assets/posts/2008/carreras-domingo-pavarotti-in-concert-mehta.jpg)
   
 
   
-   ![](/assets/posts/2008/dan-wilson-sugar-ep.jpg)
+   ![]({{ site.url }}/assets/posts/2008/dan-wilson-sugar-ep.jpg)
   
 
   
-   ![](/assets/posts/2008/gamble-family-christmas.jpg)
+   ![]({{ site.url }}/assets/posts/2008/gamble-family-christmas.jpg)
   
 
   
-   ![](/assets/posts/2008/gauge-soothe.jpg)
+   ![]({{ site.url }}/assets/posts/2008/gauge-soothe.jpg)
   
 
   
-   ![](/assets/posts/2008/jazz-masters-volume-1.jpg)
+   ![]({{ site.url }}/assets/posts/2008/jazz-masters-volume-1.jpg)
   
 
   
-   ![](/assets/posts/2008/mark-pilon-instrumental.jpg)
+   ![]({{ site.url }}/assets/posts/2008/mark-pilon-instrumental.jpg)
   
 
   
-   ![](/assets/posts/2008/sugar-if-i-cant-change-your-mind-2.jpg)
+   ![]({{ site.url }}/assets/posts/2008/sugar-if-i-cant-change-your-mind-2.jpg)
   
 
   
-   ![](/assets/posts/2008/the-mike-hosty-trio-gusto.jpg)
+   ![]({{ site.url }}/assets/posts/2008/the-mike-hosty-trio-gusto.jpg)
   
 
   
-   ![](/assets/posts/2008/trip-shakespeare-epic-renditions.jpg)
+   ![]({{ site.url }}/assets/posts/2008/trip-shakespeare-epic-renditions.jpg)
   
 
   
-   ![](/assets/posts/2008/unseasonably-cool-featuring-laura-schlieske-hot-jazz-from-the-northland.jpg)
+   ![]({{ site.url }}/assets/posts/2008/unseasonably-cool-featuring-laura-schlieske-hot-jazz-from-the-northland.jpg)
   
 
 

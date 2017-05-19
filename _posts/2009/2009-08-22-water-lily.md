@@ -6,7 +6,7 @@ tags:
 - Canon
 ---
 
-![](/assets/posts/2009/20090822-145825-10237.jpg)
+![]({{ site.url }}/assets/posts/2009/20090822-145825-10237.jpg)
   
 
 

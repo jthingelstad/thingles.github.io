@@ -8,4 +8,4 @@ tags:
 
 Got a kicking Ford Transit to explore Iceland Euro-style.
 
-![](/assets/posts/2012/20120901-084507.jpg)
+![]({{ site.url }}/assets/posts/2012/20120901-084507.jpg)

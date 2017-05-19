@@ -8,9 +8,9 @@ For my birthday this year Tammy surprised me with a new lens for my camera. She 
 
 Here is an example shot with both lenses. Note the toaster is in the center of both shots. The one of the left is taken with my [EF-S 17-85mm f/4-5.6 IS USM lens](http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=149&modelid=10511). (Click on the image to see a larger picture.)
 
-![](/assets/posts/2006/new_camera_lens_20060103-173300-4937c2_preview.jpg)
+![]({{ site.url }}/assets/posts/2006/new_camera_lens_20060103-173300-4937c2_preview.jpg)
 
-![](/assets/posts/2006/new_camera_lens_20060103-173318-4938c_preview.jpg)
+![]({{ site.url }}/assets/posts/2006/new_camera_lens_20060103-173318-4938c_preview.jpg)
 
 You can see how much wider the shot is right away. There is some distortion on the corners of the shot which is unavoidable with such a wide lens.
 

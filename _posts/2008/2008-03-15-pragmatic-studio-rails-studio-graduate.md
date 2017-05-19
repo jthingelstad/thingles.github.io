@@ -6,7 +6,7 @@ tags:
 - Ruby
 ---
 
-![rails-alumni-button.png](/assets/posts/2008/rails-alumni-button1.png)**I graduated!** Or, well, at least I got the certificate!
+![rails-alumni-button.png]({{ site.url }}/assets/posts/2008/rails-alumni-button1.png)**I graduated!** Or, well, at least I got the certificate!
 I finally took the plunge this week and took Rails Studio after thinking about it many times. I blogged a day-by-day account -- [day 1](http://www.slashthing.com/pragmatic-studio-rails-studio-day-1/), [day 2](http://www.slashthing.com/pragmatic-studio-rails-studio-day-2/), [day 3](http://www.slashthing.com/pragmatic-studio-rails-studio-day-3/). It's been a long, long time since I've coded anything significant and I'm hoping to get a bit closer to it in some projects coming up. This class was my plunge into Rails.
 
 While I've been away from the keys for a while, I've been very familiar with a number of frameworks and have personally seen teams struggle and thrive in different frameworks. I've really taken note of the "weight" of a framework and the effect it has on a programming team. Something that I think is far too often ignored. We focus on scale, "enterprise readiness" (another topic to post about) and forget that at the end of the day a bunch of developers have to live inside this thing -- and it needs to be nice and hopefully fun.

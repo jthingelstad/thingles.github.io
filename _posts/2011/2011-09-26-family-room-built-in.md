@@ -7,7 +7,7 @@ tags:
 - Remodel
 ---
 
-![](/assets/posts/2011/20110926-195840.jpg)
+![]({{ site.url }}/assets/posts/2011/20110926-195840.jpg)
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/2005/o_thingelstad-data-center.jpg)Over the last few months I've been on a steady march to increase my server capacity at home. Why? I'm not entirely sure why. How about it's fun? :-)
+![]({{ site.url }}/assets/posts/2005/o_thingelstad-data-center.jpg)Over the last few months I've been on a steady march to increase my server capacity at home. Why? I'm not entirely sure why. How about it's fun? :-)
 
 I decided to take a plunge into the deep end and get a rack for home. Getting the rack took up more space for just one or two servers, but as I add infrastructure it is much more compact. I went with the [APC NetShelter VX 25U](http://www.cdw.com/shop/products/default.aspx?EDC=593656) rack. I wanted to get a rack that had good depth and solid build. It also has removable sides and doors to make it very easy to get into. Overall, I like it a lot but it's very heavy. Hopefully I don't have to move it anytime soon.
 

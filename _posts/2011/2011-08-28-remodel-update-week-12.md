@@ -10,25 +10,25 @@ We are entering the home stretch on the remodeling project. The work now is no l
 
 This week the tile is going to be installed in the mudroom and more finish work. We are still really excited about the project and can't wait to start living in the new spaces!
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-150555-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-150555-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-150752-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-150752-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-150931-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-150931-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-150945-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-150945-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151006-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151006-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151110-0001-2.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151110-0001-2.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151154-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151154-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151222-0001-2.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151222-0001-2.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151229-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151229-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-151256-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-151256-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-12/20110828-150855-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-12/20110828-150855-0001.jpg)
 

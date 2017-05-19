@@ -9,15 +9,15 @@ More high-resolution album art for others that may have these albums: Chan Polin
 
 
   
-   ![](/assets/posts/2009/Chan-Poling-Calling-All-Stars.jpg)
+   ![]({{ site.url }}/assets/posts/2009/Chan-Poling-Calling-All-Stars.jpg)
   
 
   
-   ![](/assets/posts/2009/Cities-97-Volume-8-Cover.jpg)
+   ![]({{ site.url }}/assets/posts/2009/Cities-97-Volume-8-Cover.jpg)
   
 
   
-   ![](/assets/posts/2009/Dan-Wilson-Live-at-Pantages.jpg)
+   ![]({{ site.url }}/assets/posts/2009/Dan-Wilson-Live-at-Pantages.jpg)
   
 
 

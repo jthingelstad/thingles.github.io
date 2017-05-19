@@ -7,7 +7,7 @@ tags:
 - Presentations
 ---
 
-[![code_freeze_08_logo.jpg](/assets/posts/2007/code-freeze-08-logo1.jpg)](http://www.umsec.umn.edu/code_freeze_08/)I'm presenting at [Code Freeze 2008](http://www.umsec.umn.edu/code_freeze_08/) in January. The title of my presentation is _Innovation in Product Development_.
+[![code_freeze_08_logo.jpg]({{ site.url }}/assets/posts/2007/code-freeze-08-logo1.jpg)](http://www.umsec.umn.edu/code_freeze_08/)I'm presenting at [Code Freeze 2008](http://www.umsec.umn.edu/code_freeze_08/) in January. The title of my presentation is _Innovation in Product Development_.
 
 > Everyone wants to have the next hot product. We are constantly "pushing
 the envelope" and "thinking out of the box". We have the aspiration, but

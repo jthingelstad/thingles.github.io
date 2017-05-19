@@ -6,10 +6,10 @@ categories:
 
 Got this a while back on my iPhone.
 
-![](/assets/posts/2012/PayPal-Privacy-Terms-Confirm.png)
+![]({{ site.url }}/assets/posts/2012/PayPal-Privacy-Terms-Confirm.png)
 
 That gave this.
 
-![](/assets/posts/2012/PayPal-Privacy-Terms-Detail.jpg)
+![]({{ site.url }}/assets/posts/2012/PayPal-Privacy-Terms-Detail.jpg)
 
 You got that right? Good.

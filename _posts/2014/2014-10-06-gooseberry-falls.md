@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![](/assets/posts/2014/IMG_2482.jpg)
+![]({{ site.url }}/assets/posts/2014/IMG_2482.jpg)
   
 
 

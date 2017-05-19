@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![](/assets/posts/2005/o_Mazie%2520Angry.jpg)
+![]({{ site.url }}/assets/posts/2005/o_Mazie%2520Angry.jpg)
 
 
 Tomorrow Mazie celebrates becoming three weeks old. She is filled with anticipation of exciting "three-week-old" things like having some milk, making some dirty diapers, maybe even taking an extra nap in the afternoon.

@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-[![typography-desk-reference.jpg](/assets/posts/2009/typography-desk-reference.jpg)](http://typedeskref.com/)A couple of weeks ago I was reading one of my favorite typography websites, [I Love Typography](http://ilovetypography.com/), and saw their [article about Theodore Rosendorf's The Typographic Desk Reference](http://ilovetypography.com/2009/04/21/the-typographic-desk-reference/). I was intrigued right away.
+[![typography-desk-reference.jpg]({{ site.url }}/assets/posts/2009/typography-desk-reference.jpg)](http://typedeskref.com/)A couple of weeks ago I was reading one of my favorite typography websites, [I Love Typography](http://ilovetypography.com/), and saw their [article about Theodore Rosendorf's The Typographic Desk Reference](http://ilovetypography.com/2009/04/21/the-typographic-desk-reference/). I was intrigued right away.
 In recent years I've become much more interested in typography. In fact, on my own website I always push for layouts that focus on typography over graphics. I've been practically giddy recently when discussing the potential of [@font-face](http://www.w3.org/TR/css3-webfonts/) in web design with [Garrick Van Buren](http://garrickvanburen.com/) (stay tuned to his [Kernest](http://www.kernest.com/) project by the way). I'm not a student of type, as I'm not a student of art. However, that doesn't keep me from admiring beautiful type and appreciating the subtle elegance of a great type.
 
 <!-- more -->

@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/2005/r_million.jpg)
+![]({{ site.url }}/assets/posts/2005/r_million.jpg)
 
 
 Tammy and I went to see [Million Dollar Baby](http://www.imdb.com/title/tt0405159/) at the late matinee today. You would have to live under a rock to not have heard some of the publicity surrounding this movie, but I really didn't know much about the plot. It's a great story about a woman that is extremely persistant and gives everything to realize her dream as a boxer.

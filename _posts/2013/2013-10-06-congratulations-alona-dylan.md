@@ -56,61 +56,61 @@ On September 27th my sister Alona tied the knot with her fiancé Dylan! They had
 
 Here are the photos I took. I also [put them on Facebook](https://www.facebook.com/thingles/media_set?set=a.10151605255051058.1073741825.605776057&type=1) for all the people that like that kind of thing, but I'm also putting them here so they are still around after Facebook (A.F.).
 
-![](/assets/posts/2013/20130927-161713-17348.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-161713-17348.jpg)
 
-![](/assets/posts/2013/20130927-161738-17354.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-161738-17354.jpg)
 
-![](/assets/posts/2013/20130927-164406-17360.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-164406-17360.jpg)
 
-![](/assets/posts/2013/20130927-164655-17364.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-164655-17364.jpg)
 
-![](/assets/posts/2013/20130927-164720-17367.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-164720-17367.jpg)
 
-![](/assets/posts/2013/20130927-172025-17370.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172025-17370.jpg)
 
-![](/assets/posts/2013/20130927-172040-17374.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172040-17374.jpg)
 
-![](/assets/posts/2013/20130927-172106-17386.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172106-17386.jpg)
 
-![](/assets/posts/2013/20130927-172138-17389.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172138-17389.jpg)
 
-![](/assets/posts/2013/20130927-172322-17396.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172322-17396.jpg)
 
-![](/assets/posts/2013/20130927-172615-17401.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172615-17401.jpg)
 
-![](/assets/posts/2013/20130927-172804-17408.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172804-17408.jpg)
 
-![](/assets/posts/2013/20130927-172938-17419.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-172938-17419.jpg)
 
-![](/assets/posts/2013/20130927-173018-17421.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-173018-17421.jpg)
 
-![](/assets/posts/2013/20130927-173631-17436.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-173631-17436.jpg)
 
-![](/assets/posts/2013/20130927-173923-17440.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-173923-17440.jpg)
 
-![](/assets/posts/2013/20130927-173935-17441.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-173935-17441.jpg)
 
-![](/assets/posts/2013/20130927-202216-17442.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202216-17442.jpg)
 
-![](/assets/posts/2013/20130927-202225-17445.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202225-17445.jpg)
 
-![](/assets/posts/2013/20130927-202241-17448.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202241-17448.jpg)
 
-![](/assets/posts/2013/20130927-202249-17457.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202249-17457.jpg)
 
-![](/assets/posts/2013/20130927-202250-17458.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202250-17458.jpg)
 
-![](/assets/posts/2013/20130927-202256-17464.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202256-17464.jpg)
 
-![](/assets/posts/2013/20130927-202318-17466.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202318-17466.jpg)
 
-![](/assets/posts/2013/20130927-202530-17477.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202530-17477.jpg)
 
-![](/assets/posts/2013/20130927-202540-17485.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202540-17485.jpg)
 
-![](/assets/posts/2013/20130927-202554-17489.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202554-17489.jpg)
 
-![](/assets/posts/2013/20130927-202555-17491.jpg)
+![]({{ site.url }}/assets/posts/2013/20130927-202555-17491.jpg)
 
 
 It was a great evening filled with family and fun. Congrats to my sister and her new husband and I wish them years of wedded bliss!

@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2010/flush_game.jpg)
+![]({{ site.url }}/assets/posts/2010/flush_game.jpg)
   
 
 

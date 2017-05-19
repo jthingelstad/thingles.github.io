@@ -3,7 +3,7 @@ title: Spotlight
 tags: Movies
 ---
 
-[![Spotlight](/assets/posts/2016/Spotlight-Movie-Poster.jpg)][spotlight]
+[![Spotlight]({{ site.url }}/assets/posts/2016/Spotlight-Movie-Poster.jpg)][spotlight]
 
 Tammy and I saw [Spotlight][] last night, part of our watching each Academy Award Best Picture nominee. I was blown away. It was a fabulous movie and I can see why it won the award. It also highlights the critical role of journalism in our society, the kind of journalism that is happening less and less. The movie does a great job of showing how this massive scandal was being covered up. It’s also interesting to watch the movie while this issue continues to reverberate through the Catholic church. The story isn't done being written yet.
 

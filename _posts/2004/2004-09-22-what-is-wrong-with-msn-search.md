@@ -10,7 +10,7 @@ I've been having some "fun" (that's in the geekiest sense of the word in this ca
 
 Anyway, I was looking at spider activity and this just stunned me.
 
-![](/assets/posts/2004/r_Top_Spiders.png)
+![]({{ site.url }}/assets/posts/2004/r_Top_Spiders.png)
 
 What is wrong with MSN!? They have hit our site **four times** more than any other spider out there. That seems a bit excessive! Gotta wonder if that is the norm for them.
 

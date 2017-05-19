@@ -6,7 +6,7 @@ tags:
 - School
 ---
 
-![](/assets/posts/2009/b92a8a6e1a08102afb1f28887965467d.png)
+![]({{ site.url }}/assets/posts/2009/b92a8a6e1a08102afb1f28887965467d.png)
   
 
 

@@ -9,8 +9,8 @@ I have a 30" cinema display that I mounted this on. I had to adjust the tension 
 
 I like it enough I may need to get one for home too! (For comparison, that is an 11" MacBook Air next to the display.)
 
-[![](/assets/posts/2011/monitor-arm-1.jpg)](/assets/posts/2011/monitor-arm-1.jpg)
+[![]({{ site.url }}/assets/posts/2011/monitor-arm-1.jpg)]({{ site.url }}/assets/posts/2011/monitor-arm-1.jpg)
 
 I'm not in love with the cable management, but it works well enough. I could do better with some extra zip ties in a cleanup session.
 
-[![](/assets/posts/2011/monitor-arm-2.jpg)](/assets/posts/2011/monitor-arm-2.jpg)
+[![]({{ site.url }}/assets/posts/2011/monitor-arm-2.jpg)]({{ site.url }}/assets/posts/2011/monitor-arm-2.jpg)

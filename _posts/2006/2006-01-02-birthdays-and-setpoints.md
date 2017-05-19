@@ -7,7 +7,7 @@ tags:
 - Tammy
 ---
 
-![Happy Birthday](/assets/posts/2006/birthdays_and_setpoints_happy_birthday.jpg)
+![Happy Birthday]({{ site.url }}/assets/posts/2006/birthdays_and_setpoints_happy_birthday.jpg)
 
 Tomorrow is my birthday, or more appropriately, in about an hour it"ll be my birthday. I"m turning 34 this year and there will be grand festivities for sure. I'm taking the day off of work and spending it with my wonderful wife and daughter. I never made that much of birthdays until I met Tammy. She really considers it a big deal, and likes to go all out for the day. If it"s your birthday, it is _your_ day without exception.
 

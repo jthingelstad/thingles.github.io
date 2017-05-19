@@ -6,7 +6,7 @@ tags:
 - Kubb
 ---
 
-![](/assets/posts/2013/image.jpg)
+![]({{ site.url }}/assets/posts/2013/image.jpg)
   
 
 

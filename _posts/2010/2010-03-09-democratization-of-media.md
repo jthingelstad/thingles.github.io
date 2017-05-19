@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2010/G-Love-and-Garrick.jpg)
+![]({{ site.url }}/assets/posts/2010/G-Love-and-Garrick.jpg)
   
 
 

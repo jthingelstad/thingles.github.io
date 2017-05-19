@@ -9,7 +9,7 @@ tags:
 **Today's Stats:** Moving Time** 4h 13m** Distance** 9.6 miles** Ascent** 2,956'** Max Elevation **8,520'**
 
 
-![](/assets/posts/2004/r_hike2.png)
+![]({{ site.url }}/assets/posts/2004/r_hike2.png)
 
 When we were in France we spent at least 100â‚¬ on water in one form or another. The water out of the tap tasted hideous and restaurants treated it like gold. Here in the Engadine region of Switzerland, Evian flows into your morning bath! All of these villages have these great public fountains flowing with cold, wonderful water that you can fill up your bottles to your hearts content with. These are all over the place and are a key enabler to the long distance hiking that is so common in this area.
 
@@ -21,6 +21,6 @@ Our destination was the Chamanna Des-Cha Hut where we had a great lunch. We brou
 
 Descending those 900 meters was in some ways harder than the ascent. It really kills your legs, knees and feet in such a different way. My toes were aching on the descents and I was pleasantly surprised when I finally got my boots off and found that I did **not **have any blisters. Tammy chose to wear her Keen hiking sandals and it worked great for her, although her feet felt tires I think due to the lack of support.
 
-![](/assets/posts/2004/r_profile-day2.png)
+![]({{ site.url }}/assets/posts/2004/r_profile-day2.png)
 
 My legs are feeling pretty tired today. Tomorrow we are going to be in a town that will have spa facilities and I think I'll look for a massage to rub out some of the ache.

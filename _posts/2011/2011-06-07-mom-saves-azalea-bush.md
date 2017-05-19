@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2011/mom-saves-azalea-bush.jpg)
+![]({{ site.url }}/assets/posts/2011/mom-saves-azalea-bush.jpg)
   
 
 

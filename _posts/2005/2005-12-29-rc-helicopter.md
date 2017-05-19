@@ -4,7 +4,7 @@ categories:
 - Hobbies
 ---
 
-![](/assets/posts/2005/o_EK1H-E012B.jpg)
+![]({{ site.url }}/assets/posts/2005/o_EK1H-E012B.jpg)
 
 
 My friend Chris ([get a site!](http://www.tersteeg.org/)), who is constantly finding new things to get into and get everyone he knows excited in, recently decided to turn his OCD towards RC helicopters.

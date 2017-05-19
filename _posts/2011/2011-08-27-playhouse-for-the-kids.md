@@ -14,23 +14,23 @@ The playhouse didn't have a floor so we made a trip to Home Depot and got the st
 
 
   
-   ![](/assets/posts/2011/Platform-in-place.jpg)
+   ![]({{ site.url }}/assets/posts/2011/Platform-in-place.jpg)
   
 
   
-   ![](/assets/posts/2011/Playhouse-1.jpg)
+   ![]({{ site.url }}/assets/posts/2011/Playhouse-1.jpg)
   
 
   
-   ![](/assets/posts/2011/Playhouse-2.jpg)
+   ![]({{ site.url }}/assets/posts/2011/Playhouse-2.jpg)
   
 
   
-   ![](/assets/posts/2011/Putting-cedar-deck-on.jpg)
+   ![]({{ site.url }}/assets/posts/2011/Putting-cedar-deck-on.jpg)
   
 
   
-   ![](/assets/posts/2011/Support-Joists.jpg)
+   ![]({{ site.url }}/assets/posts/2011/Support-Joists.jpg)
   
 
 

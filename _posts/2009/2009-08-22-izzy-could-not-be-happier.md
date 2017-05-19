@@ -11,15 +11,15 @@ We had a wonderful time at the Off-leash Dog Park this afternoon. Izzy particula
 
 
   
-   ![](/assets/posts/2009/20090822-174144-10346.jpg)
+   ![]({{ site.url }}/assets/posts/2009/20090822-174144-10346.jpg)
   
 
   
-   ![](/assets/posts/2009/20090822-174145-10347.jpg)
+   ![]({{ site.url }}/assets/posts/2009/20090822-174145-10347.jpg)
   
 
   
-   ![](/assets/posts/2009/20090822-174145-10348.jpg)
+   ![]({{ site.url }}/assets/posts/2009/20090822-174145-10348.jpg)
   
 
 

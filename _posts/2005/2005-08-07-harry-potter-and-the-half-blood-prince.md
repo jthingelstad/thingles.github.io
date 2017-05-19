@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-![](/assets/posts/2005/o_HarryPotter-TheHalfBloodPrince.jpg)
+![]({{ site.url }}/assets/posts/2005/o_HarryPotter-TheHalfBloodPrince.jpg)
 
 
 I just finished [Harry Potter and the Half-Blood Prince](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?ISBN=0439784549). I rifled my way through the sixth installment of the Harry Potter series much faster than the [Order of the Phoenix](/thingelstad/harry-potter-and-the-order-of-the-phoenix). I found the Half-Blood Prince to be one of my favorite in the series in a very odd way. The story was different than the last five books. Each of them seemed to have a very finite start and finish. The books would start, there would be some very interesting story, and then after a climactic conclusion everyone would head home for the summer. This one had a different feel. It seemed like it was distinctly setting up something big to go down in what everyone expects to be the final, seventh book, in the series.

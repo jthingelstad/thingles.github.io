@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2005/o_CCR-Chronicles1.jpg)This is a rather pointless post but I wanted to share that I think Ihave found the best music for mowing the lawn, ever. Every weekend I
+![]({{ site.url }}/assets/posts/2005/o_CCR-Chronicles1.jpg)This is a rather pointless post but I wanted to share that I think Ihave found the best music for mowing the lawn, ever. Every weekend I
 have to plod outside and fire up the lawn mower. My iPod is a dear,
 dear friend during this one hour trek in endless circles around the
 lawn. I used to listen to a variet of things, but now I've come to the

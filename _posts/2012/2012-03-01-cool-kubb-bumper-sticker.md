@@ -8,4 +8,4 @@ tags:
 
 The [Kubb Fever](http://wiki.planetkubb.com/wiki/Kubb_Fever) continues. This vinyl sticker is really well done and looks perfect on the Mini. This sticker is sold by [Des Moines Kubb](http://desmoineskubb.com/).
 
-![](/assets/posts/2012/Mini-Kubb-Fever.jpg)
+![]({{ site.url }}/assets/posts/2012/Mini-Kubb-Fever.jpg)

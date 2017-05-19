@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-[![](/assets/posts/2006/o_inconvenienttruth.jpg)](http://www.climatecrisis.net/)
+[![]({{ site.url }}/assets/posts/2006/o_inconvenienttruth.jpg)](http://www.climatecrisis.net/)
 
 It likely isn't going to come as a surprise to anyone that the people who are currently finishing an installation of solar heat were at the opening showing of [An Inconvenient Truth](http://www.climatecrisis.net/) last night. I heard about this movie a few weeks ago and I've been eager to see it since.
 

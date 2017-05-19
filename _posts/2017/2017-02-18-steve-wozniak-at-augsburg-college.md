@@ -10,7 +10,7 @@ image: /assets/posts/2017/woz-at-augsburg-college.jpg
 
 Woz is an amazing person. He individually did more to create the personal computer industry than possibly anyone else. He is a creative genius with technology. He so clearly is passionate and understands the design of technology like nobody else. On top of all that, Woz just seems like a nice person. Woz seems like someone that you'd love to have dinner with and just spend time discussing the world. He's an "engineer's engineer". You could give yourself a nearly impossible challenge just by looking at your project and asking "What would Woz do with this?"
 
-![Steve Wozniak at Augsburg College](/assets/posts/2017/woz-at-augsburg-college.jpg)
+![Steve Wozniak at Augsburg College]({{ site.url }}/assets/posts/2017/woz-at-augsburg-college.jpg)
 
 Some highlights from the discussion with Woz: 
 

@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/2010/grilling-in-the-rain.png)
+![]({{ site.url }}/assets/posts/2010/grilling-in-the-rain.png)
   
 
 

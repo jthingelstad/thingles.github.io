@@ -7,4 +7,4 @@ tags:
 ---
 
 4 lbs tenderloin going on the Big Green Egg.
-[![](/assets/posts/2009/l_2048_1536_571A91A0-FEB4-4980-951D-B5DB2742AF6D-440x330.jpg)](/assets/posts/2009/l_2048_1536_571A91A0-FEB4-4980-951D-B5DB2742AF6D.jpeg)
+[![]({{ site.url }}/assets/posts/2009/l_2048_1536_571A91A0-FEB4-4980-951D-B5DB2742AF6D-440x330.jpg)]({{ site.url }}/assets/posts/2009/l_2048_1536_571A91A0-FEB4-4980-951D-B5DB2742AF6D.jpeg)

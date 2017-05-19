@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2011/cupcake-surprise.jpg)
+![]({{ site.url }}/assets/posts/2011/cupcake-surprise.jpg)
   
 
 

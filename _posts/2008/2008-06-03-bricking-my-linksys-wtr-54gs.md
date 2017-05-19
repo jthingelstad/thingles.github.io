@@ -8,7 +8,7 @@ tags:
 
 Sometimes I really should know better. There are some things you just don't do, like updating firmware on something when you need it right away, or **hacking** the firmware on your travel router, when you are in the first part of a six week road trip!
 
-![WTR-54GS-Brick.gif](/assets/posts/2008/wtr-54gs-brick.gif)
+![WTR-54GS-Brick.gif]({{ site.url }}/assets/posts/2008/wtr-54gs-brick.gif)
 
 I've had a [Linksys WTR-54GS](http://www.linksys.com/servlet/Satellite?c=L_Product_C2&childpagename=US%2FLayout&cid=1122062241008&pagename=Linksys%2FCommon%2FVisitorWrapper) for a while now. [I've used it quite a bit](/thingelstad/linksys-wtr-54gs-making-travel-better-for-internet-junkies). It's nice to get to a hotel that doesn't have wireless and pop the WTR-54GS in and you've got your very own private, secure WiFi network. This is a good thing for our trip since we are traveling with two laptops and two iPhones and WiFi is a must have.
 

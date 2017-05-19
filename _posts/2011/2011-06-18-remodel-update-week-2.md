@@ -10,40 +10,40 @@ The I-beam is in place! This week the project has gotten dirty and more serious.
 
 Nothing much happened outside this week, but that will change this week. The excavation crew arrives Monday to start digging.
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192040-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192040-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192155-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192155-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192214-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192214-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192248-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192248-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192421-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192421-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192437-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192437-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192453-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192453-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192511-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192511-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192518-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192518-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192536-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192536-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192549-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192549-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192559-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192559-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192614-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192614-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192629-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192629-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192649-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192649-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192748-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192748-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192802-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192802-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192834-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192834-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-2/20110617-192927-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-2/20110617-192927-0001.jpg)

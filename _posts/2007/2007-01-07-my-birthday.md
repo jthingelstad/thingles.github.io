@@ -13,7 +13,7 @@ We have decided in our household that birthdays are vacation days so I take my b
 
 It wasn't just the gifts, which were great. It wasn't just the plans and events, which were awesome. Not even the "Dad-oriented" schedule, which was very nice. To be sure, she spoils me greatly. **Thanks Dear! You rock! **
 
-![jamie-mom.jpg](/assets/posts/2007/jamie-mom1.jpg)
+![jamie-mom.jpg]({{ site.url }}/assets/posts/2007/jamie-mom1.jpg)
 _My mother and I in the park about 34 years ago._
 
 I've learned to appreciate birthdays more since meeting my wife. I've always celebrated them, but we certainly do more now. I continue to prove out my theory of [fractional life](/thingelstad/birthdays-and-setpoints). The years just go by faster and faster.

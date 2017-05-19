@@ -27,4 +27,4 @@ This is a character I created when I was in college named “Gloop”. Still, he
 > 
 > </blockquote>
 
-[![](/assets/posts/2011/rays.gif)](http://www.gapingvoidgallery.com/gallerycubegrenades-rays-p-1957.html)
+[![]({{ site.url }}/assets/posts/2011/rays.gif)](http://www.gapingvoidgallery.com/gallerycubegrenades-rays-p-1957.html)

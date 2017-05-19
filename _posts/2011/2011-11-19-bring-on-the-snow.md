@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2011/bring-on-the-snow.jpg)
+![]({{ site.url }}/assets/posts/2011/bring-on-the-snow.jpg)

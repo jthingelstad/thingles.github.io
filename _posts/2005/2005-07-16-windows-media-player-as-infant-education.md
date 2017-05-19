@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-[![](/assets/posts/2005/o_ColorCubes.jpg)](http://www.microsoft.com/windows/windowsmedia/mp10/getmore/visualizations.aspx)I learned a new trick tonight while holding Mazie. We were sitting onthe couch and I had my laptop next to me. I was singing to her and
+[![]({{ site.url }}/assets/posts/2005/o_ColorCubes.jpg)](http://www.microsoft.com/windows/windowsmedia/mp10/getmore/visualizations.aspx)I learned a new trick tonight while holding Mazie. We were sitting onthe couch and I had my laptop next to me. I was singing to her and
 keeping her occupied and decided to put on some classical music. Mozart
 of course. And then it dawned on me that I had a great infant toy in
 front of me, so I gave it a shot.

@@ -6,7 +6,7 @@ tags:
 - Snow
 ---
 
-![](/assets/posts/2010/20101211-160645-0001.jpg)
+![]({{ site.url }}/assets/posts/2010/20101211-160645-0001.jpg)
   
 
 

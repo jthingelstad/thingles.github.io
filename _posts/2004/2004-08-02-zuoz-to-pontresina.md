@@ -9,7 +9,7 @@ tags:
 **Today's Stats:** Moving Time **4h 19m** Distance **8.5 miles** Ascent **2,526'** Max Elevation **9,061'**
 
 
-![](/assets/posts/2004/r_hike3.png)
+![]({{ site.url }}/assets/posts/2004/r_hike3.png)
 
 Last night at dinner our guides presented two different hike options for today. One would be a relatively flat hike for those looking for any easier day. The other would be a day similar to the day we just had with good distance and good up and down. Tammy and I opted for the harder day, along with a guy named Matt who is the son of a family that is on the trip with us. The hike and day were great.
 
@@ -27,6 +27,6 @@ The other great thing at the hut was the special of the day, _fruchtkugen_! What
 
 After our lunch we started a very long descent down to the village of Pontresina. It was a long decent, lasting about 2 hours. I got a bit exhausted on the decent after seemingly going down forever. See, going down is in many ways harder than going up. Your knees and legs absorb the shock of each step and it can really wear on you. Some parts of the descent were exposed meaning that there was nothing between you and a fair amount of a fall if you happened to slip and fall. It wasn't as scary as it all sounded though.
 
-![](/assets/posts/2004/r_profile-day3.png)
+![]({{ site.url }}/assets/posts/2004/r_profile-day3.png)
 
 Pontresina is a very nice town. I got myself a haircut which was a little interesting not knowing any German. Tammy got a huge "brezel" as well!

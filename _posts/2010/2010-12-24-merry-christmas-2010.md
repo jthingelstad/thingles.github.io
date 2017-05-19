@@ -5,4 +5,4 @@ categories:
 ---
 
 Our best to you and your family on this wonderful holiday season!
-![](/assets/posts/2010/thingelstad-xmas-card-cover-2010.jpg)
+![]({{ site.url }}/assets/posts/2010/thingelstad-xmas-card-cover-2010.jpg)

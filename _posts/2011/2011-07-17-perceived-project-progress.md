@@ -8,7 +8,7 @@ tags:
 ---
 
 Our remodeling project is scheduled for 12 weeks. I'm very familiar with project execution, that is a big part of what I do for a living. Watching the progress of our remodel I've been thinking about real versus perceived project progress. The chart below reflects the relationship.
-![Perceived Project Progress](/assets/posts/2011/Perceived-Project-Progress.png)
+![Perceived Project Progress]({{ site.url }}/assets/posts/2011/Perceived-Project-Progress.png)
 
 When we build software there is a decent amount of time getting groundwork put in. You have to get the build process working right, get your integration tests working, get version control working the way you want it. You probably need to use some framework code. It is a lot of stuff that doesn't really feel like progress to a non-technical person.
 

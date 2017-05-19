@@ -12,7 +12,7 @@ We set time to get together in January. We picked the [Schell's Brewery](http://
 
 It’s not every day that you meet your brother for the first time. I wasn't sure what I was going to say when I got out of the car. It turns out I didn’t need to think much about that. Isaiah came over and right away gave me a big hug and introduced himself.
 
-![Isaiah and Jamie in New Ulm, MN](/assets/posts/2016/Isaiah-and-Jamie.jpg)
+![Isaiah and Jamie in New Ulm, MN]({{ site.url }}/assets/posts/2016/Isaiah-and-Jamie.jpg)
 
 We had a great afternoon in New Ulm and spent a few hours getting to know each other. There were many times where it was odd that we have similar interests or ways of doing things. That's DNA for you.
 

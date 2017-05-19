@@ -6,7 +6,7 @@ tags:
 - Visualization
 ---
 
-![](/assets/posts/2011/LinkedIn-InMap.png)
+![]({{ site.url }}/assets/posts/2011/LinkedIn-InMap.png)
   
 
 

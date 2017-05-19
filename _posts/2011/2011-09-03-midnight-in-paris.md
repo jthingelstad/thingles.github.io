@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/2011/midnight-in-paris-movie-poster-011.jpg)
+![]({{ site.url }}/assets/posts/2011/midnight-in-paris-movie-poster-011.jpg)
   
 
 

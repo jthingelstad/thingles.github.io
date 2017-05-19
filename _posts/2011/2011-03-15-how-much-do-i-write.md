@@ -9,10 +9,10 @@ So the question left was, how much do I write? Dan even prodded me with an email
 
 I was able to find a WordPress plugin called [Word Stats](http://bestseller.franontanaya.com/2010/11/words-stats-plugin/) that made quick work of giving me a word count by month. I threw the data into a spreadsheet to clean it up slightly and make a quick graph. This only includes my writing on my blog.
 
-![](/assets/posts/2011/words-written-per-month.gif)
+![]({{ site.url }}/assets/posts/2011/words-written-per-month.gif)
 
 I write an average of **2,631** words per month for a total of **226,235** words since [February 2004](http://thingelstad.com/s/2004/02/img). The highest month was [July 2004](http://thingelstad.com/s/2004/07/img) when I wrote **9,711** words. There were three months when I didn't write anything: May 2004, August 2010 and October 2010. That graph really highlights that [2010](http://thingelstad.com/s/2010/img) was a really quiet year for me. That is a trend I'm reversing in [2011](http://thingelstad.com/s/2011/img).
 
 I did some quick searches and the average novel has about 100,000 words in it. So, it seems I've written 2 novels here in the last 7 years. Pretty cool!
 
-If you wish to play with numbers the [CSV file](/assets/posts/2011/jamie-words-by-month.csv_.zip_.zip?format=original) of my stats is available.
+If you wish to play with numbers the [CSV file]({{ site.url }}/assets/posts/2011/jamie-words-by-month.csv_.zip_.zip?format=original) of my stats is available.

@@ -21,7 +21,7 @@ There are a couple of things you want to make sure to accomplish with the direct
 
 I've been using the following structure for over 5 years and I've found it to work very well. I've used it with a number of different photo management programs, including my current favorite, Adobe Lightroom. It is inherently driven off of the timestamp of the photos.
 
-![directory-structure.png](/assets/posts/2007/directory-structure1.png)
+![directory-structure.png]({{ site.url }}/assets/posts/2007/directory-structure1.png)
 
 Let me highlight the five critical sections of this (cross-reference to numbers above, sorry Tufte).
 <!-- more -->

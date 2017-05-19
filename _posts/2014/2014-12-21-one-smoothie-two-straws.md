@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![](/assets/posts/2014/Smoothie-Two-Straws.jpg)
+![]({{ site.url }}/assets/posts/2014/Smoothie-Two-Straws.jpg)
   
 
 

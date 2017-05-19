@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![ny-mets-3d-logo.jpg](/assets/posts/2007/ny-mets-3d-logo1.jpg)Last Wednesday night [Jim](http://www.jimbernard.net/) and I decided to go see a [Mets](http://newyork.mets.mlb.com/) game while in NY for business. We took a long train ride on the 7 out to Shea Stadium and picked up some tickets. We got some absolutely great tickets off of the 3rd base side. This was my second time at Shea, and oddly both times they were playing Atlanta. It was a lot of fun to see the game with Jim who knows more about baseball than I could ever know. He filled me in on some great trivia about the Mets that made me enjoy the game even more.
+![ny-mets-3d-logo.jpg]({{ site.url }}/assets/posts/2007/ny-mets-3d-logo1.jpg)Last Wednesday night [Jim](http://www.jimbernard.net/) and I decided to go see a [Mets](http://newyork.mets.mlb.com/) game while in NY for business. We took a long train ride on the 7 out to Shea Stadium and picked up some tickets. We got some absolutely great tickets off of the 3rd base side. This was my second time at Shea, and oddly both times they were playing Atlanta. It was a lot of fun to see the game with Jim who knows more about baseball than I could ever know. He filled me in on some great trivia about the Mets that made me enjoy the game even more.
 [
 
 ![Mets!](http://farm2.static.flickr.com/1019/1055397087_557356c3cc.jpg)

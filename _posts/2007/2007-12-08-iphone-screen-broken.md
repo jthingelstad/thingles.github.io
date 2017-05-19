@@ -9,7 +9,7 @@ tags:
 
 On Thursday of this week I experienced a disaster. I got a phone call and while taking my iPhone out of my pocket it slipped and I fumbled it ever so oddly, culminating in it hitting the plastic arm of the chair I was sitting in. I flipped it around and to my horror the glass had cracked!
 
-![apple_iphone_broken_glass.jpg](/assets/posts/2007/apple-iphone-broken-glass1.jpg)  
+![apple_iphone_broken_glass.jpg]({{ site.url }}/assets/posts/2007/apple-iphone-broken-glass1.jpg)  
 The image above is not my phone. I was not able to get a picture of it.  
 The image is from GeckoAndFly.com under the Creative Commons license.  
 See [the post](http://www.geckoandfly.com/2007/07/02/apple-iphone-glass-screen-cracked/) where this picture originated.

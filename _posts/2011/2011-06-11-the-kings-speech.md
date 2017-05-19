@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/2011/The-Kings-Speech-Movie-Poster.jpg)
+![]({{ site.url }}/assets/posts/2011/The-Kings-Speech-Movie-Poster.jpg)
   
 
 

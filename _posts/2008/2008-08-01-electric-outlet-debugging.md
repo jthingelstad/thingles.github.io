@@ -11,7 +11,7 @@ Today my father-in-law, Don Olson, came over and lead the charge dealing with th
 
 We spent 2 hours flipping switches and breakers and trying to reverse engineer what the three sets of wires were that came into this box. We found out it was switched, but the whole outlet was switched, and the switch was upstairs while the outlet was downstairs. We needed that to change but had to first figure out what everything did. After ruminating about future legislative requirements to leave an electrical blueprint of a house after construction, Don was able to reconstruct what was going on.
 
-![outlet-schematic.png](/assets/posts/2008/outlet-schematic.png)
+![outlet-schematic.png]({{ site.url }}/assets/posts/2008/outlet-schematic.png)
 
 Drawing that picture and putting the right 1's, 2's, 3's and 4's next to each thing took a little over 2 hours. Getting it working the way we needed it to work took about 10 minutes. Reminded me of debugging a network problem. Same sort of ratios.
 

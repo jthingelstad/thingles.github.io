@@ -6,4 +6,4 @@ tags:
 - Twitter
 ---
 
-![](/assets/posts/2009/69f127b29e0a6ce10e4b93f1875389ac.png)
+![]({{ site.url }}/assets/posts/2009/69f127b29e0a6ce10e4b93f1875389ac.png)

@@ -8,7 +8,7 @@ tags:
 
 After vowing to never buy another video game system ever again after dumping more money than I care to even think about into the Dreamcast a few years ago and before that into the cutting edge 3DO I finally broke down and bought an [Xbox](http://www.xbox.com/).
 
-![](/assets/posts/2004/r_xbox.jpg)
+![]({{ site.url }}/assets/posts/2004/r_xbox.jpg)
 
 
 Why did I buy an Xbox then?

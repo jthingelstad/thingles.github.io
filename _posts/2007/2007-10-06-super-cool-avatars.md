@@ -14,7 +14,7 @@ Several weeks ago a [friend](http://www.jimbernard.net/) of mine clued me in on 
 
 I think this is brilliant. I've always just used a head shot photo but using a real photo is, well, a real photo. A drawing is a little less personal but still gives you that individual identity. Enough of the words, here is my new avatar. (These images are all much bigger than would be typically used.)
 
-![jamie.jpg](/assets/posts/2007/jamie1.jpg)
+![jamie.jpg]({{ site.url }}/assets/posts/2007/jamie1.jpg)
 
 Of course I didn't want to be the only one around the house with a cool avatar, so we got them for the whole family!
 
@@ -22,12 +22,12 @@ Of course I didn't want to be the only one around the house with a cool avatar, 
 
 Here is Tammy's
 
-![tammy.jpg](/assets/posts/2007/tammy1.jpg)
+![tammy.jpg]({{ site.url }}/assets/posts/2007/tammy1.jpg)
 
 Mazie got one too of course. She does have an account on the iMac after all.
 
-![mazie.jpg](/assets/posts/2007/mazie1.jpg)
+![mazie.jpg]({{ site.url }}/assets/posts/2007/mazie1.jpg)
 
 And lastly I as trying to find a good option for an image for this website and to use as "cover art" in iTunes for home movies. Voila!
 
-![family.jpg](/assets/posts/2007/family1.jpg)
+![family.jpg]({{ site.url }}/assets/posts/2007/family1.jpg)

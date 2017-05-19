@@ -7,7 +7,7 @@ tags:
 - RIP
 ---
 
-[![John_T._Riedl](/assets/posts/2013/John_T._Riedl.jpg)](http://thingelstad.com/s/goodbye-to-my-friend-john-riedl/john_t-_riedl/img)
+[![John_T._Riedl]({{ site.url }}/assets/posts/2013/John_T._Riedl.jpg)](http://thingelstad.com/s/goodbye-to-my-friend-john-riedl/john_t-_riedl/img)
 Three years ago my friend, mentor and former professor [John Riedl](https://en.wikipedia.org/wiki/John_T._Riedl) shared the news with our book club that he had been diagnosed with cancer. [Melanoma](https://en.wikipedia.org/wiki/Melanoma). He spent the last three years fighting it. He did it all right, as the scientist he was. He was able to try never-before tested treatments. He adopted a [vegan](https://en.wikipedia.org/wiki/Vegan_nutrition) diet. He was strong and vital. He was optimistic, as always, and we were all optimistic for him. In the last month things got much worse very quickly. Yesterday I joined well over two hundred others in celebrating his life and spirit at his funeral. It was a perfect ceremony for a man that was loved and admired so much. I would like to share the story of how I came to know John.
 
 <!-- more -->
@@ -39,7 +39,7 @@ I lost touch with Dr. Riedl for a while. To be fair, we were both crazy busy. He
 
 In late 2007 I got an email from him about a [book club](http://rwbookclub.com/wiki/Welcome). 17 years from when we first met, wow. He mentioned that he was part of this small book club of geeky guys that liked to read about technology topics, and strayed off topic as they wished. Honestly, I wasn't much of a reader at the time but the idea of reading books with a group that included John Riedl was far too much to pass up on. I joined without hesitation.
 
-[![Book Club Group](/assets/posts/2013/Book-Club-Group.jpg)](http://thingelstad.com/s/goodbye-to-my-friend-john-riedl/book-club-group/img)
+[![Book Club Group]({{ site.url }}/assets/posts/2013/Book-Club-Group.jpg)](http://thingelstad.com/s/goodbye-to-my-friend-john-riedl/book-club-group/img)
 
 [John was a voracious reader](http://rwbookclub.com/wiki/User:Riedl) I realized. That shouldn't have surprised me given his scholarly and scientific background. He was also a great person to discuss books with, as are [Tom](http://rwbookclub.com/wiki/User:Snowfall), [Erik](http://rwbookclub.com/wiki/User:Erik) and [Dan](http://rwbookclub.com/wiki/User:Dfrankow), the other members of the club. I count myself truly lucky to have shared a book club with John for 6 years. I've come to recognize it as a unique experience. Reading informs oneself, and reading together over the course of many years, brings you together and allows for raucous and challenging conversations. As Tom said in a reference to the club and John, "[For years to come I'll read something and think 'John would really like this.'](https://www.facebook.com/thomasderickson/posts/10151469935936831)"
 

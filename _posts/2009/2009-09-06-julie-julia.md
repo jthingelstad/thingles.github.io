@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![](/assets/posts/2009/julie-julia-poster.jpg)
+![]({{ site.url }}/assets/posts/2009/julie-julia-poster.jpg)
   
 
 

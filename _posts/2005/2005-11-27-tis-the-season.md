@@ -6,7 +6,7 @@ categories:
 
 The holiday season is now officially upon us. We were at Southdale today and Mazie got her first picture with Santa! She didn't have a lot of things on her list, but I clearly heard Santa mentioning something about the [Teletubbies](http://pbskids.org/teletubbies/).
 
-![](/assets/posts/2005/o_MazieWithSanta.jpg)
+![]({{ site.url }}/assets/posts/2005/o_MazieWithSanta.jpg)
 
 She had a great time today going around to different places and getting carried around by Mom and Dad. Such a cutie!
 

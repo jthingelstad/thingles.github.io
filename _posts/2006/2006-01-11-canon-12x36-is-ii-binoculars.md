@@ -7,7 +7,7 @@ tags:
 - Canon
 ---
 
-![](/assets/posts/2006/canon_12x36_is_12x36isii_586x225.jpg)
+![]({{ site.url }}/assets/posts/2006/canon_12x36_is_12x36isii_586x225.jpg)
 
 I recently got my after-Christmas Christmas present. What's that? Well, if I had something on my list and I didn't happen to get it, I thought I should clean up that list. We don't want to have things sitting on their forever now right?!
 

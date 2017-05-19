@@ -10,6 +10,6 @@ We are redoing a lot of the outdoor space in the backyard of our new house. We'v
 Tammy ordered the unit from [CedarWorks](http://www.cedarworks.com/). They send a rendered model of the swing set when you order it. Pretty cool.
 <!-- more -->
 
-![](/assets/posts/2010/992565-2a.jpg)
+![]({{ site.url }}/assets/posts/2010/992565-2a.jpg)
 
-![](/assets/posts/2010/992565-2.jpg)
+![]({{ site.url }}/assets/posts/2010/992565-2.jpg)

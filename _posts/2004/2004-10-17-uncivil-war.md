@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-[![](/assets/posts/2004/r_8057675.gif)](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=1589791517)
+[![]({{ site.url }}/assets/posts/2004/r_8057675.gif)](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=1589791517)
 
 
 [The Uncivil War](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=1589791517) is not a book I would have typically purchased for myself. It was sent to me along with an invitation to a discussion group. Humorously enough it was sent by a law firm while Lebedoff goes on at some length about how lawyers are one of the specific groups that typically make up his unimaginatively titled "New Elite". I've been particularly interested in the presidential campaign this year and this book showed up at the right time so I decided to give it a read.

@@ -4,8 +4,8 @@ categories:
 - Music
 ---
 
-![](/assets/posts/2011/Foo-fighter-logo-small.jpg)It has been a day since the [Foo Fighters](http://www.foofighters.com/) show and my ears are still ringing. This had to be one of the loudest shows I've been to, and it was great.
-[![](/assets/posts/2011/Foo-Fighters-Ticket.gif)](/assets/posts/2011/Foo-Fighters-Ticket.gif)
+![]({{ site.url }}/assets/posts/2011/Foo-fighter-logo-small.jpg)It has been a day since the [Foo Fighters](http://www.foofighters.com/) show and my ears are still ringing. This had to be one of the loudest shows I've been to, and it was great.
+[![]({{ site.url }}/assets/posts/2011/Foo-Fighters-Ticket.gif)]({{ site.url }}/assets/posts/2011/Foo-Fighters-Ticket.gif)
 
 Let me start with the bad news. [Kent](http://www.thetangens.net/) and I had talked about going to this show specifically because [Motörhead](http://www.imotorhead.com/) was opening for the Foo Fighters. Yeah, we wanted to see the Foo Fighters but we also **really** wanted to see [Lemmy](http://en.wikipedia.org/wiki/Lemmy) and the gang. Kent put it all together and added a couple of other guys to our gang to head down to the show. Sadly, when we got to the [Mid-America Center](http://www.midamericacenter.com/) in [Council Bluffs](http://www.councilbluffsiowa.com/) there was a sign on the door saying that due to travel problems Motörhead would not be performing. Ugh!
 
@@ -25,14 +25,14 @@ I had seen the Foo Fighters play on the Skin & Bones tour. That was nothing like
 
 The stage set was pretty cool. They had these 6 "video orbs" on cables that moved around and showed a variety of effects. The stage itself had video projected from underneath on the floor which I still can't figure out how they did.
 
-[![](/assets/posts/2011/Foo-Fighters-1.jpg)](/assets/posts/2011/Foo-Fighters-1.jpg)
+[![]({{ site.url }}/assets/posts/2011/Foo-Fighters-1.jpg)]({{ site.url }}/assets/posts/2011/Foo-Fighters-1.jpg)
 
 There was also a small stage on a platform that lifted about 15 feet in the air toward the back of the main floor. Grohl made a few trips out there and did the solo acoustic songs in the encore on that stage.
 
-[![](/assets/posts/2011/Foo-Fighters-2.jpg)](/assets/posts/2011/Foo-Fighters-2.jpg)
+[![]({{ site.url }}/assets/posts/2011/Foo-Fighters-2.jpg)]({{ site.url }}/assets/posts/2011/Foo-Fighters-2.jpg)
 
 I just love this picture that makes the stage look like it's exploding in light.
 
-[![](/assets/posts/2011/Foo-Fighters-3.jpg)](/assets/posts/2011/Foo-Fighters-3.jpg)
+[![]({{ site.url }}/assets/posts/2011/Foo-Fighters-3.jpg)]({{ site.url }}/assets/posts/2011/Foo-Fighters-3.jpg)
 
 If you dig the Foo Fighters, go check out [this tour](http://www.foofighters.com/us/tour).

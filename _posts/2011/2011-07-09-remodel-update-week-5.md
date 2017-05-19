@@ -13,33 +13,33 @@ Looking ahead we should have a floor and most likely windows in place in the bas
 We are also preparing for the project to start invading the rest of the house more. Walls will soon be getting knocked down and we'll have to accommodate some additional disruption on the main floor.
 
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090505-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090505-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090552-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090552-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090619-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090619-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090630-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090630-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090703-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090703-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090719-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090719-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090729-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090729-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090812-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090812-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090915-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090915-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090933-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090933-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-090945-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-090945-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-091004-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-091004-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-091020-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-091020-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-091039-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-091039-0001.jpg)
 
-![](/assets/posts/2011/morgan-remodel/update-5/20110709-091233-0001.jpg)
+![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-5/20110709-091233-0001.jpg)
 

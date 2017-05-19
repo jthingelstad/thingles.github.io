@@ -22,11 +22,11 @@ I decided to take the plunge and do the upgrade. I had read about the procedure 
 
 First thing, you need some drives. I ordered three of the [Western Digital Scorpio Blue 250GB 2.5" PATA drives](http://www.amazon.com/gp/product/B000W3RPLC?ie=UTF8&tag=thingelstadco-20) from [NewEgg](http://www.newegg.com/).
 
-![New Hard Drives Ready.png](/assets/posts/2009/new-hard-drives-ready.png)
+![New Hard Drives Ready.png]({{ site.url }}/assets/posts/2009/new-hard-drives-ready.png)
 
 With the drives in hand, it was time to rip open one of the Apple TV's and give it some bigger storage. This is really the only tricky part of the upgrade, since the Apple TV is not meant to be opened by the end-user.
 
-![Apple TV Disassembled.png](/assets/posts/2009/apple-tv-disassembled.png)
+![Apple TV Disassembled.png]({{ site.url }}/assets/posts/2009/apple-tv-disassembled.png)
 
 The process is pretty painless, but I will highlight a couple of things not found in all the How To articles.
 
@@ -43,11 +43,11 @@ Note, some of the write-ups suggest modifying the writing to not write the media
 
 I wimped out and used [iPartition](http://www.coriolis-systems.com/iPartition.php) to resize the Media partition. That turned a dozen commands into a click of the mouse and a few seconds of drive spinning. I figure I can use iPartition for other things too. After the repartition you just put it all back together and plug it in again.
 
-![Apple-TV-After-Hard-Drive-Upgrade.png](/assets/posts/2009/apple-tv-after-hard-drive-upgrade.png)
+![Apple-TV-After-Hard-Drive-Upgrade.png]({{ site.url }}/assets/posts/2009/apple-tv-after-hard-drive-upgrade.png)
 
 Just like that I had a ton of available storage, and let iTunes spend another few hours filling it up with content.
 
-![Apple-TV-After-Hard-Drive-Capacity-Meter.png](/assets/posts/2009/apple-tv-after-hard-drive-capacity-meter.png)
+![Apple-TV-After-Hard-Drive-Capacity-Meter.png]({{ site.url }}/assets/posts/2009/apple-tv-after-hard-drive-capacity-meter.png)
 
 I have noticed that iTunes synchronizes things in a specific way when you have a big drive. All of my music is stored locally on each Apple TV, I like that. But priority seems to be given to **unwatched** TV Shows. There seems to be a rule in the sync that always wants those local if there is space. Probably makes sense, but it does mean that after TV and Music most movies are streaming. I wish there was a way to do something between automatic and custom sync. I'd like to do an automatic sync, but be able to pin a number of things to be local all the time. This would be really great for Mazie's stuff that she watches repeatedly.
 

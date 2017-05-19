@@ -12,6 +12,6 @@ I am getting some interesting information out of this rig. I'm pretty amazed at 
 
 The other tool I got going this weekend is [Cacti](http://www.cacti.net/). Cacti is a better (I think?) and easier to use (without a question) [SNMP](http://www.snmp.com/) graphing tool than [MRTG](http://people.ee.ethz.ch/~oetiker/webtools/mrtg/). I'm going to leave MRTG and Cacti running in parallel probably for ever. Some things I like better in MRTG than Cacti. Cacti uses [RRDTool 1.2](http://people.ee.ethz.ch/~oetiker/webtools/rrdtool/) (as opposed to 1.0) and generates these super nice images with anti-aliasing and robust font support (static image for example, [as compared to](/thingelstad/fun-with-mrtg-and-snmp)).
 
-![](/assets/posts/2005/o_cacti-traffic.png)
+![]({{ site.url }}/assets/posts/2005/o_cacti-traffic.png)
 
 I'd share access to these tools with you like I do with MRTG and [my web logs](http://thingelstad.com/s/weblog/img) but they require logins and I also don't know that I want people being able to see attack alerts my intrusion detection system is throwing. You can admire the login pages from the links at the bottom of the page. As a side benefit of this work I've now designated a Linux server as a first-class citizen in my server setup and can now deploy other packages on it in the future if I want.

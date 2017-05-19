@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![Self-Help-Books](/assets/posts/2009/Self-Help-Books.jpg)
+![Self-Help-Books]({{ site.url }}/assets/posts/2009/Self-Help-Books.jpg)

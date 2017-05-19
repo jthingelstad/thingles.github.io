@@ -6,7 +6,7 @@ tags:
 - Kiln
 ---
 
-![](/assets/posts/2009/afcb6e42fcdf6e2cc320f6175cc3b2f8.png)
+![]({{ site.url }}/assets/posts/2009/afcb6e42fcdf6e2cc320f6175cc3b2f8.png)
   
 
 

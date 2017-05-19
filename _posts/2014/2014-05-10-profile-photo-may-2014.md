@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2014/Jamie_profile_photo.jpg)
+![]({{ site.url }}/assets/posts/2014/Jamie_profile_photo.jpg)
   
 
 

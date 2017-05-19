@@ -12,13 +12,13 @@ I started wondering if I could do something with [Microsoft Flow][flow]. For tho
 
 Mail rules can only fire on a mail activity, such as an email being received. Once it's received and in your mailbox mail rules don't have a trigger event. Flow, since it is directly integrated into Office 365, can see a bit more and has a trigger for "When an email is flagged". That caught my eye right away and within a couple of minutes I had this workflow for sending things to OmniFocus by flagging them in my Inbox. The "To" address should be your [OmniFocus Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) address.
 
-![Flow - Flagged Email to OmniFocus](/assets/posts/2017/Flow-Flagged-Email-to-OmniFocus.png)
+![Flow - Flagged Email to OmniFocus]({{ site.url }}/assets/posts/2017/Flow-Flagged-Email-to-OmniFocus.png)
 
 Look at the 2nd step in the workflow to "Get user profile". I'd like these items to be associated with who the email came from, and my pattern for that is to prepend the persons name to the task seperated by a colon. Since Flow is part of Office 365, it can talk to Active Directory and get things like the "Display name" of the sender. I could also include their phone number or any other data that was in Active Directory as well.
 
 I did also set two advanced options to avoid getting raw HTML in the OmniFocus task.
 
-![Flow - Advanced Options](/assets/posts/2017/Flow-Advanced-Options.png)
+![Flow - Advanced Options]({{ site.url }}/assets/posts/2017/Flow-Advanced-Options.png)
 
 This workflow works really well. It triggers quickly and is as frictionless as I think I can get. I also really like that Flow gives some extensibility if I wanted to pull in other data related to the person or message. Most of my limitations there are related to what Mail Drop can interpret.
 

@@ -8,4 +8,4 @@ tags:
 
 We all had fun playing in the creek tonight after dinner.
 
-![](/assets/posts/2012/20120518-234350.jpg)
+![]({{ site.url }}/assets/posts/2012/20120518-234350.jpg)

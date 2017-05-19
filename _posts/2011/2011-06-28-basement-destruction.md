@@ -7,7 +7,7 @@ tags:
 - Remodel
 ---
 
-![](/assets/posts/2011/basement-destruction.jpg)
+![]({{ site.url }}/assets/posts/2011/basement-destruction.jpg)
   
 
 

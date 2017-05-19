@@ -4,7 +4,7 @@ categories:
 - Cooking
 ---
 
-![](/assets/posts/2011/heart-shaped-pancakes.jpg)
+![]({{ site.url }}/assets/posts/2011/heart-shaped-pancakes.jpg)
   
 
 

@@ -7,7 +7,7 @@ tags:
 - Jamie
 ---
 
-![](/assets/posts/2009/cab11384e3c89999a259f3ccf92ead64.png)
+![]({{ site.url }}/assets/posts/2009/cab11384e3c89999a259f3ccf92ead64.png)
   
 
 

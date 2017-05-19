@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![](/assets/posts/2010/photo12.jpg)
+![]({{ site.url }}/assets/posts/2010/photo12.jpg)

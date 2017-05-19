@@ -6,4 +6,4 @@ categories:
 
 These just never get old. :-)
 
-![](/assets/posts/2012/airport-bsod.jpg)
+![]({{ site.url }}/assets/posts/2012/airport-bsod.jpg)

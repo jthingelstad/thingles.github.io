@@ -11,11 +11,11 @@ Our neighbor Nicole organized the [Kids Running for Kid's](http://wmc.savethechi
 
 
   
-   ![](/assets/posts/2013/20131012-110914-17710.jpg)
+   ![]({{ site.url }}/assets/posts/2013/20131012-110914-17710.jpg)
   
 
   
-   ![](/assets/posts/2013/20131012-111046-17717.jpg)
+   ![]({{ site.url }}/assets/posts/2013/20131012-111046-17717.jpg)
   
 
 

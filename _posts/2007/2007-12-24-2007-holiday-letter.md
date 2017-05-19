@@ -7,7 +7,7 @@ tags:
 - Tammy
 ---
 
-[![2007 Holiday Letter.jpg](/assets/posts/2007/2007-holiday-letter11.jpg)](/assets/posts/2007/2007-holiday-letter1.pdf)Tammy and I are both pretty shocked that we got a holiday letter out this year. It just sort of happened. Tammy started writing something and it just appeared. After a night of tweaking, adding some photos and an online printing order to Kinkos we had ourselves a letter! A bunch of these went out in the mail, but I wouldn't dare deprive the dedicated blog reader of this great content as well. Read the [2007 Holiday Letter](/assets/posts/2007/2007-holiday-letter1.pdf) right here.
+[![2007 Holiday Letter.jpg]({{ site.url }}/assets/posts/2007/2007-holiday-letter11.jpg)]({{ site.url }}/assets/posts/2007/2007-holiday-letter1.pdf)Tammy and I are both pretty shocked that we got a holiday letter out this year. It just sort of happened. Tammy started writing something and it just appeared. After a night of tweaking, adding some photos and an online printing order to Kinkos we had ourselves a letter! A bunch of these went out in the mail, but I wouldn't dare deprive the dedicated blog reader of this great content as well. Read the [2007 Holiday Letter]({{ site.url }}/assets/posts/2007/2007-holiday-letter1.pdf) right here.
 As a special bonus for the web I'm going to highlight a selected set of blog posts from this year as well.
 
 ##### 2007 Highlights from thingelstad.com

@@ -4,4 +4,4 @@ categories:
 - Family
 ---
 
-![](/assets/posts/2014/IMG_2466.jpg)
+![]({{ site.url }}/assets/posts/2014/IMG_2466.jpg)

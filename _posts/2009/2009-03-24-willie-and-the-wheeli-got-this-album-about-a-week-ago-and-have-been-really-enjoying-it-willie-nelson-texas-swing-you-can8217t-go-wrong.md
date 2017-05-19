@@ -4,7 +4,7 @@ categories:
 - Music
 ---
 
-![](/assets/posts/2009/62b125f0c200bade7cd6db33622d135d.jpg)
+![]({{ site.url }}/assets/posts/2009/62b125f0c200bade7cd6db33622d135d.jpg)
   
 
 

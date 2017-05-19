@@ -7,7 +7,7 @@ image: /assets/posts/2017/Kubbchucks-MN-Kubb-2017.jpg
 
 It was a surprise to me that this was our 6th year playing in the [Minnesota Kubb][mnkubb] Winter Tournament. When we were getting ready to play there was some discussion about it, and I thought it was our 4th. A careful accounting of the years brought it to 6 though, and as Eric Goplin started the tournament, we gave a loud shout when he called out any teams that had been there for six years, which is how old the tournament is.
 
-![Kubbchucks at Minnesota Kubb 2017 Tournament](/assets/posts/2017/Kubbchucks-MN-Kubb-2017.jpg)
+![Kubbchucks at Minnesota Kubb 2017 Tournament]({{ site.url }}/assets/posts/2017/Kubbchucks-MN-Kubb-2017.jpg)
 
 [Garrick][g], [Jim][j] and I made our way to the pitches and took our spot in Group D. We played *We B Kubbing*, *Ice Kubb's YouKubb Channel* and *Little Lebowski Urban Achievers* in the round robin. *The Lebowski's* were the 2016 Consolation Champions. We were the seed into the group with our T-9 place from 2016.
 

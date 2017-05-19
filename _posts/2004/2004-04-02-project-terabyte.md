@@ -16,7 +16,7 @@ When we remove limitations from systems it is amazing to me what we discover we 
 
 I started this Geek Fest as many are started with too little information and a bliss that it would just be easy (as a friend of mine joked, "just like every other IT project eh?"). I wanted a terabyte of storage and it needed to be RAID. I also decided that PATA would not be acceptable, I wanted SATA. After looking around I decided there was a clear winning combination for me in the [3ware Escalade 8506-8](http://www.3ware.com/products/serial_ata8000.asp) card combined with 6 [Western Digital 200GB SATA](http://www.westerndigital.com/en/products/products.asp?DriveID=58) drives.
 
-![](/assets/posts/2004/r_tb-drives.jpg) ![](/assets/posts/2004/r_tb-card.jpg)
+![]({{ site.url }}/assets/posts/2004/r_tb-drives.jpg) ![]({{ site.url }}/assets/posts/2004/r_tb-card.jpg)
 
 I ordered this up and waited for it to arrive thinking how easy this will be and why doesn't everyone have this stuff!? This is when my hubris was revealed.
 
@@ -32,13 +32,13 @@ This introduced _minor hiccup number two_. I eyed out the motherboard and it see
 
 I did some searching online and I realized that I was going to need to make yet another investment in my Geek Fest, a new case. Now, cases are supposed to be simple, but not for this project. I ended up going with a [SuperMicro SC742T-550 Chassis](http://www.supermicro.com/products/chassis/4U/742/SC742T-550.cfm?PID=TWR). While I wasn't anticipating this, I have to admit I'm pleased that I went with this chassis. It was more money than I would have liked, but the integrated SATA hot-swap bays and the rackmount capability is a nice thing to have in the future.
 
-![](/assets/posts/2004/r_tb-case1.jpg) ![](/assets/posts/2004/r_tb-case2.jpg) ![](/assets/posts/2004/r_tb-case3.jpg)
+![]({{ site.url }}/assets/posts/2004/r_tb-case1.jpg) ![]({{ site.url }}/assets/posts/2004/r_tb-case2.jpg) ![]({{ site.url }}/assets/posts/2004/r_tb-case3.jpg)
 
 Just when you think my story is going to come to an end, along comes _minor hiccup number three_. I got the new case, sniffed it and took it to my waiting motherboard and drives. Now, I've built my share of machines and I have to admit this is the first time I've ever really felt over my head. Dealing with the cabling, all the cooling, the crazy jumpers on the server board was all a bit much. This wasn't your standard gamer box being put together. It gave me some renewed appreciation for the internal design that goes into those crazy 1U servers we buy.
 
 Let me take a moment to talk about the processors. Mounting Xeons is an interesting chore. The chip requires you to bolt it's cooling assembly all the way through to the case because it is too heavy for just the motherboard. The heatsink is gigantic, and it comes with a plastic enclosure that makes the air more efficient as it goes over it. Pretty impressive. Asus also gave their own cooling assemblies that would have been easier to work with the motherboard, but they were noticably smaller than the Intel ones so I opted for the OEM parts.
 
-![](/assets/posts/2004/r_tb-cpu1.jpg) ![](/assets/posts/2004/r_tb-cpu2.jpg)
+![]({{ site.url }}/assets/posts/2004/r_tb-cpu1.jpg) ![]({{ site.url }}/assets/posts/2004/r_tb-cpu2.jpg)
 
 After a few hours (really!) of getting everything right. I was ready to experience the magic. However, my wonderful 24pin ATX power connectors and 8pin CPU connector was 6 inches too short! I couldn't plug them in! Aargh!
 
@@ -46,6 +46,6 @@ So now starts _minor hiccup number four_. I needed to find extension cables to g
 
 I called the company and did some more research and found I just needed a straight through. They sent me that instead while I worried that I had fried my server board with the wrong power connector. Our story however ends with a happy ending as I plugged in the extendor and the server roared (literally! 4 fans and 7 hard drives!) to life.
 
-![](/assets/posts/2004/r_tb-complete.jpg)
+![]({{ site.url }}/assets/posts/2004/r_tb-complete.jpg)
 
 It's been running now for a couple of weeks. I've got 1.4 terabyte of disk in it formatted out in different ways to around 1 terabyte of usable storage. Everything has been working awesome and the RAID is performing great. The verdict of my project though is that a terabyte isn't reasonable yet for the average home user. However, I still think it will be there in say, 2 years.

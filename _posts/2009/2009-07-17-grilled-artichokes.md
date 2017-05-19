@@ -6,4 +6,4 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/2009/artichokes.jpg)
+![]({{ site.url }}/assets/posts/2009/artichokes.jpg)

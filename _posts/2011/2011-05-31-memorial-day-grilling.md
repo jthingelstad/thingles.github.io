@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![](/assets/posts/2011/memorial-day-grilling.jpg)
+![]({{ site.url }}/assets/posts/2011/memorial-day-grilling.jpg)
   
 
 

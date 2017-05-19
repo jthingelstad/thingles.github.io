@@ -9,7 +9,7 @@ tags:
 Wii is in the house! Yeah!
 
 
-![Nintendo Wii](/assets/posts/2006/nintendo_wii_11.jpg)
+![Nintendo Wii]({{ site.url }}/assets/posts/2006/nintendo_wii_11.jpg)
 
 Okay, so it only took about a week for me to turn into a total [fanboy](http://en.wikipedia.org/wiki/Fanboy) in regards to the Wii. Really, I became a bit obsessed with it. _(This is when the folks that know me pretty good shake their heads back and forth.)  _ Alright, enough about me, how about the Wii?
 

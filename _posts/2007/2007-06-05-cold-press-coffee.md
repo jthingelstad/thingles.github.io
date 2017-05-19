@@ -11,7 +11,7 @@ I have two "coffee moments" each day. The first one is at home with my [DeLonghi
 
 It's summer now, or at least summer enough, and I've now switched to iced drinks in the afternoon. My typical drink is iced espresso. It used to be a triple shot over ice, but I've brought it down to a double shot over ice to reduce the shakes later in the evening (too much caffeine!).
 
-![iced_coffee_beans.jpg](/assets/posts/2007/iced_coffee_beans1.jpg)
+![iced_coffee_beans.jpg]({{ site.url }}/assets/posts/2007/iced_coffee_beans1.jpg)
 
 <!-- more -->I like my iced espresso, but it's not very much liquid and just disappears too fast for me. So, I presented my problem to our favorite barista.
 

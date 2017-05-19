@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![](/assets/posts/2011/photo5.jpg)
+![]({{ site.url }}/assets/posts/2011/photo5.jpg)
   
 
 

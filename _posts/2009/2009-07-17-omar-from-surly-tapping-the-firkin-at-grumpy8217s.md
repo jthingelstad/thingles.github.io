@@ -7,7 +7,7 @@ tags:
 - Surly
 ---
 
-![](/assets/posts/2009/c7fa32c4c32f4f27cbd008e10e840773.jpg)
+![]({{ site.url }}/assets/posts/2009/c7fa32c4c32f4f27cbd008e10e840773.jpg)
   
 
 

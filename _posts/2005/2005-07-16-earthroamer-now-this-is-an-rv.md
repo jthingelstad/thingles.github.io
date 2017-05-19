@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![](/assets/posts/2005/o_earthroamer.jpg)](http://www.earthroamer.com/)Tammy and I have occassionally thought about getting an RV. We like to
+[![]({{ site.url }}/assets/posts/2005/o_earthroamer.jpg)](http://www.earthroamer.com/)Tammy and I have occassionally thought about getting an RV. We like to
 take long road trips and like to get off the beaten path. Particularly
 with Tammy's fear of flying, we tend to drive long distances when it
 comes to vacations.

@@ -7,7 +7,7 @@ categories:
 [](http://thingelstad.com/s/frostnixon-on-broadway/frost-nixonjpg/img)
 
 
-[![frost-nixon.jpg](/assets/posts/2007/frost-nixon1.jpg)](http://thingelstad.com/s/frostnixon-on-broadway/frost-nixonjpg/img)
+[![frost-nixon.jpg]({{ site.url }}/assets/posts/2007/frost-nixon1.jpg)](http://thingelstad.com/s/frostnixon-on-broadway/frost-nixonjpg/img)
 
 Tonight while I was [stranded in New York](/thingelstad/stranded-in-new-york) I decided to take a moment to forget the travel struggles and enjoy some theater. I had heard on [MPR](http://www.mpr.org/) back home about [Frost/Nixon](http://www.frostnixononbroadway.com/) ([wikipedia link as well](http://en.wikipedia.org/wiki/Frost/Nixon)), and I was really intrigued. I had sort of forgotten about it since I didn't think I would get an opportunity to go. Earlier on this trip though I had walked by the [Jacobs Theatre](http://www.newyorkcitytheatre.com/theaters/bernardbjacobstheater/theater.html) and saw it listed and it had stuck with me. So, tonight when I was [struggling with flight delays that turned into cancellations](http://twitter.com/thingles/statuses/66312782), I decided to go see if I could get in the 8:00pm show. A quick taxi ride and I grabbed a nice ticket on the main floor for one.
 

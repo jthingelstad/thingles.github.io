@@ -11,7 +11,7 @@ I read a great article in last issue of [The Week](http://www.theweekmagazine.co
 
 What in the world is going on here. Take a look at December with this graph.
 
-![temp-december-2006](/assets/posts/2006/temp-december1.png)
+![temp-december-2006]({{ site.url }}/assets/posts/2006/temp-december1.png)
 
 For the whole month of December the weather has just hovered in these ridiculously high ranges, barely dipping below freezing at night.
 

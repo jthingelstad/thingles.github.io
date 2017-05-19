@@ -12,7 +12,7 @@ A couple of weeks ago I finally pulled the plug on DirecTV! I wrote about the co
 
 
 
-![Canceled-DirecTV.png](/assets/posts/2009/canceled-directv.png)
+![Canceled-DirecTV.png]({{ site.url }}/assets/posts/2009/canceled-directv.png)
 
 
 

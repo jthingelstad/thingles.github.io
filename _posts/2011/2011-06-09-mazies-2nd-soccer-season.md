@@ -7,7 +7,7 @@ tags:
 - Soccer
 ---
 
-![](/assets/posts/2011/Mazie-Soccer-June-2011.jpg)
+![]({{ site.url }}/assets/posts/2011/Mazie-Soccer-June-2011.jpg)
   
 
 

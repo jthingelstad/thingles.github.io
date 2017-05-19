@@ -6,7 +6,7 @@ tags:
 - Twitter
 ---
 
-![twitter.png](/assets/posts/2008/twitter1.png)Last November I decided to pull the plug and [wish Twitter "buh-bye"](/thingelstad/buh-bye-twitter).  Those that [follow me](http://twitter.com/thingles) have realized that I've returned to [Twitter](http://twitter.com/). So, **what gives**?
+![twitter.png]({{ site.url }}/assets/posts/2008/twitter1.png)Last November I decided to pull the plug and [wish Twitter "buh-bye"](/thingelstad/buh-bye-twitter).  Those that [follow me](http://twitter.com/thingles) have realized that I've returned to [Twitter](http://twitter.com/). So, **what gives**?
 
 I've settled on a few simple things to make Twitter work for me.
 
