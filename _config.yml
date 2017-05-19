@@ -33,6 +33,9 @@ paginate_path:      /page:num/
 # Feed config
 feed_posts:         20
 
+# Analytics
+google_analytics:   UA-49944629-1
+
 # Markdown
 markdown:           kramdown
 kramdown:
