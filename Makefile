@@ -10,8 +10,11 @@ site: clean
 clean:
 	rm -rf _site/
 
-local:
+local_all:
 	$J serve --watch --drafts --incremental
+
+local:
+	$J serve --watch --drafts --incremental --limit_posts 100
 
 new:
 	./new_post.sh
