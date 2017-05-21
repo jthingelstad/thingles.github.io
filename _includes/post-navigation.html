@@ -1,0 +1,12 @@
+  <hr />
+  <div class="post-navigation">
+    &larr; <a href="{{ site.url }}{{ page.previous.url }}" class="previous">{{ page.previous.title }}</a>
+    |
+    <a href="{{ site.url }}{% link archive/index.html %}#{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a>
+    |
+    {% if page.next.url %}
+	    <a href="{{ site.url }}{{ page.next.url }}" class="next">{{ page.next.title }}</a> &rarr;
+	{% else %}
+		<em>Fin!</em>
+	{% endif %}
+  </div>
