@@ -43,15 +43,15 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "<i class='fa fa-user' aria-hidden='true'></i>"
     url:            "/about/"
-  - name:           "Photos"
+  - name:           "<i class='fa fa-camera' aria-hidden='true'></i>"
     url:            "/photos/"
   - name:           "<i class='fa fa-archive' aria-hidden='true'></i>"
     url:            "/archive/"
   - name:           "<i class='fa fa-tags' aria-hidden='true'></i>"
     url:            "/tags/"
-  - name:           "<i class='fa fa-bookmark' aria-hidden='true'></i>"
+  - name:           "<i class='fa fa-thumb-tack' aria-hidden='true'></i>"
     url:            "/links/"
 
 # Sass
