@@ -3,6 +3,7 @@ title: Kubbchucks at 2017 Loppet Kubb Tournament
 description: Our 6th year playing in the largest winter Kubb tournament in the world!
 tags: Kubb
 image: /assets/posts/2017/Kubbchucks-MN-Kubb-2017.jpg
+location: Theodore Wirth Park, Golden Valley, Minnesota
 ---
 
 It was a surprise to me that this was our 6th year playing in the [Minnesota Kubb][mnkubb] Winter Tournament. When we were getting ready to play there was some discussion about it, and I thought it was our 4th. A careful accounting of the years brought it to 6 though, and as Eric Goplin started the tournament, we gave a loud shout when he called out any teams that had been there for six years, which is how old the tournament is.

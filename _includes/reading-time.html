@@ -1,0 +1,4 @@
+{% capture words %}{{ page.content | number_of_words | minus: 250 }}{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 250 | append: " words" }}, about {{ words | plus: 250 | divided_by: 184 | append: " minute read" }}.
+{% endunless %}
