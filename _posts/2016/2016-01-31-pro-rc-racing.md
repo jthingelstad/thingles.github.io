@@ -5,7 +5,7 @@ tags: Journal
 
 Some friends sent me this video from a European Pro RC Race. It’s the most amazing thing ever! Worth a watch. Check out the speed, the passes and the jumps!
 
-{% include youtube.html youtube_id="dPL48H4vlLY" %}
+{% include embed/youtube.html youtube_id="dPL48H4vlLY" %}
 
 So much more they could be doing!
 

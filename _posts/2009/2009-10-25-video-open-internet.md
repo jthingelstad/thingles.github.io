@@ -6,4 +6,4 @@ categories:
 
 This is a really great video that explains in plain language why Net Neutrality is so vitally important.
 
-{% include youtube.html youtube_id="dFUm1PRxJOQ" %}
+{% include embed/youtube.html youtube_id="dFUm1PRxJOQ" %}
