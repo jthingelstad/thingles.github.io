@@ -5,5 +5,5 @@ permalink: /projects/
 
 Projects.
 
-### [Open Loop](openloop/)
+### [Open Loop](open-loop/)
 
