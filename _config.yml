@@ -47,6 +47,8 @@ nav:
     url:            "/about/"
   - name:           "<i class='fa fa-camera' aria-hidden='true'></i>"
     url:            "/photos/"
+  - name:           "<i class='fa fa-flask' aria-hidden='true'></i>"
+    url:            "/projects/"
   - name:           "<i class='fa fa-archive' aria-hidden='true'></i>"
     url:            "/archive/"
   - name:           "<i class='fa fa-tags' aria-hidden='true'></i>"
