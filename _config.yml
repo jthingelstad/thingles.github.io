@@ -43,18 +43,30 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "<i class='fa fa-user' aria-hidden='true'></i>"
+  - icon:           "<i class='fa fa-user' aria-hidden='true' title='About'></i>"
+    name:           "About"
     url:            "/about/"
-  - name:           "<i class='fa fa-camera' aria-hidden='true'></i>"
+  - icon:           "<i class='fa fa-camera' aria-hidden='true' title='Photos'></i>"
+    name:           "Photos"
     url:            "/photos/"
-  - name:           "<i class='fa fa-flask' aria-hidden='true'></i>"
+  - icon:           "<i class='fa fa-flask' aria-hidden='true' title='Projects'></i>"
+    name:           "Projects"
     url:            "/projects/"
-  - name:           "<i class='fa fa-archive' aria-hidden='true'></i>"
-    url:            "/archive/"
-  - name:           "<i class='fa fa-tags' aria-hidden='true'></i>"
-    url:            "/tags/"
-  - name:           "<i class='fa fa-thumb-tack' aria-hidden='true'></i>"
+  - icon:           "<i class='fa fa-thumb-tack' aria-hidden='true' title='Links'></i>"
+    name:           "Links"
     url:            "/links/"
+  - icon:           "<i class='fa fa-envelope' aria-hidden='true' title='Weekly Thing'></i>"
+    name:           "Weekly Thing"
+    url:            "/weekly-thing/"
+  - icon:           "<i class='fa fa-tags' aria-hidden='true' title='Tags'></i>"
+    name:           "Tags"
+    url:            "/tags/"
+  - icon:           "<i class='fa fa-archive' aria-hidden='true' title='Archive'></i>"
+    name:           "Archive"
+    url:            "/archive/"
+  - icon:           "<i class='fa fa-comment' aria-hidden='true' title='Microblog'></i>"
+    name:           "Microblog"
+    url:            "http://micro.thingelstad.com/"    
 
 # Sass
 sass:

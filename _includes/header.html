@@ -5,11 +5,10 @@
   <nav class="header-nav">
     {% for nav in site.nav %}
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-    <a href="{{ nav.url }}">{{ nav.name }}</a>
+    <a href="{{ nav.url }}" title="{{ nav.name }}">{{ nav.icon }}</a>
     {% else %}
-    <a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+    <a href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.name }}">{{ nav.icon }}</a>
     {% endif %}
     {% endfor %}
-    <a href="http://micro.thingelstad.com/" /><i class="fa fa-comment" aria-hidden="true"></i></a>
   </nav>
 </header>
