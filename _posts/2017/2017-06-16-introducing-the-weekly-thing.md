@@ -22,9 +22,12 @@ With the basis of my links I decided to put together a newsletter. I went with t
 
 I've been quietly publishing the Weekly Thing for a few weeks now to an invited group of friends. I've been testing out my automation and the structure. I'm very pleased with how it's working and this week put the [subscribe] page live and started sharing it. My first goal is to get to 100 subscribers and continue to flesh out the content. I hope you all enjoy it!
 
+Go to the [Weekly Thing][wt] to subscribe!
+
 [macstories]: https://www.macstories.net
 [club]: https://club.macstories.net/
 [tt]: http://thing.org
 [tl]: https://tinyletter.com
 [omt]: http://tinyletter.com/patrickrhone/
 [pr]: http://patrickrhone.com
+[wt]: http://thingelstad.com/weekly-thing/
