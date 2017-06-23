@@ -16,5 +16,3 @@ I fired up Soulver and did some quick math. I gave the classic Mach 3 blades a f
 I'll happily sign up to **save 32%** and not have to think about getting blades anymore. Brilliant service and good price. They just need to execute great.
 
 PS: I added my referral code to the link to [Dollar Shave Club](http://www.dollarshaveclub.com/ref/index/r/18v5/1032z8c/). If you sign up, I get 1 month free. Not that I'm begging for free blades, but if there's a bonus to get someone might as well get it. If you have a friend using the service, get their code.
-
-{% include affiliate.html %}

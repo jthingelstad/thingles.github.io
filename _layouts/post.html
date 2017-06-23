@@ -29,12 +29,6 @@ layout: default
     </ul>
   </div>
 
-  {% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}
-  {% assign page_year = page_year | plus: 0 %}
-  {% if page_year < 2012 %}
-    {% include warning_old_post.html %}
-  {% endif %}
-
   {{ content }}
 
   {% include post-navigation.html %}
