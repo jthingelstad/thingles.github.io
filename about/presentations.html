@@ -4,7 +4,9 @@ layout: page
 ---
 
 {% for p in site.data.presentations %}
-<h3>{{ p.title }}</h3>
+<h4><a href="{{ p.url }}">{{ p.title }}</a></h4>
 <h5>{{ p.event }} on {{ p.date }}</h5>
+
+<p>{{ p.description | markdownify }}</p>
 
 {% endfor %}

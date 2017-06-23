@@ -1,16 +1,28 @@
 - title: Web 2.0 in the Real World
   event: Minnebar 1
   date: 5/6/2006
+  url: http://wiki.minnestar.org/wiki/Web_2.0_in_the_Real_World
+  description: Real world, revenue generating applications to tackle the financial services world online with examples from the new API-based Javascript tools Dow Jones has launched called LiveQuotes and shortly LiveNews.
+
+- title: JavaScript SOAP Bridge
+  event: Minnebar 1
+  date: 5/6/2006
+  url: http://wiki.minnestar.org/wiki/JavaScript_SOAP_Bridge
+  description: We could demo our JavaScript library that bridges SOAP over JSON.
 
 - title: On the Couch with David Heinemeier Hansson
   event: Minnebar 2
   presenters: David Heinemeier Hansson
   date: 4/21/2007
+  url: http://wiki.minnestar.org/wiki/On_the_Couch_with_David_Heinemeier_Hansson
+  description: An interview with the creator of Ruby on Rails, David Heinemeir Hansson.
 
 - title: Startup Camp Is Coming
   event: Minnebar 2
   presenters: Dan Grigsby
   date: 4/21/2007
+  url: http://wiki.minnestar.org/wiki/Startup_Camp_Is_Coming
+  description: "Inspired by Startup School and Coder to Co-Founder: Entrepreneuring for Geeks, Startup Camp is Minneapolis-St. Paul's own day-long startup bootcamp. Basic premise: developers spend a day learning from successful startup founders, venture capitalists, etc. Give us 50 minutes now; help us flesh out our outline by telling us what you want out of Startup Camp and we'll put it together by the end of summer."
 
 - title: "State of the State: Technology in Minnesota"
   event: Minnebar 3
@@ -21,14 +33,19 @@
     - Dan Grigsby
     - Matthew Dornquast
   date: 5/10/2008
+  url: http://wiki.minnestar.org/wiki/State_of_the_State:_Technology_in_Minnesota
+  description: A panel discussion on the state of technology in Minnesota.
 
 - title: Power WordPress plus MinneWordCamp Discussion
   event: Minnebar 3
   date: 5/10/2008
+  url: http://wiki.minnestar.org/wiki/Power_WordPress_plus_MinneWordCamp_Discussion
+  description: Do you have a WordPress blog? Or 2 or 3? Come to have a discussion about some power plug-ins for WordPress than can save you a ton of time. Plus some discussion of SEO techniques for your WordPress blog. We'll also have a short discussion about getting MinneWordCamp, a Minneapolis WordCamp, together in the fall!
 
 - title: Minnebar 6 on Minnebar
   event: Minnebar 6
   date: 5/7/2011
+  url: http://wiki.minnestar.org/wiki/MinneBar_on_MinneBar
   slide-url: http://wiki.thingelstad.com/wiki/Minnebar_6/Minnebar_on_Minnebar
   video-url: http://vimeo.com/38672535
 
@@ -36,39 +53,83 @@
   event: Minnebar 6
   presenters: Garrick van Buren
   date: 5/7/2011
+  url: http://wiki.minnestar.org/wiki/Do_Not_Track:_Remarketers,_Tracking_Bugs,_and_Online_Privacy
+  description: "The push for free online services and apps have given rise to an ecosystem of organizations that track, cross-reference, compile, and then resell you to advertisers.
+
+  - The federal government and the California state government are debating new privacy bills that would limit the collection and sharing of customer information.
+  - The FTC called for a Do Not Track system similar to the Do Not Call system for telemarketers.
+  - Microsoft, Apple, and Firefox have all added 'Do Not Track' functionality to the next version of their browsers.
+
+In this session we'll discuss the issue of online privacy, customer information collection, tracking, and then demo some solutions.
+
+Bug Image is from [Do Not Track](http://donottrack.us/)."
 
 - title: Wikis with Structured Data
   event: Minnebar 6
   date: 5/7/2011
+  url: http://wiki.minnestar.org/wiki/Wikis_with_Structured_Data
+  description: "A wiki is an incredibly useful way to create document-centric websites, but if you are working with a structured data and want to run queries across that data, a wiki can result in chaos. With the right tools though, a wiki can be incredibly useful for both structured and unstructured data.
+In this session we'll cover using [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) and the powerful [Semantic Bundle](http://www.mediawiki.org/wiki/Semantic_Bundle) to create data rich wikis with very structured data. To demonstrate this we will create new templates, properties and forms using MediaWiki and Semantic Bundle. We'll also look at advanced examples of these tools using three wikis I setup and help run, [Creative Computer Book Club](http://creativecomputerbookclub.com/wiki/), [Road Sign Math](http://www.roadsignmath.com/wiki/Welcome) and [TOS Redux](http://tosredux.com/wiki/Main_Page).
+This session will be beneficial to anyone looking to create useful sites using MediaWiki. To illustrate these concepts we will build a structured wiki for Minnebar."
+
+- title: Social Commerce
+  event: Minnedemo 10
+  presenters:
+    - Louis Abramowski
+    - Mike Bjerkness
+  date: 10/6/2011
+  url: http://wiki.minnestar.org/wiki/Social_Commerce_(Demo)
+  video-url: http://www.ustream.tv/recorded/17720193
+  description: "8thBridge presents their Facebook social commerce solution."
 
 - title: Every HTTP Status Code
   event: Minnebar 7
   presenters: Garrick van Buren
   date: 4/7/2012
+  url: http://wiki.minnestar.org/wiki/Every_HTTP_Status_Code
   slide-url: http://slides.thingelstad.com/every-http-status/
   video-url: http://www.youtube.com/watch?v=yslcjnkbXUw
+  description: "During the SOPA blackout we all learned that we shouldn't send a HTTP Status 200 for a blackout. Everyone knows what a 404 is. And most of us know the difference between a 301 and a 302. But there are over 65 HTTP status codes! We live eat and breath the web and we had better know what these status codes mean!
+
+In this session we will *quickly* go over **every** HTTP status code, what it is for, why you use it, etc. This will be part informational and part theater as we try to make it through each one in the 45 minutes allotted us!
+
+**Be on time!**"
 
 - title: Running a Virtual Server with Confidence
   event: Minnebar 7
   date: 4/7/2012
+  url: http://wiki.minnestar.org/wiki/Running_a_Virtual_Server_with_Confidence
+  video-url: http://www.youtube.com/watch?v=NRrSlrrp-gI
+  description: "Do you have a box on Linode for your blog? Maybe a VPS with Slicehost? If you've provisioned a bare VPS from install you know there is a lot to keep in mind. Is it secure? How are you dealing with hack attacks? Is the software up-to-date? You are monitoring your logs right?
+In this session I'll walk through a 'best practices' taking a bare Unix box to running a handful of web sites. I'll use Ubuntu 10.04 LTS as the example case with a VPS on Linode. The material will be generally applicable to anyone using a Linux/Unix based host and needing to make sure that it is sound for service."
 
 - title: Build and Deploy Ridiculously Advanced MediaWiki Websites
   event: Minnebar 8
   date: 4/6/2013
+  url: http://wiki.minnestar.org/wiki/Build_and_Deploy_Ridiculously_Advanced_MediaWiki_Websites
+  description: "[MediaWiki](http://mediawiki.org/) is well known as the wiki engine behind [Wikipedia](http://wikipedia.org/), but it is also an incredibly powerful platform to build a variety of services with. In this session we will explore advanced techniques for running MediaWiki, extending it's capabilities with amazing extensions, and building ridiculously advanced websites with it. We will use [WikiApiary](http://wikiapiary.com/), a wiki I built, as an example of using a semantic data-driven wiki, robots to collect data and integrating a variety of libraries together into a cohesive solution. You'll leave with a better understanding of the robust power of this software stack, and excitement to go and build crazy stuff with it!"
 
 - title: Minnebar 8 on Minnebar
   event: Minnebar 8
   date: 4/16/2013
+  url: http://wiki.minnestar.org/wiki/MinneBar_8_on_MinneBar
+  description: "This session will provide an update on the continuing development of the minne✱ organization and our efforts to insure that great events like MinneBar and MinneDemo continue to catalyze the Twin Cities technical, design and startup communities. Half of this session will provide an update on these goals and the other half will serve as a forum to hear from the community."
 
 - title: Minnebar 9 on minnebar
   event: Minnebar 9
   date: 4/12/2014
+  url: http://wiki.minnestar.org/wiki/Minnebar_9_on_minnebar
+  description: This session will provide an update on the continuing development of the minne events and organization and our efforts to insure that great events like MinneBar and MinneDemo continue to catalyze the Twin Cities technical, design and startup communities. Half of this session will provide an update on these goals and the other half will serve as a forum to hear from the community.
 
 - title: OmniFocus Meetup
   event: Minnebar 9
   date: 4/12/2014
+  url: http://wiki.minnestar.org/wiki/OmniFocus_Meetup
+  description: "If you use [OmniFocus](https://www.omnigroup.com/omnifocus/) to manage tasks and work with projects and contexts come to this session for an informal meetup to discuss OmniFocus best practices, power user tips, and share some of the interesting ways that you use OmniFocus. This session will have a loose agenda, but the intent is for everyone to join in the conversation and share things."
 
-- title: Minnebar 10 on Minnebar (find date!)
+- title: Minnebar 10 on Minnebar
   event: Minnebar 10
-  date: 4/1/2015
+  date: 4/11/2015
+  url: http://wiki.minnestar.org/wiki/Minnebar_10_on_Minnebar
+  description: "This session will provide an update on the continuing development of the minnestar events and organization and our efforts to insure that great events like Minnebar and Minnedemo continue to catalyze the Twin Cities technical, design and startup communities. Half of this session will provide an update on these goals and the other half will serve as a forum to hear from the community."
 
