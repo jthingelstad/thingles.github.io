@@ -1,0 +1,10 @@
+---
+title: Presentations
+layout: page
+---
+
+{% for p in site.data.presentations %}
+<h3>{{ p.title }}</h3>
+<h5>{{ p.event }} on {{ p.date }}</h5>
+
+{% endfor %}

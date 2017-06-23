@@ -1,0 +1,74 @@
+- title: Web 2.0 in the Real World
+  event: Minnebar 1
+  date: 5/6/2006
+
+- title: On the Couch with David Heinemeier Hansson
+  event: Minnebar 2
+  presenters: David Heinemeier Hansson
+  date: 4/21/2007
+
+- title: Startup Camp Is Coming
+  event: Minnebar 2
+  presenters: Dan Grigsby
+  date: 4/21/2007
+
+- title: "State of the State: Technology in Minnesota"
+  event: Minnebar 3
+  presenters:
+    - Douglas Olson
+    - Michael Gorman
+    - Robert Stephens
+    - Dan Grigsby
+    - Matthew Dornquast
+  date: 5/10/2008
+
+- title: Power WordPress plus MinneWordCamp Discussion
+  event: Minnebar 3
+  date: 5/10/2008
+
+- title: Minnebar 6 on Minnebar
+  event: Minnebar 6
+  date: 5/7/2011
+  slide-url: http://wiki.thingelstad.com/wiki/Minnebar_6/Minnebar_on_Minnebar
+  video-url: http://vimeo.com/38672535
+
+- title: "Do Not Track: Remarketers, Tracking Bugs, and Online Privacy"
+  event: Minnebar 6
+  presenters: Garrick van Buren
+  date: 5/7/2011
+
+- title: Wikis with Structured Data
+  event: Minnebar 6
+  date: 5/7/2011
+
+- title: Every HTTP Status Code
+  event: Minnebar 7
+  presenters: Garrick van Buren
+  date: 4/7/2012
+  slide-url: http://slides.thingelstad.com/every-http-status/
+  video-url: http://www.youtube.com/watch?v=yslcjnkbXUw
+
+- title: Running a Virtual Server with Confidence
+  event: Minnebar 7
+  date: 4/7/2012
+
+- title: Build and Deploy Ridiculously Advanced MediaWiki Websites
+  event: Minnebar 8
+  date: 4/6/2013
+
+- title: Minnebar 8 on Minnebar
+  event: Minnebar 8
+  date: 4/16/2013
+
+- title: Minnebar 9 on minnebar
+  event: Minnebar 9
+  date: 4/12/2014
+
+- title: OmniFocus Meetup
+  event: Minnebar 9
+  date: 4/12/2014
+
+- title: Minnebar 10 on Minnebar (find date!)
+  event: Minnebar 10
+  date: 4/1/2015
+
