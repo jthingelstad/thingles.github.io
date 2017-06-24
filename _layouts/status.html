@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<header>
+  <h1 class="header-small">
+    <i class="fa fa-home" aria-hidden="true"></i> <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+  </h1>
+</header>
+<div class="post">
+  <div class="post-date">
+    By {% if page.author %}{{page.author}}{% else %}{{ site.author }}{% endif %},
+    {{ page.date | time_tag: "%B %e, %Y %l:%M:%S %P %Z" }}.
+    {% if page.location %}{{ page.location }}.{% endif %}
+    {% if page.weather %}{{ page.weather }}.{% endif %}
+  </div>
+
+  {{ content }}
+
+  {% include post-navigation.html %}
+
+</div>
