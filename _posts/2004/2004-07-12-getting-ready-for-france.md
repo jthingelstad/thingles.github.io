@@ -14,4 +14,4 @@ Tammy and I dropped our bikes off at [Erik's Bike Shop](http://eriksbikeshop.com
 
 Will pick the bikes up on Thursday. Rest of packing will be happening soon. Need to download French and Swiss maps to my [eTrex Vista](http://www.garmin.com/products/etrexVista/) GPS (yes, I will be posting some GPS data as well -- I can't help myself). **Fly out on Saturday!**
 
-I also got one of my books to read during the trip. [Amazon](http://www.amazon.com/) delivered [_Heft on Wheels_](http://www.amazon.com/dp/1400052408/?tag=thingelstad-20) today by Mike Magnuson. Looks like fun reading, and probably some stuff I can relate to.
+I also got one of my books to read during the trip. [Amazon](http://www.amazon.com/) delivered [_Heft on Wheels_](http://www.amazon.com/dp/1400052408/?tag={{ site.affiliate.amazon }}) today by Mike Magnuson. Looks like fun reading, and probably some stuff I can relate to.

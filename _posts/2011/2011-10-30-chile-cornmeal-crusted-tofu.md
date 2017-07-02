@@ -7,7 +7,7 @@ tags:
 ---
 
 I seem to have a [food](/thingelstad/making-soup-in-vitamix), [movie](/thingelstad/dolphin-tale), [food](/thingelstad/ratatouille-on-big-green-egg), [movie](/thingelstad/moneyball-the-movie), [food](/thingelstad/hot-sauce-glazed-tempeh), [movie](/thingelstad/margin-call) stream going here so why not add one more food. :-)
-Last night we turned to the [Veganomicon](http://www.amazon.com/dp/156924264X/?tag=thingelstad-20) for dinner inspiration again. You may be thinking that we only have one vegan cookbook, we don't. We have a handful and actually the Veganomicon hasn't been the dominant one. But it's been my favorite since it was so highly recommended by my friend John. I decided to make Chile Cornmeal Crusted Tofu with Southwestern Corn Pudding.
+Last night we turned to the [Veganomicon](http://www.amazon.com/dp/156924264X/?tag={{ site.affiliate.amazon }}) for dinner inspiration again. You may be thinking that we only have one vegan cookbook, we don't. We have a handful and actually the Veganomicon hasn't been the dominant one. But it's been my favorite since it was so highly recommended by my friend John. I decided to make Chile Cornmeal Crusted Tofu with Southwestern Corn Pudding.
 
 [![]({{ site.url }}/assets/posts/2011/Crusty-Tofu.jpg)](http://thingelstad.com/s/chile-cornmeal-crusted-tofu/crusty-tofu/img)
 

@@ -20,7 +20,7 @@ I've been really pleased with the newest releases of the [Apple TV](http://www.a
 
 I decided to take the plunge and do the upgrade. I had read about the procedure and it seemed pretty simple. Certainly way easier than [hacking an Xbox](/thingelstad/xbox-mod-night). No soldering required here. If you are curious about doing this yourself, I followed the [Engadget](http://www.engadget.com/) article on [upgrading your Apple TV hard drive](http://www.engadget.com/2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/). I'll add some of my own comments on the process below.
 
-First thing, you need some drives. I ordered three of the [Western Digital Scorpio Blue 250GB 2.5" PATA drives](http://www.amazon.com/gp/product/B000W3RPLC?ie=UTF8&tag=thingelstadco-20) from [NewEgg](http://www.newegg.com/).
+First thing, you need some drives. I ordered three of the [Western Digital Scorpio Blue 250GB 2.5" PATA drives](http://www.amazon.com/gp/product/B000W3RPLC?ie=UTF8&tag={{ site.affiliate.amazon }}) from [NewEgg](http://www.newegg.com/).
 
 ![New Hard Drives Ready.png]({{ site.url }}/assets/posts/2009/new-hard-drives-ready.png)
 

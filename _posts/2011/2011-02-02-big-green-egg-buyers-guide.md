@@ -239,14 +239,14 @@ Hope that helps. You should also download the [Big Green Egg community cookbook]
 [plate]: http://biggreenegg.com/product/conveggtor/
 [pizzastone]: http://biggreenegg.com/product/pizzabaking-stone/
 
-[ashtool]: http://www.amazon.com/dp/B003E71Y06/?tag=thingelstad-20
-[starters]: http://www.amazon.com/dp/B002V3E8RK/?tag=thingelstad-20
-[gloves]: http://www.amazon.com/dp/B000JFCEDM/?tag=thingelstad-20
-[grips]: http://www.amazon.com/dp/B000A35NQI/?tag=thingelstad-20
-[thermapen]: http://www.amazon.com/dp/B002GIZZWM/?tag=thingelstad-20
-[gripper]: http://www.amazon.com/dp/B001EEZR3G/?tag=thingelstad-20
-[ashpan]: http://www.amazon.com/dp/B001EF1S88/?tag=thingelstad-20
-[meathook]: http://www.amazon.com/dp/B000MLDC0W/?tag=thingelstad-20
+[ashtool]: http://www.amazon.com/dp/B003E71Y06/?tag={{ site.affiliate.amazon }}
+[starters]: http://www.amazon.com/dp/B002V3E8RK/?tag={{ site.affiliate.amazon }}
+[gloves]: http://www.amazon.com/dp/B000JFCEDM/?tag={{ site.affiliate.amazon }}
+[grips]: http://www.amazon.com/dp/B000A35NQI/?tag={{ site.affiliate.amazon }}
+[thermapen]: http://www.amazon.com/dp/B002GIZZWM/?tag={{ site.affiliate.amazon }}
+[gripper]: http://www.amazon.com/dp/B001EEZR3G/?tag={{ site.affiliate.amazon }}
+[ashpan]: http://www.amazon.com/dp/B001EF1S88/?tag={{ site.affiliate.amazon }}
+[meathook]: http://www.amazon.com/dp/B000MLDC0W/?tag={{ site.affiliate.amazon }}
 
 [kw]: http://kitchenwindow.com/
 [ace]: http://www.settergrenacehardware.com/about/about/sb.cn

@@ -21,6 +21,11 @@ url:                "http://thingelstad.com" # the base hostname & protocol for 
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
+# Affiliates
+affiliate:
+  amazon:           "thingelstad01-20"
+  itunes:           "1001lxyE"
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:           America/Chicago
