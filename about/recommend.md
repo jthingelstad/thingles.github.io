@@ -20,3 +20,6 @@ Tammy and I have used YNAB for our personal finances for years now and it's tran
 
 *All links on this page contain affiliate codes.*
 
+### Dollar Shave Club
+
+[Go to Dollar Shave Club.](http://dollarshaveclub.com/ref/18v5/0D270F31CC3227)
