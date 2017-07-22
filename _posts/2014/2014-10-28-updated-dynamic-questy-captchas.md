@@ -4,6 +4,7 @@ categories:
 - Techie
 tags:
 - MediaWiki
+redirect_from: /blog/updated-dynamic-questy-captchas
 ---
 
 A little [over a year ago](/thingelstad/stopping-mediawiki-spam-with-dynamic-questy-captchas) I shared a method of generating dynamic [Questy Captchas](http://www.mediawiki.org/wiki/Extension:QuestyCaptcha) for the [MediaWiki](http://www.mediawiki.org/) [ConfirmEdit extension.](http://www.mediawiki.org/wiki/Extension:ConfirmEdit) This method has been awesome for stopping registration spam on the thingelstad.com wiki farm and many other wiki admins have used it with success. Unfortunately it was more useful in it’s novelty than in it’s difficult to solve, and eventually some spammers wrote the logic to solve it and the registration spam started flooding in.

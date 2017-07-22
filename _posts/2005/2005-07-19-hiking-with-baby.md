@@ -2,6 +2,7 @@
 title: Hiking With Baby
 categories:
 - Family
+redirect_from: /hiking-with-baby/
 ---
 
 I was reading some "evergreen" content on [BabyCenter.com](http://www.babycenter.com/) tonight. They have some semi-decent [content targeted at dad-types](http://www.babycenter.com/dads/). Anyway, they highlighted hiking as an activity to do with your baby. I like hiking so took a gander.

@@ -1,6 +1,7 @@
 ---
 title: Spillo, a powerful Mac Pinboard app
 tags: Apps
+redirect_from: /blog/spillo-a-powerful-mac-pinboard-app
 ---
 
 [![Spillo]({{ site.url }}/assets/posts/2016/Spillo-Icon.png)][spillo]
