@@ -4,13 +4,14 @@ categories:
 - Cooking
 tags:
 - Big Green Egg
+redirect_from:
+- /big-green-egg-tandoor/
+- /blog/big-green-egg-tandoor
 ---
 
 About a week ago I stumbled upon a blog post from a fellow Big Green Egg enthusiast that explained how he had attempted to do tandoor style cooking using his Big Green Egg. If your unfamiliar with a Tandoor there is a [good write-up on Wikipedia](http://en.wikipedia.org/wiki/Tandoor), but the essence of it is captured as:
 
-<blockquote><blockquote>The food is cooked over a hot charcoal fire or wooden fire . Temperatures in a tandoor can approach 480° C (900° F), and it is common for tandoor ovens to remain lit for long periods of time to maintain the high cooking temperature. The tandoor design is something of a transitional form between a makeshift earth oven and the horizontal-plan masonry oven, and is used almost exclusively for live-fire, radiant heat cooking.</blockquote>
-> 
-> </blockquote>
+> The food is cooked over a hot charcoal fire or wooden fire . Temperatures in a tandoor can approach 480° C (900° F), and it is common for tandoor ovens to remain lit for long periods of time to maintain the high cooking temperature. The tandoor design is something of a transitional form between a makeshift earth oven and the horizontal-plan masonry oven, and is used almost exclusively for live-fire, radiant heat cooking.
 
 If you've ever had Tandoori Chicken at an Indian restaurant you've eaten food from a tandoor. It has a very distinctive flavor, and is not easily reproduced at home.
 
@@ -44,38 +45,21 @@ This is really easy to do and I encourage Big Green Egg owners to give it a try.
 
 Other than that, just enjoy some amazing tandoor cooking at home. We want to try cooking bread next!
 
+![]({{ site.url }}/assets/posts/2009/20090517-182238.jpg)
 
+![]({{ site.url }}/assets/posts/2009/20090517-182447.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-182238.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-182828.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-182447.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-182848.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-182828.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-182926.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-182848.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-183051.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-182926.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-184404.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-183051.jpg)
-  
+![]({{ site.url }}/assets/posts/2009/20090517-184618.jpg)
 
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-184404.jpg)
-  
-
-  
-   ![]({{ site.url }}/assets/posts/2009/20090517-184618.jpg)
-  
 
 

@@ -97,5 +97,6 @@ defaults:
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-redirect-from
 
 exclude:            [vendor]

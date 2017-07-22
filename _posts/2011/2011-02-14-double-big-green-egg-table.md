@@ -4,6 +4,9 @@ categories:
 - Cooking
 tags:
 - Big Green Egg
+redirect_from:
+- /double-big-green-egg-table/
+- /blog/double-big-green-egg-table
 ---
 
 When I got my [Big Green Egg](http://biggreenegg.com/) I got the large table to go with it. It seemed okay, not great. I knew I wanted to have a good work surface for my Egg and I didn't think the simple fold out "wing" tables would work at all. I know a lot of Eggheads make their own tables. There are some [wonderful plans online](http://www.nakedwhiz.com/cart.htm) that help out. But I don't have even the basic woodworking skills, or patience, to do that. So I just went with the table from the store.

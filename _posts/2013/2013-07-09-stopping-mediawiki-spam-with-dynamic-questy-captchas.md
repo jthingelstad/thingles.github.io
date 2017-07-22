@@ -4,6 +4,7 @@ categories:
 - Techie
 tags:
 - MediaWiki
+redirect_from: /stopping-mediawiki-spam-with-dynamic-questy-captchas/
 ---
 
 **This method of using Questy Captcha has been defeated by some spammers. Please check out my [updated dynamic Questy Captcha method](/thingelstad/updated-dynamic-questy-captchas).**
