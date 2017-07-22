@@ -4,6 +4,7 @@ categories:
 - Techie
 tags:
 - Geek
+redirect_from: /count-404-in-group-of-access-logs/
 ---
 
 I found myself needing to see all of the 404 errors in the access logs for all virtual hosts on my web server. I put all of my logs for a given application (in this case WordPress) in one place (`/srv/www/wordpress/logs/$host-access.log`). Logrotate kicks in to keep them segmented and compress them by day.
