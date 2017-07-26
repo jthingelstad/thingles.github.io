@@ -3,6 +3,7 @@ title: "Driving Change"
 location: "Minneapolis, MN"
 date: 2017-07-26 06:43:16 -0500
 description: Go for a ride with tech leaders to gain insights on their beliefs, habits, routines and influences.
+image: /assets/posts/2017/jamie-driving-change.jpg
 tags: Me
 ---
 
