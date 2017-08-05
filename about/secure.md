@@ -2,7 +2,9 @@
 title: Secure
 ---
 
-For further information please see [my keybase profile](https://keybase.io/thingles). My PGP Public Key block (Fingerprint `1BB0 2594 9407 426B CC69 22A1 F605 FFEE EA54 0B5E`):
+You can reach me on [Signal](https://signal.org) at +1 612-810-3699. 
+
+My PGP Public Key block (Fingerprint `1BB0 2594 9407 426B CC69 22A1 F605 FFEE EA54 0B5E`):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
