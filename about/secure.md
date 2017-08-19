@@ -2,6 +2,8 @@
 title: Secure
 ---
 
+Not necessarily for secure, encrypted communications but if you want to reach me anonymously you can leave a message on [my Sarahah profile](https://thingles.sarahah.com). Be aware that I cannot reply to you via Sarahah.
+
 You can reach me on [Signal](https://signal.org) at +1 612-810-3699. 
 
 My PGP Public Key block (Fingerprint `1BB0 2594 9407 426B CC69 22A1 F605 FFEE EA54 0B5E`):
