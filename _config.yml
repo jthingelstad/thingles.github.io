@@ -17,7 +17,7 @@ social:
   pinboard:         thingles
 
 # URL
-url:                "https://thingelstad.com" # the base hostname & protocol for your site
+url:                "http://thingelstad.com" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
