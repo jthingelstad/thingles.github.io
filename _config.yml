@@ -17,7 +17,7 @@ social:
   pinboard:         thingles
 
 # URL
-url:                "http://thingelstad.com" # the base hostname & protocol for your site
+url:                "https://www.thingelstad.com" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -71,7 +71,7 @@ nav:
     url:            "/archive/"
   - icon:           "<i class='fa fa-comment' aria-hidden='true' title='Microblog'></i>"
     name:           "Microblog"
-    url:            "http://micro.thingelstad.com/"    
+    url:            "https://micro.thingelstad.com/"    
 
 # Sass
 sass:
