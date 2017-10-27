@@ -4,7 +4,7 @@ categories:
 - Music
 ---
 
-Last night we had the pleasure of seeing [Girlyman](http://girlyman.com/) play at the [7th Street Entry](http://first-avenue.com/calendar/7th%2520Street%2520Entry), part of historic First Avenue! My friend [Jim](http://jimbernard.net/) noticed they were coming into town and Jim, Tammy and I got tickets right away. We all know about Girlyman from our dear friend [Hadar](http://www.opticality.com/blog/) in New York. In November of last year, [Hadar and Lois saw Girlyman for the 21st time](http://www.opticality.com/blog/2011/11/14/girlyman-at-joes-pub-4/). Hadar and Lois are huge fans and sent us a two of their albums, [Joyful Sign](http://girlyman.com/music/joyfulsign/) and [Everything's Easy](http://girlyman.com/music/everythingseasy/),  to listen to a couple of years ago. We all headed to "the Entry" for the Girlyman experience in person!
+Last night we had the pleasure of seeing [Girlyman](http://girlyman.com/) play at the [7th Street Entry](http://first-avenue.com/calendar/7th-Street-Entry), part of historic First Avenue! My friend [Jim](http://jimbernard.net/) noticed they were coming into town and Jim, Tammy and I got tickets right away. We all know about Girlyman from our dear friend [Hadar](http://www.opticality.com/blog/) in New York. In November of last year, [Hadar and Lois saw Girlyman for the 21st time](http://www.opticality.com/blog/2011/11/14/girlyman-at-joes-pub-4/). Hadar and Lois are huge fans and sent us a two of their albums, [Joyful Sign](http://girlyman.com/music/joyfulsign/) and [Everything's Easy](http://girlyman.com/music/everythingseasy/),  to listen to a couple of years ago. We all headed to "the Entry" for the Girlyman experience in person!
 
 ## The Opener
 
