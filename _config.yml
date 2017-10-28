@@ -16,6 +16,8 @@ social:
   microblog:        jthingelstad
   pinboard:         thingles
   applemusic:       thingles
+  lichess:          thingles
+  goodreads:        thingles
 
 # URL
 url:                "https://www.thingelstad.com" # the base hostname & protocol for your site
