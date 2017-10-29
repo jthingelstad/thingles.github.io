@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![hand-holding-hard-drive.jpg]({{ site.url }}/assets/posts/2008/hand-holding-hard-drive1.jpg)Nobody likes to deal with backups. It's a chore. It usually has some expense to it. But we all know it's critical. Your probably backing up to a USB drive that you picked up and plugged into your machine. That's good. Maybe you've actually progressed with another computer in your house or a NAS device and are backing up over the network. This is a good idea to provide some separation between the backup and the computer the data is on.
+![hand-holding-hard-drive.jpg]({{ site.url }}{% link /assets/posts/2008/hand-holding-hard-drive1.jpg %})Nobody likes to deal with backups. It's a chore. It usually has some expense to it. But we all know it's critical. Your probably backing up to a USB drive that you picked up and plugged into your machine. That's good. Maybe you've actually progressed with another computer in your house or a NAS device and are backing up over the network. This is a good idea to provide some separation between the backup and the computer the data is on.
 But, what if there was a real catastrophe? What if your house burned down? What if someone broke into your house and stole all the computers? Bad things happen, and those hard drives no longer just have letters and check book accounts. Those are your family photos and videos, and if your like me you cannot lose that. There is only one way to guarantee your data and that is offsite backup. I've finally implemented a robust offsite backup regime that I think works best.
 
 <!-- more -->

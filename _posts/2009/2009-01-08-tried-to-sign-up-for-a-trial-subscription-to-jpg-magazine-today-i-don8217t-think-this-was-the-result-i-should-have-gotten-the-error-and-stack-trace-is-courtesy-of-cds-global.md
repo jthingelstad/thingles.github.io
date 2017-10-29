@@ -6,7 +6,7 @@ tags:
 - FAIL
 ---
 
-![]({{ site.url }}/assets/posts/2009/4c727b9ba10ab61d484c246b270cd7c9.png)
+![]({{ site.url }}{% link /assets/posts/2009/4c727b9ba10ab61d484c246b270cd7c9.png %})
   
 
 

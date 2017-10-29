@@ -14,15 +14,15 @@ Since I work the ash tool from the right hand side, I put the ash tool into the 
 
 
   
-   ![]({{ site.url }}/assets/posts/2009/Big-Green-Egg-Vent-Align-1.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Big-Green-Egg-Vent-Align-1.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Big-Green-Egg-Vent-Align-2.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Big-Green-Egg-Vent-Align-2.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Big-Green-Egg-Vent-Align-3.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Big-Green-Egg-Vent-Align-3.jpg %})
   
 
 

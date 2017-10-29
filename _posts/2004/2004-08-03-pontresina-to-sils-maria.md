@@ -9,7 +9,7 @@ tags:
 **Today's Stats: **Moving Time **4h 58m** Distance **11.9 miles** Ascent **2,506'** Max Elevation **7,437'**
 
 
-![]({{ site.url }}/assets/posts/2004/r_hike4.png)
+![]({{ site.url }}{% link /assets/posts/2004/r_hike4.png %})
 
 There is something really fun about waking up in one village and walking out of your hotel with your pack on and walking right into your next hotel in another village having used nothing other than your own two feet to get there. The tiredness in your muscles, the dull ache in your feet and the layer of sweat mark a good days work.
 
@@ -21,6 +21,6 @@ It seemed like we ascended more than we descended but I think it was just that t
 
 Tammy got a picture of an Edelweiss flower today. The edelweiss flower grows in the mountains and used to be the way that a man would prove his worthiness to his to-be wife by going up into the mountains and bringing an edelweiss flower back. Perhaps as a sign of the propensity to marry in Switzerland it is now illegal to pick an edelweiss flower and you can be fined if caught.
 
-![]({{ site.url }}/assets/posts/2004/r_profile-day4.png)
+![]({{ site.url }}{% link /assets/posts/2004/r_profile-day4.png %})
 
 Tomorrow is the hardest day of hiking on the trip. I'll let you know how that goes!

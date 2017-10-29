@@ -4,7 +4,7 @@ categories:
 - Photography
 ---
 
-![]({{ site.url }}/assets/posts/2011/Soccer-with-Puddles.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/Soccer-with-Puddles.jpg %})
   
 
 

@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![]({{ site.url }}/assets/posts/2011/IMG00138-20110116-1239.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/IMG00138-20110116-1239.jpg %})
   
 
 

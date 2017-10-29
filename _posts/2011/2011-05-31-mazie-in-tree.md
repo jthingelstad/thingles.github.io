@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-![]({{ site.url }}/assets/posts/2011/mazie-in-tree.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/mazie-in-tree.jpg %})
   
 
 

@@ -7,7 +7,7 @@ tags:
 - Semantic MediaWiki
 ---
 
-![]({{ site.url }}/assets/posts/2012/Paperclip.png)
+![]({{ site.url }}{% link /assets/posts/2012/Paperclip.png %})
 
 I have been doing a lot of exploration using [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) and the [Semantic Mediawiki](http://semantic-mediawiki.org/) suite of extensions. I've deployed a number of wikis doing a wide variety of things. For a few months I had been pondering the idea of hosting my own bookmarking site using Semantic MediaWiki. I decided to give it a try and put together [links_thing](http://links.thingelstad.com/wiki/Main_Page).
 

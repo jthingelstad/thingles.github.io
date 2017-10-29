@@ -8,7 +8,7 @@ categories:
 While I was in Canada fishing I was without any means of communication. The only thing that would have worked was a satellite phone, and while I considered it I figured I was being ridiculous. I did know that the camp had a radio, and I figured that with enough work you could get through via the radio if there was an emergency. I had visions in my head of Radar in M*A*S*H patching calls through for Hawkeye to talk to his Dad. It all seemed very do-able.
 On only the second day of fishing, after we came back in from the afternoon session there was a message. Everyone was pretty confused since it was so unexpected. George, the Native American that ran the camp had left a scrap of paper for us. The message, exactly as it was delivered is below.
 
-![message-scan.jpg]({{ site.url }}/assets/posts/2007/message-scan1.jpg)
+![message-scan.jpg]({{ site.url }}{% link /assets/posts/2007/message-scan1.jpg %})
 
 Nobody knew what to do with it, until someone figured out whose phone number that was. It was mine! Obviously there is no message there, so I went to find George a bit anxious about what my message was. George spoke very little English. It turned out, that was the whole message. That was all he had for me, my phone number.
 

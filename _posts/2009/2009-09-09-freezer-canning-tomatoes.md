@@ -4,7 +4,7 @@ categories:
 - Cooking
 ---
 
-![]({{ site.url }}/assets/posts/2009/Canning-Tomatoes.png)
+![]({{ site.url }}{% link /assets/posts/2009/Canning-Tomatoes.png %})
   
 
 

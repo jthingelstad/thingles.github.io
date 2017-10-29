@@ -7,6 +7,6 @@ tags:
 ---
 
 Lately Tyler has taken to sitting down at the iMac, logging in on the guest account, starting a Safari which takes him to Apple's website. He then watches video after promotional video.
-![]({{ site.url }}/assets/posts/2013/1359338349.jpg)
+![]({{ site.url }}{% link /assets/posts/2013/1359338349.jpg %})
 
 It's now totally common to hear Jony Ives saying "aluminium" at random intervals.

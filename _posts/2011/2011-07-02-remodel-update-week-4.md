@@ -12,51 +12,51 @@ The basement is a disaster zone however. The stairs got cut off half way down. I
 
 Next week framing starts and the new floor in the basement gets poured. I'm thinking this is maybe the ugliest it will look. :-)
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103509-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103509-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103527-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103527-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103534-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103534-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103550-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103550-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103616-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103616-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103651-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103651-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103713-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103713-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103723-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103723-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-103819-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-103819-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104327-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104327-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104336-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104336-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104354-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104354-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104410-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104410-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104427-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104427-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104443-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104443-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104453-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104453-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104501-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104501-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104519-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104519-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104524-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104524-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104603-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104603-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104711-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104711-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104727-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104727-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104743-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104743-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-4/20110702-104904-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-4/20110702-104904-0001.jpg %})
 

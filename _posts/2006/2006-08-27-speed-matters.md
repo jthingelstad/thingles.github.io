@@ -8,10 +8,10 @@ I've got a bunch of little USB flash drives hanging around. It is almost as if t
 
 Pathetic performance is documented below on one of my 1G flash cards.
 
-![]({{ site.url }}/assets/posts/2006/o_USBSpeedOldDrive.png)
+![]({{ site.url }}{% link /assets/posts/2006/o_USBSpeedOldDrive.png %})
 
 Of course this problem is easily solved with a credit card and a few clicks on [Newegg](http://www.newegg.com/). I ordered the [OCZ Rally2 2G accelerated](http://www.newegg.com/Product/Product.asp?Item=N82E16820227112) drive, and solved all of my problems.
 
-![]({{ site.url }}/assets/posts/2006/o_USBSpeedNewRally2.png)
+![]({{ site.url }}{% link /assets/posts/2006/o_USBSpeedNewRally2.png %})
 
 It is still no hard drive, but, the performance is very acceptable. And to boot, it's nicely packaged with a metal enclosure and no wasted room.

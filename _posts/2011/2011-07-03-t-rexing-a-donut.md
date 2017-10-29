@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![]({{ site.url }}/assets/posts/2011/t-rexing-a-donut.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/t-rexing-a-donut.jpg %})
   
 
 

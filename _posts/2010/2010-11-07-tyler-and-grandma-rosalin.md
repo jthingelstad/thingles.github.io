@@ -6,7 +6,7 @@ tags:
 - Tyler
 ---
 
-![]({{ site.url }}/assets/posts/2010/20101107-115304-0001-2.jpg)
+![]({{ site.url }}{% link /assets/posts/2010/20101107-115304-0001-2.jpg %})
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Events
 ---
 
-[![]({{ site.url }}/assets/posts/2004/r_tal-logo.jpg)](http://www.thisamericanlife.org/)
+[![]({{ site.url }}{% link /assets/posts/2004/r_tal-logo.jpg %})](http://www.thisamericanlife.org/)
 
 
 On Saturday we found ourselves doing something that we both recalled we hadn't done probably in a decade. We were hopping into the car to drive hundreds of miles just to see a performance. Now, a decade ago I may have been found doing a road trip like this for a punk rock concert, today we found ourselves driving 360 miles to see [Ira Glass](http://www.barclayagency.com/glass.html) of [This American Life](http://www.thisamericanlife.org/).

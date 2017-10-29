@@ -14,15 +14,15 @@ In the email were three photos to highlight the people just like you. All set in
 
 
   
-   ![]({{ site.url }}/assets/posts/2014/6856984136_3bec1fb50f_n61d0f3.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/6856984136_3bec1fb50f_n61d0f3.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2014/7003068857_c00afbb3eb_nd943f9.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/7003068857_c00afbb3eb_nd943f9.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2014/7003164875_7b44fe506b_c0847029960f1.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/7003164875_7b44fe506b_c0847029960f1.jpg %})
   
 
 

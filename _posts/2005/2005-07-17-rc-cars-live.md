@@ -36,7 +36,7 @@ get my cars going!". A few shipments from [RCHobbies.org](http://www.rchobbies.o
 everything going -- including finishing and getting my gas car going --
 5 years after I bought it! (It is now a discontinued model!)
 
-![]({{ site.url }}/assets/posts/2005/o_RC-Cars.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_RC-Cars.jpg %})
 
 I finished the gas one this weekend and primed the motor up. I've ran a
 few tanks of gas through it to break in the engine and tuned it up a

@@ -15,45 +15,45 @@ Week six was a big one! The difference between last week and now is really fun. 
 
 I've been amazed at all the structural engineering that has gone into lowering the floor. The extra 7" will be worth it though. This week windows get put in and most of the framing happens.
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-143852-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-143852-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-143907-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-143907-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-143918-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-143918-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-143927-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-143927-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-143938-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-143938-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-144044-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-144044-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-144801-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-144801-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-144814-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-144814-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-144837-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-144837-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-144945-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-144945-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145008-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145008-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145029-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145029-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145048-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145048-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145105-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145105-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145117-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145117-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145129-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145129-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145146-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145146-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145200-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145200-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145234-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145234-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145306-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145306-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-6/20110716-145319-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-6/20110716-145319-0001.jpg %})
 

@@ -7,7 +7,7 @@ tags:
 - Wii
 ---
 
-[![Nintendo Wii]({{ site.url }}/assets/posts/2006/nintendo_wii_11.jpg)](http://www.nintendo.com/channel/wii)I'm not a gamer.
+[![Nintendo Wii]({{ site.url }}{% link /assets/posts/2006/nintendo_wii.jpg %})](http://www.nintendo.com/channel/wii)I'm not a gamer.
 Starting a post titled "Wii Obsession?" with a statement like "I'm not a gamer" may seem like denial, but it really isn't. If I'm looking for a fun time at my computer I'm most likely going to play around with some new software, do something on one of my websites, or blather on my blog. I don't even follow the console gaming world with the exception of information that I get just by being around people I know.
 
 However, I'm really fascinated with the soon to be released [Nintendo Wii](http://www.nintendo.com/channel/wii). I love that Nintendo is zigging, while Sony and Microsoft zag. Instead of going for more, bigger, faster, better Nintendo is focusing on game play and quality entertainment. The crazy remote that the Wii comes with is a big departure, and I think it will pay off. I read about the [radical departure of the Wii in the Economist](http://www.economist.com/business/displaystory.cfm?story_id=E1_RDRDSRS) of all places.

@@ -12,39 +12,39 @@ Tammy had her 2nd photography class today. Last week I went with the "Dad standb
 
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041403.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041403.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041419.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041419.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041428.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041428.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041437.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041437.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041447.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041447.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041456.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041456.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041503.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041503.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041511.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041511.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110625-041519.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110625-041519.jpg %})
   
 
 

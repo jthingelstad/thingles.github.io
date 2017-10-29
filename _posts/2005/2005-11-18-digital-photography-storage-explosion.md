@@ -123,19 +123,19 @@ Every photo I've taken since that day in 1999 has been digital.
 
 While much about this transition has been wonderful, and I certainly would not return to film, there are challenges. In the period from June 9, 1999 to October 27, 2005, a span of 2,332 days, I've taken over 20,000 pictures. That represents over 8 pictures a day for several years, a frequency that is unfathomable in film photography. This collection now represents nearly 50 gigabytes of storage that is more precious than any collection of spreadsheets or word processing documents I can imagine. Vacation memories, the birth of a child, weddings are just some examples of this immensely important data. Figure 1 shows the storage requirement of these photos over time.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image002.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image002.gif %})
 Figure 1
 
 The explosion of storage required to accommodate increasing numbers of photos at higher resolutions is a genuine challenge. This data management problem was, until recently, inconceivable to the average person and was only an issue that organizations with specialized technical staff had to deal with. The idea of backing up 50 GB of data on anything other than a spare hard drive is preposterous; optical media is too small (including DVD) and tape is cost prohibitive, hard to use and prone to failure. Even the hard drive option has only recently become an option with the advent of USB2 and Firewire, before that there really was no option.
 
 The amazing thing about this storage issue is the rate at which it is growing. It took 299 days for me to collect my first gigabyte of photos. I didn't reach the five gigabyte point until 1,144 days of photography. That is approximately half of the time I've had a digital camera. In the 1,188 days following that I've added another 41 gigabytes of photos, all while continuing to accelerate the storage needs. Figure 2 shows the storage size of photos taken by year (only showing years with complete data).
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image004.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image004.gif %})
 Figure 2
 
 This may sound huge, but luckily this technical problem has been helped by hard drive manufacturers. Figure 3 below compares the growth of my digital photos to Moore's Law[[1]](http://thingelstad.com/s/digital-photography-storage-explosion/img) and Kryder's Law[[2]](http://thingelstad.com/s/digital-photography-storage-explosion/img). Both of these laws relate to the growth rates of technology. Moore's Law, reduced, states that computing power doubles every 18 months. Kryder's Law is a similar law for storage, but doubling even faster at 13 months.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image006.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image006.gif %})
 Figure 3 - Plotted on logarithmic scale.
 
 It is interesting to note that both Moore's and Kryder's growth rates were well ahead of me for nearly the entire first year of photography. Since then, I've steadily outpaced Moore's and am knocking aggressively on the top-end of Kryder's growth rate.
@@ -148,27 +148,27 @@ Digital photography introduces people to an entirely new way of using photos, wi
 
 Take a moment to look at Figure 4 below showing the number of photos taken each month with a 6-month moving average.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image008.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image008.gif %})
 Figure 4
 
 You can see a clear growth in the tendency to simply take more and more photos. I have been taking 36% more pictures every year since starting with digital photography. Compounding that problem is the growth of megapixels, and with it file-sizes, in digital cameras. The storage space required for the increasingly growing collection of photos is growing geometrically.
 
 Figure 5 is interesting for other reasons as it identifies how events like vacation (July 2002, July 2004) affect these trends, as well as major life events like the birth of a child (June 2005). Going to Europe in July 2004 now carries with it a permanent issue of keeping 4.5 gigabytes of data around forever. That is notably more challenging than putting some prints in a photo album and placing it on the shelf. One is an active process of sophisticated data management, the other a passive matter of organizing physical documents. As we continue to use digital technology to capture events in our life we may begin to look at the digital cost of those events. Going on vacation will cost $2,000 and have a data load of 3GB, my childs school play will have a data load of 1.5GB, etc. All the while being additive of course, we are never removing old content.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image010.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image010.gif %})
 Figure 5
 
 Let's take a moment to look at our digital photography behavior. This is somewhat tangential to the issue at hand, but is interesting nonetheless and provides some depth to the trend of taking more photos over time. Figure 6 below shows the number of digital photos taken each month during the sample period.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image012.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image012.gif %})
 Figure 6
 
 It is clear that the summer months represent big picture taking times. December also reflects a high volume of pictures, no doubt due to the Christmas holiday. Figures 7 and 8 show photographic activity by day and hour.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image014.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image014.gif %})
 Figure 7
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image016.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image016.gif %})
 Figure 8
 The results are not terribly surprising. The majority of photos are taken on the weekends and there are very few photos taken while sleeping. It is a little surprising that the afternoon is higher than the early evening hours.
 
@@ -219,7 +219,7 @@ WDW Online Communications
 
 Denied the true information, I did find some estimates of attendance on the web[[4]](http://thingelstad.com/s/digital-photography-storage-explosion/img). Using this estimate I concluded that Disney World averaged 38,462 visitors a day. According to at least one survey 54% of Americans are using digital cameras[[5]](http://thingelstad.com/s/digital-photography-storage-explosion/img). It seems straightforward to me that the average visitor to Disney World is also more likely to have a digital camera, but we'll use the average anyway.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image018.gif)The next challenge is determining the distribution of camera types. I used a standard bell curve distribution from 2 megapixel to 8 megapixel (shown on the right), and also assumed that everyone is taking a JPEG file. The last bit of information needed is an estimate of how many pictures each one of these digitally equipped visitors would take at Disney World. I estimated 100 pictures, which I would suggest is high, but realistic given that you are on vacation, at a special place and have a high desire to capture "life's moments". For comparison, I took 241 pictures in two days at Disney World, averaging 120 pictures a day.
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image018.gif %})The next challenge is determining the distribution of camera types. I used a standard bell curve distribution from 2 megapixel to 8 megapixel (shown on the right), and also assumed that everyone is taking a JPEG file. The last bit of information needed is an estimate of how many pictures each one of these digitally equipped visitors would take at Disney World. I estimated 100 pictures, which I would suggest is high, but realistic given that you are on vacation, at a special place and have a high desire to capture "life's moments". For comparison, I took 241 pictures in two days at Disney World, averaging 120 pictures a day.
 
 Given these assumptions, the attendees to Disney World generate 3,869 GB, or 3.78 **terabytes**, of data every single day. An equally interesting way to look at this is bandwidth. If you used the average cable modem available in the US today, and transmitted data at the maximum rate every minute that Disney World was open[[6]](http://thingelstad.com/s/digital-photography-storage-explosion/img), you would have to have 420 cable modems running in parallel (839 Mbps) to handle the data.
 
@@ -241,12 +241,12 @@ Almost all digital photography is done straight to a JPEG file. This is an easy 
 
 Raw files are compressed, but not as much as JPEG files. The resulting file is approximately 300% larger than a comparable JPEG file. Figure 9 shows the theoretical effect of using RAW photography as opposed to JPEG.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image020.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image020.gif %})
 Figure 9 - Plotted on logarithmic scale.
 
 You can see the problem right away! We break above Kryder's law immediately and stay well above it. At the end of our sample period our storage needs have tipled from 46 GB to 143 GB. Let's look at this growth on a linear scale in Figure 10, as opposed to the logarithmic scale in Figure 9. The huge disparity in storage needs versus growth are profound.
 
-![]({{ site.url }}/assets/posts/2005/DigitalPhotographyStorageExplosion-image022.gif)
+![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image022.gif %})
 Figure 10
 
 While it is appealing to do photography only in RAW, the storage implications make it very challenging.

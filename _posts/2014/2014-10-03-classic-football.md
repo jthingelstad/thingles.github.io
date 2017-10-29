@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![]({{ site.url }}/assets/posts/2014/IMG_2400.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/IMG_2400.jpg %})
   
 
 

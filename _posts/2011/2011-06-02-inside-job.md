@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-![]({{ site.url }}/assets/posts/2011/Movie-Inside-Job.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/Movie-Inside-Job.jpg %})
   
 
 

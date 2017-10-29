@@ -10,7 +10,7 @@ tags:
 The next [Minnedemo](http://minnedemo.org/) is now scheduled for February 6, 2009 at 7:00pm. It is free (as always), but registration is required so go there and [get signed up](http://minnedemo.eventbrite.com/). There are about 260 open tickets left at this point.
 
 
-[![minnedemo-logo.png]({{ site.url }}/assets/posts/2009/minnedemo-logo.png)](http://minnedemo.org/)
+[![minnedemo-logo.png]({{ site.url }}{% link /assets/posts/2009/minnedemo-logo.png %})](http://minnedemo.org/)
 
 Even though it is free that doesn't mean you can leave your wallet at home. [Intermedia Arts](http://intermediaarts.org/) is the host for Minnedemo and they have [fallen on some difficult times](http://intermediaarts.org/updates.php#fastforward). There will be an opportunity to donate Intermedia Arts ([read more about them](http://intermediaarts.org/about/)) and I think the [Minnedemo](http://minnedemo.org/)/[Minnebar](http://barcamp.org/MinneBar) community should show its support with some donations.
 

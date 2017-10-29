@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-[![Thermapen-Grey.png]({{ site.url }}/assets/posts/2009/thermapen-grey.png)][Thermapen]
+[![Thermapen-Grey.png]({{ site.url }}{% link /assets/posts/2009/thermapen-grey.png %})][Thermapen]
 
 A few months ago my neighbor Mike and I decided to put my Big Green Egg through it's first real trial with a 12-hour brisket session. Mike is a stellar cook on all counts and I wanted to learn anything I could about grilling. As we were working the brisket through the hours we probed this large hunk of meat for temperature dozens of times, in dozens of locations. I've always had temperature probes and such, but Mike was using one of these high-end instant read digital thermometers and I realized this was a must for grilling.
 

@@ -9,7 +9,7 @@ tags:
 
 I really dig my iPhone and it seems to get better and better with every software release. However, I really wish that Apple would add a feature to **block certain WiFi networks**. Here is a screen that all iPhone owners are very familiar with:
 
-[![iPhone-Network-Selection-Small.jpg]({{ site.url }}/assets/posts/2008/iphone-network-selection-small.jpg)]({{ site.url }}/assets/posts/2008/iphone-network-selection.jpg)
+[![iPhone-Network-Selection-Small.jpg]({{ site.url }}{% link /assets/posts/2008/iphone-network-selection-small.jpg %})]({{ site.url }}{% link /assets/posts/2008/iphone-network-selection.jpg %})
 
 Here is the problem with this screen, I see it all the time! I have no idea what the "2WIRE251" network is but I never, ever want to see it since I will never, ever use it. I'm not a customer of the "USI Wireless" network, and would rather not see that. I have no use, ever, for the "Available Now MPLS Wir..." or "City of Minneapolis Publi..." networks.
 

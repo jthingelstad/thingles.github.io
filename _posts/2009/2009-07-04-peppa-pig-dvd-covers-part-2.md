@@ -10,27 +10,27 @@ Another contribution to the Internet for high-resolution cover art. Here are the
 
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Bubbles-Back.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Bubbles-Back.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Bubbles-Front.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Bubbles-Front.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Piggy-in-the-Middle-Back.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Piggy-in-the-Middle-Back.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Piggy-in-the-Middle-Front.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Piggy-in-the-Middle-Front.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-The-Balloon-Ride-Back.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-The-Balloon-Ride-Back.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-The-Balloon-Ride-Front.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-The-Balloon-Ride-Front.jpg %})
   
 
 

@@ -20,7 +20,7 @@ Google Reader will substitute the items in braces. Now you have an easy "Send to
 
 To create this go to Google Reader and open Settings. Select the "Send To" tab and click on the "Create a custom link" button. Then fill it in similar to this picture:
 
-![google-reader-send-to-for-wordpress2]({{ site.url }}/assets/posts/2009/google-reader-send-to-for-wordpress2.png)
+![google-reader-send-to-for-wordpress2]({{ site.url }}{% link /assets/posts/2009/google-reader-send-to-for-wordpress2.png %})
 
 Also, if you want the nice WordPress icon next to the link put the Icon URL in as
 

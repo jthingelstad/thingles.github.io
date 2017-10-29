@@ -8,6 +8,6 @@ tags:
 
 One of the things that makes the Mac so great is the wonderful independent, or "indy", software developers out there. Mac software is typically not just functional, but beautiful. I recently bought Timeline 3D from [Bee Docs'](http://www.beedocuments.com/) and got this great postcard from the author.
 
-![bee-docs-postcard.png]({{ site.url }}/assets/posts/2008/bee-docs-postcard.png)
+![bee-docs-postcard.png]({{ site.url }}{% link /assets/posts/2008/bee-docs-postcard.png %})
 
 Not only beautiful and functional software, but great customer interaction.

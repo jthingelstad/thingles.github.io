@@ -14,51 +14,51 @@ Outside we also got our landscaping done this week. The rutted tracks from the e
 
 This week the family room built-in is coming and the walls are getting painted. Electrical work will get back underway and the network will come back to life with a new telco rack and everything getting punched back down. We'll actually move some stuff back into the utility room next weekend.
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-131742-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-131742-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-131752-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-131752-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-131834-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-131834-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132144-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132144-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132149-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132149-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132343-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132343-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132355-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132355-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132409-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132409-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132442-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132442-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132451-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132451-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132500-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132500-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132551-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132551-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132603-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132603-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132609-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132609-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132622-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132622-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132812-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132812-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132843-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132843-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132849-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132849-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132858-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132858-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132949-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132949-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-132954-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-132954-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-133002-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-133002-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-133054-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-133054-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-16/20110925-133101-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-16/20110925-133101-0001.jpg %})
 

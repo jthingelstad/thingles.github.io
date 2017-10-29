@@ -4,7 +4,7 @@ categories:
 - Local
 ---
 
-![]({{ site.url }}/assets/posts/2014/MP-2-186-5237-morgan.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/MP-2-186-5237-morgan.jpg %})
   
 
 

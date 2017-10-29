@@ -11,7 +11,7 @@ It was really good to look at these properties because it helped clarify how we 
 
 First, a **small living option is necessary right away**. Tammy did a bunch of research and found this great option for us called the [miniHome](http://www.sustain.ca/). As soon as you own the land, you need a place to stay on it and the idea of camping every time you visit wasn't that appealing to either of us.
 
-[![]({{ site.url }}/assets/posts/2006/o_minihome.jpg)](http://www.sustain.ca/)
+[![]({{ site.url }}{% link /assets/posts/2006/o_minihome.jpg %})](http://www.sustain.ca/)
 
 The miniHome is a near ideal solution for this. It's rated as a mobile home so it can be brought to a site without any special police escort. It's designed to be ecologically friendly and self-contained. They have an option that puts solar electric and a wind turbine with it for complete off-grid usage. It has reservoirs for water and waste. In short, this is a one-stop solution to having 350 square feet of comfortable, heated space with all the conveniences you would expect. The only thing lacking is air conditioning, which you could add if you wanted. (Note: it even has an ethernet network!) We would plan on leaving this on the land to be used as a guest option as well.
 

@@ -10,21 +10,21 @@ More finish work continued this week. The exterior of the new mudroom got painte
 
 This week is more painting, finish work, cabinetry and landscaping is starting to restore the yard.
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180518-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180518-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180553-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180553-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180702-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180702-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180713-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180713-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180735-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180735-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180919-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180919-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-180953-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-180953-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-181009-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-181009-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-15/20110917-181101-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-15/20110917-181101-0001.jpg %})
 

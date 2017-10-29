@@ -8,7 +8,7 @@ tags:
 
 Today brought the [Apple TV](http://www.apple.com/appletv) faithful a big win with the release of Apple TV Take 2, or more appropriately the Apple TV 2.0 Software. Being the [proud owner of three Apple TV's](http://thingelstad.com/s/2007/12/all-in-on-apple-tv/img) I was eager to get this update applied.
 
-![apple-tv-2.0.png]({{ site.url }}/assets/posts/2008/apple-tv-201.png)
+![apple-tv-2.0.png]({{ site.url }}{% link /assets/posts/2008/apple-tv-201.png %})
 
 I was a bit surprised at how quickly it installed. I guess I was expecting a good 30 to 45 minute install but it only took about 10 minutes even with all the reboots. The install was painless and simple with no issues.
 

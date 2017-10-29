@@ -23,16 +23,181 @@ Now for an unfortunate item. RSS doesn't have a means (in a standard way at leas
 
 **Migrating Comments**
 
-Now that the posts are moved over, we need to deal with comments. At first I considered just starting fresh with no comments, but I have over 400 comments and that seemed like a lot of content to just throw away. The method below worked great for me. I purposefully focused on tools that I was comfortable with, this could be done many different ways. The basic approach is to export all the comments into a simple CSV file, then import them using a [custom PHP import script]({{ site.url }}/assets/posts/2006/commentscsv.txt) for WordPress. The connection between the comment and the post is the post title, so it is critical that you _do not edit the titles on any posts_ until you've imported your comments.
+Now that the posts are moved over, we need to deal with comments. At first I considered just starting fresh with no comments, but I have over 400 comments and that seemed like a lot of content to just throw away. The method below worked great for me. I purposefully focused on tools that I was comfortable with, this could be done many different ways. The basic approach is to export all the comments into a simple CSV file, then import them using a custom PHP import script for WordPress. The connection between the comment and the post is the post title, so it is critical that you _do not edit the titles on any posts_ until you've imported your comments.
 
 The simplest way to get the comments into a CSV file is to use the SQL Server DTS tool. I selected a CSV file as a destination and used this SQL query to get the relevant content.
 
+{% highlight sql %}
 `SELECT     posts.ID AS PostID, posts.Title, posts.DateAdded, comment.ID AS CommentID, comment.Title AS CommentTitle, comment.DateAdded AS CommentDate, comment.Author, comment.Email, comment.TitleUrl, comment.Text
 FROM         blog_Content comment
 INNER JOIN blog_Content posts ON comment.ParentID = posts.ID
 WHERE     (comment.PostType = 3) `
+{% endhighlight %}
 
-This will get us a simple file with all of our comments dumped into it. With this file in hand, we can now do the import. To do this, [download the CommentsCSV importer]({{ site.url }}/assets/posts/2006/commentscsv.txt) and replace the TXT extension with PHP, then place it in the importer directory. Go to the import tab and you will see CommentsCSV listed. Upload the file and watch it do it's magic.
+This will get us a simple file with all of our comments dumped into it. With this file in hand, we can now do the import. 
+
+{% highlight php linenos %}
+<?php
+
+class CommentsCSV_Import {
+
+    var $file;
+
+    function header() {
+        echo '<div class="wrap">';
+        echo '<h2>'.__('Import Comments from CSV').'</h2>';
+    }
+
+    function footer() {
+        echo '</div>';
+    }
+
+    function unhtmlentities($string) { // From php.net for < 4.3 compat
+        $trans_tbl = get_html_translation_table(HTML_ENTITIES);
+        $trans_tbl = array_flip($trans_tbl);
+        return strtr($string, $trans_tbl);
+    }
+
+    function greet() {
+        echo '<p>'.__('Hello. This importer will load the comments from a previous blog that you have dumped to a CSV file into Wordpress. Find your special CSV file to upload and click Import.').'</p>';
+        wp_import_upload_form("admin.php?import=commentscsv&amp;step=1");
+    }
+
+    function import_comments() {
+        global $wpdb;
+
+        /*
+        open up our file and loop through it...
+        the CSV file is expected to have these columns
+        0 = Original Post ID
+        1 = Post Title
+        2 = Post Date
+        3 = Original Comment ID
+        4 = Comment Title
+        5 = Comment Date
+        6 = Comment Author
+        7 = Comment Email
+        8 = Comment Author Website
+        9 = Comment Text
+        */
+
+        set_magic_quotes_runtime(0);
+
+        $row = 1;
+        $handle = fopen($this->file, "r");
+        while (($data = fgetcsv($handle, 10000, ",")) !== FALSE) {
+            echo "<p> <strong>Reading row $row.</strong><br /></p>\n";
+            $data[1] = str_replace('\'', '\\\'', $data[1]);
+            echo "<p> Comment ID $data[3] ($data[4]) for Post ID $data[0] ($data[1]).<br /></p>\n";
+
+            // get the ID of the post this comment is for
+            $post_id = $wpdb->get_var("SELECT ID FROM $wpdb->posts WHERE post_title = '$data[1]'");
+            echo "<p> Found new ID of $post_id.<br /></p>\n";
+
+            //get the dates in the right format
+            echo "<p> Comment from $data[6] ($data[7], $data[8]) on $data[5].<br /></p>\n";
+
+            /*if ($post_date_gmt) {
+                $post_date_gmt = strtotime($post_date_gmt[1]);
+            } else {
+                // if we don't already have something from pubDate
+                preg_match('|<dc:date>(.*?)</dc:date>|is', $post, $post_date_gmt);
+                $post_date_gmt = preg_replace('|([-+])([0-9]+):([0-9]+)$|', '\1\2\3', $post_date_gmt[1]);
+                $post_date_gmt = str_replace('T', ' ', $post_date_gmt);
+                $post_date_gmt = strtotime($post_date_gmt);
+            }
+
+            $post_date_gmt = gmdate('Y-m-d H:i:s', $post_date_gmt);
+            $post_date = get_date_from_gmt( $post_date_gmt );
+            */
+
+            // cleanup the comment text
+            // Clean up content
+            //$post_content = preg_replace('|<(/?[A-Z]+)|e', "'<' . strtolower('$1')", $post_content);
+            $data[9] = str_replace('\'', '\\\'', $data[9]);
+            $data[6] = str_replace('\'', '\\\'', $data[6]);
+            $data[9] = str_replace('<br>', '<br />', $data[9]);
+            $data[9] = str_replace('<hr>', '<hr />', $data[9]);
+            echo "<p> Comment:<br/>$data[9]<br /></p>\n";
+
+
+            // prepare the comment for insertion
+
+
+            // insert comment
+            //if ($row == 1) {
+                $ret_id = wp_insert_comment(array(
+                    'comment_post_ID'       => $post_id,
+                    'comment_author'        => $data[6],
+                    'comment_author_email'  => $data[7],
+                    'comment_author_url'    => $data[8],
+                    'comment_author_IP'     => '0.0.0.0',
+                    'comment_date'          => $data[5],
+                    'comment_content'       => $data[9],
+                    'comment_approved'      => 1,
+                    'user_id'               => 0)
+                    );
+            //}
+
+            // increment counter
+            $row++;
+
+        }
+        fclose($handle);
+
+        //  $post_author = 1;
+        //  $post_status = 'publish';
+        //  $this->posts[$index] = compact('post_author', 'post_date', 'post_date_gmt', 'post_content', 'post_title', 'post_status', 'guid', 'categories');
+    }
+
+    function import() {
+        $file = wp_import_handle_upload();
+        if ( isset($file['error']) ) {
+            echo $file['error'];
+            return;
+        }
+
+        $this->file = $file['file'];
+        $this->import_comments();
+        wp_import_cleanup($file['id']);
+
+        echo '<h3>';
+        printf(__('All done. <a href="%s">Have fun!</a>'), get_option('home'));
+        echo '</h3>';
+    }
+
+    function dispatch() {
+        if (empty ($_GET['step']))
+            $step = 0;
+        else
+            $step = (int) $_GET['step'];
+
+        $this->header();
+
+        switch ($step) {
+            case 0 :
+                $this->greet();
+                break;
+            case 1 :
+                $this->import();
+                break;
+        }
+
+        $this->footer();
+    }
+
+    function CommentsCSV_Import() {
+        // Nothing.
+    }
+}
+
+$commentscsv_import = new CommentsCSV_Import();
+
+register_importer('commentscsv', __('CommentsCSV'), __('Import posts from an CSV file of comments'), array ($commentscsv_import, 'dispatch'));
+?>
+{% endhighlight %}
+
+Copy the above CommentsCSV importer and place it in the importer directory. Go to the import tab and you will see CommentsCSV listed. Upload the file and watch it do it's magic.
 
 Note that CommentsCSV does a minimal effort to make things XHTML compliant, but don't expect pretty XHTML at the end.
 

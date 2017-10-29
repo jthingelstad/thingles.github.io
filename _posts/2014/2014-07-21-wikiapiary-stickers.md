@@ -6,7 +6,7 @@ tags:
 - WikiApiary
 ---
 
-![]({{ site.url }}/assets/posts/2014/20140721-221622-80182242.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/20140721-221622-80182242.jpg %})
   
 
 

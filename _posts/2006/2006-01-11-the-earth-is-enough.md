@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-![]({{ site.url }}/assets/posts/2006/the_earth_is_1635199.gif)
+![]({{ site.url }}{% link /assets/posts/2006/the_earth_is_1635199.gif %})
 
 I recently decided that I needed to re-read this book as well. Similar to [A Walk in the Woods]({% post_url /2005/2005-07-17-a-walk-in-the-woods %}), I'd been reminiscing about what a great book this was when I read it a few years ago, and then found myself reading all the [Harry Middleton books](http://search.barnesandnoble.com/booksearch/results.asp?ath=Harry+Middleton) that there were. His style of writing is unique, and has a pace that some would find frustrating, but I found relaxing and broadly enjoyable. In many ways he reminds me of [Norman MacLean](http://search.barnesandnoble.com/booksearch/results.asp?ath=Norman+MacLean), and that is a pretty big compliment.
 

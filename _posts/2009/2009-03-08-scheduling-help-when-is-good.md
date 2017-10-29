@@ -4,8 +4,8 @@ categories:
 - Web
 ---
 
-[![logo.gif]({{ site.url }}/assets/posts/2009/logo.gif)](http://whenisgood.net/)Like all of you reading this, I have some things that I just hate to do. It's not that they are particularly difficult, I just find them irrationally frustrating. Probably at the top of my list is scheduling things. Here is how I typically end up scheduling something with some buddies.
-![When is Good Screen.png]({{ site.url }}/assets/posts/2009/when-is-good-screen.png)
+[![logo.gif]({{ site.url }}{% link /assets/posts/2009/logo.gif %})](http://whenisgood.net/)Like all of you reading this, I have some things that I just hate to do. It's not that they are particularly difficult, I just find them irrationally frustrating. Probably at the top of my list is scheduling things. Here is how I typically end up scheduling something with some buddies.
+![When is Good Screen.png]({{ site.url }}{% link /assets/posts/2009/when-is-good-screen.png %})
 
 
 **Me:** How about Monday or Thursday night?  

@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-![]({{ site.url }}/assets/posts/2011/presenting-from-ipad.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/presenting-from-ipad.jpg %})
   
 
 

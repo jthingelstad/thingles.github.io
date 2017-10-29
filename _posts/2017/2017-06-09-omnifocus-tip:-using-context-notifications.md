@@ -12,6 +12,6 @@ There are times however when I would like OmniFocus to be in my face at home or 
 
 I have a *Office* context, and inside that context I created a *Office with notification* context. The context with notification has a location and notification with it.
 
-![]({{ site.url }}/assets/posts/2017/OmniFocus-context-notification.jpg)
+![]({{ site.url }}{% link /assets/posts/2017/OmniFocus-context-notification.jpg %})
 
 Now I can easily put a very small number of tasks in the *Office : Office with notificaiton* context and know I will be notified when they are avialable. I've created a similar context for *Home with notificaiton*. This has already allowed me to not forget a couple of time sensitive things.

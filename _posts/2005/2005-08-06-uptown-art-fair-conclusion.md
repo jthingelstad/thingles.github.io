@@ -4,7 +4,7 @@ categories:
 - Art
 ---
 
-![]({{ site.url }}/assets/posts/2005/o_dog-painting.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_dog-painting.jpg %})
 
 
 Tammy and I returned to the [Uptown Art Fair](http://www.uptownminneapolis.com/art-fair/) after having [previewed yesterday](/thingelstad/uptown-art-fair-preview). We brought Mazie with us this time, so we went early to avoid the heat. It was another great day and the crowd was immense even at 10am.

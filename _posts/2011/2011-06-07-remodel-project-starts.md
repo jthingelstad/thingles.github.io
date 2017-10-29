@@ -10,23 +10,23 @@ This week we started the remodeling project on our house. I plan on taking photo
 
 Here is what it looks like now.
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191447-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191447-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191457-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191457-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191529-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191529-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191602-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191602-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191628-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191628-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191654-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191654-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191710-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191710-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191726-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191726-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191743-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191743-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/start/20110606-191758-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/start/20110606-191758-0001.jpg %})
 

@@ -6,7 +6,7 @@ tags:
 - Grand Marais
 ---
 
-![]({{ site.url }}/assets/posts/2011/20110312-115209-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/20110312-115209-0001.jpg %})
   
 
 

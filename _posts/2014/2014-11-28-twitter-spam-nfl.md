@@ -6,7 +6,7 @@ tags:
 - Twitter
 ---
 
-![]({{ site.url }}/assets/posts/2014/Twitter-Spam-NFL.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/Twitter-Spam-NFL.jpg %})
   
 
 

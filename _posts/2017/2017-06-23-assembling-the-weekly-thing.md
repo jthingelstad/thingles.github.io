@@ -10,7 +10,7 @@ I had been interested in creating a newsletter like the [Weekly Thing][thing] fo
 
 I knew the main item I wanted to build it around were links to other sites that I use [Pinboard][] to collect. But how to make that easy?
 
-![]({{ site.url }}/assets/posts/2017/weekly-thing-workflows.jpg)
+![]({{ site.url }}{% link /assets/posts/2017/weekly-thing-workflows.jpg %})
 
 ### Workflow to the Rescue
 

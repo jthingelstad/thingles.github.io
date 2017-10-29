@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-![]({{ site.url }}/assets/posts/2005/o_Mazie-RSM.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_Mazie-RSM.jpg %})
 
 
 Mazie will be six weeks old in a couple of days. This seems to

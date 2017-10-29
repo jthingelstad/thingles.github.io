@@ -4,4 +4,4 @@ categories:
 - Dear Diary
 ---
 
-![]({{ site.url }}/assets/posts/2011/happy-easter.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/happy-easter.jpg %})

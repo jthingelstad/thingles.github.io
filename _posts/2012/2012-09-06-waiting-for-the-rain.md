@@ -9,6 +9,6 @@ tags:
 
 We tried waiting out the rain yesterday to shoot the [Vatnajökull](http://en.wikipedia.org/wiki/Vatnajökull) glacier.
 
-![]({{ site.url }}/assets/posts/2012/20120906-061027.jpg)
+![]({{ site.url }}{% link /assets/posts/2012/20120906-061027.jpg %})
 
 The rain won.

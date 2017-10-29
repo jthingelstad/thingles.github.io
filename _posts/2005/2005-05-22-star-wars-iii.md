@@ -4,7 +4,7 @@ categories:
 - Movies
 ---
 
-[![]({{ site.url }}/assets/posts/2005/o_starwars3.jpg)](http://www.starwars.com/)
+[![]({{ site.url }}{% link /assets/posts/2005/o_starwars3.jpg %})](http://www.starwars.com/)
 
 
 Tammy and I went to [Star Wars Episode III](http://www.starwars.com/) today. We made a point to go to the [DLP](http://www.dlp.com/dlp_cinema/default.asp) theater at the [Eden Prairie AMC](http://www.movietickets.com/house_detail.asp?afid=krtwinc&house_id=8163). The theater did a really great job with the entirely digital movie.

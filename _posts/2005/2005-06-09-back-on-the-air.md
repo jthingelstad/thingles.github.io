@@ -10,6 +10,6 @@ We had a _wild, wild_ storm here on Tuesday night. This was by far the worst sto
 
 Here is a visual display of the last couple of days.
 
-![]({{ site.url }}/assets/posts/2005/o_outage.png)
+![]({{ site.url }}{% link /assets/posts/2005/o_outage.png %})
 
 Needless to say it was more than a minor inconvenience to be "in the dark" for so long. And if you know me, you realize this is just another episode in the continuing saga of horrible electric service where I live ([example](/thingelstad/power-outage), [example](/thingelstad/power-blip)). I'm very seriously [considering a generator](http://electricgeneratorsdirect.com/catalog/product_info.php?cPath=36_139_70&products_id=181). Nothing huge, just something to keep the refrigerator, some lights and the Internet up. You know, the essentials.

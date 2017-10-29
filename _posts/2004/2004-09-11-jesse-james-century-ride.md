@@ -14,4 +14,4 @@ For myself, this is my last big training even before the Chequamegon Fat 40 this
 
 Here is the map of the route this year, it was modified from previous years. We rode clockwise around the map.
 
-![]({{ site.url }}/assets/posts/2004/r_jesse-james-map.gif)
+![]({{ site.url }}{% link /assets/posts/2004/r_jesse-james-map.gif %})

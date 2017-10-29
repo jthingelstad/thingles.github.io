@@ -6,7 +6,7 @@ categories:
 
 I'm the newest member into a small book club that only counts tech geeks in its membership. The first book I read in the club was [Edward Tufte](http://www.edwardtufte.com/tufte/)'s [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be).
 
-![be_cover.jpg]({{ site.url }}/assets/posts/2008/be-cover1.jpg)
+![be_cover.jpg]({{ site.url }}{% link /assets/posts/2008/be-cover1.jpg %})
 
 I was really excited to read this since [I've been to Tufte's lecture](/thingelstad/edward-tufte) twice before but I will sheepishly admit that I hadn't read any of his books. They look really good on the book shelf though! :-)
 

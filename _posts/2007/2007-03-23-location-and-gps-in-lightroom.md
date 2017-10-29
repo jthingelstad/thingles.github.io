@@ -7,7 +7,7 @@ tags:
 - Metadata
 ---
 
-![lightroom_cs3_50Ã—50.gif]({{ site.url }}/assets/posts/2007/lightroom_cs3_50x501.gif)Many of my friends know that I've been pretty infatuated with the new [Adobe Lightroom](http://www.adobe.com/products/photoshoplightroom/) product even before it's release. I've brought nearly 40,000 photos into Lightroom and I'm finding it incredibly powerful for managing my ever growing collection of photos.
+![lightroom_cs3_50Ã—50.gif]({{ site.url }}{% link /assets/posts/2007/lightroom_cs3_50x501.gif %})Many of my friends know that I've been pretty infatuated with the new [Adobe Lightroom](http://www.adobe.com/products/photoshoplightroom/) product even before it's release. I've brought nearly 40,000 photos into Lightroom and I'm finding it incredibly powerful for managing my ever growing collection of photos.
 Lightroom offers many ways to navigate your photos. I've spent 90% of my Lightroom time in the Library module just getting things organized, put into collections, keywords applied and making the metadata useful.
 
 One of the metadata items I've been particularly excited about has been the Location information. Lightroom by default uses the IPTC fields for country, state, city and place (in order) to identify where pictures were taken.  Want to see all pictures you took on the strip in Las Vegas, click. All pictures you took in Times Square? click. It's great stuff.

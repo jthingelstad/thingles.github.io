@@ -7,7 +7,7 @@ I've been a [long-time user of Twitter](https://twitter.com/thingles) (user #82,
 
 Many years ago, before the Twitter API introduced OAuth requirements I used to run a script on one of my machines that would delete tweets after a while. This became annoying to manage after the API changed and I stopped running it.
 
-[![Tweet Delete Logo]({{ site.url }}/assets/posts/2016/tweet-delete-logo.png)][tweetdelete]
+[![Tweet Delete Logo]({{ site.url }}{% link /assets/posts/2016/tweet-delete-logo.png %})][tweetdelete]
 
 Now there is [TweetDelete][]! I found this service via another user and it does exactly what my script used to. You authenticate the service, tell it how long you want your tweets to live, and then they delete them after that period of time. I set 90 days for mine. TweetDelete is free and is a service from [Memset](http://www.memset.com). I did check the TweetDelete [privacy policy](http://www.tweetdelete.net/privacy.php) and [terms of service](http://www.tweetdelete.net/terms.php) and was pleased to find this clarification in the terms:
 

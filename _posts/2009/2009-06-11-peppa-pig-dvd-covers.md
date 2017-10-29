@@ -9,11 +9,11 @@ I find it frustrating when I cannot find good quality, high-resolution album or 
 
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Cold-Winter-Day-DVD-Cover.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Cold-Winter-Day-DVD-Cover.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2009/Peppa-Pig-Stars-DVD-Cover.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2009/Peppa-Pig-Stars-DVD-Cover.jpg %})
   
 
 

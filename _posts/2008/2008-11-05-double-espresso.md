@@ -18,4 +18,4 @@ I mean really? What is hard about this?
 
 And then, just to highlight how uncoffee they are, the smallest ceramic mug is a 12 oz. coffee cup. Oh the humanity of it all. :-)
 
-[![]({{ site.url }}/assets/posts/2008/l-640-480-9213df01-e1b5-46b5-9da0-41b738b591b5.jpeg)]({{ site.url }}/assets/posts/2008/l-640-480-9213df01-e1b5-46b5-9da0-41b738b591b5.jpeg)
+[![]({{ site.url }}{% link /assets/posts/2008/l-640-480-9213df01-e1b5-46b5-9da0-41b738b591b5.jpeg %})]({{ site.url }}{% link /assets/posts/2008/l-640-480-9213df01-e1b5-46b5-9da0-41b738b591b5.jpeg %})

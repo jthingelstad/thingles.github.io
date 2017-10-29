@@ -11,7 +11,7 @@ A faithful reader of my website would know that I've been on a string of Mac pur
 
 It all started very benign. I just started looking for a new box and scoured Dell and a variety of other sites. I wanted something with serious power, lots of memory, big graphics and growth for the future. Regardless of how you feel about Apple, if you are looking for a great machine at the high-end you need to examine the Mac Pro.
 
-<!-- more -->![macpro.jpg]({{ site.url }}/assets/posts/2006/macpro1.jpg)**Mac Pro**
+<!-- more -->![macpro.jpg]({{ site.url }}{% link /assets/posts/2006/macpro1.jpg %})**Mac Pro**
 
 I placed the order and got the machine on Halloween. I ordered it with the 2.66Ghz CPUs, the upgraded ATI Radeon X1900 XT video card and the Bluetooth option so I could go wireless on keyboard, mouse and eventually headset for Skype. I got it with 1G of RAM installed (2 512MB FB DIMMs) and [ordered another 2G of memory](http://www.transintl.com/store/category.cfm?Category=2648&CFID=4424289&CFTOKEN=46861144&RequestTimeOut=500), totaling 3G.
 
@@ -21,7 +21,7 @@ I powered the machine on and it is very quiet. The 10,000 RPM boot drive I have 
 
 I'm particularly pleased that I'm pretty future proof. I can take memory to 32G if I wanted to and it's possible to [upgrade the dual-core Xeon's to quad-core](http://anandtech.com/mac/showdoc.aspx?i=2832&p=6) and go 8-way with the existing motherboard. Yeah!
 
-![cinemadisplay.jpg]({{ site.url }}/assets/posts/2006/cinemadisplay1.jpg)**Cinema Display**
+![cinemadisplay.jpg]({{ site.url }}{% link /assets/posts/2006/cinemadisplay1.jpg %})**Cinema Display**
 
 I'd picked out my new machine and I already had the dual Dell 2005FPW monitors from the previous machine. I could have used them, but I had to admit that I wasn't that happy with them. I found the vertical height (1050 pixels) to be confining. When using these monitors I always felt like a 6' man standing in a room with 5' 6" ceilings. If I was going to get completely happy with my home workstation a new monitor was in order.
 

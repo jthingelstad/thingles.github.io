@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-[![]({{ site.url }}/assets/posts/2005/o_WalkInTheWoods.gif)](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0767902521)It feels like a crime to re-read a book, at least for me. My reading
+[![]({{ site.url }}{% link /assets/posts/2005/o_WalkInTheWoods.gif %})](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0767902521)It feels like a crime to re-read a book, at least for me. My reading
 list is as long as my arm (actually, about five times longer than my
 arm). I've got stacks of books that I want to read and haven't cracked
 the spine of yet. So, when I think of taking time from all those

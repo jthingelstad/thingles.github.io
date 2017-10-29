@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![]({{ site.url }}/assets/posts/2010/pork-shoulder-on-egg.png)
+![]({{ site.url }}{% link /assets/posts/2010/pork-shoulder-on-egg.png %})
   
 
 

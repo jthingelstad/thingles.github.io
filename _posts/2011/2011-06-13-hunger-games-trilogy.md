@@ -9,15 +9,15 @@ Tammy had read [The Hunger Games](http://www.amazon.com/dp/0439023521/?tag={{ si
 
 
   
-   ![]({{ site.url }}/assets/posts/2011/Catching-Fire-Book-Cover.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/Catching-Fire-Book-Cover.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/Mockingjay-Book-Cover.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/Mockingjay-Book-Cover.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/The-Hunger-Games-Book-Cover.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/The-Hunger-Games-Book-Cover.jpg %})
   
 
 

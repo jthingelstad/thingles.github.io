@@ -7,7 +7,7 @@ tags:
 - Tammy
 ---
 
-![image001.jpg]({{ site.url }}/assets/posts/2008/image001.jpg)(Lawrence, Kansas) Tammy and I are hanging out in Lawrence, Kansas this weekend. We are here to fulfill her New Years resolution to see [Big Smith](http://www.bigsmithband.com/) play again. It's been about 10 years since she saw them last, and I've never seen them. After scouring their tour schedule she saw that the best option for us was a weekend trip bookended with 7 hours on the Interstate to Lawrence. As an added treat, they played with Blue Mountain. I've got three [Blue Mountain](http://shell.deru.com/~sgn1/blue/Blue.htm) albums and really like their music.
+![image001.jpg]({{ site.url }}{% link /assets/posts/2008/image001.jpg %})(Lawrence, Kansas) Tammy and I are hanging out in Lawrence, Kansas this weekend. We are here to fulfill her New Years resolution to see [Big Smith](http://www.bigsmithband.com/) play again. It's been about 10 years since she saw them last, and I've never seen them. After scouring their tour schedule she saw that the best option for us was a weekend trip bookended with 7 hours on the Interstate to Lawrence. As an added treat, they played with Blue Mountain. I've got three [Blue Mountain](http://shell.deru.com/~sgn1/blue/Blue.htm) albums and really like their music.
 We drove down to Lawrence on Friday going through rain the entire way. We made it with an hour to spare to get checked into our hotel and walk over to [The Bottleneck](http://www.thebottlenecklive.com/) where the show was. The venue was great. Nice sound, big open area for dancing.
 
 [![Show Marquee](http://farm3.static.flickr.com/2338/2424543774_5650b0e2ed_m.jpg)](http://www.flickr.com/photos/46408384@N00/2424543774)

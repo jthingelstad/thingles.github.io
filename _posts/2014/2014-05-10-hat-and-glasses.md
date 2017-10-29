@@ -6,4 +6,4 @@ tags:
 - Tyler
 ---
 
-![]({{ site.url }}/assets/posts/2014/20140510-122338.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/20140510-122338.jpg %})

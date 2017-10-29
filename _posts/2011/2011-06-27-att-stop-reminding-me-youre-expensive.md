@@ -5,7 +5,7 @@ categories:
 ---
 
 Okay, these monthly text messages from AT&T; drive me crazy.
-[![]({{ site.url }}/assets/posts/2011/att-billing-me.gif)](http://thingelstad.com/s/att-stop-reminding-me-youre-expensive/att-billing-me/img)
+[![]({{ site.url }}{% link /assets/posts/2011/att-billing-me.gif %})](http://thingelstad.com/s/att-stop-reminding-me-youre-expensive/att-billing-me/img)
 
 Let me inventory all the ways these are annoying:
 

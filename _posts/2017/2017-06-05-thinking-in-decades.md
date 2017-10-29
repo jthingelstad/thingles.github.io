@@ -11,6 +11,6 @@ This week I worked with Yahoo! customer support and deleted my Flickr account. I
 
 That was when I realized I had no way to access my Flickr account since the Yahoo! account was used to connect to it. I was happy thought that Yahoo! customer support was quick and made this easy to get done.
 
-![]({{ site.url }}/assets/posts/2017/flickr-account-deleted.png)
+![]({{ site.url }}{% link /assets/posts/2017/flickr-account-deleted.png %})
 
 My Flickr account is no more now. I created that account probably a decade ago. Long before it ever became part of Yahoo!, back when Flickr was amazing and cool. Looking back this is a good reminder of how long our content lives online. Yet another example of how companies come and go and services come and go. To all of you using Facebook to keep family photos and pictures of your kids, think about this. This is why I feel so strongly about owning my content. It really isn't that hard.

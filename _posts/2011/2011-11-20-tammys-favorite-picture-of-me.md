@@ -7,4 +7,4 @@ tags:
 ---
 
 Tammy went digging deep into our Lightroom library looking for photos for our new exercise room. She told me she had found her "favorite picture" of me. I was very curious what picture it was. I like it. This is from the finish of the 2004 [Chequamegon Fat 40](http://cheqfattire.com/). The kid in the background is out of place though, a little Photoshop could deal with that.
-[![]({{ site.url }}/assets/posts/2011/20040918-144508-9249.jpg)](http://thingelstad.com/s/tammys-favorite-picture-of-me/20040918-144508-9249/img)
+[![]({{ site.url }}{% link /assets/posts/2011/20040918-144508-9249.jpg %})](http://thingelstad.com/s/tammys-favorite-picture-of-me/20040918-144508-9249/img)

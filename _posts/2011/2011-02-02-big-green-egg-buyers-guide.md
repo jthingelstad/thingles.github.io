@@ -17,7 +17,7 @@ I would encourage you to buy your Egg local, and buy it from a place where the p
 
 You need more than just the Big Green Egg. These items are things that I view as a requirement to get with your Egg, starting with the Egg I recommend.
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-large.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-large.jpg %})
 
 ### Large Big Green Egg
 
@@ -27,7 +27,7 @@ The large will accommodate nearly everything you do on the egg. You can do a hal
 
 I also have a small so that I can have two temperatures going. Mainly if I want to do a tenderloin and corn on the cob, I can do both at the same time. Or if I'm smoking a brisket for 20 hours and need to prep some burgers for the kids I can use the small one. It's very handy, but is certainly a luxury. 
 
-![]({{ site.url }}/assets/posts/2011/bge/plate-setter.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/plate-setter.jpg %})
 
 ### Plate Setter
 
@@ -39,7 +39,7 @@ The plate setter is required for smoking, but it's also used for pizza. It's not
 
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-ash-tool.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-ash-tool.jpg %})
 
 ### Ash Tool
 
@@ -48,7 +48,7 @@ The design of the Egg leaves the ash in the bottom of the grill. The vent is the
 I don't think there is anything that you could use besides the ash tool to clean it out. It seems like a required accessory.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/fire-starters.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/fire-starters.jpg %})
 
 
 ### Paraffin Fire Starters
@@ -66,7 +66,7 @@ A few advantages of the paraffin starters:
 I've used these all the time and I could count on one hand the number of times I've had a failed start.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-charcoal.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-charcoal.jpg %})
 
 
 ### Big Green Egg Charcoal
@@ -81,7 +81,7 @@ An important note, if you are adding wood chunks to your charcoal to add smoke y
 
 If you decide to play with other charcoal, make sure to consult the charcoal database.
 
-![]({{ site.url }}/assets/posts/2011/bge/kitchen-grips-oven-mitts.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/kitchen-grips-oven-mitts.jpg %})
 
 
 
@@ -106,7 +106,7 @@ I had a custom table made by a wonderful woodworker and am a huge fan. If you ar
 These items are not required, but they are highly recommended. You'll be able to grill and get things done without them. But, I think you will make better food and enjoy yourself more with these items.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-cast-iron-grid.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-cast-iron-grid.jpg %})
 
 
 ### Cast Iron Grid
@@ -118,7 +118,7 @@ The cast iron grid holds a good amount of heat. I can tell just from the sound w
 The cast iron grid is also very useful for veggies. The spaces between the grid are smaller and easier to cook on. Grilled romaine actually grills on a cast iron grid, on the porcelain you get more of a high temp cooked effect.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/thermapen.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/thermapen.jpg %})
 
 
 ### Thermapen Instant Read Digital Thermometer
@@ -128,7 +128,7 @@ My good friend and grilling mentor Mike introduced me to the [Thermapen][thermap
 I've written before about the miracles of the Thermapen. The speed that the instant read works at allows for amazing uses. For example, when smoking a brisket you can put the probe in and pull it out slowly over several seconds seeing the temperature at each location from the center to outer region of the brisket.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-grill-gripper.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-grill-gripper.jpg %})
 
 
 ### Grill Gripper
@@ -140,7 +140,7 @@ You will also find this useful if you are pulling a deep dish pizza pan, or cake
 Unfortunately, you cannot grip the cast iron grid with this. The gripper doesn't open wide enough.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/pizza-stones.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/pizza-stones.jpg %})
 
 
 ### Pizza Stone
@@ -152,7 +152,7 @@ A lot of stones will crack in these temperatures. I'm not sure why, but it is a 
 If your stone doesn't indicate a rating, or is less than 3/4 inch thick I would not put it in your egg.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-ash-pan.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-ash-pan.jpg %})
 
 
 ### Ash pan
@@ -162,7 +162,7 @@ The [ash pan][ashpan] isn't required but you will miss not having it. You use th
 It is worth noting that even with the ash pan you should plan that there will be some ash spill when you clean out the Egg. Like many Egg owners I place a 18" square paving stone underneath mine so that the ash falls on that instead of any wood.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/meat-hook.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/meat-hook.jpg %})
 
 
 ### Meat hook
@@ -175,7 +175,7 @@ Just get one, I think you will find it very useful.
 
 These optional items you can probably skip.
 
-![]({{ site.url }}/assets/posts/2011/bge/grill-extender.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/grill-extender.jpg %})
 
 
 
@@ -186,7 +186,7 @@ I have one of these riser racks and it is handy for times when you are doing a l
 Beware that it isn't very heavy-duty so I wouldn't put a dutch oven on it. It's fine to hold most any food, but beware of weight limits.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-grill-griddle.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-grill-griddle.jpg %})
 
 
 ### Cast iron Griddle
@@ -198,7 +198,7 @@ I have one of these for two reasons. I like to have it to sear meat or do a burg
 These are some things that you may think you should buy, and I really recommend you don't.
 
 
-![]({{ site.url }}/assets/posts/2011/bge/big-green-egg-electric-starter.jpeg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/big-green-egg-electric-starter.jpeg %})
 
 
 ### Electric Charcoal Starter
@@ -211,14 +211,14 @@ The better reason I don't recommend them is that I feel it limits your ability t
 
 To elaborate, if I'm looking for a 220 degree Egg temperature for a brisket I top start the fire with a single starter. It's slow and gradual, I can keep it in line and it will burn for 24 hours. If I want to do pizzas at full blast, I'll top and bottom start to get a ton of fire going quickly.
 
-![]({{ site.url }}/assets/posts/2011/bge/chimney-starter.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/bge/chimney-starter.jpg %})
 
 
 ### Chimney Starter
 
 If you are looking at one of these your probably coming from a kettle grill. You don't need these at all on an Egg. The lump charcoal starts easily, and the firebox of the egg is its own containment area. If you are used to using one of these on your existing grill, please don't try to use it on your Egg.
 
-![]({{ site.url }}/assets/posts/2011/bge/drip-pans.gif)
+![]({{ site.url }}{% link /assets/posts/2011/bge/drip-pans.gif %})
 
 
 

@@ -8,7 +8,7 @@ tags:
 
 I've struggled with my weight for a long time, my entire adult life really. In 2000 I started an intensive program working extensively with [a trainer](http://www.fionalockhart.com/) and focusing with complete obsession on my food intake. In the course of 10 months I lost 100 pounds and changed a lot. Slowly though discipline broke down and focus was lost. This chart tells the story better than words.
 
-![Weight-Range-8-years-annotated.png]({{ site.url }}/assets/posts/2008/weight-range-8-years-annotated.png)
+![Weight-Range-8-years-annotated.png]({{ site.url }}{% link /assets/posts/2008/weight-range-8-years-annotated.png %})
 
 I've asserted myself and decided it was time to get back into shape before, see [2004](/thingelstad/day-1) and [2006](/thingelstad/game-on-time-to-lose-weight). Both of those attempts were quick failures.
 

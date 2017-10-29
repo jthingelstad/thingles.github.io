@@ -13,7 +13,7 @@ The other issue that introduced fun was the caked on mud from yesterdays experie
 
 Taos was a cool city. I had the best quesadilla I've EVER had for lunch. Wow. The town square in Taos was interesting and had a number of galleries including a piece that we would have loved but for the price. We returned through Santa Fe, avoiding another crossing of the mountains. We also got to preview where we are staying when we head to Santa Fe in a couple days, and it looks great.
 
-![]({{ site.url }}/assets/posts/2005/o_orion-and-milky-way.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_orion-and-milky-way.jpg %})
 
 We returned to the Star Hill right at dusk. The sky looked really bad as we approached, very cloudy. But there was a break in the clouds as night came and we still got some good viewing, however it never got as good as last night. Phil met me on the observation deck and Tammy decided to stay back and read. She's decided astronomy is not her hobby. "It's just a bunch of stars!" she says. I told her how it's so amazing that this star millions of light years away is throwing photons into space and then we're here on earth capturing those photons into our eye! Isn't that cool? She didn't agree. :-)
 
@@ -25,7 +25,7 @@ We returned to the Star Hill right at dusk. The sky looked really bad as we appr
 > 
 </blockquote>
 
-![]({{ site.url }}/assets/posts/2005/o_big-dipper-bucket.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_big-dipper-bucket.jpg %})
 
 Phil set up a sidereal camera mount and I took a number of shots with my camera, no telescope involved. I captured a few constellations with 4 to 8 minute exposures. It's stunning what you can get just by pointing a camera in the sky and leaving the shutter open. Mostly I used my 14mm full-frame fish-eye which did great. I also captured Jupiter and it's moons using a 100mm telephoto. We decided not to do the CCD and stuck with the smaller 12" SCT instead of the 16" on the count of the clouds. We'll try tomorrow night for the larger scope. I think I may just skip the CCD and use my camera with a T-mount instead. The CCD imager is pretty touchy, requires a ton of time for focusing and then must be hooked up to a laptop. Much easier to just put my camera on the telescope. Of course all of that depends on me finding a T-adapter in Santa Fe which may be trickier than I would like.
 

@@ -6,7 +6,7 @@ tags:
 - Minnehaha Creek
 ---
 
-![]({{ site.url }}/assets/posts/2011/february-minnehaha-creek-at-dusk.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/february-minnehaha-creek-at-dusk.jpg %})
   
 
 

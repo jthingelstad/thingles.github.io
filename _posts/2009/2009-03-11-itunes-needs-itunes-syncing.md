@@ -9,7 +9,7 @@ tags:
 
 Apple just released iTunes 8.1 with a bevy of new features, but there is a critical need for iTunes that I think would be a huge help for anyone that regularly uses more than one computer. In addition to being able to sync to dozens of iPods, the iPhones and Apple TV we need the ability to sync to iTunes itself. All of the pieces are in place to do this, it seems like it would be relatively easy to implement. Here is what I would imagine the iTunes sidebar looking like.
 
-![iTunes-Devices.png]({{ site.url }}/assets/posts/2009/itunes-devices.png)
+![iTunes-Devices.png]({{ site.url }}{% link /assets/posts/2009/itunes-devices.png %})
 
 You've got an iPod, three Apple TV's and then your laptop. The idea is that I should be able to setup iTunes on a laptop or any other computer that is just a sync partner with another computers iTunes library. iTunes can already sync over the network to an AppleTV, so the hooks are all in place and should be easily extended to another iTunes installation.
 

@@ -19,7 +19,7 @@ tags:
 
 To tide everyone over, here are some pictures of Mazie holding it. She's a kid after all! :-)
 
-![20071215-153023-3477.jpg]({{ site.url }}/assets/posts/2007/20071215-153023-34771.jpg)
+![20071215-153023-3477.jpg]({{ site.url }}{% link /assets/posts/2007/20071215-153023-34771.jpg %})
   
 
-![20071215-153025-3479.jpg]({{ site.url }}/assets/posts/2007/20071215-153025-34791.jpg)
+![20071215-153025-3479.jpg]({{ site.url }}{% link /assets/posts/2007/20071215-153025-34791.jpg %})

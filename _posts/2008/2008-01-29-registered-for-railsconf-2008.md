@@ -9,5 +9,5 @@ tags:
 Registration just opened up for RailsConf 2008 in Portland, Oregon. I'm heading out to my first RailsConf!
 
 [
-![RailsConf 2008]({{ site.url }}/assets/posts/2008/rails2008-banner-336x2801.gif)
+![RailsConf 2008]({{ site.url }}{% link /assets/posts/2008/rails2008-banner-336x2801.gif %})
 ](http://conferences.oreilly.com/rails/)

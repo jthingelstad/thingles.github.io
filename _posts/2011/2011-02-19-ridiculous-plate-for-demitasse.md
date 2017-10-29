@@ -6,7 +6,7 @@ tags:
 - Coffee
 ---
 
-![]({{ site.url }}/assets/posts/2011/Photo12.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/Photo12.jpg %})
   
 
 

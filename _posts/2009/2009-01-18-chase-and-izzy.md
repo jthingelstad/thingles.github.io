@@ -8,7 +8,7 @@ tags:
 - Izzy
 ---
 
-![]({{ site.url }}/assets/posts/2009/83743e67338bba0a51aadfa0812df1bf.png)
+![]({{ site.url }}{% link /assets/posts/2009/83743e67338bba0a51aadfa0812df1bf.png %})
   
 
 

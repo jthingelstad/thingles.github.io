@@ -6,7 +6,7 @@ tags:
 - Surly
 ---
 
-![]({{ site.url }}/assets/posts/2011/photo9.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/photo9.jpg %})
   
 
 

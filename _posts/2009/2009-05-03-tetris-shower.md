@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![tetris-shower]({{ site.url }}/assets/posts/2009/tetris-shower.jpeg)
+![tetris-shower]({{ site.url }}{% link /assets/posts/2009/tetris-shower.jpeg %})
 A couple of months ago we decided to re-tile our downstairs bathroom shower. After 20 years the house had settled enough that there were notable cracks that we didn't feel we could just caulk over. We pondered what to do with the tiling and considered a number of designs. Our friend that was helping Tammy with the design did a [Tetris®](http://en.wikipedia.org/wiki/Tetris) concept and I loved it right away!
 
 Making the pattern was both harder and easier than you would think. It was critical to me that the tile pattern be **correct**. I wanted all the game tiles in their normal, whole, shape. This meant that no line in the pattern could be completed, since it would be removed in the game. Making sure the tiles were logically correct was causing some challenges until I just decided to play several games of [Quinn](http://simonhaertel.de/), a tetromino game for the Mac, and capture a number of boards. After I adjusted my head to playing Tetris specifically to **not** complete rows we got a few screenshots and put them together.

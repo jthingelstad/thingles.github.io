@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![]({{ site.url }}/assets/posts/2011/twins-game.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/twins-game.jpg %})
   
 
 

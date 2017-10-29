@@ -7,7 +7,7 @@ tags:
 - School
 ---
 
-![]({{ site.url }}/assets/posts/2009/frontrunners_000.jpg)
+![]({{ site.url }}{% link /assets/posts/2009/frontrunners_000.jpg %})
   
 
 

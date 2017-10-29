@@ -4,7 +4,7 @@ categories:
 - Hobbies
 ---
 
-![]({{ site.url }}/assets/posts/2005/o_Canon20D.jpg)
+![]({{ site.url }}{% link /assets/posts/2005/o_Canon20D.jpg %})
 
 
 I've been going on and on for a while now with all my friends about how I'm not going to get a new digital camera until I can get one that has no focal length multiplier. (Not familiar with focal link multiplication? [Read this](http://www.dpreview.com/learn/?/Glossary/Optical/Focal_Length_Multiplier_01.htm).) Unfortunately there is only one camera I would get that doesn't have a multiplier, the Canon 1Ds Mark II. This camera cost more than the first 3 or 4 cars I owned, substantially more now that I think of it, even if you add them all together!

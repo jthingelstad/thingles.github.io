@@ -8,4 +8,4 @@ tags:
 
 This weekend we were at Tammy's folks and Tyler disappeared upstairs on his own. I went up to find him and this is what he was up to. Like Father like Son? :-)
 
-![]({{ site.url }}/assets/posts/2012/20120430-215021.jpg)
+![]({{ site.url }}{% link /assets/posts/2012/20120430-215021.jpg %})

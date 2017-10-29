@@ -6,7 +6,7 @@ tags:
 - Big Green Egg
 ---
 
-![]({{ site.url }}/assets/posts/2010/prime-rib-resting.png)
+![]({{ site.url }}{% link /assets/posts/2010/prime-rib-resting.png %})
   
 
 

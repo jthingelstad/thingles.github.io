@@ -10,7 +10,7 @@ Yesterday [WikiApiary](http://wikiapiary.com/) had a very _meta_ tweet when it w
 
 {% include embed/tweet.html tweet_url="https://twitter.com/WikiApiary/status/414548099256684544" %}
 
-[![WikiApiary Logo]({{ site.url }}/assets/posts/2013/WikiApiary-Logo.png)](http://wikiapiary.com/)The first year of WikiApiary has been great! The comments people make about it and the great contributions that many people have made to the wiki reflect the utility and interest in the data. WikiApiary was a holiday break project for me in 2012 and it’s continued to get additions and modifications from a number of people throughout the world. It is the first project I've started that I feel has gotten a true community around it and people that are moving it forward independent of what I’m doing. That is really great! This idea of a "_Wiki to track other wikis_" clearly caught on with some people.
+[![WikiApiary Logo]({{ site.url }}{% link /assets/posts/2013/WikiApiary-Logo.png %})](http://wikiapiary.com/)The first year of WikiApiary has been great! The comments people make about it and the great contributions that many people have made to the wiki reflect the utility and interest in the data. WikiApiary was a holiday break project for me in 2012 and it’s continued to get additions and modifications from a number of people throughout the world. It is the first project I've started that I feel has gotten a true community around it and people that are moving it forward independent of what I’m doing. That is really great! This idea of a "_Wiki to track other wikis_" clearly caught on with some people.
 
 In WikiApiary's first year it has collected **1,855,979,520** statistics samples in its database, just **2.6GB** of data. As of today, WikiApiary is collecting data from **9,555 active wikis**. It shows **2,478,637 active users** over **384,870,041 pages** with **2,894,060,197 edits** in the part of the wikiverse that it monitors.
 
@@ -223,23 +223,23 @@ Chrome 27.0
 
 WikiApiary is largely about graphs, so that seems like a logical way to explore the first year of WikiApiary. The number of active users on WikiApiary has roughly been around 30 for most of the year, peaking over 50. This doesn't seem like a ton, but most wikis that are monitored actually have fewer than 5 active users. The total number of users is over 250 and grows steadily. Those are **all** real accounts too, no spam accounts. Registration is required to edit so this is a good reflection of engagement.
 
-[![WikiApiary-users]({{ site.url }}/assets/posts/2013/WikiApiary-users.png)](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-users/img)
+[![WikiApiary-users]({{ site.url }}{% link /assets/posts/2013/WikiApiary-users.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-users/img)
 
 Edit activity on WikiApiary is mostly robotic. The bots are constantly tending to the data set and they do this with edits. You can see the edit rate jumped in October after I added tracking for MaxMind geo data as well as Whois records for wikis. **Over 5 million edits** in the first year.
 
-[![WikiApiary-edits]({{ site.url }}/assets/posts/2013/WikiApiary-edits.png)](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-edits/img)
+[![WikiApiary-edits]({{ site.url }}{% link /assets/posts/2013/WikiApiary-edits.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-edits/img)
 
 Total pages of content largely reflect the number of wikis being tracked, plus the number of extensions and skins that exist. Notably you can see the initial load of sites in February and March. There were additional farmer bots that added in some reasonably sized farms in June. In October the pages spike again with the addition of more datasets.
 
-[![WikiApiary-pages-articles]({{ site.url }}/assets/posts/2013/WikiApiary-pages-articles.png)](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-pages-articles/img)
+[![WikiApiary-pages-articles]({{ site.url }}{% link /assets/posts/2013/WikiApiary-pages-articles.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-pages-articles/img)
 
 WikiApiary is itself the 11th largest Semantic MediaWiki installation that it tracks. The largest is [Gyvosios gamtos enciklopedija](http://wikiapiary.com/wiki/Gyvosios_gamtos_enciklopedija) with over 16 million properties (think of a property as a data value). WikiApiary has **over 3.3 million property values**.
 
-[![WikiApiary-property-count]({{ site.url }}/assets/posts/2013/WikiApiary-property-count.png)](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-property-count/img)
+[![WikiApiary-property-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-property-count.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-property-count/img)
 
 These 3.3 million properties are queried in MediaWiki templates so you can see the data. There are **nearly 140,000 queries** in WikiApiary.
 
-[![WikiApiary-query-count]({{ site.url }}/assets/posts/2013/WikiApiary-query-count.png)](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-query-count/img)
+[![WikiApiary-query-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-query-count.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-query-count/img)
 
 ### Special Thanks
 

@@ -9,7 +9,7 @@ Part of our ritual is the jukebox and Dusty's has now upgraded their jukebox to 
 
 I downloaded myTouchTunes to do some remote control of the Dusty's jukebox. I expected to just be able to install it, connect to the jukebox through some lookup and somehow pick songs. However, it seemed I had to create an account with myTouchTunes to do that. Annoying, but okay I thought. I'll make an account and I'm guessing you can save some preferences or something for me (although, that could just be done on my phone). So I tapped the Register button to make an account and got this screen.
 
-![]({{ site.url }}/assets/posts/2011/myTouchTunes-screenshot.gif)
+![]({{ site.url }}{% link /assets/posts/2011/myTouchTunes-screenshot.gif %})
 
 It was one thing to have to create an account, but why exactly does anyone need to know my age and gender to pick a song on a jukebox? Why is my zip necessary to queue up Black Sabbath's Ironman. **It is not!** I closed the application and deleted it. I'll stick to putting plain old dollar bills in and picking songs.
 

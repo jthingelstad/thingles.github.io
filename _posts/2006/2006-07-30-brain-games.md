@@ -8,7 +8,7 @@ tags:
 ---
 
 We got the Nintendo DS because we liked these brain games. We bought both Brain Age and Big Brain Academy. As if you care , here are my comments on the games.
-[![]({{ site.url }}/assets/posts/2006/o_brain-age.jpg)](http://www.brainage.com/)
+[![]({{ site.url }}{% link /assets/posts/2006/o_brain-age.jpg %})](http://www.brainage.com/)
 
 
 ### Brain Age
@@ -17,7 +17,7 @@ We got the Nintendo DS because we liked these brain games. We bought both Brain 
 
 One of the really fun things about Brain Age is it's use of voice recognition. Some of the puzzles require you to speak to identify things and it does a good job of interpreting you. Last, the included Sudoku game is very well done. All in, this is a lot of fun.
 
-[![]({{ site.url }}/assets/posts/2006/o_big-brain-academy.gif)](http://www.bigbrainacademy.com/)
+[![]({{ site.url }}{% link /assets/posts/2006/o_big-brain-academy.gif %})](http://www.bigbrainacademy.com/)
 
 
 ### Big Brain Academy

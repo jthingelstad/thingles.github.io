@@ -3,7 +3,7 @@ title: Apple Watch Arrived
 tags: Techie
 ---
 
-![]({{ site.url }}/assets/posts/2015/Wearing-Apple-Watch.jpg)
+![]({{ site.url }}{% link /assets/posts/2015/Wearing-Apple-Watch.jpg %})
 
 I [ordered my Apple Watch](/thingelstad/apple-watch-ordered) on launch day and opted for the stainless steel with link bracelet. It was back ordered 4-6 weeks and yesterday it arrived. Yes, I was pretty excited to play with it!
 

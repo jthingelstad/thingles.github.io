@@ -11,7 +11,7 @@ tags:
 Yesterday I got one of the first shipment of Apple TV units to arrive at the local Apple Store. The simplest way to think of the Apple TV is to think of it like an iPod for your living room. It lives seamlessly in the iTunes universe, has a 40G local hard drive and interfaces painlessly via HDMI with your high definition television.
 
 
-![appletv.jpg]({{ site.url }}/assets/posts/2007/appletv1.jpg)
+![appletv.jpg]({{ site.url }}{% link /assets/posts/2007/appletv1.jpg %})
 
 Setting up the Apple TV was simple and straightforward. It's amazingly quiet. I am confused though why Apple put a relatively short power cable in the box. Seems to only be around 5 feet long, which seems rather short for a device like this.
 

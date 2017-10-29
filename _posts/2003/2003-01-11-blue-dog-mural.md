@@ -11,6 +11,6 @@ http://vimeo.com/410859
 
 Here is the sketch that the mural was painted from. This sketch was scanned, blown-up and then projected onto the wall to provide a guide.
 
-![]({{ site.url }}/assets/posts/2003/547e632707ebb70a1bf182c8e0ff614e.jpg)
+![]({{ site.url }}{% link /assets/posts/2003/547e632707ebb70a1bf182c8e0ff614e.jpg %})
 
 We absolutely love this. We live with all of our art, but this is part of every day.

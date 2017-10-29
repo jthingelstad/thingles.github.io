@@ -9,7 +9,7 @@ tags:
 
 Tyler and I visited [Choo Choo Bob's](http://choochoobobs.com/) today and somehow this happened.
 
-![]({{ site.url }}/assets/posts/2012/20120722-150211.jpg)
+![]({{ site.url }}{% link /assets/posts/2012/20120722-150211.jpg %})
 
 
 

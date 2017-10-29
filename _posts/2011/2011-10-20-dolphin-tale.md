@@ -5,7 +5,7 @@ categories:
 ---
 
 Tammy, Mazie and I went to see [Dolphin Tale](http://dolphintalemovie.warnerbros.com/) tonight.
-[![]({{ site.url }}/assets/posts/2011/dolphin-tale.jpg)](http://dolphintalemovie.warnerbros.com/)
+[![]({{ site.url }}{% link /assets/posts/2011/dolphin-tale.jpg %})](http://dolphintalemovie.warnerbros.com/)
 
 Tammy and I both agreed that this movie was about the most family friendly movie you could make. It was nice, heartwarming, had a dolphin in it. What more could you do really? Check out [See Winter](http://seewinter.com/) for more information on Winter the Dolphin.
 

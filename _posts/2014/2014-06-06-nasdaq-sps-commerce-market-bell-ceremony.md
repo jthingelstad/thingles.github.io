@@ -6,7 +6,7 @@ tags:
 - SPS Commerce
 ---
 
-![]({{ site.url }}/assets/posts/2014/mo_060314_hires.jpg)
+![]({{ site.url }}{% link /assets/posts/2014/mo_060314_hires.jpg %})
   
 
 

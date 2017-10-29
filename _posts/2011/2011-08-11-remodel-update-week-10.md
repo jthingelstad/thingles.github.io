@@ -10,33 +10,33 @@ I'm posting this weeks update a little early, the progress is so fun to see. The
 
 Next there is buckets and buckets of [joint compound](http://en.wikipedia.org/wiki/Joint_compound).
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-191808-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-191808-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-191955-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-191955-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192010-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192010-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192235-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192235-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192253-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192253-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192312-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192312-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192333-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192333-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192408-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192408-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192417-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192417-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192426-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192426-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192438-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192438-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192512-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192512-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192519-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192519-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192535-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192535-0001.jpg %})
 
-![]({{ site.url }}/assets/posts/2011/morgan-remodel/update-10/20110811-192556-0001.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/morgan-remodel/update-10/20110811-192556-0001.jpg %})
 

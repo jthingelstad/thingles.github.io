@@ -9,7 +9,7 @@ tags:
 Today Google announced that they are [shutting down Google Reader](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html). People on Twitter are apoplectic about it all. I get to feel a little smug since I decided a couple of years ago that I needed to move away from Google Reader. It was clear that their vision of what Google Reader should be didn't match with what I wanted an RSS Reader to be. I had no interest in it being social and integrated with Google Plus.
 It feels a little rebellious being an active user of an RSS reader these days. It's like we are the Mad Max's of the Internet. We want to get content in our own feeds. We want to actually decide which feeds we want. We aren't interested in the marketing departments bundling of feeds. We even believe that this type of plumbing an openness is key to the health of the web. We are so audacious to think that we deserve feed interfaces to our services. We don't need or even want someone in the middle of our feeds deciding what we think is important. Sadly, we and RSS itself seems to not fit into anyones marketing plans.
 
-![Max-Max]({{ site.url }}/assets/posts/2013/Max-Max.jpg)
+![Max-Max]({{ site.url }}{% link /assets/posts/2013/Max-Max.jpg %})
 
 I am surprised that Google can glean enough personal information from your email reading that they can afford to store a ridiculous amount of data for you and still make a profitable service offering. It seems that knowing what feeds you read, and which items in those feeds you read the most, must not be worth as much money to them. The [five engineers that Google](https://twitter.com/Pinboard/status/311986894764380162) had on this product couldn't have cost that much right?
 

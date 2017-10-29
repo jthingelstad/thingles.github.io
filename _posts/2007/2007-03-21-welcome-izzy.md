@@ -12,7 +12,7 @@ tags:
 Today we welcomed the newest member of the Thingelstad family, [our new dog](/thingelstad/were-getting-a-dog) Izzy!
 
 
-[![20070321_213106_0355.jpg]({{ site.url }}/assets/posts/2007/20070321_213106_03551.jpg)](http://photos.thingelstad.com/200703-Izzy/content/20070321_213106_0355_large.html)
+[![20070321_213106_0355.jpg]({{ site.url }}{% link /assets/posts/2007/20070321_213106_03551.jpg %})](http://photos.thingelstad.com/200703-Izzy/content/20070321_213106_0355_large.html)
 
 Tammy, Mazie and Grandma Kaye made the trip to pick her up from the foster home. I guess she was really nervous in the beginning, but settled down pretty quick. However, not until she had puked on Grandma Kaye three times on the drive back. I got home after work and she was having a great time meeting the neighbor kids that had stopped by to say Hi. Mazie sure likes Izzy already and was providing her with a lot of attention.
 

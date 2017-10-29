@@ -6,7 +6,7 @@ tags:
 - Minnesota Twins
 ---
 
-![]({{ site.url }}/assets/posts/2010/Target-Field-Day-Game.png)
+![]({{ site.url }}{% link /assets/posts/2010/Target-Field-Day-Game.png %})
   
 
 

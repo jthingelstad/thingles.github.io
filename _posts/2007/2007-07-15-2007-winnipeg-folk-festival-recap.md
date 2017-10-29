@@ -10,7 +10,7 @@ tags:
 Last weekend I made my fourth visit to the [Winnipeg Folk Festival](http://www.winnipegfolkfestival.ca/) (previous years were 2006, 2003 and 2001). Tammy was at all of those except 2001. We left Mazie with Grandparents this time. We continue to plan on bringing Mazie every-other year.
 
 
-![folk_fest_post_07_banner.jpg]({{ site.url }}/assets/posts/2007/folk_fest_post_07_banner1.jpg)
+![folk_fest_post_07_banner.jpg]({{ site.url }}{% link /assets/posts/2007/folk_fest_post_07_banner1.jpg %})
 
 This years festival was great as always. There were a number of firsts this year too. It was the first year I've been there that my mother wasn't able to go. She's been going to the festival for many more years than I, so it was odd that she wasn't there as well. We preserved the tradition of getting an evening Whale's Tale every night in her absence.
 

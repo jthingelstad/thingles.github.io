@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-[![]({{ site.url }}/assets/posts/2005/o_childrensblizzard.gif)](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0060520752)I just finished reading David Laskin's _[The Children's Blizzard](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0060520752)_. If you grew up in the upper-midwest like I did you will find it enjoyable and interesting in a way that readers from other locales, at least in my opinion, will not be able to connect with.
+[![]({{ site.url }}{% link /assets/posts/2005/o_childrensblizzard.gif %})](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0060520752)I just finished reading David Laskin's _[The Children's Blizzard](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0060520752)_. If you grew up in the upper-midwest like I did you will find it enjoyable and interesting in a way that readers from other locales, at least in my opinion, will not be able to connect with.
 
 First off, you need to read this book in the winter. Winter is leaving us now so if you are just finding out about it and really want to read it either do so quickly or put it on your list for January of 2006. Reading this book in the sunny days of summer would take an edge, a bitter reminder, away from the story. Secondly, I would suggest reading it in the winter and in a nice warm room with a good blanket. As you read about one of the worst blizzards in the history of the plains and the death that was left behind you would be well served by being nice and warm.
 

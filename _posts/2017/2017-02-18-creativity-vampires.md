@@ -8,7 +8,7 @@ image: /assets/posts/2017/urge-to-write-over-time.png
 
 I have observed in myself this dynamic of low-effort, low-value activities removing the *need* to do high-effort, high-value activities. The graph below illustrates what I mean.
 
-![Urge to Write over Time]({{ site.url }}/assets/posts/2017/urge-to-write-over-time.png)
+![Urge to Write over Time]({{ site.url }}{% link /assets/posts/2017/urge-to-write-over-time.png %})
 
 The more I tweet, the less I blog.
 

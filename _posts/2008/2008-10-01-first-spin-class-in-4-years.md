@@ -7,7 +7,7 @@ categories:
 Tonight I went to my first spin class in over four years. I was pretty nervous and joked with Tammy that we should check the status of my life insurance policy before I left. In the end though, I had a good time and got a great workout. I wasn't able to keep up with the class which I fully expected, but I did a bit better than I expected as well.
 The thing that I loved about the spin class though were the bikes. I've ridden on a number of spin bikes and even have one at home. There has been a lot of improvement in them over the years, but the new LA Fitness has these [Keiser M3](http://www.amazon.com/dp/B0011E09QE/?tag={{ site.affiliate.amazon }}) spin bikes.
 
-[![41RPVS63QuL._AA280_.jpg]({{ site.url }}/assets/posts/2008/41rpvs63qul-aa280.jpg)](http://www.amazon.com/dp/B0011E09QE/?tag={{ site.affiliate.amazon }})
+[![41RPVS63QuL._AA280_.jpg]({{ site.url }}{% link /assets/posts/2008/41rpvs63qul-aa280.jpg %})](http://www.amazon.com/dp/B0011E09QE/?tag={{ site.affiliate.amazon }})
 
 These bikes are hands down the best spin bike I've ever been on. Actually, they are the best indoor bike I've ever been on period. Here is why they rock:
 

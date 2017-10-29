@@ -15,5 +15,5 @@ I received the bell in rough condition. It had become three separate pieces. Sti
 
 I have respectfully placed him aside in the hope that future technology will be able to cure what ails this great, red bell.
 
-![]({{ site.url }}/assets/posts/2005/o_xmas-bell.jpg)  
+![]({{ site.url }}{% link /assets/posts/2005/o_xmas-bell.jpg %})  
 _Grandpa with the Christmas Bell (2001)_

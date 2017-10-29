@@ -11,7 +11,7 @@ tags:
 
 It was nine months ago that we [added Izzy](/thingelstad/welcome-izzy) to our family. Today we added another dog to the family. His name is _Chase_!
 
-![chase.jpg]({{ site.url }}/assets/posts/2007/chase1.jpg)
+![chase.jpg]({{ site.url }}{% link /assets/posts/2007/chase1.jpg %})
 
 We adopted Chase today after visiting him on Thursday night. He is about 5 months old and is a [Border Collie](http://en.wikipedia.org/wiki/Border_collie)/[Black Lab](http://en.wikipedia.org/wiki/Labrador_Retriever) mix. His color is all Black Lab, and his face has a lot of the Collie in it. He was born in South Dakota and found his way to Minneapolis with a couple of siblings. We found Chase on the Internet (with the unfortunate name of Lurch), while casually considering getting another dog. After visiting him we pondered it for a while and decided to take the leap.
 

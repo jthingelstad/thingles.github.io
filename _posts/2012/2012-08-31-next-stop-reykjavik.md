@@ -6,4 +6,4 @@ tags:
 - Iceland
 ---
 
-![]({{ site.url }}/assets/posts/2012/20120831-192640.jpg)
+![]({{ site.url }}{% link /assets/posts/2012/20120831-192640.jpg %})

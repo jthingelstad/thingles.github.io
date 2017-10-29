@@ -9,15 +9,15 @@ Tammy got this custom made Einstein cabinet by artist [Paul Carbo](http://paulca
 
 
   
-   ![]({{ site.url }}/assets/posts/2014/IMG_2347.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/IMG_2347.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2014/IMG_2350.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/IMG_2350.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2014/IMG_2351.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2014/IMG_2351.jpg %})
   
 
 

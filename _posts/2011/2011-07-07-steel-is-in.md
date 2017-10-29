@@ -7,7 +7,7 @@ tags:
 - Remodel
 ---
 
-![]({{ site.url }}/assets/posts/2011/steel-is-in.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/steel-is-in.jpg %})
   
 
 

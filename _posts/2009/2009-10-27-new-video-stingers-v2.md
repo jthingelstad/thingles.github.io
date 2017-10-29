@@ -22,7 +22,7 @@ I decided to redo them and improved a number of things:
 
   * I made sure the aspect ratio defaulted to widescreen.
 
-Several of my friends asked me how I create my stingers. It is really easy actually. I use Keynote to make the stinger itself, using transition effects that are on a timer. I then export the presentation to a Quicktime movie. I import the Quicktime movie of the transitions into iMovie and do trimming as well as adding audio. I then export them out of iMovie and re-import the completed stingers into iMovie to use in other videos. It sounds more complicated than it is. If you would like to use my Keynote file to start with go ahead and [download Video Stingers v2.1.key]({{ site.url }}/assets/posts/2009/Video-Stingers-v2.1.key_.zip.key_.zip?format=original).
+Several of my friends asked me how I create my stingers. It is really easy actually. I use Keynote to make the stinger itself, using transition effects that are on a timer. I then export the presentation to a Quicktime movie. I import the Quicktime movie of the transitions into iMovie and do trimming as well as adding audio. I then export them out of iMovie and re-import the completed stingers into iMovie to use in other videos. It sounds more complicated than it is. If you would like to use my Keynote file to start with go ahead and [download Video Stingers v2.1.key]({{ site.url }}{% link /assets/posts/2009/Video-Stingers-v2.1.key_.zip.key_.zip?format=original %}).
 
 For fun, here are the five new stingers.
 

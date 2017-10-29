@@ -5,7 +5,7 @@ tags: OmniFocus
 
 I often like to dream that I get to wave a magic wand and influence the future product plans of software that I use. I've been a constant user of [OmniFocus](https://www.omnigroup.com/omnifocus/) since the very first release on the Mac. I jumped right in when the [iPhone version](https://www.omnigroup.com/omnifocus/#literally-everywhere) came out and eagerly grabbed the [iPad version](https://www.omnigroup.com/omnifocus/#literally-everywhere) when it was released.
 
-[![]({{ site.url }}/assets/posts/2010/OF-Sync-Server.png)](https://manage.sync.omnigroup.com)
+[![]({{ site.url }}{% link /assets/posts/2010/OF-Sync-Server.png %})](https://manage.sync.omnigroup.com)
 
 A while back Omni started to host their own Omni Sync Server for OmniFocus. Before that, you had to use [MobileMe](http://www.me.com/), [WebDAV](http://en.wikipedia.org/wiki/WebDAV) or some other wonky stuff. I used MobileMe for a long time to sync multiple instances of OmniFocus on different Macs as well as my iPhone. I've had as many as five separate installs of OmniFocus running and synchronizing and OmniFocus has done a great job making it all seamlessly work.
 
@@ -15,7 +15,7 @@ When the [Omni Sync Server](https://www.omnigroup.com/sync/) was released it mad
 
 Since my OmniFocus data is on the Omni Sync Server, I would really like to have a HTML browser-based version of OmniFocus that I can get to from any web browser and manage tasks. Why? There are a few reasons.
 
-![]({{ site.url }}/assets/posts/2010/omnifocus-for-web.gif)
+![]({{ site.url }}{% link /assets/posts/2010/omnifocus-for-web.gif %})
 
 Even though I have OmniFocus on my Macs, my iPhone and my iPad there are still times that I'm at a computer that isn't mine and I would really like to get a full desktop-like experience to work on some stuff.
 

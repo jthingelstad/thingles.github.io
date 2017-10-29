@@ -6,7 +6,7 @@ tags:
 - Visualization
 ---
 
-![]({{ site.url }}/assets/posts/2011/LinkedIn-InMap.png)
+![]({{ site.url }}{% link /assets/posts/2011/LinkedIn-InMap.png %})
   
 
 

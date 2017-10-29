@@ -12,15 +12,15 @@ tags:
 
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110627-180241-0001.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110627-180241-0001.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110627-180308-0001.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110627-180308-0001.jpg %})
   
 
   
-   ![]({{ site.url }}/assets/posts/2011/20110627-180334-0001.jpg)
+   ![]({{ site.url }}{% link /assets/posts/2011/20110627-180334-0001.jpg %})
   
 
 

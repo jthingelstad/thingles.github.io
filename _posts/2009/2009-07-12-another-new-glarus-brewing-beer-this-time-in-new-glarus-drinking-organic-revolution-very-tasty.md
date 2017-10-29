@@ -6,7 +6,7 @@ tags:
 - Beer
 ---
 
-![]({{ site.url }}/assets/posts/2009/9fa184307c4533312ba6bc1fad13e0ca.jpg)
+![]({{ site.url }}{% link /assets/posts/2009/9fa184307c4533312ba6bc1fad13e0ca.jpg %})
   
 
 

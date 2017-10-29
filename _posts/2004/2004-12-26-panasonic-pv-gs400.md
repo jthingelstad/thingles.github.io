@@ -5,7 +5,7 @@ categories:
 - Techie
 ---
 
-[![]({{ site.url }}/assets/posts/2004/r_gs400.jpg)](http://www2.panasonic.com/webapp/wcs/stores/servlet/vModelDetail?displayTab=O&storeId=11251&catalogId=11005&itemId=70622&catGroupId=17171&modelNo=PV-GS400&surfModel=PV-GS400)
+[![]({{ site.url }}{% link /assets/posts/2004/r_gs400.jpg %})](http://www2.panasonic.com/webapp/wcs/stores/servlet/vModelDetail?displayTab=O&storeId=11251&catalogId=11005&itemId=70622&catGroupId=17171&modelNo=PV-GS400&surfModel=PV-GS400)
 
 
 I've now entered the world of digital video in addition to the digital photography one I've been in for some time. My wife was cool enough to get me the [Panasonic PV-GS400 digital camcorder](http://www2.panasonic.com/webapp/wcs/stores/servlet/vModelDetail?displayTab=O&storeId=11251&catalogId=11005&itemId=70622&catGroupId=17171&modelNo=PV-GS400&surfModel=PV-GS400). This is a very slick 3CCD unit with more bells and whistles than I know what to do with at this time. It even takes 4 megapixel stills! I've been playing with it over Christmas, taking some really dumb video and realizing that it's hard to fake your way through video production. :-)

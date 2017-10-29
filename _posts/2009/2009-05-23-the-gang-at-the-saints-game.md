@@ -9,4 +9,4 @@ tags:
 - Tammy
 ---
 
-![]({{ site.url }}/assets/posts/2009/bf1205b087e15386fe54b5af7699cb33.png)
+![]({{ site.url }}{% link /assets/posts/2009/bf1205b087e15386fe54b5af7699cb33.png %})

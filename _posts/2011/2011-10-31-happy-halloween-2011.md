@@ -4,4 +4,4 @@ categories:
 - Family
 ---
 
-![]({{ site.url }}/assets/posts/2011/Halloween-2011.jpg)
+![]({{ site.url }}{% link /assets/posts/2011/Halloween-2011.jpg %})

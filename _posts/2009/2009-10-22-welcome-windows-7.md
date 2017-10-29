@@ -7,4 +7,4 @@ tags:
 ---
 
 Happy Birthday to Windows 7!
-![Happy Birthday Windows 7]({{ site.url }}/assets/posts/2009/Happy-Birthday-Windows-7.png)
+![Happy Birthday Windows 7]({{ site.url }}{% link /assets/posts/2009/Happy-Birthday-Windows-7.png %})

@@ -6,7 +6,7 @@ tags:
 - iTunes
 ---
 
-![]({{ site.url }}/assets/posts/2009/ba9638e31b1acb22b5109017b6e8bacf.jpg)
+![]({{ site.url }}{% link /assets/posts/2009/ba9638e31b1acb22b5109017b6e8bacf.jpg %})
   
 
 

@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-![]({{ site.url }}/assets/posts/2004/r_xmas.gif)
+![]({{ site.url }}{% link /assets/posts/2004/r_xmas.gif %})
 
 Tammy and I begin our Christmas journey today. We alternate Christmas and this year is a trip to my family so we'll be driving a long ways to [Minot, ND](http://www.visitminot.org/) tonight and then continuing to my grandparents farm outside of [Lignite, ND](http://www.lignitend.com/).
 

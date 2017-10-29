@@ -14,7 +14,7 @@ The iPhone is a superb device to watch video on. The screen is bright and large 
 
 The first part of this problem is that the iPhone itself is aluminum and thus relatively slippery. I have the incase cover for my phone that is nice and grippy and I found that I could prop my iPhone on my tray by placing something behind it. This worked okay, but resulted in looking down at the seat tray for a long time, and some neck pain to go along with that. So I pondered this for a while and came up with an alternative.
 
-![iphone-seatback.jpg]({{ site.url }}/assets/posts/2007/iphone-seatback1.jpg)
+![iphone-seatback.jpg]({{ site.url }}{% link /assets/posts/2007/iphone-seatback1.jpg %})
 
 I got all MacGuyver on this one. The ideal scenario is to have the screen right at the headrest of the person in front of you. How to do that? Two rubber bands and two safety pins later and the problem is solved.
 
