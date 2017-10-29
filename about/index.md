@@ -2,7 +2,7 @@
 title: About
 ---
 
-Check out my [now page]({% link about/now.md %}) if you are curious about what I'm focusing on now. See my [secure]({% link about/secure.md %}) page for information on how to communicate with me through secure methods.
+Check out my [now page]({% link about/now.md %}) if you are curious about what I'm focusing on now. See my [secure]({% link about/secure.md %}) page for information on how to communicate with me through secure methods. My professional [bio]({% link about/bio/index.md %}) is also available.
 
 Let me introduce myself. I'm 45 and am married to my amazing wife Tammy. We have two fabulous kids, Mazie and Tyler. I love being a Dad. It's the best thing ever. We have a dog named Chase who thinks he is a lap dog in a black lab body.
 
