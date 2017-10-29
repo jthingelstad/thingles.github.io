@@ -6,7 +6,9 @@ tags:
 - WordPress
 ---
 
-![avatar.php.jpeg]({{ site.url }}{% link /assets/posts/2008/avatar.php_1.jpeg_1.jpeg?format=original %})If you have commented on my blog you have likely noticed this blue [Gravatar](http://site.gravatar.com/) image appearing next to your post. This is the default image that appears if you have no [avatar](http://en.wikipedia.org/wiki/Avatar_%2528computing%2529), and you really should [get one](http://site.gravatar.com/signup). I've been on a total avatar kick lately. I had my own custom avatars made. I think that this is part of keeping the Internet personal and "connected". I love to fill in my OS X Address Book with pictures for people so that when they call or I get email from them I get to see them.
+![gravatar.jpg]({{ site.url }}{% link /assets/posts/2008/gravatar.jpg %})
+
+If you have commented on my blog you have likely noticed this blue [Gravatar](http://site.gravatar.com/) image appearing next to your post. This is the default image that appears if you have no [avatar](http://en.wikipedia.org/wiki/Avatar_%2528computing%2529), and you really should [get one](http://site.gravatar.com/signup). I've been on a total avatar kick lately. I had my own custom avatars made. I think that this is part of keeping the Internet personal and "connected". I love to fill in my OS X Address Book with pictures for people so that when they call or I get email from them I get to see them.
 
 ![iStock_000004356705XSmall.jpg]({{ site.url }}{% link /assets/posts/2008/istock-000004356705xsmall1.jpg %})
 

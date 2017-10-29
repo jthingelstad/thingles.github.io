@@ -8,6 +8,6 @@ tags:
 
 The long awaited, and huge (341MB), update for Mac OS X 10.5.2 is out now! Get it while it's hot!
 
-[![osx-update.gif]({{ site.url }}{% link /assets/posts/2008/osx-update-small1.gif %})]({{ site.url }}{% link /assets/posts/2008/osx-update1.gif %})
+![osx-update.gif]({{ site.url }}{% link /assets/posts/2008/osx-update.gif %})
 
 Don't forget to do a second Software Update after the 10.5.2 install is done to get the **Leopard Graphics Update** as well.

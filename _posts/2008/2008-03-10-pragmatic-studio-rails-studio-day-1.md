@@ -6,7 +6,9 @@ tags:
 - Ruby
 ---
 
-![Pragmatic-Studio-Logo.png]({{ site.url }}{% link /assets/posts/2008/pragmatic-studio-logo1.png %})I'm in Denver today for the first of three days of [Rails Studio](http://pragmaticstudio.com/rails/). Rails Studio is one of the [Pragmatic Studio](http://pragmaticstudio.com/) classes offered by [Pragmatic Programmers](http://www.pragprog.com/). This class is being taught by [Dave Thomas](http://pragdave.pragprog.com/) and [Mike Clark](http://www.clarkware.com/). I really enjoyed our first day.
+![Pragmatic-Studio-Logo.png]({{ site.url }}{% link /assets/posts/2008/pragmatic-studio-logo.png %})
+
+I'm in Denver today for the first of three days of [Rails Studio](http://pragmaticstudio.com/rails/). Rails Studio is one of the [Pragmatic Studio](http://pragmaticstudio.com/) classes offered by [Pragmatic Programmers](http://www.pragprog.com/). This class is being taught by [Dave Thomas](http://pragdave.pragprog.com/) and [Mike Clark](http://www.clarkware.com/). I really enjoyed our first day.
 I was a little surprised by how many people there were in the class. I expected about 20 and it's nearly twice that. I think I counted 37. And, sadly, as all things programming go there were only two women. As the father of a little girl this lack of women in technology disturbs me more and more. The accommodations were as you would expect -- decent hotel conference room, setup in rows of tables. I would love it if Pragmatic would spring for a second projector and do a dual display given the number of people in the room. Not necessary, but would be nice.
 
 The first day was split in two halves. We started with a very quick dive through [Ruby](http://www.ruby-lang.org/) itself. I was really happy they did this since it answered many "huh" moments I've had when looking at Rails examples. The overview also left me with more respect for Ruby, independent of Rails, than I had when I came. The morning finished with a quick run through[ model-view-controller, MVC](http://en.wikipedia.org/wiki/Model-view-controller). It was also put together well and explained more clearly than I've seen before.

@@ -9,11 +9,11 @@ tags:
 
 I was doing some printing in Lightroom recently and was struggling. The prints were coming out really badly, and when looking for the quality controls for the Canon S900 I couldn't find any of the normal settings. This is what it should look like, with options for the type of printing.
 
-[![lr2-32bit-print-options.png]({{ site.url }}{% link /assets/posts/2008/lr2-32bit-print-options.png %})]({{ site.url }}{% link /assets/posts/2008/lr2-32bit-print-options-large.png %})
+![lr2-32bit-print-options.png]({{ site.url }}{% link /assets/posts/2008/lr2-32bit-print-options.png %})
 
 But instead I was getting this, with a big crossed out option and an incompatibility over "architecture".
 
-[![lr2-64bit-print-options.png]({{ site.url }}{% link /assets/posts/2008/lr2-64bit-print-options.png %})]({{ site.url }}{% link /assets/posts/2008/lr2-64bit-print-options-large.png %})
+![lr2-64bit-print-options.png]({{ site.url }}{% link /assets/posts/2008/lr2-64bit-print-options.png %})
 
 I was pretty confused why this wasn't working and figured I needed to reinstall my drivers, but didn't want to restart at that point so left it. I kept noodling this over and that word "architecture" was bugging me. Then it hit me!
 
