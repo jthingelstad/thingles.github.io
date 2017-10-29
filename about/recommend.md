@@ -8,6 +8,10 @@ I subscribe to Origin Meals to get healthy lunches at work. It's a great option 
 
 [Sign up now!](http://originmeals.refr.cc/jamiet)
 
+### MailChimp
+
+[Sign up now!](http://eepurl.com/c6BAmn)
+
 ### YNAB
 
 Tammy and I have used YNAB for our personal finances for years now and it's transformed how we manage our personal budgets.
