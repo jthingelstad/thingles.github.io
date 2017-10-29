@@ -51,7 +51,7 @@ kramdown:
 
 # Navigation
 nav:
-  - icon:           "<i class='fa fa-user' aria-hidden='true' title='About'></i>"
+  - icon:           "<i class='fa fa-user-circle-o' aria-hidden='true' title='About'></i>"
     name:           "About"
     url:            "/about/"
   - icon:           "<i class='fa fa-camera' aria-hidden='true' title='Photos'></i>"
