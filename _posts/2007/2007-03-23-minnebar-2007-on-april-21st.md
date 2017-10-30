@@ -12,4 +12,4 @@ Spring is here, and along with it is the 2nd annual [Minnebar](http://barcamp.or
 
 ![minnebar-logo-med.png]({{ site.url }}{% link /assets/posts/2007/minnebar-logo-med.png %})
 
-If you are curious, Minnebar is the close relative of [Minnedemo](http://barcamp.org/MinneDemo). Minnedemo is focused on demo's and occurs twice a year, just for an evening. The most recent one was the [Holiday Minnedemo]{% link _posts/2006/2006-10-14-holiday-minnedemo.md %}. Minnebar is a complete conference and is focused on topics, taking a full day.
+If you are curious, Minnebar is the close relative of [Minnedemo](http://barcamp.org/MinneDemo). Minnedemo is focused on demo's and occurs twice a year, just for an evening. The most recent one was the [Holiday Minnedemo]({{site.url}}{% link _posts/2006/2006-10-14-holiday-minnedemo.md %}). Minnebar is a complete conference and is focused on topics, taking a full day.

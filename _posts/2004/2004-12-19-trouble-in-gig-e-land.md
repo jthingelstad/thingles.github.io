@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-In February I [upgraded my home network to Gig E]{% link _posts/2004/2004-02-13-got-gig.md %}. The speed is great. However, a couple of days ago I woke up to find a bunch of my machines unreachable on the local network. I went downstairs and my SMC 8508-T had croaked. It looks like at 10:30pm on Thursday evening it just stopped functioning for all gigabit devices. No link, nothing.
+In February I [upgraded my home network to Gig E]({{site.url}}{% link _posts/2004/2004-02-13-got-gig.md %}). The speed is great. However, a couple of days ago I woke up to find a bunch of my machines unreachable on the local network. I went downstairs and my SMC 8508-T had croaked. It looks like at 10:30pm on Thursday evening it just stopped functioning for all gigabit devices. No link, nothing.
 
 After flirting with the idea of upgrading to a layer 2 or layer 3 managed switch I decided that a simple RMA really was the best thing to do. In the process I found out there are two 8508-T versions out there. I have 751.0154 but there is also a 751.7513 version. Interestingly, I was never able to get jumbo frames to work as advertised on my switch. It'll be interesting to see if the one I get back works for jumbo frames. Of course I will let you all know.
 

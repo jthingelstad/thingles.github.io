@@ -6,7 +6,7 @@ tags:
 - Apple
 ---
 
-5 months ago I [said goodbye]{% link _posts/2007/2007-03-25-bye-bye-imac-g5.md %} to [my iMac G5]{% link _posts/2004/2004-11-26-imac-g5.md %} and sent it on to live happily with my sister. After it departed the MacBook took it's place and started being permanently anchored to the kitchen desk. I've been holding off on replacing the iMac until Apple released the next model of iMac, which [they did today](http://www.tuaw.com/2007/08/07/apple-announces-new-imacs-with-aluminum-enclosure-glass-display/). A quick trip to the Apple Store this afternoon and I've got the brand new 24" iMac setup in the kitchen office.
+5 months ago I [said goodbye]({{site.url}}{% link _posts/2007/2007-03-25-bye-bye-imac-g5.md %}) to [my iMac G5]({{site.url}}{% link _posts/2004/2004-11-26-imac-g5.md %}) and sent it on to live happily with my sister. After it departed the MacBook took it's place and started being permanently anchored to the kitchen desk. I've been holding off on replacing the iMac until Apple released the next model of iMac, which [they did today](http://www.tuaw.com/2007/08/07/apple-announces-new-imacs-with-aluminum-enclosure-glass-display/). A quick trip to the Apple Store this afternoon and I've got the brand new 24" iMac setup in the kitchen office.
 
 
 ![imackeyboard_3_20070807.jpg]({{ site.url }}{% link /assets/posts/2007/imackeyboard_3_200708071.jpg %})

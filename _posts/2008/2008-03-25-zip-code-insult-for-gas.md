@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-I've already written about how annoying it is to be [bombarded with advertisements while buying gas]{% link _posts/2007/2007-11-21-cant-i-buy-overpriced-gas-in-quiet.md %}. Now they've gone even further. I went to buy gas the other day and got this great screen demanding my zip code.
+I've already written about how annoying it is to be [bombarded with advertisements while buying gas]({{site.url}}{% link _posts/2007/2007-11-21-cant-i-buy-overpriced-gas-in-quiet.md %}). Now they've gone even further. I went to buy gas the other day and got this great screen demanding my zip code.
 
 [![I Just Want My Gas!](http://farm4.static.flickr.com/3097/2315643138_4519e68bb2_m.jpg)](http://www.flickr.com/photos/46408384@N00/2315643138)
 

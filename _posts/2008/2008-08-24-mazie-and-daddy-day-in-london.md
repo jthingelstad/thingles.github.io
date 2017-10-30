@@ -11,7 +11,7 @@ tags:
 - Summer of Love
 ---
 
-_[<strike>Sorry - I have some great photos to go with this but due to the [horrible connectivity I have]{% link _posts/2008/2008-08-21-living-with-a-3g-modem.md %} I cannot get them online. When I get some decent connectivity I'll upload them and add them later.</strike> I had a good signal this morning and was able to upload the pictures!]_
+_[<strike>Sorry - I have some great photos to go with this but due to the [horrible connectivity I have]({{site.url}}{% link _posts/2008/2008-08-21-living-with-a-3g-modem.md %}) I cannot get them online. When I get some decent connectivity I'll upload them and add them later.</strike> I had a good signal this morning and was able to upload the pictures!]_
 This morning Tammy and my Mom took off for Liverpool. When we were looking at our trip over here, and when my Mom would come over, we found out there is a Beatle's Festival in Liverpool this week. They took an early bus ride, followed by a very late overnight ride back to go see it. Mazie and I had the whole day to ourselves!
 
 I hadn't done a great job of planning out our day, but it came together really well.

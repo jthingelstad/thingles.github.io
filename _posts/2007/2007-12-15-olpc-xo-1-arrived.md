@@ -7,7 +7,7 @@ tags:
 - Mazie
 ---
 
-[My One Laptop Per Child XO-1]{% link _posts/2007/2007-11-18-one-laptop-per-child-and-me.md %} arrived today! I haven't had any time to work with it so you will all have to wait to hear my thoughts on it. Some things that jumped right out though include...
+[My One Laptop Per Child XO-1]({{site.url}}{% link _posts/2007/2007-11-18-one-laptop-per-child-and-me.md %}) arrived today! I haven't had any time to work with it so you will all have to wait to hear my thoughts on it. Some things that jumped right out though include...
 
   * The keyboard was designed for children (duh!) and is really small. Wow!
 

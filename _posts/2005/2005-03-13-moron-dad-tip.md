@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-I've commented before on the [incredibly poor quality of reading materials for dads-to-be]{% link _posts/2005/2005-01-23-reading-for-dads-to-be.md %}. One of the books that we have been following week-by-week of the pregnancy has these inane "Dad Tip" sections in each week. This weeks was so crazy to me that I just had to share it. From [Your Pregnancy Week by Week](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=1555613462) the "Dad Tip" for Week 29 is
+I've commented before on the [incredibly poor quality of reading materials for dads-to-be]({{site.url}}{% link _posts/2005/2005-01-23-reading-for-dads-to-be.md %}). One of the books that we have been following week-by-week of the pregnancy has these inane "Dad Tip" sections in each week. This weeks was so crazy to me that I just had to share it. From [Your Pregnancy Week by Week](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=1555613462) the "Dad Tip" for Week 29 is
 
 > After the baby is born, you _may_ want to take time off to help out at home and to be part of your baby's early development... 
 

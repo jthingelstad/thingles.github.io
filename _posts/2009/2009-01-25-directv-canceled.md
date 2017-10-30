@@ -7,7 +7,7 @@ tags:
 - iTunes
 ---
 
-A couple of weeks ago I finally pulled the plug on DirecTV! I wrote about the comparison I did between [DirecTV and iTunes]{% link _posts/2008/2008-12-08-directv-v-itunes-apple-tv.md %} before, and we decided to jump ship on satellite television. I've rewired the cables in the house so the three televisions we have now get over-the-air (OTA) channels with their internal [ATSC](http://en.wikipedia.org/wiki/Atsc) tuners and the [ChannelMaster 4221 antennae on the roof]{% link _posts/2005/2005-01-23-hd-antennae-comparison.md %}. [Each TV has had an Apple TV]{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %} on it for a while, now with their [expanded 250 GB hard drives]{% link _posts/2009/2009-01-10-upgraded-apple-tv-hard-drives.md %}.
+A couple of weeks ago I finally pulled the plug on DirecTV! I wrote about the comparison I did between [DirecTV and iTunes]({{site.url}}{% link _posts/2008/2008-12-08-directv-v-itunes-apple-tv.md %}) before, and we decided to jump ship on satellite television. I've rewired the cables in the house so the three televisions we have now get over-the-air (OTA) channels with their internal [ATSC](http://en.wikipedia.org/wiki/Atsc) tuners and the [ChannelMaster 4221 antennae on the roof]({{site.url}}{% link _posts/2005/2005-01-23-hd-antennae-comparison.md %}). [Each TV has had an Apple TV]({{site.url}}{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %}) on it for a while, now with their [expanded 250 GB hard drives]({{site.url}}{% link _posts/2009/2009-01-10-upgraded-apple-tv-hard-drives.md %}).
 
 
 

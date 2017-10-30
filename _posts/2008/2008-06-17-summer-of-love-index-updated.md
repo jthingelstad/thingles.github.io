@@ -33,4 +33,4 @@ Average number of photographs taken per day so far: **68.79**
 
 
 
-See [first index]{% link _posts/2008/2008-06-02-summer-of-love-index.md %} for comparison.
+See [first index]({{site.url}}{% link _posts/2008/2008-06-02-summer-of-love-index.md %}) for comparison.

@@ -7,7 +7,7 @@ tags:
 - Google
 ---
 
-I don't have New Years resolutions every year, but this year I figured what the heck. Looking back, while I didn't call it a resolution, I did force a switch to [Camera RAW for photography on January 2nd, 2006]{% link _posts/2006/2006-01-02-the-year-of-raw.md %} and that was great. I have a few technology and Internet related resolutions that I thought I would share this year. Hopefully I'm as happy with these changes in a couple of years.
+I don't have New Years resolutions every year, but this year I figured what the heck. Looking back, while I didn't call it a resolution, I did force a switch to [Camera RAW for photography on January 2nd, 2006]({{site.url}}{% link _posts/2006/2006-01-02-the-year-of-raw.md %}) and that was great. I have a few technology and Internet related resolutions that I thought I would share this year. Hopefully I'm as happy with these changes in a couple of years.
 
 ##### Digitally Signed Email
 

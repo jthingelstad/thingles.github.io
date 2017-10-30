@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-My frequent visitors (all two of you! :-P) likely noticed that my site has been down since Saturday morning. I took some extra time this weekend to rebuild my [terabyte server]{% link _posts/2004/2004-04-02-project-terabyte.md %}. When I put the server up the first time I filled the RAID with 6 200G SATA drives and created one RAID5 set with 5 drives and left the last for a hot spare. I put a couple of logical partitions on it and left a spare 200G ATA drive in for generic downloads and other expendable items.
+My frequent visitors (all two of you! :-P) likely noticed that my site has been down since Saturday morning. I took some extra time this weekend to rebuild my [terabyte server]({{site.url}}{% link _posts/2004/2004-04-02-project-terabyte.md %}). When I put the server up the first time I filled the RAID with 6 200G SATA drives and created one RAID5 set with 5 drives and left the last for a hot spare. I put a couple of logical partitions on it and left a spare 200G ATA drive in for generic downloads and other expendable items.
 
 The problem with this is my entire system was on one drive and that led to performance problems and eventually would create maintenance challenges. For example, I couldn't unmount the big volume to do a chkdsk without causing all sorts of problems. So, I decided to redo it all and suffer the pain involved.
 

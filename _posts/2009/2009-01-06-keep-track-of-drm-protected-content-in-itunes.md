@@ -6,7 +6,7 @@ tags:
 - iTunes
 ---
 
-I mentioned in my post on [DRM being removed from iTunes]{% link _posts/2009/2009-01-06-all-of-itunes-now-drm-free.md %} that I track DRM content using a Smart Playlist. I'm fine with some DRM content, but I like to keep a handle on what is DRM-protected. iTunes makes this easy, just create a Smart Playlist like this.
+I mentioned in my post on [DRM being removed from iTunes]({{site.url}}{% link _posts/2009/2009-01-06-all-of-itunes-now-drm-free.md %}) that I track DRM content using a Smart Playlist. I'm fine with some DRM content, but I like to keep a handle on what is DRM-protected. iTunes makes this easy, just create a Smart Playlist like this.
 
 ![iTunes Smart Playlist Protected DRM Content.png]({{ site.url }}{% link /assets/posts/2009/itunes-smart-playlist-protected-drm-content.png %})
 

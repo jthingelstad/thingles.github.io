@@ -14,8 +14,8 @@ We departed at 9:45 p.m. For whatever reason I felt it absolutely necessary to g
 
 The flight itself was fine, but getting Mazie to sleep was not. I had this idea that we would leave at 9:45 p.m. and after the excitement of takeoff ended Mazie would just naturally fall asleep. This was not the case. She didn't go to bed until 1:30 a.m. central time. We tried everything short of medication and nothing would work. I got furious with the screens in the back of every chair that constantly flashed different messages at us, keeping Mazie enthralled with them.
 
-Anyway, she finally got to sleep and I crashed about the same time. Tammy on the other hand spent most of the night [playing Quordy on her iPhone]{% link _posts/2008/2008-08-19-quordy-awesome-game.md %} and got maybe 15 minutes of sleep.
+Anyway, she finally got to sleep and I crashed about the same time. Tammy on the other hand spent most of the night [playing Quordy on her iPhone]({{site.url}}{% link _posts/2008/2008-08-19-quordy-awesome-game.md %}) and got maybe 15 minutes of sleep.
 
-After landing we collected all of our luggage, got through customs, and found a cab for the £55 ride into Kensington. I'm trying to not do [£ to $ conversions]{% link _posts/2008/2008-08-14-go-dollar.md %} here since it's just depressing.
+After landing we collected all of our luggage, got through customs, and found a cab for the £55 ride into Kensington. I'm trying to not do [£ to $ conversions]({{site.url}}{% link _posts/2008/2008-08-14-go-dollar.md %}) here since it's just depressing.
 
 Our first day here was spent mostly recovering from jet lag. We were all crazy tired.

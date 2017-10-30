@@ -4,7 +4,7 @@ categories:
 - Music
 ---
 
-Another [contribution to the world to improve album art]{% link _posts/2008/2008-11-06-contribution-to-high-resolution-album-art.md %}.
+Another [contribution to the world to improve album art]({{site.url}}{% link _posts/2008/2008-11-06-contribution-to-high-resolution-album-art.md %}).
 
 
 

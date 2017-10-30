@@ -7,7 +7,7 @@ tags:
 - Exercise
 ---
 
-This is the end of the second week since I took a [hard diet change and got serious]{% link _posts/2008/2008-10-01-too-fat-losing-weight.md %} about getting myself back into something resembling fitness. My initial progress has been great. This week (Friday to Friday) I lost a little 4.4 pounds with a total weight loss of 7.8 pounds. This is what it looks like.
+This is the end of the second week since I took a [hard diet change and got serious]({{site.url}}{% link _posts/2008/2008-10-01-too-fat-losing-weight.md %}) about getting myself back into something resembling fitness. My initial progress has been great. This week (Friday to Friday) I lost a little 4.4 pounds with a total weight loss of 7.8 pounds. This is what it looks like.
 
 ![Weight-Chart-20081010.png]({{ site.url }}{% link /assets/posts/2008/weight-chart-20081010.png %})
 

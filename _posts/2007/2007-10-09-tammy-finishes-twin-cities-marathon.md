@@ -7,7 +7,7 @@ tags:
 - Tammy
 ---
 
-This past weekend Tammy finished the [Twin Cities Marathon](http://www.mtcmarathon.org/)! This was her first marathon attempt ever. She now has that 26.2 mile event under her belt. In [2004 she did the TC 10 mile run]{% link _posts/2004/2004-10-03-tc-10-mile-run.md %}.
+This past weekend Tammy finished the [Twin Cities Marathon](http://www.mtcmarathon.org/)! This was her first marathon attempt ever. She now has that 26.2 mile event under her belt. In [2004 she did the TC 10 mile run]({{site.url}}{% link _posts/2004/2004-10-03-tc-10-mile-run.md %}).
 
 [![]({{ site.url }}{% link /assets/posts/2007/tcmarathon1.jpg %})](http://www.mtcmarathon.org/)
 

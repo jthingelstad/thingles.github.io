@@ -4,7 +4,7 @@ categories:
 - Photography
 ---
 
-While I was [shooting this weekend]{% link _posts/2011/2011-03-12-me-shooting-on-artists-point.md %} in Grand Marais I took an opportunity to try out my [new tilt-shift lens]{% link _posts/2011/2011-03-16-tilt-shift-lens.md %}. I really didn't know what I was doing so I just tried playing with it a bit. These two shots really struck me when I was reviewing them.
+While I was [shooting this weekend]({{site.url}}{% link _posts/2011/2011-03-12-me-shooting-on-artists-point.md %}) in Grand Marais I took an opportunity to try out my [new tilt-shift lens]({{site.url}}{% link _posts/2011/2011-03-16-tilt-shift-lens.md %}). I really didn't know what I was doing so I just tried playing with it a bit. These two shots really struck me when I was reviewing them.
 
 ![]({{ site.url }}{% link /assets/posts/2011/20110312-120518-0001.jpg %})
 

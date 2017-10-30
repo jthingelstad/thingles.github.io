@@ -4,7 +4,7 @@ categories:
 - Music
 ---
 
-On Sunday night Tammy and I went to see [The Black Keys](http://www.theblackkeys.com/) at [Roy Wilkins Auditorium](http://www.theroy.org/). I only [recently discovered the Black Keys]{% link _posts/2011/2011-02-22-the-black-keys-brothers.md %}. I heard they were coming to town and they seemed like a great band to see live so we made a point to go. The show was really good. The Black Keys play a really good live show. I had fun taking some photos with my iPhone while we were there.
+On Sunday night Tammy and I went to see [The Black Keys](http://www.theblackkeys.com/) at [Roy Wilkins Auditorium](http://www.theroy.org/). I only [recently discovered the Black Keys]({{site.url}}{% link _posts/2011/2011-02-22-the-black-keys-brothers.md %}). I heard they were coming to town and they seemed like a great band to see live so we made a point to go. The show was really good. The Black Keys play a really good live show. I had fun taking some photos with my iPhone while we were there.
 [![]({{ site.url }}{% link /assets/posts/2011/20110703-111244.jpg %})](http://thingelstad.com/s/black-keys-at-roy-wilkins/20110703-111244-jpg/img)
 
 <!-- more -->

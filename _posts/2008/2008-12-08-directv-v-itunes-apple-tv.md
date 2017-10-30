@@ -37,7 +37,7 @@ That is really it. To be fair, that $1,000 buys more than just that, but I don't
 
 ## Solution: Season Pass Shows
 
-We have three TV's in the house, they are all Sharp LCD panels, and [each one has an Apple TV on it]{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %} connected to a central iTunes repository. iTunes now offers a decent variety of content so I took the shows that we had season passes for and did a comparison on iTunes. We season pass a total of 13 shows and all but 2 of them were available. The two that were not were both [HGTV](http://www.hgtv.com/) shows and they have very little on iTunes, and the content was really optional for us.
+We have three TV's in the house, they are all Sharp LCD panels, and [each one has an Apple TV on it]({{site.url}}{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %}) connected to a central iTunes repository. iTunes now offers a decent variety of content so I took the shows that we had season passes for and did a comparison on iTunes. We season pass a total of 13 shows and all but 2 of them were available. The two that were not were both [HGTV](http://www.hgtv.com/) shows and they have very little on iTunes, and the content was really optional for us.
 
 I then added up the season pass cost for iTunes for each of these shows, calculating it at the cost for the high definition versions of the show (interesting note, you could save even more money by opting out of HD for some shows that you may not care about the quality difference for). The total was:
 
@@ -59,7 +59,7 @@ That's right, we would **cut our cost by 50%**.
 
 ## Solution: Live Programming
 
-So the next thing I needed to figure out is live programming. This is mostly an occasional football game or election coverage every couple of years. For us this programming is almost all on a major broadcast network, and they all send out wonderful HD broadcasts that I pick up with [my ChannelMaster 4221 antenna]{% link _posts/2005/2005-01-23-hd-antennae-comparison.md %}. I already have that coming into the house on coax and going to the DirecTV satellite tuner.
+So the next thing I needed to figure out is live programming. This is mostly an occasional football game or election coverage every couple of years. For us this programming is almost all on a major broadcast network, and they all send out wonderful HD broadcasts that I pick up with [my ChannelMaster 4221 antenna]({{site.url}}{% link _posts/2005/2005-01-23-hd-antennae-comparison.md %}). I already have that coming into the house on coax and going to the DirecTV satellite tuner.
 
 It turns out that it is very easy for me to get this everywhere in the house. I can just reuse the coax that is already going to each TV and hook the antennae up to it and then plug it into the ATSC tuners on all the TV's.
 

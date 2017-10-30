@@ -7,7 +7,7 @@ tags:
 - Wii
 ---
 
-I'm totally obsessed with my [Wii](http://wii.nintendo.com/) all over again and it's because of [Guitar Hero](http://www.guitarhero.com/) III - Legends of Rock. In between [attempts to update my Wii software]{% link _posts/2007/2007-12-15-nintendo-wii-servers-overloaded.md %}, I've been rocking out with Guitar Hero III. I can't remember the last time I played a single game for over an hour -- until now.
+I'm totally obsessed with my [Wii](http://wii.nintendo.com/) all over again and it's because of [Guitar Hero](http://www.guitarhero.com/) III - Legends of Rock. In between [attempts to update my Wii software]({{site.url}}{% link _posts/2007/2007-12-15-nintendo-wii-servers-overloaded.md %}), I've been rocking out with Guitar Hero III. I can't remember the last time I played a single game for over an hour -- until now.
 
 ![Guitar-hero-iii-cover-image.jpg]({{ site.url }}{% link /assets/posts/2007/guitar-hero-iii-cover-image1.jpg %})
 

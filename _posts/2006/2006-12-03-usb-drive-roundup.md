@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-At the end of August I picked up a [new USB thumb drive]{% link _posts/2006/2006-08-27-speed-matters.md %} that would perform at a pace capable of running applications. I got the OCZ Rally2 2G drive and was very happy with it. One of the only deficiencies of the drive was that there was no way to attach a strap to it, and that proved fatal. On a business trip a couple of weeks ago I lost it. Huge bummer. I also lost a bunch of data that wasn't recently backed up. Bummer ^ 2.
+At the end of August I picked up a [new USB thumb drive]({{site.url}}{% link _posts/2006/2006-08-27-speed-matters.md %}) that would perform at a pace capable of running applications. I got the OCZ Rally2 2G drive and was very happy with it. One of the only deficiencies of the drive was that there was no way to attach a strap to it, and that proved fatal. On a business trip a couple of weeks ago I lost it. Huge bummer. I also lost a bunch of data that wasn't recently backed up. Bummer ^ 2.
 I went on the hunt for a replacement and decided to try some non-traditional form factors. I was happy with OCZ, and they had some good rebate deals on NewEgg so I ordered up a variety. I got the OCZ Rally2 4G, Mini-Kart 2G and Roadster 1G.
 
 The drives fit a bunch of different sizes and use cases (pictured here with a quarter for comparison).

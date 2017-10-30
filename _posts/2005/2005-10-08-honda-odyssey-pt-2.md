@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-We've had the [2006 Honda Odyssey for two weeks now]{% link _posts/2005/2005-09-24-honda-odyssey.md %} and I thought I would share some of my comments on it. All in all, I really like the vehicle a lot more than I expected I would. There are a couple positives and negatives I would point out though.
+We've had the [2006 Honda Odyssey for two weeks now]({{site.url}}{% link _posts/2005/2005-09-24-honda-odyssey.md %}) and I thought I would share some of my comments on it. All in all, I really like the vehicle a lot more than I expected I would. There are a couple positives and negatives I would point out though.
 
 **Positives**
 

@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-I broke this originally in early June when I wrote my [Expose on the Hot Air Balloon industry]{% link _posts/2004/2004-06-02-expose-of-the-hot-air-balloon-industry.md %}. My theory has proven itself out. As I said before, this is the perfect system. You buy tickets ahead of time and for mysterious and unknown reasons your flight never happens. "Oh, a bird flew south today so we cannot fly." Sure...
+I broke this originally in early June when I wrote my [Expose on the Hot Air Balloon industry]({{site.url}}{% link _posts/2004/2004-06-02-expose-of-the-hot-air-balloon-industry.md %}). My theory has proven itself out. As I said before, this is the perfect system. You buy tickets ahead of time and for mysterious and unknown reasons your flight never happens. "Oh, a bird flew south today so we cannot fly." Sure...
 
 I called for the umpteenth time to schedule our flight a while ago and found out that Aamodt's Hot Air Balloons is no longer in business. To be honest, I was a little excited about this. Great, I can just get my money back for these certificates and forget this crazy mess.
 

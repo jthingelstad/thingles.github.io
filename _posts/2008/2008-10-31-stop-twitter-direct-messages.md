@@ -7,7 +7,7 @@ tags:
 - Twitter
 ---
 
-My relationship with [Twitter](http://twitter.com/) [ebbs]{% link _posts/2007/2007-11-04-buh-bye-twitter.md %} and [flows]{% link _posts/2008/2008-03-11-hello-again-twitter.md %}. Sometimes I find it very enjoyable, and at other times it seems like a worthless distraction. However, there is one part of Twitter that I have never liked, **direct messages**.
+My relationship with [Twitter](http://twitter.com/) [ebbs]({{site.url}}{% link _posts/2007/2007-11-04-buh-bye-twitter.md %}) and [flows]({{site.url}}{% link _posts/2008/2008-03-11-hello-again-twitter.md %}). Sometimes I find it very enjoyable, and at other times it seems like a worthless distraction. However, there is one part of Twitter that I have never liked, **direct messages**.
 Why not like direct messages? I'm not a fan of anything that creates another queue that I have to monitor and respond to. I try to keep everything in one workflow, and that workflow is email. My annoyance isn't limited to Twitter direct messages, but extends equally to Facebook messages and any other website specific inbox. I think Facebook could actually do their members a huge service by making their message system IMAP-capable. It would make it infinitely more useful and you could happily sit in your choice of email clients. On the other hand I would rather just not deal with Twitter direct messages.
 
 I'd thought for a while that part of a Twitter Pro premium service could be to turn off direct message function. I decided to take matters into my own hands and rid myself of direct messages now instead. You can use this little program to do the same for you.

@@ -4,7 +4,7 @@ categories:
 - Web
 ---
 
-I [participated in the SOPA blackout]{% link _posts/2012/2012-01-17-participating-in-sopa-blackout.md %} on [January 18th](http://en.wikipedia.org/wiki/Sopa_black_out). All of my personal websites went dark at 8:00am CT and returned at 8:00pm CT. I served **6,235  STOP SOPA notices**. My handful of sites were just a drop in the big ocean of over [115,000 sites that went dark](http://www.sopastrike.com/numbers). It really felt historic. I took notice of the first time that so much of the Internet banded together to make something happen, and did it happen. Just two days after the blackout the bills have lost major supporters and are going back to committee.
+I [participated in the SOPA blackout]({{site.url}}{% link _posts/2012/2012-01-17-participating-in-sopa-blackout.md %}) on [January 18th](http://en.wikipedia.org/wiki/Sopa_black_out). All of my personal websites went dark at 8:00am CT and returned at 8:00pm CT. I served **6,235  STOP SOPA notices**. My handful of sites were just a drop in the big ocean of over [115,000 sites that went dark](http://www.sopastrike.com/numbers). It really felt historic. I took notice of the first time that so much of the Internet banded together to make something happen, and did it happen. Just two days after the blackout the bills have lost major supporters and are going back to committee.
 It felt like something momentous. A punctuation mark in the big timeline of the Internet. I decided to grab some screenshots and make a little scrapbook of the day.
 
 ## My Sites

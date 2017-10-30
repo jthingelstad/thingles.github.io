@@ -15,7 +15,7 @@ I call the playlist Three Plays and the basic idea is that any new track added t
 
 The criteria are pretty straight forward:
 
-  * The first five rules are all about restricting the content to just music. The "stream" rule makes sure that no Internet radio stations I've manually added in iTunes show up. I'm using my [No Playlist Playlist]{% link _posts/2009/2009-01-16-itunes-tip-using-a-no-playlist-playlist.md %} here to pull a bunch of content out. I'm also excluding Jazz and Classical because I listen to them differently than other genres.
+  * The first five rules are all about restricting the content to just music. The "stream" rule makes sure that no Internet radio stations I've manually added in iTunes show up. I'm using my [No Playlist Playlist]({{site.url}}{% link _posts/2009/2009-01-16-itunes-tip-using-a-no-playlist-playlist.md %}) here to pull a bunch of content out. I'm also excluding Jazz and Classical because I listen to them differently than other genres.
   * The 6th rule is the critical one, show me tracks played less than 3 times, and combine that with a limitation to 50 items selected by most recently added. Show me new stuff that I've listened to less than three times.
   * The rating rules help me kill a track if I just don't like it. Give it a 1-star or 2-star rating and it goes out of rotation right away.
   * The last rule is really slick to keep things fresh. Without it you would be listening to the same new stuff over and over until you listen three times. Not good. This spreads the listens out over time.

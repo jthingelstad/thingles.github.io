@@ -8,7 +8,7 @@ tags:
 - Weight Loss
 ---
 
-I'm a couple of weeks down the path to [losing a bunch of weight]{% link _posts/2008/2008-10-01-too-fat-losing-weight.md %}. This will be a long road and to help along I have a few tools that I'm using to help me along. The last time when I really focused on losing weight was 2000 and I used a program called [Lifeform](http://www.lifeform.com/) extensively, several times every day, to track everything. Now in 2008 my iPhone is almost exclusively my tool of choice for this goal.
+I'm a couple of weeks down the path to [losing a bunch of weight]({{site.url}}{% link _posts/2008/2008-10-01-too-fat-losing-weight.md %}). This will be a long road and to help along I have a few tools that I'm using to help me along. The last time when I really focused on losing weight was 2000 and I used a program called [Lifeform](http://www.lifeform.com/) extensively, several times every day, to track everything. Now in 2008 my iPhone is almost exclusively my tool of choice for this goal.
 
 ### Background
 

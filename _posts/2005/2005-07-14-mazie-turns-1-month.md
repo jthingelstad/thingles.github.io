@@ -4,7 +4,7 @@ categories:
 - Family
 ---
 
-Today is Mazie's 1-month birthday! It's an odd stretch of time. It seems in some ways like forever ago that we were in the hospital and [brought her home]{% link _posts/2005/2005-06-15-happy-birth-day-mazie-kaye.md %}. I look at her now and she's already grown so much. We have gotten over our regular panics and now just panic every once in a while. We no longer have to track feedings and diapers to make sure all the inputs and outputs are working right.
+Today is Mazie's 1-month birthday! It's an odd stretch of time. It seems in some ways like forever ago that we were in the hospital and [brought her home]({{site.url}}{% link _posts/2005/2005-06-15-happy-birth-day-mazie-kaye.md %}). I look at her now and she's already grown so much. We have gotten over our regular panics and now just panic every once in a while. We no longer have to track feedings and diapers to make sure all the inputs and outputs are working right.
 
 Other milestones are starting to occur. Tonight, for the first time, I got to watch her all by myself for about an hour while Tammy went grocery shopping. We are teaching her to start taking a bottle, and it's not a very easy process. We are also trying to get her to accept a pacifier, but that also isn't going so well. She seems to only want the "real deal".
 

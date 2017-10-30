@@ -10,7 +10,7 @@ This Christmas I got the [Bogen-Manfrotto Pro Black Monopod with Swivel Tilt Hea
 
 I had thought that I would use this for photography, and it will be great for that. Particularly if you are going to put a really long telephoto lens on and take a lot of shots. The monopod will help with stabilizing and framing the shot, as well as just keeping your arms from getting tired of holding the camera rig. Great for a photo trip to the zoo or arboretum.
 
-However, the video side is the unexpected killer application. I popped [my Panasonic PV-GS400]{% link _posts/2004/2004-12-26-panasonic-pv-gs400.md %} on the monopod and started to take some footage. The difference in the shot was amazing and immediately noticeable. Even with the video cameras optical image stabilization you always get a bit of shake when shooting handheld. With the monopod I was able to just lock the frame.
+However, the video side is the unexpected killer application. I popped [my Panasonic PV-GS400]({{site.url}}{% link _posts/2004/2004-12-26-panasonic-pv-gs400.md %}) on the monopod and started to take some footage. The difference in the shot was amazing and immediately noticeable. Even with the video cameras optical image stabilization you always get a bit of shake when shooting handheld. With the monopod I was able to just lock the frame.
 
 A tripod just wont work in this mode. That is the brilliance of the monopod. You still have the freedom to tilt, swivel and twist the camera around under full control. Then, just lift it up and walk around. No hassle. Really, go buy one.
 

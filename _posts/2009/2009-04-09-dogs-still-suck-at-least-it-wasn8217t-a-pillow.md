@@ -13,4 +13,4 @@ tags:
 
 
 
-At least it wasn't [a pillow]{% link _posts/2008/2008-12-14-dogs-suck.md %}.
+At least it wasn't [a pillow]({{site.url}}{% link _posts/2008/2008-12-14-dogs-suck.md %}).

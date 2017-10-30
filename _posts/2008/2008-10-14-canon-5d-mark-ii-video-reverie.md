@@ -13,4 +13,4 @@ It's best to just see what this camera can do. Full 1080p at 30 fps using all of
 
 Obviously Laforet has more talent in his little finger than I could hope to have, this is a great video. But look at the technical quality of it and the shots achieved with depth-of-field and a simple fisheye lens. This really opens the door to some amazing options, and simply isn't possible even on "prosumer" HD video cameras.
 
-By the way, this is the video that I was [complaining about Canon not being able to host]{% link _posts/2008/2008-10-08-canon-exceeded-download-capacity.md %} before.
+By the way, this is the video that I was [complaining about Canon not being able to host]({{site.url}}{% link _posts/2008/2008-10-08-canon-exceeded-download-capacity.md %}) before.

@@ -6,7 +6,7 @@ tags:
 - Vegan
 ---
 
-I seem to have a [food]{% link _posts/2011/2011-10-11-making-soup-in-vitamix.md %}, [movie]{% link _posts/2011/2011-10-20-dolphin-tale.md %}, [food]{% link _posts/2011/2011-10-21-ratatouille-on-big-green-egg.md %}, [movie]{% link _posts/2011/2011-10-29-moneyball-the-movie.md %}, [food]{% link _posts/2011/2011-10-29-hot-sauce-glazed-tempeh.md %}, [movie]{% link _posts/2011/2011-10-30-margin-call.md %} stream going here so why not add one more food. :-)
+I seem to have a [food]({{site.url}}{% link _posts/2011/2011-10-11-making-soup-in-vitamix.md %}), [movie]({{site.url}}{% link _posts/2011/2011-10-20-dolphin-tale.md %}), [food]({{site.url}}{% link _posts/2011/2011-10-21-ratatouille-on-big-green-egg.md %}), [movie]({{site.url}}{% link _posts/2011/2011-10-29-moneyball-the-movie.md %}), [food]({{site.url}}{% link _posts/2011/2011-10-29-hot-sauce-glazed-tempeh.md %}), [movie]({{site.url}}{% link _posts/2011/2011-10-30-margin-call.md %}) stream going here so why not add one more food. :-)
 Last night we turned to the [Veganomicon](http://www.amazon.com/dp/156924264X/?tag={{ site.affiliate.amazon }}) for dinner inspiration again. You may be thinking that we only have one vegan cookbook, we don't. We have a handful and actually the Veganomicon hasn't been the dominant one. But it's been my favorite since it was so highly recommended by my friend John. I decided to make Chile Cornmeal Crusted Tofu with Southwestern Corn Pudding.
 
 [![]({{ site.url }}{% link /assets/posts/2011/Crusty-Tofu.jpg %})](http://thingelstad.com/s/chile-cornmeal-crusted-tofu/crusty-tofu/img)

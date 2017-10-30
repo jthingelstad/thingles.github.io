@@ -6,7 +6,7 @@ tags:
 - Apple
 ---
 
-I was doing some work on [my Apple TV's]{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %} today, swapping out hard drives, and at the same time we've had some painting going on so my 802.11n network has been offline. I got done upgrading the Apple TV and plugged it into ethernet to do an initial sync. Afterwards I put it upstairs where it normally sits on an 802.11n wireless network, but today it's not connected to anything. That was fine since I wanted to test playing local content.
+I was doing some work on [my Apple TV's]({{site.url}}{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %}) today, swapping out hard drives, and at the same time we've had some painting going on so my 802.11n network has been offline. I got done upgrading the Apple TV and plugged it into ethernet to do an initial sync. Afterwards I put it upstairs where it normally sits on an 802.11n wireless network, but today it's not connected to anything. That was fine since I wanted to test playing local content.
 Mazie wanted to watch a quick show so I fired that up and it worked great, no issues. I decided then to play some music and hit a wall. The Apple TV refused to play any music or audiobooks. At first I thought it was something with [FairPlay](http://en.wikipedia.org/wiki/FairPlay), even though that made no sense, but I couldn't even play MP3 files I had ripped off of my own CD's. Something was amiss.
 
 It hit me then that this Apple TV typically connects to the [AirTunes](http://en.wikipedia.org/wiki/AirTunes#AirTunes) destination for the Living Room, and that with no network connection it wouldn't be able to see that. **Bug!** I tested it out and verified that this is indeed a bug in Apple TV 2.3.

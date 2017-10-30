@@ -6,7 +6,7 @@ tags:
 - Twitter
 ---
 
-Two weeks ago [I was one of the guests on Midmorning on Minnesota Public Radio]{% link _posts/2009/2009-03-16-guest-on-minnesota-public-radios-midmorning-today.md %} for a show about [Twitter](http://twitter.com/). The result has been a lot of conversations lately about Twitter. I was intrigued to see how many people had started following me from the show and before you knew it I felt the absolute need to see Twitter follower graphs in my favorite graphing tool, [Cacti](http://www.cacti.net/). I did a quick search and was surprised to not find anyone doing this already.
+Two weeks ago [I was one of the guests on Midmorning on Minnesota Public Radio]({{site.url}}{% link _posts/2009/2009-03-16-guest-on-minnesota-public-radios-midmorning-today.md %}) for a show about [Twitter](http://twitter.com/). The result has been a lot of conversations lately about Twitter. I was intrigued to see how many people had started following me from the show and before you knew it I felt the absolute need to see Twitter follower graphs in my favorite graphing tool, [Cacti](http://www.cacti.net/). I did a quick search and was surprised to not find anyone doing this already.
 
 As with anything Cacti-related there was a lot of trial and error to getting this working, and I'm positive smarter people than I can do this with much more elegance, but I got it working good enough for me and the output is pretty slick.
 

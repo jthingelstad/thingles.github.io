@@ -5,7 +5,7 @@ tags: Techie
 
 ![]({{ site.url }}{% link /assets/posts/2015/Wearing-Apple-Watch.jpg %})
 
-I [ordered my Apple Watch]{% link _posts/2015/2015-04-10-apple-watch-ordered.md %} on launch day and opted for the stainless steel with link bracelet. It was back ordered 4-6 weeks and yesterday it arrived. Yes, I was pretty excited to play with it!
+I [ordered my Apple Watch]({{site.url}}{% link _posts/2015/2015-04-10-apple-watch-ordered.md %}) on launch day and opted for the stainless steel with link bracelet. It was back ordered 4-6 weeks and yesterday it arrived. Yes, I was pretty excited to play with it!
 
 The initial impression of it was great. I've worn a [Rolex GMT Master II](http://en.wikipedia.org/wiki/Rolex_GMT_Master_II) for about 15 years. I opted for this Apple Watch because it was the most similar in look, weight and feel to that. The heft and feel of the Apple Watch holds every bit as much respect as the substantially more expensive Rolex. As something that feels good on my wrist and looks great it passes.
 

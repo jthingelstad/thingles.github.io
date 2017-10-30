@@ -14,9 +14,9 @@ I was there a couple of weeks ago and I remember them moving some bikes around a
 
 ![One-on-One-Owners.jpg]({{ site.url }}{% link /assets/posts/2008/one-on-one-owners.jpg %})
 
-If you are in the area and like coffee, bikes or both stop by. I highly [recommend the cold press coffee]{% link _posts/2008/2008-08-14-reasons-to-love-cold-press-coffee.md %}, this is where I was turned on to the wonders of that stuff.
+If you are in the area and like coffee, bikes or both stop by. I highly [recommend the cold press coffee]({{site.url}}{% link _posts/2008/2008-08-14-reasons-to-love-cold-press-coffee.md %}), this is where I was turned on to the wonders of that stuff.
 
-By the way, the [Robin Williams](http://www.robinwilliams.com/) visit mentioned in that article was captured in person at the end of [my Farewell video]{% link _posts/2008/2008-05-10-farewell-video.md %} by my buddies [Jim](http://www.jimbernard.net/) and [Kent](http://www.thetangens.net/).
+By the way, the [Robin Williams](http://www.robinwilliams.com/) visit mentioned in that article was captured in person at the end of [my Farewell video]({{site.url}}{% link _posts/2008/2008-05-10-farewell-video.md %}) by my buddies [Jim](http://www.jimbernard.net/) and [Kent](http://www.thetangens.net/).
 
 _Thanks to Eric Marshall for tipping me off to this!_
   

@@ -6,7 +6,7 @@ tags:
 - Ruby
 ---
 
-Last weekend I made three trips to the [Sierra Bravo](http://www.sierra-bravo.com/) [Overnight Website Challenge](http://f1webchallenge.com/) to get some photos of the start, middle and end. I lugged a [decent bit of gear]{% link _posts/2009/2009-02-28-photographing-the-overnight-website-challenge.md %} and tried my first attempt at event photography.
+Last weekend I made three trips to the [Sierra Bravo](http://www.sierra-bravo.com/) [Overnight Website Challenge](http://f1webchallenge.com/) to get some photos of the start, middle and end. I lugged a [decent bit of gear]({{site.url}}{% link _posts/2009/2009-02-28-photographing-the-overnight-website-challenge.md %}) and tried my first attempt at event photography.
 
 
 
