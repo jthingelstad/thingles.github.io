@@ -12,8 +12,6 @@ Now, when I say sing along I mean sing along with _gusto_. Think of an Irish bar
 
 This post is the study guide for this assignment. I've compiled the lyrics for these songs and validated them against specific tracks from iTunes to make sure they are correct.
 
-<!-- more -->
-
 ### ![between the breaks.jpg]({{ site.url }}{% link /assets/posts/2007/between-the-breaks1.jpg %})The Mary Ellen Carter by Stan Rogers
 
 The Mary Ellen Carter ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=256370588&s=143441)) is a pretty amazing song. On the [Wikipedia page for the song](http://en.wikipedia.org/wiki/The_Mary_Ellen_Carter) it is credited with savings someone's life! The lyrics for it are substantial and have some areas where emphasis is needed (highlighted in yellow). This will take a while to get it right. I'd suggest focusing most attention on this song.
@@ -23,93 +21,58 @@ She went down last october in a pouring driving rain
 The skipper he'd been drinkin' and the mate he felt no pain
 Too close to three mile rock and she was dealt her mortal blow
 And the Mary Ellen Carter settled low
-> 
-> 
 
-> 
-> There was just us five aboard her when she finally was awash
+There was just us five aboard her when she finally was awash
 We'd worked like hell to save her, all heedless of the cost
 And the groan she gave as she went down it caused us to proclaim
 That the Mary Ellen Carter would rise again
-> 
-> 
 
-> 
-> Well the owners wrote her off, not a nickel would they spend
+Well the owners wrote her off, not a nickel would they spend
 "She gave twenty years of service boys then met her sorry end.
 But insurance paid the loss to us, so let her rest below"
 Then they laughed at us and said we had to go
-> 
-> 
 
-> 
-> But we talked of her all winter, some days around the clock
+But we talked of her all winter, some days around the clock
 She's worth a quarter million a-floating at the dock
 And with every jar that hit the bar we swore we would remain
 And make the Mary Ellen Carter rise again
-> 
-> 
 
-> 
-> _CHORUS:_
+_CHORUS:_
 Rise again, rise again
 That her name not be lost to the knowledge of men
 Oh those who loved her best, and were with her 'til the end
 Will make the Mary Ellen Carter rise again
-> 
-> 
 
-> 
-> All spring now we've been with her on a barge lent by a friend
+All spring now we've been with her on a barge lent by a friend
 Three dives a day in a hard hat suit and twice I've had the bends
 Thank God it's only sixty feet and the currents here are slow
 Or I'd never have the strength to go below
-> 
-> 
 
-> 
-> But we patched her rents, stopped her vents, dogged hatch and portal down
+But we patched her rents, stopped her vents, dogged hatch and portal down
 Put cables to her fore and aft and girded her around
 Tomorrow noon we hit the air and then take up the strain
 And make the Mary Ellen Carter rise again
-> 
-> 
 
-> 
-> _CHORUS_
-> 
-> 
+_CHORUS_
 
-> 
-> For we couldn't leave her there you see to crumble into scale
+For we couldn't leave her there you see to crumble into scale
 She'd saved our lives so many times living through the gale
 And the laughing, drunken rats who left her to a sorry grave
 They won't be laughing in another day
-> 
-> 
 
-> 
-> And you to whom adversity has dealt the final blow
+And you to whom adversity has dealt the final blow
 With smiling bastards lying to you everywhere you go
 Turn to and put out all your strength of arm and heart and brain
 And like the Mary Ellen Carter rise again
-> 
-> 
 
-> 
-> _2ND CHORUS:_
+_2ND CHORUS:_
 Rise again, rise again
 Though your heart it be broken your life about to end
 No matter what you've lost be it a home, a love, a friend
 Like the Mary Ellen Carter rise again
-> 
-> 
 
-> 
-> _2ND CHORUS_
-
-> 
-> </blockquote>
+_2ND CHORUS_
+</blockquote>
 
 ### ![thyme.jpg]({{ site.url }}{% link /assets/posts/2007/thyme1.jpg %})Wild Mountain Thyme
 
@@ -120,58 +83,35 @@ Oh, the summer time is come,
 And the trees are sweetly blooming,
 And the wild mountain thyme
 Grows around the blooming heather.
-> 
-> 
 
-> 
-> _CHORUS:_
+_CHORUS:_
 Will you go, lassie, go?
 And we'll all go together
 To pluck wild mountain thyme
 All around the blooming heather,
 Will you go, lassie, go?
-> 
-> 
 
-> 
-> I will build my love a bower
+I will build my love a bower
 By yon clear and crystal fountain,
 And on it I will pile,
 All the flowers from the mountain.
-> 
-> 
 
-> 
-> _CHORUS_
-> 
-> 
+_CHORUS_
 
-> 
-> If my true love, she were gone,
+If my true love, she were gone,
 I will surely find another
 Where the while wild mountain thyme
 Grows around the blooming heather.
-> 
-> 
 
-> 
-> _CHORUS_
-> 
-> 
+_CHORUS_
 
-> 
-> Oh, the summertime is coming
+Oh, the summertime is coming
 And thre trees are sweetly blooming
 And the wild mountain thyme
 Grows around the blooming heather.
-> 
-> 
 
-> 
-> _CHORUS_
-
-> 
-> </blockquote>
+_CHORUS_
+</blockquote>
 
 ### ![amazing.jpg]({{ site.url }}{% link /assets/posts/2007/amazing1.jpg %})Amazing Grace
 
@@ -182,30 +122,19 @@ Amazing grace! How sweet the sound,
 That sav’d a wretch like me!
 I once was lost, but now am found,
 Was blind, but now I see.
-> 
-> 
 
-> 
-> ’Twas grace that taught my heart to fear,
+’Twas grace that taught my heart to fear,
 And grace my fears reliev’d;
 How precious did that grace appear,
 The hour I first believ’d!
-> 
-> 
 
-> 
-> When we’ve been there ten thousand years,
+When we’ve been there ten thousand years,
 Bright shining as the sun,
 We've no less days to sing God’s praise
 Than when we’ve first begun.
-> 
-> 
 
-> 
-> Amazing grace! How sweet the sound,
+Amazing grace! How sweet the sound,
 That sav’d a wretch like me!
 I once was lost, but now am found,
 Was blind, but now I see.
-
-> 
-> </blockquote>
+</blockquote>

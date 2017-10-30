@@ -6,16 +6,11 @@ categories:
 
 I really enjoyed this article and photo for [The 40-Year-Old Photo That Gives Us A Reason To Smile](http://www.npr.org/blogs/codeswitch/2013/07/17/203016331/the-40-year-old-photo-that-gives-us-a-reason-to-smile). Great story behind the photo, and it's a wonderful photo itself of these five kids just smiling and being kids.
 
-
-<blockquote>The slice of life he caught that day was a picture of five young friends in a rain-washed alley in downtown Mount Clemens. And what distinguishes it are its subjects: three black children, two white ones, giggling in each others' arms.
-> 
-> </blockquote>
+> The slice of life he caught that day was a picture of five young friends in a rain-washed alley in downtown Mount Clemens. And what distinguishes it are its subjects: three black children, two white ones, giggling in each others' arms.
 
 Great story, great image. Photography does this, it stops time. It allows us to reflect and see things from a different perspective. Then, towards the end of the article is this:
 
-<blockquote>Between Facebook and the newspaper, he has solid leads on where the children are today.
-> 
-> </blockquote>
+> Between Facebook and the newspaper, he has solid leads on where the children are today.
 
 Leave it to us to screw up something that's been great for 40 years. How about we don't find these children today. How about we just leave that moment 40 years ago as it was, and reflect on it for what it is then and now. How about we not do the followup 5 articles on each one of these kids and how their life has turned out. It isn't relevant nor does it add any value to the image.
 

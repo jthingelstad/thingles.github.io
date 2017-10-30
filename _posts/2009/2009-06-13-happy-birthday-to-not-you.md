@@ -6,7 +6,5 @@ tags:
 - Mazie
 ---
 
-<blockquote>Happy birthday to not you.
-— Mazie
-> 
-> </blockquote>
+> Happy birthday to not you.
+> — Mazie

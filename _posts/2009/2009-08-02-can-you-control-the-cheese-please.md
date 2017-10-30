@@ -4,6 +4,4 @@ categories:
 - Dear Diary
 ---
 
-<blockquote>Can you control the cheese please!
-> 
-> </blockquote>
+> Can you control the cheese please!

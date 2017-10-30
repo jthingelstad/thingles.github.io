@@ -6,7 +6,5 @@ tags:
 - Malibar
 ---
 
-<blockquote>Flaming; Bricker-sized
-— Malibar
-> 
-> </blockquote>
+> Flaming; Bricker-sized
+> — Malibar

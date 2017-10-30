@@ -9,21 +9,13 @@ I did a quick search after a failed attempt at stopping this with [ISAPI URL rew
 
 While typing this I got my first spam alert, check it out
 
-<blockquote>Spam has been detected!!!
-> 
-> 
-
+> Spam has been detected!!! 
 > 
 > Title: black jack
-URL: BLAHBLAH
-IP Address: 218.244.225.180
-Excerpt:
+> URL: BLAHBLAH
+> IP Address: 218.244.225.180
+> Excerpt:
 > 
-> 
-
-> 
-> Take your time to visit some helpful info in the field of <A href="URLREMOVED black</A> <A href="URL REMOVED <A href="URL REMOVED vegas casinos</A>
-> 
-> </blockquote>
+> Take your time to visit some helpful info in the field of &lt;A href="URLREMOVED black&lt;/A&gt; &lt;A href="URL REMOVED &lt;A href="URL REMOVED vegas casinos&lt;/A&gt;
 
 Looks like the detection part is working! Provided I don't have anything break I'm going to be a much happier blogger.

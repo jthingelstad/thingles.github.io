@@ -4,7 +4,5 @@ categories:
 - Photography
 ---
 
-<blockquote>The scene just wouldn't bend to visualization.
-— [Ansel Adams](http://www.anseladams.com/)
-> 
-> </blockquote>
+> The scene just wouldn't bend to visualization.
+> — [Ansel Adams](http://www.anseladams.com/)

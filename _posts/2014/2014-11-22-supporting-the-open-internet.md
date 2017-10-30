@@ -9,9 +9,7 @@ tags:
 - Wikipedia
 ---
 
-<blockquote>"It's only an illusion that the Internet appears to be open…" — [Dave Winer](http://scripting.com/)
-> 
-> </blockquote>
+> "It's only an illusion that the Internet appears to be open…" — [Dave Winer](http://scripting.com/)
 
 As we approach the end-of-the-year many of us start thinking about charitable donations. There are many, many great causes out there that deserve our support. I think it is _critical_ that we consider supporting the digital future that we want as part of our giving. There is nothing fundamental about the Internet that insures free and open speech will occur. In fact, the Internet if left to the wrong interests can be the most monitored, tracked and near totalitarian environment we have ever seen. If you are curious to read more on this, I highly recommend [The Master Switch by Tim Wu](http://rwbookclub.com/wiki/The_Master_Switch:_The_Rise_and_Fall_of_Information_Empires). Great book.
 

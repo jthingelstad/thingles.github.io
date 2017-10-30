@@ -4,6 +4,4 @@ categories:
 - Dear Diary
 ---
 
-<blockquote>Shut up and go play the bass.
-> 
-> </blockquote>
+> Shut up and go play the bass.

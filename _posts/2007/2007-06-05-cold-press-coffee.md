@@ -13,18 +13,16 @@ It's summer now, or at least summer enough, and I've now switched to iced drinks
 
 ![iced_coffee_beans.jpg]({{ site.url }}{% link /assets/posts/2007/iced_coffee_beans1.jpg %})
 
-<!-- more -->I like my iced espresso, but it's not very much liquid and just disappears too fast for me. So, I presented my problem to our favorite barista.
+I like my iced espresso, but it's not very much liquid and just disappears too fast for me. So, I presented my problem to our favorite barista.
 
-<blockquote>_me:_ So, I want an iced drink -- but there just isn't much liquid in iced espresso. What do I do?
-_barista: _Well, you could add water to the espresso.
-_me:_ That sounds horrible.
-_barista: _Or how about iced coffee?
-_me: _Brew sucks.
-_barista:_ Hmm... how about a cold press?
-_me: _Huh? What in the world is a cold press?
-_barista:_ It's great. We take a pound of beans and cold brew it with 80 ounces of water for 12 hours...
-> 
-> </blockquote>
+> _me:_ So, I want an iced drink -- but there just isn't much liquid in iced espresso. What do I do?
+> _barista: _Well, you could add water to the espresso.
+> _me:_ That sounds horrible.
+> _barista: _Or how about iced coffee?
+> _me: _Brew sucks.
+> _barista:_ Hmm... how about a cold press?
+> _me: _Huh? What in the world is a cold press?
+> _barista:_ It's great. We take a pound of beans and cold brew it with 80 ounces of water for 12 hours...
 
 The conversation about [cold press](http://answers.yahoo.com/question/index?qid=20070522081621AAl3pyq) continued for quite a while. I got one, and it was perfect! The cold press is never heated, and slow brewed for 12 hours and then pressed through a cloth filter. It's incredibly smooth and wonderful. I've got a new favorite drink!
 

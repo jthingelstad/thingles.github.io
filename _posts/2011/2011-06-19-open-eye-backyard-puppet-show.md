@@ -11,9 +11,7 @@ Before the puppet show starts the puppeteers give a little introduction to the t
 
 This years show was The Amazing Cow Boat
 
-<blockquote>Taking a bath will never be the same for audiences after seeing the all-new The Amazing Cow Boat! Told through a giant pop-up book with puppets, songs, and surprises, the show is the story of Charlie who, while taking a bath, sails away in his imagination in search of treasure. Traveling in his boat that amazingly is also a cow, he encounters pirates, mermaids, a whale, and an orangutan.
-> 
-> </blockquote>
+> Taking a bath will never be the same for audiences after seeing the all-new The Amazing Cow Boat! Told through a giant pop-up book with puppets, songs, and surprises, the show is the story of Charlie who, while taking a bath, sails away in his imagination in search of treasure. Traveling in his boat that amazingly is also a cow, he encounters pirates, mermaids, a whale, and an orangutan.
 
 [![]({{ site.url }}{% link /assets/posts/2011/Garricks-Backyard-Puppet-Show.jpg %})](http://thingelstad.com/s/open-eye-backyard-puppet-show/garricks-backyard-puppet-show/img)
 

@@ -4,7 +4,5 @@ categories:
 - Movies
 ---
 
-<blockquote>Please, no calls or texts during the movie.
-— AMC Theatres
-> 
-> </blockquote>
+> Please, no calls or texts during the movie.
+> — AMC Theatres

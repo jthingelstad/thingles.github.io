@@ -6,7 +6,5 @@ tags:
 - Malibar
 ---
 
-<blockquote>I like Manbirdpig Flu
-— [Malibar](http://gomalibar.com)
-> 
-> </blockquote>
+> I like Manbirdpig Flu
+> — [Malibar](http://gomalibar.com)

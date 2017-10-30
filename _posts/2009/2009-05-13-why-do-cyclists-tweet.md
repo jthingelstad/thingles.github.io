@@ -17,23 +17,17 @@ Anyone who even casually watches cycling knows that doping is a huge problem. I'
 
 Lance Armstrong does something very interesting in his Twitter stream. Most times when he is randomly tested, he sends a message about it.
 
-<blockquote>[lancearmstrong](http://twitter.com/lancearmstrong): Sorry, I meant #27. I'm losing count. And I'm tired. ([link](http://twitter.com/lancearmstrong/status/1786602784))
+<blockquote>
+[lancearmstrong](http://twitter.com/lancearmstrong): Sorry, I meant #27. I'm losing count. And I'm tired. ([link](http://twitter.com/lancearmstrong/status/1786602784))
 [lancearmstrong](http://twitter.com/lancearmstrong): Surpise doping control. #26 for those counting. ([link](http://twitter.com/lancearmstrong/statuses/1786513692))
 [lancearmstrong](http://twitter.com/lancearmstrong): Good morning from Jesolo (outside of Venice). UCI blood control this am prior to the start of the Giro. ([link](http://twitter.com/lancearmstrong/statuses/1725061965))
 [lancearmstrong](http://twitter.com/lancearmstrong): UCI anti-doping control. #25. Been awhile. Thought they forgot about me. ([link](http://twitter.com/lancearmstrong/statuses/1658299328))
-> 
-> </blockquote>
+</blockquote>
 
 The themes here are pretty simple and powerful.
 
-
-
   * Riders are tested very fequently.
-
-
   * Riders do not know when they will be tested.
-
-
   * The testing is inconvenient and a challenge for the athlete to accommodate.
 
 In the past riders have sent messages about the negative effects of the anti-doping controls on their performance, most notably by stopping in the middle of a race, or waiting several minutes to start at the beginning. Sleep is critical for endurance athletes, and having that disturbed with hours of testing in the middle of a Grand Tour is understandably frustrating.

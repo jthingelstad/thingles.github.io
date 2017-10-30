@@ -9,9 +9,7 @@ tags:
 I was catching up on my [Daring Fireball](http://daringfireball.net/) feed today and saw that [John Gruber](http://en.wikipedia.org/wiki/John_Gruber) had put together a longer post on [Microsoft's earnings shortfall](http://daringfireball.net/2009/07/microsofts_long_slow_decline). It's a worthwhile read, and I think that Gruber is correct in suggesting that Microsoft has begun a very difficult time and is going to be there for a while.
 
 
-<blockquote>Today that is simply no longer the case. Microsoft has lost all but a sliver of this entire market. People who love computers overwhelmingly prefer to use a Mac today. **Microsoft’s core problem is that they have lost the hearts of computer enthusiasts.** _(Emphasis mine)_ Regular people don’t think about their choice of computer platform in detail and with passion like nerds do because, duh, they are not nerds. But nerds are leading indicators.
-> 
-> </blockquote>
+> Today that is simply no longer the case. Microsoft has lost all but a sliver of this entire market. People who love computers overwhelmingly prefer to use a Mac today. **Microsoft’s core problem is that they have lost the hearts of computer enthusiasts.** _(Emphasis mine)_ Regular people don’t think about their choice of computer platform in detail and with passion like nerds do because, duh, they are not nerds. But nerds are leading indicators.
 
 Now, let me be particularly cautious here. This is combustible territory I realize. A couple of months ago I was asked by a couple of people for my opinion of what Microsoft should do to change direction. After considering it for a while I came up with a simple two step plan that would make me think that something big had happened at Microsoft.
 

@@ -170,6 +170,7 @@ Figure 7
 
 ![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image016.gif %})
 Figure 8
+
 The results are not terribly surprising. The majority of photos are taken on the weekends and there are very few photos taken while sleeping. It is a little surprising that the afternoon is higher than the early evening hours.
 
 ### Terabytes of Disney World
@@ -178,44 +179,24 @@ So clearly this is a growing mountain of data, and this is just one families arc
 
 I contacted Disney to find out how many visitors on average attend Disney World each day but they do not disclose that number.
 
-<blockquote>Date: Fri, 21 Oct 2005 09:16:30 -0700
-To:
-Subject: Re: Request for General Information about Walt Disney World Resort
-From: Walt Disney World Guest Mail
-Reply-To: Walt Disney World Guest Mail
-> 
-> 
-
+> Date: Fri, 21 Oct 2005 09:16:30 -0700 
+> To:
+> Subject: Re: Request for General Information about Walt Disney World Resort
+> From: Walt Disney World Guest Mail
+> Reply-To: Walt Disney World Guest Mail
 > 
 > Dear Jamie,
 > 
-> 
-
-> 
 > Thank you for contacting the Walt Disney World Resort.
-> 
-> 
-
 > 
 > We appreciate your interest in obtaining information about guest attendance. Regrettably, this type of specific information is proprietary and cannot be released. We are sorry that we cannot be of more assistance, and we appreciate your understanding.
 > 
-> 
-
-> 
 > If you have questions or need further assistance, feel free to contact us.
-> 
-> 
-
 > 
 > Sincerely,
 > 
-> 
-
-> 
 > Ronda
-WDW Online Communications
-> 
-> </blockquote>
+> WDW Online Communications
 
 Denied the true information, I did find some estimates of attendance on the web[[4]](http://thingelstad.com/s/digital-photography-storage-explosion/img). Using this estimate I concluded that Disney World averaged 38,462 visitors a day. According to at least one survey 54% of Americans are using digital cameras[[5]](http://thingelstad.com/s/digital-photography-storage-explosion/img). It seems straightforward to me that the average visitor to Disney World is also more likely to have a digital camera, but we'll use the average anyway.
 
@@ -272,7 +253,6 @@ Once solving the backup problem with cheap, reliable service provider model we n
 There are independent software developers working on the software problem, but it is not moving fast enough. The managed services market has held it's prices unreasonably high even while storage costs continue to decline. The is an opportunity for services like Flickr to provide options to help these problems, but informed customers will be hesitant to turn over such important data to a service like that.
 
 In the meantime, the most cost-effective solution is to leverage a "buddy system" with others that have broadband connections. Swap hard drives and use software to backup encrypted copies of your digital photo collection to their network. As is too often the case though, this solution is only viable for the technically sophisticated user with their own infrastructure.
-
 
 END
 

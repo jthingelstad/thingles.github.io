@@ -7,11 +7,10 @@ tags:
 ---
 
 I was browsing through [Last.fm](http://www.last.fm/)'s "[Best of 2008](http://www.last.fm/bestof/2008)" coverage. There have been a number of blog posts and articles about the best new music of 2008, and I've found some great stuff reading these. Last.fm's "Best of" is interesting since it is based on analysis and ranking of all the '[scrobbled](http://www.netlingo.com/lookup.cfm?term=scrobble)' songs that they track for users. I wasn't that surprised to find that [Coldplay](http://www.coldplay.com/)'s [Viva La Vida](http://www.last.fm/music/Coldplay/_/Viva+La+Vida) was the [#1 album of 2008](http://www.last.fm/bestof/2008/album/1). It was played by 1,907,044 users a total of 12,584,691 times. On top of all that, it didn't come out until late in the year!
+
 I was surprised by this comment in the excerpt though.
 
-<blockquote>It's probably not a stretch to say that Coldplay are the biggest band in the world today.
-> 
-> </blockquote>
+> It's probably not a stretch to say that Coldplay are the biggest band in the world today.
 
 Now, I've always understood that the title of "biggest band in the world" was solely, and strongly, held by [U2](http://www.u2.com/). So, I figured I'd check out some numbers.
 

@@ -6,7 +6,5 @@ tags:
 - Mazie
 ---
 
-<blockquote>I wanna watch a TV show!
-— Mazie
-> 
-> </blockquote>
+> I wanna watch a TV show!
+> — Mazie

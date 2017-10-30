@@ -13,9 +13,7 @@ tags:
 
 I'm not going to write this when others have done it so well. [Excerpt from ReadWriteWeb](http://www.readwriteweb.com/archives/microsoft_openid_five_key_takeaways.php):
 
-<blockquote>OpenID is an open, decentralized, free framework for user-centric digital identity. It is aimed at solving the problem of Web single sign-on. How does the problem of web single sign-on affect you? Well, if you struggle with keeping track of different usernames and passwords at different websites where you have an account, OpenID can help you. With OpenID you will be assigned a standard username (typically a URL or an i-name, similar to an email address) that you can use on all sites that support OpenID.
-> 
-> </blockquote>
+> OpenID is an open, decentralized, free framework for user-centric digital identity. It is aimed at solving the problem of Web single sign-on. How does the problem of web single sign-on affect you? Well, if you struggle with keeping track of different usernames and passwords at different websites where you have an account, OpenID can help you. With OpenID you will be assigned a standard username (typically a URL or an i-name, similar to an email address) that you can use on all sites that support OpenID.
 
 There is a wealth of information at the [OpenID](http://openid.net/) "[How it works](http://openid.net/about.bml)" page as well. If you insist on not wanting to read anything (and you likely wouldn't have made it this far in this post if that were the case), [Simon Willison](http://simonwillison.net/2006/Dec/22/screencast/) did a nice [screencast on using OpenID](http://simonwillison.net/2006/openid-screencast/) that is worth watching.
 

@@ -13,21 +13,10 @@ Earlier this week [Split Rock Partners](http://www.splitrock.com/) did a press r
 
 <blockquote>
 The EIR role is often designed to fill one of three primary functions:
-> 
-> 
 
-> 
-> 
-
->   * To launch a new entrepreneurial venture, often with the backing of the parent firm or organization;
-> 
-
->   * To assist in the evaluation of potential investments where the entrepreneur has a particular expertise; or
-> 
-
->   * To provide functional expertise to assist with an existing investment.
-> 
-
+    * To launch a new entrepreneurial venture, often with the backing of the parent firm or organization;
+    * To assist in the evaluation of potential investments where the entrepreneur has a particular expertise; or
+    * To provide functional expertise to assist with an existing investment.
 </blockquote>
 
 That is a great recap of what I will be doing with Split Rock. The partners have given me a place to office and the opportunity to get and give early feedback around potential business ventures.
@@ -37,7 +26,6 @@ A couple of other items about EIR roles. There are other "in residence" programs
 I am excited to work with the partners at Split Rock and will make the most of such a unique opportunity!
 
 <!-- more -->
-
 
 ### Jamie Thingelstad joins Split Rock Partners as an Entrepreneur in Residence
 

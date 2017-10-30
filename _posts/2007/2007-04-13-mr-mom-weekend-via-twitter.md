@@ -12,8 +12,8 @@ tags:
 
 I've been a bit enamored with [Twitter](http://twitter.com/) for a bit now. Mr. Mom Weekend was a great time to do some "tweeting". For posterity sake, here is the Twitter stream from the Mr. Mom Weekend.
 
-
-<blockquote>Riding on school bus with Mazie 09:44 AM March 29, 2007 from txt
+<blockquote>
+Riding on school bus with Mazie 09:44 AM March 29, 2007 from txt
 5 hours as solo parent and all is ok. 12:47 PM March 29, 2007 from txt
 Just put Mazie to bed -- whew! 07:34 PM March 29, 2007 from web
 Gave Izzy a real, honest to goodness smoked bone. She's completely obsessed. 07:37 PM March 29, 2007 from web
@@ -33,7 +33,6 @@ Struggling with how to manage my digital media assets best. 11:36 PM March 31, 2
 Everyone ate. Kitchen cleaned up. Not so bad. 08:00 AM April 01, 2007 from twitterrific
 Mazies been in crib for almost an hour and not asleep yet. Not sure exactly what to do. 07:45 PM April 01, 2007 from web
 Decide to go see if she has a dirty diaper. Wish me luck...  07:47 PM April 01, 2007  from web
-> 
-> </blockquote>
+</blockquote>
 
 Per the last line there, her diaper was fine. She just took a really long time to go to sleep.

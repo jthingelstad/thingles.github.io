@@ -10,29 +10,15 @@ I got this email yesterday for a blog that I help my brother-in-law out with. I 
 
 <blockquote>
 Dear site owner or webmaster of http://domain-name-removed/,
-> 
-> 
 
-> 
-> Your site appears to be running an older version of WordPress. Google recommends that you update to the latest release. Older or unpatched software may be vulnerable to hacking or malware that can hurt your users. To download the latest release, visit the [WordPress download page](http://wordpress.org/download/).
-> 
-> 
+Your site appears to be running an older version of WordPress. Google recommends that you update to the latest release. Older or unpatched software may be vulnerable to hacking or malware that can hurt your users. To download the latest release, visit the [WordPress download page](http://wordpress.org/download/).
 
-> 
-> If you have any additional questions about why you are receiving this message, Google has provided more background information in a [blog post](http://googlewebmastercentral.blogspot.com/2009/11/new-software-version-notifications-for.html) about this subject.
-> 
-> 
+If you have any additional questions about why you are receiving this message, Google has provided more background information in a [blog post](http://googlewebmastercentral.blogspot.com/2009/11/new-software-version-notifications-for.html) about this subject.
 
-> 
-> Best wishes,
-> 
-> 
+Best wishes,
 
-> 
-> Google Search Quality Team
-
-> 
-> </blockquote>
+Google Search Quality Team
+</blockquote>
 
 I didn't know that Google would send a notice like this. Seems like a good thing to do to keep the web a better place.
 

@@ -10,7 +10,8 @@ tags:
 This was the first [Winnipeg Folk Festival](http://www.winnipegfolkfestival.ca/) since I started using Twitter. I sort of "micro-blogged" using [Twitter](http://twitter.com/) while I was there. Here it is. I realized afterwards that SMS messages internationally aren't included in my plan. Oops!
 
 
-<blockquote>At the Festival' 10:10 PM July 05, 2007 from txt
+<blockquote>
+At the Festival' 10:10 PM July 05, 2007 from txt
 Listening to Indigo Girls 10:18 PM July 05, 2007 from txt
 _ Gearing up for the first full day at the festival_ 09:24 AM July 06, 2007 from txt
 Eating at the Winnipeg Original Pancake House 10:18 AM July 06, 2007 from txt
@@ -72,7 +73,6 @@ The Mary Ellen Carter 10:20 PM July 08, 2007 from txt
 Wild Mountain Thyme 10:25 PM July 08, 2007 from txt
 Amazing Grace 10:30 PM July 08, 2007 from txt
 The 2007 Winnipeg Folk Festival ends. Be back next year! 10:37 PM July 08, 2007  from txt
-> 
-> </blockquote>
+</blockquote>
 
 I think the shoes tweet is my favorite from the whole weekend. :-) Note that my cold turned out to be a sinus infection, ugh.

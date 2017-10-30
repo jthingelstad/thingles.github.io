@@ -10,7 +10,8 @@ tags:
 I didn't get an "I was there on June 29, 2007" t-shirt or anything, but the iPhone wait via Twitter is entertaining.
 
 
-<blockquote>_ #53 in line for iPhone!_ 01:59 PM June 29, 2007 from im
+<blockquote>
+_ #53 in line for iPhone!_ 01:59 PM June 29, 2007 from im
 They have closed the Apple Store and covered the windows in black fabric. 02:13 PM June 29, 2007 from web
 Watching [Christopher](http://cmbdg.com/blog/content/) getting lots of attention for being [first in line](http://cmbdg.com/blog/content/archive/iphone-imust-have/). 02:18 PM June 29, 2007 from twitterrific
 Christopher getting his taken picture with some random person at the mall. 02:20 PM June 29, 2007 from twitterrific
@@ -32,5 +33,4 @@ Line is moving! 06:00 PM June 29, 2007 from im
 Line is stopped. 06:05 PM June 29, 2007 from im
 Inside the store. 06:15 PM June 29, 2007 from im
 _ Success! Two iPhones in hand! _06:26 PM June 29, 2007 from im
-> 
-> </blockquote>
+</blockquote>

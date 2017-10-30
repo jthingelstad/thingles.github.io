@@ -6,9 +6,7 @@ categories:
 
 Nearly everything in this [Minimum Vacation Policy](http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html) post from Travis-CI is spot on. I've never been a supporter or believer of the _unlimited_ vacation policy. Having managed teams for a long time I know that the majority of people faced with uncertain guidance like "unlimited" just will never take it. The dialogue inside someones head is something like:
 
-<blockquote>Is it really unlimited? Of course not, there is some limit. What is that limit? I don't know. Well, I better not take **any** time off.
-> 
-> </blockquote>
+> Is it really unlimited? Of course not, there is some limit. What is that limit? I don't know. Well, I better not take **any** time off.
 
 Even worse I think this type of policy is a punt on the part of the leadership team to not actually specify what the operating practices for the organization are. Oftentimes this is considered "cool" but I think it’s really just shortsighted.
 
