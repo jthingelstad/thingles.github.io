@@ -4,7 +4,7 @@ categories:
 - Techie
 ---
 
-A couple of months ago, not that long after I decided I needed [gigabit networking at home](/thingelstad/got-gig), I decided that I also needed a terabyte of storage at home. My reasons for this were:
+A couple of months ago, not that long after I decided I needed [gigabit networking at home]{% link _posts/2004/2004-02-13-got-gig.md %}, I decided that I also needed a terabyte of storage at home. My reasons for this were:
 
   * I have my entire music collection, some 600+ CDs, stored as MP3 files on my network and use it all the time. (And I'm not talking 128kb MP3 here, I'm talking lame -alt-preset insane.
 

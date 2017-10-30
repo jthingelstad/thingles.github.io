@@ -9,7 +9,7 @@ tags:
 - Tammy
 ---
 
-It was nine months ago that we [added Izzy](/thingelstad/welcome-izzy) to our family. Today we added another dog to the family. His name is _Chase_!
+It was nine months ago that we [added Izzy]{% link _posts/2007/2007-03-21-welcome-izzy.md %} to our family. Today we added another dog to the family. His name is _Chase_!
 
 ![chase.jpg]({{ site.url }}{% link /assets/posts/2007/chase1.jpg %})
 

@@ -11,4 +11,4 @@ tags:
 
 
 
-[Minnehaha Creek](http://www.minnehahacreek.org/) caught my attention [this morning](/thingelstad/creek-on-ice), and it did again this evening on the way home.
+[Minnehaha Creek](http://www.minnehahacreek.org/) caught my attention [this morning]{% link _posts/2011/2011-02-17-creek-on-ice.md %}, and it did again this evening on the way home.

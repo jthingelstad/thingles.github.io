@@ -4,7 +4,7 @@ categories:
 - Music
 ---
 
-We returned to [The Dakota](http://dakotacooks.com) last night after [seeing Robyn Hitchcock](/thingelstad/robyn-hitchcock-at-the-dakota) the night before for [The New Standards](http://www.thenewstandards.com).
+We returned to [The Dakota](http://dakotacooks.com) last night after [seeing Robyn Hitchcock]{% link _posts/2012/2012-10-14-robyn-hitchcock-at-the-dakota.md %} the night before for [The New Standards](http://www.thenewstandards.com).
 
 ![]({{ site.url }}{% link /assets/posts/2012/20121014-122028.jpg %})
 

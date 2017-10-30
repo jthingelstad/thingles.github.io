@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-I seem to be on a string of complaints about screens being placed everywhere ([annoying ads](/thingelstad/cant-i-buy-overpriced-gas-in-quiet) and [zip codes](/thingelstad/zip-code-insult-for-gas)). I admit that being the gadget geek I am, I'm surprised by how offensive I find these intrusions to be. This one I'm a bit divided on though. It seems that the majority of New York taxis have gotten these screens installed that give you the weather, news, location and map information and other stuff.
+I seem to be on a string of complaints about screens being placed everywhere ([annoying ads]{% link _posts/2007/2007-11-21-cant-i-buy-overpriced-gas-in-quiet.md %} and [zip codes]{% link _posts/2008/2008-03-25-zip-code-insult-for-gas.md %}. I admit that being the gadget geek I am, I'm surprised by how offensive I find these intrusions to be. This one I'm a bit divided on though. It seems that the majority of New York taxis have gotten these screens installed that give you the weather, news, location and map information and other stuff.
 
 [![NY Taxi](http://farm3.static.flickr.com/2408/2341902786_5ec8e84dc9_m.jpg)](http://www.flickr.com/photos/46408384@N00/2341902786)
 

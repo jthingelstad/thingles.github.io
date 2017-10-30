@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-I dropped [our Honda Odyssey](/thingelstad/honda-odyssey) off this morning for regular maintenance at [Richfield Honda](http://rbhonda.com/). I was pretty impressed to see this sign on the door.
+I dropped [our Honda Odyssey]{% link _posts/2005/2005-09-24-honda-odyssey.md %} off this morning for regular maintenance at [Richfield Honda](http://rbhonda.com/). I was pretty impressed to see this sign on the door.
 
 [![]({{ site.url }}{% link /assets/posts/2008/p-640-480-a833a800-6eb4-4b1e-adbc-bae939bcda4e.jpeg %})]({{ site.url }}{% link /assets/posts/2008/p-640-480-a833a800-6eb4-4b1e-adbc-bae939bcda4e.jpeg %})
 

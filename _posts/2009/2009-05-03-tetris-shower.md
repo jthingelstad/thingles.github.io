@@ -11,7 +11,7 @@ Making the pattern was both harder and easier than you would think. It was criti
 
 [![20090502-105404-9417](http://farm4.static.flickr.com/3392/3494558181_0de8af13e0_s.jpg)](http://www.flickr.com/photos/jthingelstad/3494558181/)The completed bathroom tiles are logically correct. If you look closely you can see that there are empty tiles in all the rows. The top rows are all empty since the game is in progress, and there is a single tile in the process of falling.
 
-The tiling was done by Terry Owens of [Como Lake Carpentry](http://www.comolakecarpentry.com/), who also did our [new garage shelves](/thingelstad/garage-shelves-awesome) and a bunch of other projects for us. He's awesome. We really dig the look of it, and it's fun to have a colorful tile pattern that appears fairly random but is really a game.
+The tiling was done by Terry Owens of [Como Lake Carpentry](http://www.comolakecarpentry.com/), who also did our [new garage shelves]{% link _posts/2008/2008-11-18-garage-shelves-awesome.md %} and a bunch of other projects for us. He's awesome. We really dig the look of it, and it's fun to have a colorful tile pattern that appears fairly random but is really a game.
 
 More pictures:
 

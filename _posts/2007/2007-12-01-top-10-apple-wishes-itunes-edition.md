@@ -17,7 +17,7 @@ This may seem like an odd one, but I can't tell you how many times I've wanted t
 
 ### iTunes In My Car
 
-I [already wrote about this](/thingelstad/apple-please-make-this-apple-tv-iphone-icar), and I think it would be a killer product. C'mon Apple, you could get into a new market with car modders!
+I [already wrote about this]{% link _posts/2007/2007-11-21-apple-please-make-this-apple-tv-iphone-icar.md %}, and I think it would be a killer product. C'mon Apple, you could get into a new market with car modders!
 
 ### Play Internet Radio on Apple TV
 

@@ -4,7 +4,7 @@ categories:
 - Hobbies
 ---
 
-I'm [still having a blast on Guitar Hero III](/thingelstad/guitar-hero-iii-rocks-the-wii). I played for a while yesterday trying to clear some levels before the big Christmas Day extravaganza with my brother-in-laws where I expect much GH3 action. While playing I saw the notice for a 200 note streak pop up and freaked out. I knew I was hitting the song, but when it was all over...
+I'm [still having a blast on Guitar Hero III]{% link _posts/2007/2007-12-15-guitar-hero-iii-rocks-the-wii.md %}. I played for a while yesterday trying to clear some levels before the big Christmas Day extravaganza with my brother-in-laws where I expect much GH3 action. While playing I saw the notice for a 200 note streak pop up and freaked out. I knew I was hitting the song, but when it was all over...
 
 ![gh3-497.jpg]({{ site.url }}{% link /assets/posts/2007/gh3-4971.jpg %})
 

@@ -13,7 +13,7 @@ There is a secondary question that people have asked about extending something l
 
 ### Doping
 
-Anyone who even casually watches cycling knows that doping is a huge problem. I've written before about [doping in cycling](/thingelstad/doping-in-the-tour), and sadly the sport continues to be plagued with this. Cycling is an endurance sport that is won by fractions of percentages. The slightest advantage, no matter how small, can be the difference between winning and losing. Sadly, some cyclists turn to illegal measures to get that last 0.1% performance edge.
+Anyone who even casually watches cycling knows that doping is a huge problem. I've written before about [doping in cycling]{% link _posts/2007/2007-07-26-doping-in-the-tour.md %}, and sadly the sport continues to be plagued with this. Cycling is an endurance sport that is won by fractions of percentages. The slightest advantage, no matter how small, can be the difference between winning and losing. Sadly, some cyclists turn to illegal measures to get that last 0.1% performance edge.
 
 Lance Armstrong does something very interesting in his Twitter stream. Most times when he is randomly tested, he sends a message about it.
 

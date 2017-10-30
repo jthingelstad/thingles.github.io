@@ -6,7 +6,7 @@ tags:
 - Wii
 ---
 
-It's very possible that my friends and family think I need to have more fun. There must have been a vast conspiracy to hit me with a bunch of new games for my Wii this year. And how completely great! Here are the additions to my Wii gaming library from this Christmas. These games are all new, so I haven't played them extensively yet ([unlike Guitar Hero III](/thingelstad/beat-guitar-hero-iii-on-medium)).
+It's very possible that my friends and family think I need to have more fun. There must have been a vast conspiracy to hit me with a bunch of new games for my Wii this year. And how completely great! Here are the additions to my Wii gaming library from this Christmas. These games are all new, so I haven't played them extensively yet ([unlike Guitar Hero III]{% link _posts/2007/2007-12-29-beat-guitar-hero-iii-on-medium.md %}.
 
 ##### [Super Mario Galaxy![21+Fou+opKL._SL110_.jpg]({{ site.url }}{% link /assets/posts/2007/21fouopkl.-sl110-1.jpg %})](http://www.amazon.com/gp/product/B000FQ9QVI?ie=UTF8&tag={{ site.affiliate.amazon }}&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000FQ9QVI)![](http://www.assoc-amazon.com/e/ir?t=thingelstadco-20&l=as2&o=1&a=B000FQ9QVI)
 

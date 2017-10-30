@@ -4,7 +4,7 @@ categories:
 - Cycling
 ---
 
-A few months ago I [sent a suggestion to the mayor of Minnetonka](/thingelstad/make-minnetonka-bicycle-friendly) to request that they work with the League of American Bicyclists to get Minnetonka the designation of a Bicycle Friendly city. She had someone on her staff look into it but they ultimately decided it would be too difficult to pursue.
+A few months ago I [sent a suggestion to the mayor of Minnetonka]{% link _posts/2005/2005-03-20-make-minnetonka-bicycle-friendly.md %} to request that they work with the League of American Bicyclists to get Minnetonka the designation of a Bicycle Friendly city. She had someone on her staff look into it but they ultimately decided it would be too difficult to pursue.
 In the new flyer from the League I noticed that Chicago had just received this designation. So, I dropped a note to [Mayor Rybak](http://www.ci.minneapolis.mn.us/mayor/) of Minneapolis on this topic. Maybe Minneapolis would go for this. If you think this is a good idea, how about sending him a note yourself.
 
 <blockquote>
@@ -18,7 +18,7 @@ Mayor Rybak,
 > 
 
 > 
-> A few months ago I sent an [email to Mayor Anderson of Minnetonka](/thingelstad/make-minnetonka-bicycle-friendly) suggesting that she seek to have Minnetonka designated a [Bicycle Friendly Community](http://www.bicyclefriendlycommunity.org/) by the [Leage of American Bicyclists](http://www.bikeleague.org/). I am a member of the League of American Bicyclists as well as a member of the local Twin Cities Bicycling Club. Mayor Anderson's staff looked into the award but were unable to justify the investment.
+> A few months ago I sent an [email to Mayor Anderson of Minnetonka]{% link _posts/2005/2005-03-20-make-minnetonka-bicycle-friendly.md %} suggesting that she seek to have Minnetonka designated a [Bicycle Friendly Community](http://www.bicyclefriendlycommunity.org/) by the [Leage of American Bicyclists](http://www.bikeleague.org/). I am a member of the League of American Bicyclists as well as a member of the local Twin Cities Bicycling Club. Mayor Anderson's staff looked into the award but were unable to justify the investment.
 > 
 > 
 

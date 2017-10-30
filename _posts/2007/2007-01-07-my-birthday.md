@@ -16,7 +16,7 @@ It wasn't just the gifts, which were great. It wasn't just the plans and events,
 ![jamie-mom.jpg]({{ site.url }}{% link /assets/posts/2007/jamie-mom1.jpg %})
 _My mother and I in the park about 34 years ago._
 
-I've learned to appreciate birthdays more since meeting my wife. I've always celebrated them, but we certainly do more now. I continue to prove out my theory of [fractional life](/thingelstad/birthdays-and-setpoints). The years just go by faster and faster.
+I've learned to appreciate birthdays more since meeting my wife. I've always celebrated them, but we certainly do more now. I continue to prove out my theory of [fractional life]{% link _posts/2006/2006-01-02-birthdays-and-setpoints.md %}. The years just go by faster and faster.
 
 This years birthday was really special because of all the great things Tammy put together, but also because Mazie was a lot of fun. She knows what presents are now, and she had a great time ripping into **"daddy present!"** and playing with stuff. Amongst other things I got a model train that I hope she likes to watch now, and play with as she gets older.
 

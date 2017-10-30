@@ -5,7 +5,7 @@ categories:
 - Dear Diary
 ---
 
-Tammy, Mazie and I went on a bike ride today. Tammy is prone to comment about how great it is to just "ride your bike". What she means by this is to disregard the crazy gear of cycling -- special shorts, shoes, shirt, socks and everything else -- and just ride your bike. Street clothes. Normal shoes. You know, like "normal" people do. We were riding to [Yum](/thingelstad/yum-kitchen-and-bakery) for lunch, about 17 miles round-trip with a long lunch in the middle. So I went with normal shorts like a normal person.
+Tammy, Mazie and I went on a bike ride today. Tammy is prone to comment about how great it is to just "ride your bike". What she means by this is to disregard the crazy gear of cycling -- special shorts, shoes, shirt, socks and everything else -- and just ride your bike. Street clothes. Normal shoes. You know, like "normal" people do. We were riding to [Yum]{% link _posts/2006/2006-01-22-yum-kitchen-and-bakery.md %} for lunch, about 17 miles round-trip with a long lunch in the middle. So I went with normal shorts like a normal person.
 
 
 ![bikevscargoshorts.jpg]({{ site.url }}{% link /assets/posts/2007/bikevscargoshorts1.jpg %})

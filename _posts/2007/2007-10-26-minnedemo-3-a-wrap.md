@@ -19,4 +19,4 @@ There were approximately 300 people at Minnedemo and it was great to see so many
 
 I was surprised to hear an announcement of a Christmas Edition (December 6th! Mark your calendar!) of Minnedemo coming in just a couple of months. Yeah! See you all there!
 
-See [Minnedemo 2](/thingelstad/holiday-minnedemo).
+See [Minnedemo 2]{% link _posts/2006/2006-10-14-holiday-minnedemo.md %}.

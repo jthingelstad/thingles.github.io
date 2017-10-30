@@ -6,7 +6,7 @@ tags:
 - Mazie
 ---
 
-I haven't chatted much about the baby since the [initial announcement](/thingelstad/thingelstads-announce-pregnancy). It seems a little weird that you have this life changing thing going on but there is little in the way of noticeable differences right away. Tammy is just now starting to show so it doesn't seem _real_ yet.
+I haven't chatted much about the baby since the [initial announcement]{% link _posts/2004/2004-11-25-thingelstads-announce-pregnancy.md %}. It seems a little weird that you have this life changing thing going on but there is little in the way of noticeable differences right away. Tammy is just now starting to show so it doesn't seem _real_ yet.
 
 Tammy and I had our regular appointment with the [midwife](http://www.northmetromidwives.com/) yesterday. All is well in babyland! This was the first time I was able to hear the heartbeat and it was pounding away! The midwife said that the static occasionally was the baby moving. Little tyke was moving around quite a bit! Tammy and I are bypassing the majority of the screening tests. We decided that we do not want to deal with the high false positive rates.
 

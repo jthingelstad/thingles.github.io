@@ -8,7 +8,7 @@ tags:
 
 Tammy and I spent the afternoon at the [Uptown Art Fair](http://www.uptownminneapolis.com/art-fair/). This is by far our favorite art fair in the Minneapolis area. We have made a tradition of going to it every year and finding something for our anniversary gift since we were married just before the art fair. Our visit today was great. The sun was out and the temperatures were in the high 80's with not a chance of rain and a slight breeze.
 
-I hate to start with a negative or concern, but we were both struck that there seemed to be a marked increase in vendors and food this year. There is still plenty of art, but a big Avon tent, a Court TV spectacle and several other vendor areas seemed to give more focus to the fair part than the art part. I considered for a moment the [horrible turn for the worse that the Taste of Minnesota has taken in recent years](/thingelstad/the-not-so-good-taste-of-minnesota), and I truly hope the Uptown Art Fair doesn't follow in it's foot steps.
+I hate to start with a negative or concern, but we were both struck that there seemed to be a marked increase in vendors and food this year. There is still plenty of art, but a big Avon tent, a Court TV spectacle and several other vendor areas seemed to give more focus to the fair part than the art part. I considered for a moment the [horrible turn for the worse that the Taste of Minnesota has taken in recent years]{% link _posts/2004/2004-07-05-the-not-so-good-taste-of-minnesota.md %}, and I truly hope the Uptown Art Fair doesn't follow in it's foot steps.
 
 There were artists from around the country showing. Here are some notes on what drew our attention (in no particular order):
 

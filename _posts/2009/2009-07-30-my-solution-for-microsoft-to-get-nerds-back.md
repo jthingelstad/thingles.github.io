@@ -50,6 +50,6 @@ First, Apple bought [NeXT](http://en.wikipedia.org/wiki/NeXT) computer and adopt
 
 The second change was to abandon the Motorola [PowerPC](http://en.wikipedia.org/wiki/PowerPC) processor. Intel was clearly the way to go, but it seemed unlikely that they ever would.
 
-I [bought my first Mac again](/thingelstad/imac-g5) when Mac OS X 10.3 was out. It was still on the Motorola chip, but I took a flyer. Shortly thereafter they moved to Intel chip and I've not looked back.
+I [bought my first Mac again]{% link _posts/2004/2004-11-26-imac-g5.md %} when Mac OS X 10.3 was out. It was still on the Motorola chip, but I took a flyer. Shortly thereafter they moved to Intel chip and I've not looked back.
 
 My point in telling this is to highlight how, for me at least, these two changes made all the difference in the world. Perhaps the two changes I've outlined above could do the same for Microsoft.

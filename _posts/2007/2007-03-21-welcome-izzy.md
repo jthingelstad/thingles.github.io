@@ -9,7 +9,7 @@ tags:
 - Tammy
 ---
 
-Today we welcomed the newest member of the Thingelstad family, [our new dog](/thingelstad/were-getting-a-dog) Izzy!
+Today we welcomed the newest member of the Thingelstad family, [our new dog]{% link _posts/2007/2007-03-15-were-getting-a-dog.md %} Izzy!
 
 
 [![20070321_213106_0355.jpg]({{ site.url }}{% link /assets/posts/2007/20070321_213106_03551.jpg %})](http://photos.thingelstad.com/200703-Izzy/content/20070321_213106_0355_large.html)

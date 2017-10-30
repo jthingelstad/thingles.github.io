@@ -12,6 +12,6 @@ She's also having a lot more fun cooing and blabbing to herself in the middle of
 
 We have her four month appointment next week. That seems to have arrived quickly. I think Tammy may disagree with that assessment though. That means another round of shots, no fun. We are looking forward to getting an okay to start giving her some food. We acquired a high chair already continuing our pattern of getting baby stuff well ahead of the need for it.
 
-Maze loves [her new mini-van](/thingelstad/honda-odyssey). She thinks it's just great. She particularly likes the navigation system. :-)
+Maze loves [her new mini-van]{% link _posts/2005/2005-09-24-honda-odyssey.md %}. She thinks it's just great. She particularly likes the navigation system. :-)
 
 Tammy and her sisters threw a surprise birthday party for their mom recently and she did a little photo shoot with Maze and the birthday stuff. Some great pictures, check them out. My friend [Dan and his wife Melanie](http://2s1g.com/) are about to have start this parenthood thing any day now! With these 4 months under my belt I get to give advice to someone like I actually have a clue what's going on. That's fun too.

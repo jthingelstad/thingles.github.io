@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-We had a nice stay in Fargo however it is far from being the vacation get away that you may want to visit on a regular basis. I gushed long enough about the hotel in my [previous posting](/thingelstad/fargo-vacation), so I wont go on about that any further. Tammy and I divided our two days in Fargo into a suburban day followed by a downtown day.
+We had a nice stay in Fargo however it is far from being the vacation get away that you may want to visit on a regular basis. I gushed long enough about the hotel in my [previous posting]{% link _posts/2004/2004-12-26-fargo-vacation.md %}, so I wont go on about that any further. Tammy and I divided our two days in Fargo into a suburban day followed by a downtown day.
 
 The first day we drove out to the [West Acres Mall](http://www.westacres.com/), it was absolutely packed. We met my mother and a friend of the family for lunch at a Taste of India, which was fabulous. I asked the owner if it was connected to the one in St. Louis Park and it is not but they know each other. Sadly this one is going out of business. Apparently their business has been poor since 9/11. None of us could figure that out. People, it's Indian food! Anyway, we explored the suburban areas some more. Had a trip down memory lane with dinner at [Happy Joes](http://www.happyjoes.com/) and spent the evening crawling a [Barnes & Noble](http://www.bn.com/) for books.
 

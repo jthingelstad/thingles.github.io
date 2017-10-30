@@ -4,7 +4,7 @@ categories:
 - Art
 ---
 
-My favorite art fair in the cities was a couple of weeks ago, the [Uptown Art Fair](http://www.uptownminneapolis.com/art-fair/). ([Post from 2005](/thingelstad/uptown-art-fair-conclusion)) Tammy and I did our usual routine, going on Friday to check it out, and then going back on Saturday to get our Anniversary present. Some of the artists that were highlights for us.
+My favorite art fair in the cities was a couple of weeks ago, the [Uptown Art Fair](http://www.uptownminneapolis.com/art-fair/). ([Post from 2005]{% link _posts/2005/2005-08-06-uptown-art-fair-conclusion.md %} Tammy and I did our usual routine, going on Friday to check it out, and then going back on Saturday to get our Anniversary present. Some of the artists that were highlights for us.
 [**Gabe Lanza**](http://www.gabelanza.com/)
 
 We decided our purchase was going to be one of Lanza's paintings. We both really liked this piece entitled "G0L147H vs. Davidia". It is very wide, and the colors have an interesting depth to them while being muted. The theme is also cool, a futuristic take on the story of David and Goliath.

@@ -14,15 +14,15 @@ As a special bonus for the web I'm going to highlight a selected set of blog pos
 
 ##### 2007 Highlights from thingelstad.com
 
-  * [Red Glasses Make Water Taste Wrong](/thingelstad/the-water-tastes-different)
-  * I got [Obsessed with Twitter](/thingelstad/twitterific), and then [Abandoned Twitter](/thingelstad/buh-bye-twitter).
-  * We took our first [weekend away from Mazie in Chicago](/thingelstad/weekend-in-chicago).
-  * I started [my Apple TV](/thingelstad/apple-tv-in-the-house) obsession and [got an iPhone](/thingelstad/i-got-my-iphone).
-  * Tammy went away for a trip and [I was Mr. Mom](/thingelstad/first-day-as-mr-mom)!
-  * I started playing with time-lapsed video: [Drive to Work](/thingelstad/drive-to-work-take-2), [Table Assembly](/thingelstad/assembling-mazies-birthday-present), [Christmas Tree](/thingelstad/christmas-tree-2007).
-  * We had a great [2007 Olson Family Weekend](/thingelstad/2007-olson-family-weekend).
-  * We had a [great time at the Winnipeg Folk Festival](/thingelstad/2007-winnipeg-folk-festival-recap).
-  * I [went to Canada fishing](/thingelstad/canadian-fishing-trip-recap) with my brother-in-laws courtesy of my father-in-law.
-  * We got some [awesome avatars](/thingelstad/super-cool-avatars)!
+  * [Red Glasses Make Water Taste Wrong]{% link _posts/2007/2007-01-09-the-water-tastes-different.md %}
+  * I got [Obsessed with Twitter]{% link _posts/2007/2007-01-06-twitterific.md %}, and then [Abandoned Twitter]{% link _posts/2007/2007-11-04-buh-bye-twitter.md %}.
+  * We took our first [weekend away from Mazie in Chicago]{% link _posts/2007/2007-02-21-weekend-in-chicago.md %}.
+  * I started [my Apple TV]{% link _posts/2007/2007-03-23-apple-tv-in-the-house.md %} obsession and [got an iPhone]{% link _posts/2007/2007-07-01-i-got-my-iphone.md %}.
+  * Tammy went away for a trip and [I was Mr. Mom]{% link _posts/2007/2007-03-29-first-day-as-mr-mom.md %}!
+  * I started playing with time-lapsed video: [Drive to Work]{% link _posts/2007/2007-05-29-drive-to-work-take-2.md %}, [Table Assembly]{% link _posts/2007/2007-05-20-assembling-mazies-birthday-present.md %}, [Christmas Tree]{% link _posts/2007/2007-12-18-christmas-tree-2007.md %}.
+  * We had a great [2007 Olson Family Weekend]{% link _posts/2007/2007-06-05-2007-olson-family-weekend.md %}.
+  * We had a [great time at the Winnipeg Folk Festival]{% link _posts/2007/2007-07-15-2007-winnipeg-folk-festival-recap.md %}.
+  * I [went to Canada fishing]{% link _posts/2007/2007-08-11-canadian-fishing-trip-recap.md %} with my brother-in-laws courtesy of my father-in-law.
+  * We got some [awesome avatars]{% link _posts/2007/2007-10-06-super-cool-avatars.md %}!
 
 

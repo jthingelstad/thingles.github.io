@@ -7,7 +7,7 @@ tags:
 redirect_from: /stopping-mediawiki-spam-with-dynamic-questy-captchas/
 ---
 
-**This method of using Questy Captcha has been defeated by some spammers. Please check out my [updated dynamic Questy Captcha method](/thingelstad/updated-dynamic-questy-captchas).**
+**This method of using Questy Captcha has been defeated by some spammers. Please check out my [updated dynamic Questy Captcha method]{% link _posts/2014/2014-10-28-updated-dynamic-questy-captchas.md %}.**
 [MediaWiki](http://www.mediawiki.org/) websites are often plagued by spammers. It's annoying in the extreme. If you setup a blank MediaWiki website and do nothing it is likely that within a couple of weeks your site will be found, and in a matter of days you will have thousands of spam user accounts and tens of thousands of pages of spam. There are a number of ways to stop wikispam. I tried using [Recaptcha](http://recaptcha.com) to little benefit. I still got a large number of spam registrations on my publicly available wikis. I've found the combination below to be incredible efficient.
 
 <!-- more -->

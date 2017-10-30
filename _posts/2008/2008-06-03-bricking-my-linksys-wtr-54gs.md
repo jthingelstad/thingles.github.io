@@ -10,7 +10,7 @@ Sometimes I really should know better. There are some things you just don't do, 
 
 ![WTR-54GS-Brick.gif]({{ site.url }}{% link /assets/posts/2008/wtr-54gs-brick.gif %})
 
-I've had a [Linksys WTR-54GS](http://www.linksys.com/servlet/Satellite?c=L_Product_C2&childpagename=US%2FLayout&cid=1122062241008&pagename=Linksys%2FCommon%2FVisitorWrapper) for a while now. [I've used it quite a bit](/thingelstad/linksys-wtr-54gs-making-travel-better-for-internet-junkies). It's nice to get to a hotel that doesn't have wireless and pop the WTR-54GS in and you've got your very own private, secure WiFi network. This is a good thing for our trip since we are traveling with two laptops and two iPhones and WiFi is a must have.
+I've had a [Linksys WTR-54GS](http://www.linksys.com/servlet/Satellite?c=L_Product_C2&childpagename=US%2FLayout&cid=1122062241008&pagename=Linksys%2FCommon%2FVisitorWrapper) for a while now. [I've used it quite a bit]{% link _posts/2007/2007-12-04-linksys-wtr-54gs-making-travel-better-for-internet-junkies.md %}. It's nice to get to a hotel that doesn't have wireless and pop the WTR-54GS in and you've got your very own private, secure WiFi network. This is a good thing for our trip since we are traveling with two laptops and two iPhones and WiFi is a must have.
 
 When in Seattle I did some research on hacking the WTR-54GS and putting [DD-WRT](http://www.dd-wrt.com/) on it. This sounded great to me, since Linksys has done a horrible job supporting this device. It is now discontinued so effectively it's dead and DD-WRT gives a great way to put a Linux based system on it and get a ton of additional functionality. Great!
 
@@ -20,4 +20,4 @@ Then that just cycled and cycled. I had to. I now knew I _could_ hack it and I t
 
 I did the hack and everything went really great, until it didn't. The router just died after flashing a new boot-loader on it and I can't get it do to anything. I may be able to bring it back to life with a JTAG cable, but that is a serious amount of work for sometime when I'm back at home. Lesson learned, should have left it alone.
 
-Of course the hotel we stayed at for [RailsConf](/thingelstad/railsconf-2008-recap) lacked WiFi, and my brick didn't do any good.
+Of course the hotel we stayed at for [RailsConf]{% link _posts/2008/2008-06-03-railsconf-2008-recap.md %} lacked WiFi, and my brick didn't do any good.

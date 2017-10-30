@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-Today I started my second week of using my [makeshift standing desk](/thingelstad/standing-desk-trial). My initial observations are:
+Today I started my second week of using my [makeshift standing desk]{% link _posts/2011/2011-06-25-standing-desk-trial.md %}. My initial observations are:
 
 
 

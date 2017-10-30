@@ -7,7 +7,7 @@ tags:
 ---
 
 About 2 months ago my primary workstation died. The machine was behaving very flaky, not [posting](http://en.wikipedia.org/wiki/Power-on_self-test) from time to time and requiring my to jumper the Clear-CMOS on a routine basis. After a couple of times doing that it gave up the ghost and refused to post ever again. I'm fixing it, but it broke my back on home brew machines. I'm just not the kinda guy that wants to open my machines case on a regular basis. Particularly my primary machines that I depend on for a variety of applications and uses. It was time to ditch this thing and move on.
-A faithful reader of my website would know that I've been on a string of Mac purchases lately. The most recent computers I got were a [MacBook](/thingelstad/macbook) and before that an [iMac G5](/thingelstad/imac-g5). Why break the trend? I decided to get a Mac Pro.
+A faithful reader of my website would know that I've been on a string of Mac purchases lately. The most recent computers I got were a [MacBook]{% link _posts/2006/2006-06-25-macbook.md %} and before that an [iMac G5]{% link _posts/2004/2004-11-26-imac-g5.md %}. Why break the trend? I decided to get a Mac Pro.
 
 It all started very benign. I just started looking for a new box and scoured Dell and a variety of other sites. I wanted something with serious power, lots of memory, big graphics and growth for the future. Regardless of how you feel about Apple, if you are looking for a great machine at the high-end you need to examine the Mac Pro.
 

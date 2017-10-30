@@ -10,7 +10,7 @@ I've struggled with my weight for a long time, my entire adult life really. In 2
 
 ![Weight-Range-8-years-annotated.png]({{ site.url }}{% link /assets/posts/2008/weight-range-8-years-annotated.png %})
 
-I've asserted myself and decided it was time to get back into shape before, see [2004](/thingelstad/day-1) and [2006](/thingelstad/game-on-time-to-lose-weight). Both of those attempts were quick failures.
+I've asserted myself and decided it was time to get back into shape before, see [2004]{% link _posts/2004/2004-11-08-day-1.md %} and [2006]{% link _posts/2006/2006-08-27-game-on-time-to-lose-weight.md %}. Both of those attempts were quick failures.
 
 I believe that when you are making major changes in life it is an opportune time to push some bigger changes through. If you're disrupting things, disrupt them big. I'm at a big inflection point in my career, so I'm making it an inflection point for fitness too. On top of that I've noticed that my lack of fitness and excess weight has become a bigger problem than it ever was before. Perhaps showing signs of getting older, my blood pressure has crept up. In order to do fun things with Mazie and Tammy I need to be lighter on my feet.
 

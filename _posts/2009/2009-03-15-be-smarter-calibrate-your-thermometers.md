@@ -7,7 +7,7 @@ tags:
 ---
 
 I've been firing up the [Big Green Egg](http://www.biggreenegg.com/) throughout winter and as the weather has started to get a little nicer I've been grilling even more. I've been really frustrated lately though with my grill not coming up to temperature as fast as I thought it should. I also have been getting some odd results. I recently put a couple of racks of ribs on and they came out really dry and overcooked. I had the temperature right the whole time, and couldn't figure out what was wrong.
-Then things got confusing. I took out [my Thermapen](/thingelstad/thermapen-grill-like-a-pro) and a couple of other thermometers and started getting really odd temps all over the grill. Today I fired up a pot of water to calibrate the thermometer that sits in the dome of the Big Green Egg. This is the one I use constantly to know the internal temperature of the grill.
+Then things got confusing. I took out [my Thermapen]{% link _posts/2009/2009-01-25-thermapen-grill-like-a-pro.md %} and a couple of other thermometers and started getting really odd temps all over the grill. Today I fired up a pot of water to calibrate the thermometer that sits in the dome of the Big Green Egg. This is the one I use constantly to know the internal temperature of the grill.
 
 ![thermometer-messed.png]({{ site.url }}{% link /assets/posts/2009/thermometer-messed.png %})
 
