@@ -1,5 +1,4 @@
 ---
-comments: false
 title: Must Have Thunderbird Add-Ons
 categories:
 - Techie

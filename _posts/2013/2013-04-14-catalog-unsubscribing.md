@@ -1,5 +1,4 @@
 ---
-comments: false
 title: Catalog Unsubscribing
 categories:
 - Dear Diary

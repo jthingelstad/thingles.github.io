@@ -1,5 +1,4 @@
 ---
-comments: false
 title: Stopping TrackBack Spam with DotText
 categories:
 - Techie
