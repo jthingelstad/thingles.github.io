@@ -8,8 +8,5 @@ tags:
 ---
 
 ![]({{ site.url }}{% link /assets/posts/2011/jamie-at-minnedemo.jpg %})
-  
 
-
-
-My buddy [Ira]({{ site.url }}{% link /assets/posts/2011//img %}) grabbed a [photo of me](https://twitter.com/#!/ropadope/status/25727379884212224) with my [spiffy MacBook Air](/thingelstad/happy-birthday-macbook-air) at [Minnedemo](http://minnestar.org/minnedemo/) January 2011.
+My buddy Ira grabbed a [photo of me](https://twitter.com/#!/ropadope/status/25727379884212224) with my [spiffy MacBook Air](/thingelstad/happy-birthday-macbook-air) at [Minnedemo](http://minnestar.org/minnedemo/) January 2011.
