@@ -7,6 +7,7 @@ tags:
 ---
 
 After our amazing train ride we arrived in Zurich. Switzerland is such a different place than France. It's much more multi-national. A lot of different languages; almost all signs were in four different languages. We spent some time at the train station getting Euros changed to Swiss Francs and checking our luggage at the rail station since we were taking a train the next morning, no need to lug it all over the place. It's nice to be in a currency that is less than one on the dollar, however things are pretty expensive so far.
+
 Zurich is a nice town. Seemed very orderly, similar to the train station itself. We got a pass for the city rail system to get to our hotel but I don't know that we really needed it since nobody ever looked at it and there was no device to run it through. Guess it was the honor system at work.
 
 The [Hotel Rigihof](http://www.hotel-rigihof.ch/) in Zurich was fine. Tammy observed it was the dirtiest of all the hotels we had stayed at so far, but it seemed fine to me. On the plus side it had relatively fast WiFi so I was able to send all my digital photos taken so far to the server at our house for safe storage (took about 10 hours while we slept!).

@@ -9,6 +9,7 @@ tags:
 ---
 
 Today was the most hyped stage of the 2004 [Tour de France](http://www.letour.com/indexus.html). When the tour route was announced last fall they had placed all the mountains _and_ the individual time trials at the last half of the race. This would leave the race very open until the end. As it turns out, [Lance](http://www.lancearmstrong.com/) was able to get good time in the Pyranees so it wasn't as open as hoped.
+
 We skipped riding today because of the insanity of the crowds and Tammy was coming down for real with the cold I came here with. We took a shuttle bus up to Bourg d'Oisans which is at the base of the L'Alpe d'Huez and watched the stage at the start.
 
 I wont go into all the details of the stage since you can go to a [Tour de France](http://www.letour.com/indexus.html) site to read about that but [Lance](http://www.lancearmstrong.com/) won the stage with command and I was able to experience my defining moment of the [Tour de France](http://www.letour.com/indexus.html).

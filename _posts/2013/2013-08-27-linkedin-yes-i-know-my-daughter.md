@@ -7,6 +7,7 @@ tags:
 ---
 
 Tonight while on LinkedIn I was prompted for some people I might now, including this one.
+
 ![screenshot]({{ site.url }}{% link /assets/posts/2013/screenshot.png %})
 
 So, yeah, in fact I do know my 8-year-old daughter. I didn't realize she was on LinkedIn? I wonder what professional updates she might have to share with me? **What?!**

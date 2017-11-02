@@ -7,11 +7,8 @@ tags:
 ---
 
 I wanted to find an easy way to show the current size of the [MediaWiki job queue](https://www.mediawiki.org/wiki/Manual:Job_queue) on [WikiApiary](http://wikiapiary.com/wiki/Main_Page). When you make changes to templates that are used on thousands of pages the queue can get backed up and it's nice to have an easy way to keep an eye on this. The job queue is even one of the data points WikiApiary tracks and graphs. But I wanted something that was as close to realtime as possible. It wasn't hard to do. This solution uses the [External Data](http://www.mediawiki.org/wiki/Extension:External_Data) ([see WikiApiary usage page](http://wikiapiary.com/wiki/Extension:External_Data)) extension.
+
 First we need to get the data. Let's start by calling the siteinfo API method. The magic words are used to make this generic, and this **should** result in the right URL. If you are using a protocol-relative server setting you will have to modify this.
-
-
-
-    
     
     {% raw %}
     {{#get_web_data: url={{SERVER}}{{SCRIPTPATH}}/api.php?action=query&meta;=siteinfo&siprop;=statistics&format;=json
@@ -20,10 +17,6 @@ First we need to get the data. Let's start by calling the siteinfo API method. T
     {% endraw %}
 
 Now External Data has done the work and the value is stored for us. Now we get it by simply calling:
-
-
-
-    
     
     {% raw %}
     {{#external_value:jobs}}

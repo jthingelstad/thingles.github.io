@@ -8,11 +8,8 @@ redirect_from: /count-404-in-group-of-access-logs/
 ---
 
 I found myself needing to see all of the 404 errors in the access logs for all virtual hosts on my web server. I put all of my logs for a given application (in this case WordPress) in one place (`/srv/www/wordpress/logs/$host-access.log`). Logrotate kicks in to keep them segmented and compress them by day.
+
 A bunch of Unix magic later...
-
-
-
-    
     
     zgrep " 404 " *-access.log* | \
     cut -d " " -f 1,7 | \
@@ -28,10 +25,6 @@ zgrep is just grep that handles both normal and gzipped files. Pipe that into cu
 
 Output looks like
 
-
-
-    
-    
         380 thingelstad.com /wp-content/uploads/2011/09/cropped-20090816-101826-0200.jpg
         301 thingelstad.com /wp-content/uploads/2009/06/Peppa-Pig-Cold-Winter-Day-DVD-Cover.jpg
         300 thingelstad.com /wp-content/thingelstad/uploads/2011/10/Halloween-2011-1000x750.jpg

@@ -5,13 +5,11 @@ categories:
 ---
 
 I'm a big fan of graphs, and as such am a big fan of [Cacti](http://www.cacti.net/). I've used it at work and at home. It's a wonderfully powerful, and ridiculously complicated front-end to [RRDTool](http://oss.oetiker.ch/rrdtool/), which is also wonderfully powerful and ridiculously complicated. I've used Cacti to graph hundreds of servers, the temperature in my house, [heat collected from solar panels]({{site.url}}{% link _posts/2006/2006-06-13-solar-panels-started.md %}) and [Twitter followers]({{site.url}}{% link _posts/2009/2009-03-30-tracking-twitter-followers-with-cacti.md %}).
+
 By default Cacti runs a poller every 5 minutes to collect data. Cacti gets very unhappy if the time required to run the poller exceeds the 5 minute interval. You will get blank data gaps and there aren't any alarms that go off when this happens. Polling times can also vary without any changes in Cacti. If you are polling an external service and it gets slow, that could spike your polling times up in a terrible way.
 
 I decided to write a quick script to catch this. Rather than integrate it into Cacti's poller I made it completely separate. Save this script to a shell script and add it to `/etc/cron.hourly` and you can rest easily knowing your Cacti poller is healthy.
 
-
-
-    
     
     #!/bin/bash
     #
@@ -65,8 +63,6 @@ I decided to write a quick script to catch this. Rather than integrate it into C
     
 
 Some notes on what this script is doing:
-
-
 
   * Sampling 24 lines means 24 five-minute polling periods, in other words, the last 24 * 5 minutes, or 2 hours.
 

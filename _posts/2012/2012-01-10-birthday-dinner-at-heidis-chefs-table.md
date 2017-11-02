@@ -18,7 +18,6 @@ I had a big birthday this year and Tammy surprised me with a number of things, i
 The menu was designed by Chef Stewart Woodman, aka [Shefzilla](http://shefzilla.com/). The service was led by one of the sous chefs. It was great fun to be in the kitchen, although predictably a little hot. :-)
 
 Now, to dinner...
-<!-- more -->
 
 ## The Bennie
 

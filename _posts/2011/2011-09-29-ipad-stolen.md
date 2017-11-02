@@ -7,7 +7,8 @@ tags:
 ---
 
 I had my iPad stolen out of my hands tonight while waiting for the 8:50pm 4K bus at Lake and Lyndale.
-[![]({{ site.url }}{% link /assets/posts/2011/map-lake-and-lyndale.gif %})](http://thingelstad.com/s/ipad-stolen/map-lake-and-lyndale/img)
+
+![]({{ site.url }}{% link /assets/posts/2011/map-lake-and-lyndale.gif %})
 
 We had a fun [8thBridge](http://www.8thBridge.com/) outing this afternoon at [Bryant Lake Bowl](http://www.bryantlakebowl.com/). After that a bunch of us went over to [moto-i](http://www.moto-i.com/) and had some dinner and then a final beer at [Muddy Waters](http://www.muddywatersmpls.com/new_home.html). Everyone else left by cab and I walked over to the bus stop to catch the [4K](http://www.metrotransit.org/Schedules/WebSchedules.aspx?route=4) home. I was about 15 minutes early so I got my iPad out and started reading [The Selfish Gene](http://rwbookclub.com/wiki/The_Selfish_Gene), my [book club](http://rwbookclub.com/) book.
 

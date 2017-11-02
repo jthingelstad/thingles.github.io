@@ -8,9 +8,8 @@ tags:
 ---
 
 I’m really intrigued by what Keybase.io is doing with identity. The ability to cryptographically prove your identity on the web without a centralized party like Twitter or Facebook owning the approval process is a needed function. I setup my profile and you can now prove on your own that I am who I say I am on Twitter, Github and five of my domains.
+
 I’m trying to figure out how this could be extended to MediaWiki. I would love to be able to prove that my user account is me at:
-
-
 
   * [https://wikiapiary.com/wiki/User:Thingles](https://wikiapiary.com/wiki/User:Thingles)
 
@@ -26,8 +25,6 @@ But if we could do this, it would be a great way to allow Wikipedia editors to c
 
 I think something more like the Twitter proof could work. How?
 
-
-
   1. Have the user in question edit their User page. The contents of the edit don't matter, the **Summary** field is what will be looked at. (Limited to 255 characters)
 
 
@@ -40,8 +37,6 @@ I think something more like the Twitter proof could work. How?
   4. This revision ID can be used to pull the proof forward for keybase.io.
 
 Here are the last 5 revisions for my User page on WikiApiary ([API call](https://wikiapiary.com/w/api.php?action=query&prop=revisions&titles=User:Thingles&rvlimit=5&rvprop=ids|timestamp|user|comment&format=json)).
-
-
 
     
     {
@@ -101,8 +96,6 @@ Here are the last 5 revisions for my User page on WikiApiary ([API call](https:/
 
 Now that we have the revid we can find the information for this revision to continue to claim proof ([API call](https://wikiapiary.com/w/api.php?action=query&prop=revisions&titles=User:Thingles&rvstartid=904406&rvlimit=1&rvprop=ids|timestamp|user|comment&format=json)). The key is that the title of the page "User:Thingles" matches with the user that made the change "Thingles".
 
-
-
     
     {
       "query": {
@@ -134,9 +127,6 @@ Now that we have the revid we can find the information for this revision to cont
 And now I've proven my identity. The only trick is that the comment must contain all the data, and that should be easy since keybase already does something similar for Twitter.
 
 And here is another example of me making a proven comment on my user page on Wikipedia (en) ([API call](https://en.wikipedia.org/w/api.php?action=query&prop=revisions&titles=User:Thingles&rvstartid=608054849&rvlimit=1&rvprop=ids|timestamp|user|comment&format=json)).
-
-
-
     
     
     {

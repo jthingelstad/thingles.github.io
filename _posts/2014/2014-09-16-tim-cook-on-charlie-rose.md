@@ -7,7 +7,6 @@ tags:
 ---
 
 Great two part interview with Apple CEO Tim Cook with Charlie Rose. Wonderful insight into how Apple works and how they explore new products.
-<!-- more -->
 
 http://www.hulu.com/watch/686851
 

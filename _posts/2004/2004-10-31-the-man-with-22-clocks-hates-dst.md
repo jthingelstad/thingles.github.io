@@ -5,6 +5,7 @@ categories:
 ---
 
 I really don't care for daylight savings time. There are a couple of things I appreciate. The balance of getting more light earlier and later is a give and take. Mostly I really dislike how it disrupts my sleep pattern. It always seems to take a full week for me to get used to it. It's like mini-jet lag without moving anywhere.
+
 My method for dealing with it is very specific. I like to make sure I change every clock before I go to sleep, and then I wake up somewhat unaware that anything changed. I forgot to do that last night so I had to run around first thing this morning before I became cognizant of the time. As I was changing the 15th clock it dawned on me that we have _household clock proliferation_.
 
 Let's take a look, shall we?

@@ -5,6 +5,7 @@ categories:
 ---
 
 Over recent years I've been growing increasingly concerned about the lack of women in technology careers. Perhaps it’s being a dad, or just getting older. Either way, I think this is bad for our industry. I believe we would have healthier cultures, better teams and make better software and products if we had more diversity.
+
 I recently got an email invite to an event in town for tech entrepreneurs. The headline of the email exclaimed in large type…
 
 ### Walk into a room of people just like you.

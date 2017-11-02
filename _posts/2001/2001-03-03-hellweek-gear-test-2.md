@@ -6,6 +6,7 @@ location: One Ten Grant, Minneapolis, MN, United States
 ---
 
 Second gear test, got everything working the way I want this time.
+
 Below you can see the ride that I took, total distance of 15.9 miles:
 
 ![]({{ site.url }}{% link /assets/posts/2001/463b9d61a93c463f70715d9935fb7efd.gif %})

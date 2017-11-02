@@ -9,9 +9,8 @@ tags:
 ---
 
 More opportunities to try local beers at Saugatuck Brewing. I picked a bunch of hoppy brews. The serving method was a little odd, if you had a table with 4 of these it would be a bit unwieldy. Overall great beer but one stood well above for me.
-[![Saugatuck Brewing Sampler]({{ site.url }}{% link /assets/posts/2013/Saugatuck-Brewing-Sampler.jpg %})](http://thingelstad.com/s/saugatuck-brewing-sampler/saugatuck-brewing-sampler/img)
 
-
+![Saugatuck Brewing Sampler]({{ site.url }}{% link /assets/posts/2013/Saugatuck-Brewing-Sampler.jpg %})
 
   1. Pathfinder Pale Ale
 _Light, refreshing. Good hops. Straightforward, solid beer._

@@ -7,6 +7,7 @@ tags:
 ---
 
 I was recently doing some cleaning on our [Read/Write Book Club](http://rwbookclub.com/) website and ran into an interesting challenge. All of the books in the wiki are in a couple of categories, but I wanted them sorted right ignoring A, An and The beginning of the title. MediaWiki supports this in the category tag allowing you to specify `[Category:Book|Sort Title]` and early on in the wiki I had a second field in the form for Sort Title asking the person editing the book to do this.
+
 The result was nobody did it and all the books with "The" in the beginning of the title were all under T. Shouldn't this be easy to just deal with in the wiki itself?
 
 Well, it turned out to be much harder than you would think in large part because MediaWiki doesn't honor spaces in template tags. My first attempt to do this was rather brute force, simply look for the three cases that I want to get rid of in the title and chop it off.

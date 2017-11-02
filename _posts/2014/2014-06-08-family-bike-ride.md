@@ -5,14 +5,10 @@ categories:
 ---
 
 ![]({{ site.url }}{% link /assets/posts/2014/20140608-174230-63750456.jpg %})
-  
-
-
 
 We have been trying to get a good family bike ride in each day on the weekends. It was a great day today and Tyler got to get his first ride on his new [Weehoo](http://rideweehoo.com).  Tammy discovered the Weehoo really liked it. I've pulled the kids in the [Chariot](http://www.thule.com/en-us/us/thule-chariot) (now owned by Thule) as well as the [Novara trailer bike](http://www.rei.com/product/851189/novara-afterburner-20-trailer-bike). The Weehoo is heads and shoulders over both of them. The trailer bikes always feel like they are pulling my bike to one side. The Chariot was fine but the kids didn’t have a lot of fun.
+
 The Weehoo is a wonderful mix:
-
-
 
   1. It is a recumbent design so the kid is safe, has a nice seat and a three-point harness.
 

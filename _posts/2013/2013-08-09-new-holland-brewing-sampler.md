@@ -9,11 +9,10 @@ tags:
 ---
 
 While in Saugatuck we went to Holland a couple of times, it's just 10 miles or so up the road. We had dinner at [New Holland Brewing](http://newhollandbrew.com) and I got to do another beer flight. I skipped the [Dragon's Milk](http://new-holland.squarespace.com/beer/mainstays/dragons-milk-bourbon-barrel-stout/) since I've had it and can get it easily enough at home.
-[![new-holland-sampler]({{ site.url }}{% link /assets/posts/2013/new-holland-sampler.jpg %})](http://thingelstad.com/s/new-holland-brewing-sampler/new-holland-sampler/img)
+
+![new-holland-sampler]({{ site.url }}{% link /assets/posts/2013/new-holland-sampler.jpg %})
 
 The numbers start at the bottom (6 o'clock is 1) and go clockwise:
-
-
 
   1. [Monkey King Saison Farmhouse Ale](http://new-holland.squarespace.com/beer/mainstays/monkey-king-saison-farmhouse-ale/)
 

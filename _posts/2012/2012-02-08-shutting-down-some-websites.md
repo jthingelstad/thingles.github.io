@@ -7,6 +7,7 @@ tags:
 ---
 
 I recently decided to prune some websites that I was hosting, mostly ideas that I set up and then never took anywhere. Tammy had also decided to take her blog, Smaller Than a Redwood, down. I could have just deleted them but I wanted to be a good "net.citizen" and not give people "404 Page not found" errors but instead the more appropriate "410 Gone" message. Here is a simple way to do this with [nginx](http://nginx.org/).
+
 First, I catch the websites main configuration which I keep in a file for each site in `/opt/etc/nginx/sites-available`. I try to keep these configurations really simple, just handling the URLs, ports and then doing the application configuration in an include.
 
     # Redirect to non-www hostname

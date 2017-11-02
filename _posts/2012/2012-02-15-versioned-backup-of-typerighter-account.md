@@ -5,6 +5,7 @@ categories:
 ---
 
 My friend [Garrick](http://garrickvanburen.com/) has been working on a really cool project called Typerighter. [Typerighter](https://typerighter.com/) is a notepad for your browser. It has almost no interface and just lets you focus on writing. He's done some really cool things with it, like making it easy to keep notes for each day and make a document public and share it with the world (by default everything is private).
+
 I suggested to Garrick that I really wanted a way to backup my account. I trust he's got my data backed up well, but it's even better if I don't have to trust at all because I have my data. He added a private RSS feed that dumps all of your documents out and I quickly put a script together so I now have nightly, versioned backups of all my information in Typerighter.
 
 Here is the script:
