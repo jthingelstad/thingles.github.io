@@ -18,13 +18,13 @@ Also, apply the above to *leveraged*. Keep your vocabulary simple and conversati
 
 ### This is worth the time
 
-Sometimes speakers will start out by saying we’ll “get through it quick.” Maybe a reference to “I’m the only thing between you and happy hour.” The assumption is this is humor, but it immediately frames your listener to start thinking about the next thing, instead of you. Either your content is worth the time or not, wether it is before lunch or happy hour shouldn’t impact that.
+Sometimes speakers will start out by saying we’ll “get through it quick.” Maybe a reference to “I’m the only thing between you and happy hour.” The assumption is this is humor, but it immediately frames your listener to start thinking about the next thing, instead of you. Either your content is worth the time or not, whether it is before lunch or happy hour shouldn’t impact that.
 
 Related to this is an even worse pattern of “I’ll try not to bore you too much.” Self-deprecation is a common thing from speakers, but I really can’t think of a worse way to start your presentation.
 
 ### Don’t steal your thunder
 
-An anti-pattern I see very often is a presenter giving a demo but before the demo showing a slide that has bullets for all the things they are going to demo. It’s immensely more powerful to show the demo! There are a handful of capabilities that you want to highlight, but don’t highlight those in a static bullet list before hand. Your audience wants to see it working, and you're stealing your thunder by highlighting the capability before people see it!
+An anti-pattern I see very often is a presenter giving a demo but before the demo showing a slide that has bullets for all the things they are going to demo. It’s immensely more powerful to show the demo! There are a handful of capabilities that you want to highlight, but don’t highlight those in a static bullet list beforehand. Your audience wants to see it working, and you're stealing your thunder by highlighting the capability before people see it!
 
 Imagine if before unveiling the iPhone Steve Jobs would have shown pictures of it in slides, highlighted all the key features and capabilities, all in slides. And then after you’ve seen all that, showing you the demo. You can’t imagine it because it wouldn’t happen. Show the product, hit your key value points afterward when the audience has taken in the awesome stuff you have created. Those are the items you want them to leave with, and they will care more about them after they see it working.
 
