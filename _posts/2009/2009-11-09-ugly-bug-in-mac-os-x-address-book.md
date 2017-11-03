@@ -7,6 +7,7 @@ tags:
 ---
 
 I don't have an official bug report for this but I'm seeing a very ugly bug in Mac OS X [Address Book](http://en.wikipedia.org/wiki/Address_Book_(application)) or some part of the applications that work with its data. In short, it seems that in some situations Address Book can duplicate all the images associated with contacts, multiple times.
+
 I keep really important data in my Address Book and as a result I do a weekly manual backup in addition to [Time Machine](http://en.wikipedia.org/wiki/Time_Machine_(Apple_software)) backups. Look at the size of my weekly backups in this screenshot.
 
 [![Address Book Backup File Sizes]({{ site.url }}{% link /assets/posts/2009/Address-Book-Backup-File-Sizes.png %})]({{ site.url }}{% link /assets/posts/2009/Address-Book-Backup-File-Sizes.png %})

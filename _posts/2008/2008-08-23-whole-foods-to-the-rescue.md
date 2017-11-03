@@ -10,6 +10,7 @@ tags:
 ---
 
 [![200px-Whole_Foods_Market_logo.svg.png]({{ site.url }}{% link /assets/posts/2008/whole-foods-market-logo.png %})](http://www.wholefoodsmarket.com/)Food culture is always interesting, and now with Mazie I've started to appreciate the food culture of the kid's menu. Here is a shocker: **kids in England don't eat [Macaroni and Cheese](http://en.wikipedia.org/wiki/Macaroni_and_cheese)**. Right, amazing, huh? To a guy that grew up in the midwest this is like saying that people in England don't breath air.
+
 Mazie on the other hand requires a regular uptake of Mac-n-Cheese. She's a bit particular about it too. Seh doesn't like the box stuff. She insists on "super cheesey" Mac. She likes the Mac-n-Cheese at [Yum! Kitchen & Bakery](http://www.yumkitchen.com/) a lot but her favorite is probably [Amy's Organic](http://www.amys.com/) Frozen Macaroni and Cheese. It is "super cheesey" and she just scarfs it all down.
 
 [![Amys-Organic-Macaroni-and-Cheese.jpg]({{ site.url }}{% link /assets/posts/2008/amys-organic-macaroni-and-cheese.jpg %})](http://www.amys.com/)  

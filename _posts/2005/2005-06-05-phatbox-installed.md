@@ -5,6 +5,7 @@ categories:
 ---
 
 [![]({{ site.url }}{% link /assets/posts/2005/o_phatbox.jpg %})](http://www.phatnoise.com/products/digitalmediaplayers/)I've felt for a long time that the car was absolutely the best platform for digital music. You can be in your car for hours and you need entertainment. While a CD changer is a step in the right direction if you are like me you listen to those same six CDs for weeks, or even months, before changing them. I looked around a few months ago for solutions but didn't come to a conclusion. Recently my friend [Chris](http://www.tersteeg.org/) (excuse his website, I think he's working on bringing it into this century) decided he wanted to pursue this goal so I piggybacked on his very thorough research and got a [PhatNoise](http://www.phatnoise.com/) [PhatBox](http://www.phatnoise.com/products/digitalmediaplayers/).
+
 I would say _we_ installed it this afternoon, but unless you count fetching a few tools and asking questions I don't have much of a place in the _we_. The install took the whole afternoon. A few things came up on the install. I'll share them here for others that may try this at home.
 
 

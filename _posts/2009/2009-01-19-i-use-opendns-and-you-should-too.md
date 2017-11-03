@@ -5,6 +5,7 @@ categories:
 ---
 
 ![opendns_logo_150.gif]({{ site.url }}{% link /assets/posts/2009/opendns-logo-150.gif %})A few months ago I switched my home network to using [OpenDNS](https://www.opendns.com/) for domain name lookups. Prior to that I had typically ran my own DNS server on my home LAN. This was a near requirement for me because I hosted some of my sites at my house and I needed to resolve them to private addresses when on the home LAN, blah. It was annoying. I no longer do that, and no longer need to run my own DNS, and good riddance.
+
 Note, if you don't know what DNS is, or what name resolution is, you can probably stop reading now. ;-) If you are interested to learn more the [DNS page on Wikipedia](http://en.wikipedia.org/wiki/Domain_Name_System) will get you started. Read it and then proceed. **DNS is to the Internet like legs**** shoes are to walking.**
 
 I relied for a bit on Comcast's DNS servers and they were fine but they didn't give me any added value. I poked around and found OpenDNS and it looked really promising. I posted on Twitter about it and found a handful of [friends of mine](http://twitter.com/hadar) that are [technical rockstars](http://twitter.com/mkortekaas) and had been happily using it for a long time. I guess I was [slow to the party.](http://twitter.com/thingles/statuses/874061943)

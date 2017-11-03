@@ -7,6 +7,7 @@ tags:
 ---
 
 [![logo_overnightwebchallenge_small.png]({{ site.url }}{% link /assets/posts/2009/logo-overnightwebchallenge-small.png %})](http://www.overnightwebsitechallenge.com/)I spent this morning shooting the first of three sessions at the [Sierra Bravo](http://www.sierra-bravo.com/) [Overnight Website Challenge](http://www.overnightwebsitechallenge.com/). The guys at Sierra Bravo were nice enough to let me do the event photography. So this morning I strapped on all my gear and shot for a couple of hours as things got underway. I'm going to return late tonight and again very early tomorrow morning to get more of the event.
+
 For the photographically curious I'm shooting with my Canon 40D body. I thought about bringing the Canon 20D for a 2nd body, but the low-light performance on the 20D would limit it's usefulness. It also highlights that the 20D is probably not a very good second body. I loaded up my [Think Tank](http://www.thinktankphoto.com/) [Speed Belt](http://www.thinktankphoto.com/ttp_product_ProSpdBlt.php) with a bunch of pouches, packing along:
 
 

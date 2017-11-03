@@ -7,6 +7,7 @@ tags:
 ---
 
 I recently bit the bullet and migrated my ancient [DotText](http://workspaces.gotdotnet.com/dottext) (.Text) blog to [WordPress](http://wordpress.org/). It wasn't painless, and involved writing some code, but I'm exceedingly happy with WordPress and finally feel like I'm on a modern blogging platform again.
+
 I considered for months and months (years?) going to [Community Server](http://communityserver.org/) (CS), which is the natural descendant of DotText, but it just didn't make sense. CS really serves a different purpose, and WordPress is so well designed for the task at hand.
 
 Before starting on this adventure, you may want to take a moment to increase your script timeout value for PHP to something exceedingly long. Some of the import PHP scripts will run for a couple of minutes (if you have hundreds of posts) and you don't want them killed in the middle. Change this in your php.ini.

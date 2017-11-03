@@ -5,6 +5,7 @@ categories:
 ---
 
 ![istock-000003841554xsmall.png]({{ site.url }}{% link /assets/posts/2008/istock-000003841554xsmall1.png %})Our house keeps getting greener and greener. Tammy has done an awesome job of finding alternative products for us to use that are better for the planet and us. This process started in the kitchen and has slowly spread, now reaching the bathroom.
+
 Green products and the bathroom are a struggle. We've all gotten so used to the various products that we have available that switching is challenging. Natural soaps are easy. Even natural toothpaste is a breeze. [Tom's of Maine](http://www.tomsofmaine.com/) toothpaste is great, and after using it for a while you will think regular toothpaste is overly sweet and nasty.
 
 Shaving however was filled with canned gels in nasty packaging with nasty ingredients made in nasty processes, not to mention huge marketing budgets. Tammy pushed me to get off of those things and switch and I eagerly jumped in. There are only two options at the co-op for shaving and luckily the 2nd one is great.

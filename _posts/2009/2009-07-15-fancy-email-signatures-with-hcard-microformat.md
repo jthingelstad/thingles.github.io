@@ -5,6 +5,7 @@ categories:
 ---
 
 I recently redid my email signature. I've been using an HTML signature for a while and my friend [Kent](http://www.thetangens.net/) complained to me one day that my emails always wrap odd on the iPhone. I figured out that I had an HTML element with a minimum width around 300 pixels. Fine for a computer, but it made the iPhone mail program scroll - in the worst way possible - horizontally.
+
 I figured since I was going to redo it I would simplify, but also wanted to add some function. So, I decided to make use the [hCard microformat](http://microformats.org/wiki/hcard) in the signature. It wasn't too hard to get right, and it looks normal when viewed but an hCard aware client would see the data markup.
 
 

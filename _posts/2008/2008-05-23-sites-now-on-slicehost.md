@@ -5,6 +5,7 @@ categories:
 ---
 
 [![logo_slicehost.jpg]({{ site.url }}{% link /assets/posts/2008/logo-slicehost.jpg %})](https://manage.slicehost.com/customers/new?referrer=1211790006)If you are a regular visitor to my sites you have likely noticed that a couple of months ago things got much faster. You may be thinking that I finally went to my server and hit the turbo button, but not so.
+
 I had been hosting all of my sites on Dreamhost. They had a ridiculous deal for a year of hosting and I took advantage of it. There was a lot I really like about Dreamhost. Their web interface is really nice, better than most. Their directory structure that they lay out for you is sensible and very workable. All in, the service is pretty good.
 
 However, I was having horrible problems with performance. I would go for hours on end where my site would take 4 to 6, or even 10 seconds to respond. That's just running standard WordPress and even with the wp-cache plugin enabled. The culprit always seemed to be one of two things -- really slow MySQL response times or, even worse, slow file I/O times to get at your own home directory. Enough is enough and I decided to move hosting providers.

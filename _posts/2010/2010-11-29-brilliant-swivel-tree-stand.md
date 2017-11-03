@@ -7,6 +7,7 @@ tags:
 ---
 
 Last year I decided I had enough of our [old tree stand](http://www.amazon.com/dp/B000GRM230/?tag={{ site.affiliate.amazon }}) and got rid of it. We decided to pick up our Christmas tree after Thanksgiving but I needed to get a new tree stand.
+
 We made a quick stop at [Settergren's Ace Hardware](http://www.settergrenacehardware.com/) and I asked the guys there what they recommended. The guy I was talking to said he loved this [Swivel Tree Stand](http://www.amazon.com/dp/B003A5TXG4/?tag={{ site.affiliate.amazon }}). I decided to get it. It wasn't the cheapest, but it looked really nice and easy.
 
 [![]({{ site.url }}{% link /assets/posts/2010/swivel-stand.png %})](http://www.amazon.com/dp/B003A5TXG4/?tag={{ site.affiliate.amazon }})

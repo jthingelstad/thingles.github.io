@@ -8,6 +8,7 @@ tags:
 ---
 
 **Flashback to February 4, 1998!** Here are a couple of videos that I stumbled upon on my machine recently. These are an extraordinary walk down memory lane for me, back to the early days of starting [BigCharts.com](http://www.bigcharts.com/).
+
 We were still very early in the development BigCharts. There were only a dozen or so people in the company. I was sitting at my desk talking to our ISP about getting some more bandwidth. At the time we had a single [T1](http://en.wikipedia.org/wiki/Digital_Signal_1) with a now trivial 1.5 Mbps of bandwidth, about what my cable modem at home does, and only used about a quarter of that. In those days I always had a TV with [CNBC](http://www.cnbc.com/) on in my office and this came on the screen with no warning.
 
 http://vimeo.com/392144

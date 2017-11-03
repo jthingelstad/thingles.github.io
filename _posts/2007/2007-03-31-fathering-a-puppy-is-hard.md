@@ -8,6 +8,7 @@ tags:
 ---
 
 We had a pretty good Saturday. Even though I was up way too late I woke up at a reasonable time with enough of a gap to get Izzy out before Mazie woke up. We got up and made it through the morning routine pretty well. Mazie was pretty happy this morning and we had some fun playing and getting ready. She was an angel reading her books while her Dad took a shower. Izzy even laid there and took a nap. I think Izzy was pretty tired this morning since she was up much later than usual.
+
 My friend Dan and his son Henrik came over in the morning and Henrik and Mazie stared at each other for a while before finally deciding to play for an hour or so. Mazie showed Henrik her shopping cart and then she took her stroller and they walked circles around the house having a great time. Izzy was good with both kids.
 
 After they left Mazie and I went to Yum for lunch and had some great macaroni and cheese. Mazie was pretty awesome at lunch. She really had a great time. We got a cupcake for dessert which she was really excited about that.

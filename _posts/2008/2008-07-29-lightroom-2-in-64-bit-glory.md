@@ -9,6 +9,7 @@ tags:
 ---
 
 [Lightroom 2](http://www.adobe.com/products/photoshoplightroom/) was just released today and I immediately got the upgrade. After waiting a bit to get the serial number for the new version I installed it and upgraded my catalogs. Everything worked perfectly.
+
 One of the first things I wanted to test was using Lightroom in 64-bit mode. My [Mac Pro has 7 gig of RAM]({{site.url}}{% link _posts/2007/2007-05-09-capacious-memory.md %}) so enabling 64-bit would give Lightroom some room to stretch. Here is the 32-bit snapshot of memory usage after some extensive usage.
 
 ![lightroom-2-32bit.png]({{ site.url }}{% link /assets/posts/2008/lightroom-2-32bit.png %})

@@ -8,6 +8,7 @@ tags:
 ---
 
 [![](http://gears.google.com/images/gears_sm.png)](http://gears.google.com/)I just spent a little while getting caught up on a variety of sites with [Google Reader](http://reader.google.com/). Reader is my RSS tool of choice. This isn't all that special, except that I did it while sitting on an airplane.
+
 Last night Google released the first "developer release" (alpha?) of [Google Gears](http://gears.google.com/), and along with it Google Reader got a revision to allow you to go offline using Gears. The experience was pretty amazing. Reader works just as you would expect it to. You launch your web browser, go to the Reader URL and instead of the expected error since your not online, you actually get the site but in offline mode.
 
 This is a first release for Reader using the offline capability so it's a little overly modal (either offline or not) and some features are frustratingly unavailable, particularly marking all items read. To my surprise sharing items is available.

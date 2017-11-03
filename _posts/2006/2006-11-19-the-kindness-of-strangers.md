@@ -6,7 +6,9 @@ categories:
 ---
 
 So, you don't just walk into a store and get a Wii on the very day it comes out. This morning just before 8am Tammy suggested we should run to Target and check things out. We got there just after 8 and there was clearly a crowd present. Upon entering the store our hopes were dashed. There were well over 100 people in line and they had given out tickets to those that had been camped out all night.
+
 No ticket, no Wii. There were 80 tickets, plus more people that didn't have tickets and a miserly 60 Wii's in stock to sell.
+
 As we were standing at the end of the line, my hopes dashed, this scruffy dude said "You need a ticket?" "Yeah," Tammy quickly replied. He handed over one of the tickets, and not just any ticket, it was ticket #9!
 
 **Moral Dilema**

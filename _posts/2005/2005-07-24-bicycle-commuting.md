@@ -28,6 +28,7 @@ like I should be obligated to ride my bike to work. I can get on a bike
 path after going 3 blocks from my house on residential streets. The
 path crosses some roads, but mostly it's just a great trail. I then
 have _two options_ of trail that I can take going into downtown.
+
 So I get to take one trail in the morning, and a second trail in the
 evening on the way home. There are also a few people that ride into
 work as well so on the way home I usually have some company as well.
@@ -48,6 +49,7 @@ like listening to tunes in the morning and there just isn't any safe
 way to do that on a bike. The weather has been great, making it even
 more enjoyable. I find that when I ride into work I show up with a
 better outlook on things, and in general a more pleasant disposition.
+
 On top of all that I'm saving money on the record high gas prices and
 not paying for the toll-lane on the way home. All this and I get to
 help the environment, and my body, all at the same time.

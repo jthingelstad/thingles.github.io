@@ -5,6 +5,7 @@ categories:
 ---
 
 [![]({{ site.url }}{% link /assets/posts/2010/stone-steel-people-cover.jpg %})](http://www.blurb.com/bookstore/detail/1813441)A few weeks ago I took a workshop at the [Minneapolis Photo Center](http://www.mplsphotocenter.com/). The workshop was led by [Layne Kennedy](http://www.laynekennedy.com/). Layne led the [Dogsledding Photo Workshop]({{site.url}}{% link _posts/2009/2009-02-12-photos-from-wintergreen-dog-sledding-trip.md %}) that I took a while back and I've had the pleasure of getting to know Layne as well. He's a great guy! I saw that he was doing this workshop in town and snapped up the opportunity to spend a weekend shooting.
+
 The focus of the workshop was to spend 72 HOURS focused on a subject and at the end of the project create a book. Putting together a book was what brought me to the workshop. I wanted to get some practice at creating a flow and telling a story through my photography. While digital photos are great, and zipping through 278 photos on a Web site may be preferred by some – I wanted to focus on editorial choice and creating a series of photos that worked together from the first to the last.
 
 It took me a while to finish the book. I found the process interesting. Before I get to some of my lessons learned, take a [peek at the book](http://www.blurb.com/bookstore/detail/1813441)!

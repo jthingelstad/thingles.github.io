@@ -8,6 +8,7 @@ tags:
 ---
 
 I have given myself and a couple of my friends ([him](http://www.jimbernard.net/) and [him](http://www.thetangens.net/)) a task for the upcoming Winnipeg Folk Festival. There is a tradition on the final night that all of the performers at the festival come on stage and conduct the finale. The three songs that comprise the finale are The Mary Ellen Carter, Wild Mountain Thyme and Amazing Grace. The assignment is to learn the lyrics to these songs, especially the Mary Ellen Carter, so that everyone can sing along without looking at the lyrics in the songbook.
+
 Now, when I say sing along I mean sing along with _gusto_. Think of an Irish bar 30 minutes before closing time and the whole place rocking and singing to a traditional reel. That's the idea.
 
 This post is the study guide for this assignment. I've compiled the lyrics for these songs and validated them against specific tracks from iTunes to make sure they are correct.
@@ -29,6 +30,7 @@ That the Mary Ellen Carter would rise again
 
 Well the owners wrote her off, not a nickel would they spend
 "She gave twenty years of service boys then met her sorry end.
+
 But insurance paid the loss to us, so let her rest below"
 Then they laughed at us and said we had to go
 

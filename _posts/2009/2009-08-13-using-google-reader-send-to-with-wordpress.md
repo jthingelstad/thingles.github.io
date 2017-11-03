@@ -10,6 +10,7 @@ tags:
 ---
 
 I was pretty excited to read about recent [enhancements to Google Reader, particularly the "Send to..."](http://googlereader.blogspot.com/2009/08/flurry-of-features-for-feed-readers.html) feature that allows you to post items from [Google Reader](http://www.google.com/reader/) into [Facebook](http://www.facebook.com/), [Twitter](http://twitter.com/), [Delicious](http://www.delicious.com/) and many other sites.
+
 But, I wanted to send things to [WordPress](http://www.wordpress.org/) and that isn't in the list. However, the Reader team smartly left a way for you to manually add your own "Send to..." destinations. I considered this and thought it may match well with WordPress built-in "Press this" function. And it does!
 
 You cannot use the "Press this..." function directly in Reader as it is Javascript and Reader wants a URL. But, you can just post directly to press-this.php. The URL is (make sure to replace with your own domain name!)

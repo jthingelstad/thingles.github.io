@@ -12,4 +12,5 @@ tags:
 
 
 [LinkedIn](http://linkedin.com/) created this cool [InMap](http://inmaps.linkedinlabs.com/) visualization of your network.
+
 Useless really, but it sure looks nifty. :-)

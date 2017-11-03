@@ -8,6 +8,7 @@ tags:
 ---
 
 ![lightroom_cs3_icon]({{ site.url }}{% link /assets/posts/2007/lightroom_cs3_icon.gif %})I've been digging into Lightroom and continue to be excited about the ability to use my digital photo library in many new ways. Lightroom has a lot of power, and so far I've mostly been working in the Library module. The Library module is all about [metadata](http://en.wikipedia.org/wiki/Metadata), data about data. Metadata is information about the photos themselves, like where it was taken or who is in the picture. There are four primary tools in Lightroom's Library module for Folders, Collections, Keywords and Metadata Browser.
+
 Every digital photo you have ever taken (you do take digital photos right? if not, stop reading now) is loaded with metadata known as [EXIF](http://en.wikipedia.org/wiki/Exif) data. Your camera puts simple information like the date and time in there, as well as more complicated data about the focusing information of the camera or even the serial number of the camera used. This is all neat but not terribly useful. Mostly what you want to do is find pictures of a person or thing, and that isn't simple. This is where Keywords come in.
 
 [Keywords](http://en.wikipedia.org/wiki/Keyword), or [Tags](http://en.wikipedia.org/wiki/Tags), can be used in Lightroom to attach generic words (tags) to a photo for retrieval. When you first fire up Lightroom there are no real guidelines for how to use Keywords. I thought I would post some of my best practices for others.

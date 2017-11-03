@@ -5,6 +5,7 @@ categories:
 ---
 
 I've been yearning for native IMAP for a long time now. Essentially since the day I got my iPhone. It got much worse as Leopard approached and the great features in Mail 3.0 were making me drool.
+
 It wasn't a simple decision though. I moved to GMail for really good reasons and I refuse to go back to running my own mail server. The result was to look at paid IMAP solutions but none of them offered the complete bevy of features I wanted. I finally identified both Fastmail and Tuffmail as having great services.
 
 I was days away from switching to Tuffmail when GMail announced IMAP support. I eagerly awaited my account to be activated and started using it immediately. However, it's a mixed bag unfortunately.

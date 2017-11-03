@@ -8,6 +8,7 @@ tags:
 ---
 
 I keep a mountain of content in iTunes and I am constantly accessing it one way or another. The iPad Remote application is one of the more common methods. It is a very well done application. Super easy, fast, polished.
+
 Except one thing. I have no idea why, but Remote insists on using a square **black** mask under cover art. Here is what it looks like.
 
 [![]({{ site.url }}{% link /assets/posts/2010/photo5.jpg %})]({{ site.url }}{% link /assets/posts/2010/photo5.jpg %})

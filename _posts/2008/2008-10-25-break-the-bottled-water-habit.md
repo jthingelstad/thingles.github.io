@@ -7,6 +7,7 @@ tags:
 ---
 
 I've posted before about the [immense problems with bottled water]({{site.url}}{% link _posts/2007/2007-09-11-stop-drinking-bottled-water.md %}). Tammy and I have been on a massive push to push all non-necessary plastic out of our lives banning bottled water was one of the first ones we did.
+
 I was browsing the web the other day and ran across a campaign where you can sign up to [Break the Bottled Water Habit](http://water.newdream.org/campaigns/water/register/6427ef56fb09c0bed80f8caa291482c9/).
 
 [![Break the Bottler Water Habit!](http://water.newdream.org/style/images/water_badge.gif)](http://water.newdream.org/campaigns/water/register/6427ef56fb09c0bed80f8caa291482c9/)

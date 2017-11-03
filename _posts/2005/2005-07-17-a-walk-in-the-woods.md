@@ -18,6 +18,7 @@ all of his books, they are extremely enjoyable. Walk in the Woods is
 exceptional though even for Bryson.
 
 The subject of the book is the [Appalachian Trail](http://www.appalachiantrail.org/).
+
 First, for those that don't kow about this trail, it is a 2,175 mile
 hiking trail that extends from Georgia to Maine. Every year people
 attempt to hike it's length, called "thru hikers", only a small

@@ -5,6 +5,7 @@ categories:
 ---
 
 Tammy and I have been talking for a couple years now about getting some land that we could eventually (10+ years) build a house on and maybe live on when Mazie (and any other potential, future kids -- settle down Grandma's, no news here) have moved out, etc. I've been thinking that we shouldn't bother waiting to get the land until then -- prices are likely to be higher and we could use it right now as a getaway on weekends.
+
 This Friday we did our first road trip to tour some options and looked at 6 properties in the Red Wing, Zumbrota area of Minnesota and in Wisconsin on the other side of the river. Mazie was with her grandparents so driving 240 miles in the country was actually pretty fun. We are looking at property between 15 and 25 acres. We want something within one to two hours from the Twin Cities. We want something fairly wooded, with a good building site. Electric service is not needed.
 
 It was really good to look at these properties because it helped clarify how we would use the land and what qualities are important for us. There is a lot that we want to do.

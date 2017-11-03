@@ -7,6 +7,7 @@ tags:
 ---
 
 I've gotten a lot of positive feedback from the release of [VeloTweets](http://www.velotweets.com/). Thank you everyone for that, and please help spread the word about the site. These projects are about creating something that people love. There is no business behind it. The more people that like it, the more likely we are to make further improvements to it.
+
 There is a secondary question that people have asked about extending something like VeloTweets into other sports. I think it is possible that could work, but I think that cycling has some unique characteristics that make it particularly well suited for Twitter. Through Twitter the peloton can send two really clear messages.
 
 <!-- more -->

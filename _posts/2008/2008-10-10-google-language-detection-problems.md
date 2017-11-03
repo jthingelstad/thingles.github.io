@@ -8,6 +8,7 @@ tags:
 ---
 
 When I was traveling in the UK I had a couple of really interesting experiences using the normal set of online services I use. The Internet really doesn't have a concept of countries, but I found myself unable to do some things while I was there because various online services made assumptions by mapping my IP address to a country. This is a process called [geo targeting](http://en.wikipedia.org/wiki/Geo_targeting) and it is used in online advertising almost always. My experience highlighted that you should be careful to use it for account settings or commerce transactions.
+
 For example, when I was in parts of the UK and tried to login to Google Reader I was greeted with this screen.
 
 ![google-reader-geotarget-language-login-fail]({{ site.url }}{% link /assets/posts/2008/google-reader-geotarget-language-login-fail.gif %})

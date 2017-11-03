@@ -5,6 +5,7 @@ categories:
 ---
 
 [![Fluid-Logo.png]({{ site.url }}{% link /assets/posts/2008/fluid-logo1.png %})](http://fluidapp.com/)So, you may be wondering what a site-specific browser is. In a nutshell, it is just a web browser that is packaged with some specific functionality or extensions to work with a specific website. I think this is going to be an interesting area over the coming years. If you think about how both Quicken and Money mesh the web into their applications, that is a very tiny sliver of a SSB.
+
 If you are a Mac user, you can have your very own SSB's to your hearts content. [Fluid](http://fluidapp.com/) is a program for your Mac that creates SSB's. You launch Fluid and with a couple of commands it creates another application that becomes that SSB. Why do this? Well, there are a number of reasons.
 
 <!-- more -->

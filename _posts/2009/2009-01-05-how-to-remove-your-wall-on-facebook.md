@@ -7,6 +7,7 @@ tags:
 ---
 
 I've become more of a fan of [Facebook](http://www.facebook.com/) over recent months ([see my profile](http://www.facebook.com/profile.php?id=605776057)). They have made a number of improvements that I really like, and the number of people joining the service seems to just increase more and more over time. I'm really amazed at home many people you can find on it. I think they are well on their way to being the de facto White Pages of the Internet.
+
 With that said, I don't like the Wall feature of Facebook at all. For whatever reason, I'm just not real hip on anybody coming to my profile and just typing away. I've turned my wall off for a long time, and enough people have commented to me "Hey, you don't have a wall! How did you do that?" that I thought I would share how to remove your wall.
 
 Now, to be clear, we are not removing the wall per se. Facebook will not allow you to remove the Wall application. Instead, we are going to adjust privacy settings to hide the wall entirely. First, go to your privacy settings.

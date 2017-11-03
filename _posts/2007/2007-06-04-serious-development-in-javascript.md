@@ -7,6 +7,7 @@ tags:
 ---
 
 ![ajax.jpg]({{ site.url }}{% link /assets/posts/2007/ajax1.jpg %})JavaScript is a really powerful development environment. Really.
+
 Many developers don't agree with that statement. I think there are a couple of reasons for that. First, the word "script" appears in the name of the language and developers are often pejorative of anything with the script word in it. The logic goes something like scripting may be fine for hacking out little things, but cannot be used to build real applications.
 
 I think the other black eye for JavaScript was that the first uses of the language were purely trivial. Remember the first time you had [snowflakes falling on a web page](http://www.hypergurl.com/snowmaker.html)? Or how about going beyond blinking text to text just jumping all over the place. True, the first implementations using the language were primitive.

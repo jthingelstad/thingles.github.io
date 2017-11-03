@@ -5,6 +5,7 @@ categories:
 ---
 
 I've went a little crazy over the last few weeks with some new shoe experimentation. To put this in context, I'm a really boring shoe guy. Up to this point in time, I've never been a fan of shoes that are "two-tone", they had to be dark, subtle colors and generally shouldn't stand out. My dress shoes were all [Allen Edmonds](http://www.allenedmonds.com/), which are great shoes but as my wife points out more fitting for the 50-something crowd.
+
 A few weeks ago we were in Macy's looking for new dress shoes to displace the Allen Edmonds and I stumbled upon these shoes.
 
 [![eccowalkathon.jpg]({{ site.url }}{% link /assets/posts/2007/eccowalkathon1.jpg %})](http://www.zappos.com/n/p/dp/5014934/c/126.html)

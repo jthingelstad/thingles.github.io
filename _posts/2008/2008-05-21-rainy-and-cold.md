@@ -7,6 +7,7 @@ tags:
 ---
 
 Today was our first full day in [Glacier National Park](http://www.nps.gov/glac/). This place is pretty amazing. Our cabin is a just a couple of steps from McDonald Creek, connecting to Lake McDonald. The water moves quickly, and is so clear that you can see right through it to all the rocks underneath, even at several feet of depth.
+
 Glacier has just opened up for the season. There is only one restaurant open, and it just started up again on Friday. We've been there three times so far. Today was cold and rainy. Unfortunately it looks like we will have more of this. The forecast is for rain and temperatures in the upper 40's to low 50's for our whole visit. We took it easy today and only really walked around for a couple of hours. Mazie spent two days in a car seat so she got some nice time to just hang out in the cabin and play with toys. With the rain and temperature, Tammy and I were happy to oblige.
 
 I'm making my way quickly through _Into the Wild_ by _[Jon Krakauer](http://en.wikipedia.org/wiki/Jon_Krakauer)_. I watched _[Into the Wild](http://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0307387178/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1211599263&sr=8-1)_ a month ago and the movie really struck me. My friend [Kent](http://www.thetangens.net) borrowed me his copy of the book. Reading it in Glacier is a bit of a treat since Alexander Supertramp "tramped" around this area a bit. In fact, I'm sure that he hitched a ride on the rails going right through Glacier. More about this book at another time.

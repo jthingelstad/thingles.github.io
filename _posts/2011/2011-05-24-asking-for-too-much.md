@@ -5,6 +5,7 @@ categories:
 ---
 
 Softball season has arrived again and the [B-Squad](http://www.bsquad.org/) is back out trying to win a game. My softball team calls Dusty's in Northeast home, and after every game (and sometimes before) you will find us at Dusty's enjoying a Grain Belt Premium.
+
 Part of our ritual is the jukebox and Dusty's has now upgraded their jukebox to a fancy new version that has a touch screen display as well as a connection to the Internet to do various things. I would assume it gets new music that way. It also can get messages about what to play from the Internet and there is a handy little iPhone app that you can install for free to control the jukebox. I was eager to give this a try.
 
 I downloaded myTouchTunes to do some remote control of the Dusty's jukebox. I expected to just be able to install it, connect to the jukebox through some lookup and somehow pick songs. However, it seemed I had to create an account with myTouchTunes to do that. Annoying, but okay I thought. I'll make an account and I'm guessing you can save some preferences or something for me (although, that could just be done on my phone). So I tapped the Register button to make an account and got this screen.

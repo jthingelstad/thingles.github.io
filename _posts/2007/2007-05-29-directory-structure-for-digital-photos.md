@@ -7,6 +7,7 @@ tags:
 ---
 
 It seems that a lot of people have a hard time settling on a file structure to use for their digital photos. There are a number of different approaches, and the tools that you use will heavily influence this but I think it's important to settle on something independent of your tools since those will change over time.
+
 There are a couple of things you want to make sure to accomplish with the directory structure that you use for your photos.
 
 

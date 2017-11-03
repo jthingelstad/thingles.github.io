@@ -8,6 +8,7 @@ tags:
 ---
 
 The [iTunes](http://www.apple.com/itunes/) ecosystem is pretty amazing. It spans my exercise routine (iPod Nano), entertainment on a flight ([my iPhone]({{site.url}}{% link _posts/2007/2007-07-01-i-got-my-iphone.md %}) and kicking back on the sofa for a movie (Apple TV). But there is another frontier that remains unserved. A frontier that is a prime media opportunity. _The car_.
+
 There were some [rumors a couple months ago about iCar](http://www.macrumors.com/2007/08/29/volkswagen-apple-working-on-icar/). Apparently Apple met with Volkswagen to discuss who knows what. Perhaps we'll see a black and silver VW bug coming out in future years that matches the iPhone aesthetic. (Just kidding, that's ridiculous.) But the car is a media platform, and there are few good options.
 
 I've had a [Phatbox in my Audi A6]({{site.url}}{% link _posts/2005/2005-06-05-phatbox-installed.md %}) for a while now. I love it, but it's a bit quirky. It also lacks two key features that really make it suffer. There is no WiFi so you have to undock it's hard drive to add music, and no ability to integrate with iTunes. In fact, it doesn't even have a Mac loader. A huge shout out to Cameron Silver though for creating [PhatMac](http://buzzneon.com/PhatMac/) for us Mac users. PhatMac even integrates with iTunes Smart Playlists which is a start.

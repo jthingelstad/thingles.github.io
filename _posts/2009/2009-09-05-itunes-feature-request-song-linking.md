@@ -8,6 +8,7 @@ tags:
 ---
 
 A couple of weeks ago I was having an email dialog with my friend Dave Oosterhuis about [iTunes](http://en.wikipedia.org/wiki/Itunes) [metadata](http://en.wikipedia.org/wiki/Metadata). We had been discussing the finer points of dealing with duet albums. Are they [compilations](http://en.wikipedia.org/wiki/Compilation_album)? No. What artist field do you set? It's all just a bit annoying for the obsessive-compulsive crowd.
+
 During this exchange he suggested a feature in iTunes that I now really wish I had. If only I would have been able to remain ignorant. His idea is that iTunes should support "song linking". He isn't a blogger, so I decided to put this idea out there in the hopes that millions of people on the Internet will barrage Apple with requests to make this happen.
 
 The basic premise behind Song Linking is that sometimes you have more than one copy of the same song, or maybe a just slightly different version of the same song. Immediately the song [If I Can't Change Your Mind](http://www.last.fm/music/Sugar/_/If+I+Can%27t+Change+Your+Mind) by [Sugar](http://en.wikipedia.org/wiki/Sugar_(band)) came to my mind. Sugar was more prolific with singles than most bands. This song appears on their first album, [Copper Blue](B0000009OI

@@ -5,6 +5,7 @@ categories:
 ---
 
 We have been enrolled in the [Windsource](http://www.xcelenergy.com/Save_Money_&_Energy/For_Your_Home/Renewable_Energy_Programs/Windsource_for_Residences_-_MN) program for years now, ever since it was first started. Windsource is a program that [XcelEnergy](http://www.xcelenergy.com/) provides that you can opt-in to buy renewable energy to offset your energy use. While the actual watts going to your house are not necessarily "wind watts", XcelEnergy is then purchasing that much wind energy to offset your usage. It's a good program, relatively cheap and allows me as a customer to express my wish for renewable energy without installing it myself, which isn't really feasible.
+
 I found this [blog post on The Deets](http://www.thedeets.com/2011/06/12/the-xcel-energys-windsource-program-financial-hedge/) that highlighted a benefit I didn't even realize though about Windsource. Since the energy I'm buying is renewable, I don't have to pay the Fuel Cost Charge. I didn't even realize there were credits you got if you opted into Windsource.
 
 [![]({{ site.url }}{% link /assets/posts/2011/electric-bill.gif %})](http://thingelstad.com/s/windsource-savings/electric-bill/img)

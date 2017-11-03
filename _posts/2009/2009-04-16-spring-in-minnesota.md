@@ -7,6 +7,7 @@ tags:
 ---
 
 Today, at 11:45 am the temperature at our house went over 70° for the first time in many, many months.
+
 This is the cause of much joy and elation in our wonderful part of the world. I love winter, but more than almost anything else I love the transition into summer.
 
 [My robot](http://twitter.com/thinglesbot/) even caught this special event.

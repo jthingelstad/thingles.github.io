@@ -32,6 +32,7 @@ There are only a few rules to the change game.
 ## Basic Strategy
 
 When playing the change game you need to keep an eye on your current status. Strategically, certain combinations of coins are more likely to yield a win or be used quickly. Also, remember that small coins can be moved quickly.
+
 For example, while 5 pennies are a lot of coins, you can use them very quickly as a nickel substitute.
 
 ![Penny][] ![Penny][] ![Penny][] ![Penny][] ![Penny][] ![Right Arrow][] ![Nickel][]
@@ -51,6 +52,7 @@ To test wether this is indeed the case we analyzed 2,886 transactions over a 7 y
 The distribution is not even. Nine values appear over 40 times in this analysis: $0.02, 0.04, 0.50, 0.80, 0.90, 0.94, 0.95, 0.98 and 0.99. While these 9 numbers only represent 9.1% of the possible winners, they are 15.8% of the transactions. In fact, if you just focus on the values above $0.90, those four values which only represent 4.0% of the possible outcomes are 7.8% of the actuals.
 
 It is also clear that certain ranges or values should be avoided. There are nine more values that appear fewer than 20 times: $0.12, 0.27, 0.31, 0.33, 0.41, 0.58, 0.62, 0.66 and 0.74. While these should represent 9.1% of the winners, they actually are only 5.3%. Clearly combinations that should be avoided.
+
 In general you can observe in the pattern that the range above $0.50 has a slightly higher likelihood of winning than the range below it.
 
 ## Winning

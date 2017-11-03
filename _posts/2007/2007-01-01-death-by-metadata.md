@@ -8,6 +8,7 @@ tags:
 ---
 
 My software needs to start doing more work for me. Really. Either that or I need to get a digital librarian. What for you ask? I feel like I'm dying under the weight of [metadata](http://en.wikipedia.org/wiki/Metadata), data about data.
+
 The vast archive of 33,000 digital photos that I have, the 400GB of music I've ripped from my CD collection and the hours of digital video are all great. It's awesome, and I wouldn't go back for anything. However, all this digital data has metadata as well, and that metadata doesn't just magically exist. It has to be placed there somehow.
 
 For example, I've recently moved all of my photos into Adobe Lightroom. Lightroom is awesome and is lightyears (no pun intended) ahead of the file-system approach I used to manage my photos with. One of the great things it can do is tag photos (bill, bob, cat, dog, house, etc) and put them in collections (Wedding Photos, France Vacation, etc). After tagging, finding those pictures of Bill, Bob and a cat is as easy as a simple query. No more digging through hundreds or thousands of files. Want a picture of a squirrel? One click will do.

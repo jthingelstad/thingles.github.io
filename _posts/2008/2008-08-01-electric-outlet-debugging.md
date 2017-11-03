@@ -5,6 +5,7 @@ categories:
 ---
 
 A few months ago I took the plunge back into aquariums. I got a small, mini-reef setup and put it in the basement. We were trying to figure out where to put it and considering a lot of things including shade from natural light, viewing options, cleaning clearance and very importantly proximity to electricity. Relative to the last item we placed it conveniently 1-foot from an outlet. It is important to note that up to this point, we had never had an occasion to use this outlet.
+
 We put the tank in place, filled it with water and salt, and went to start it up but nothing worked. We quickly figured out the electric outlet wasn't working. Noting that we have dozens and dozens of switched outlets (however only the top plugs) we tried a bunch of stuff and nothing worked. There was no electricity there. Needing to get the tank running I ran the cord in front of some stairs and plugged it in a few feet away to deal with later.
 
 Today my father-in-law, Don Olson, came over and lead the charge dealing with this. I'm more than happy to dive head first into the most complex of networks and spiders web of 10Base-T cables, but when it comes to 110v AC I haven't got a clue. Don on the other hand is the reverse and feels totally at ease with these odd white and black wires.

@@ -5,6 +5,7 @@ categories:
 ---
 
 This morning I read the news about [Gawker having 1.3 million passwords taken from their servers](http://www.readwriteweb.com/archives/twitter_spam_attack_tied_to_gawker_security_breach.php). These passwords were attached to email addresses. What do you need to login to Amazon again? Email, got it. Password, probably have that to.
+
 I read this article with a bit of smugness. I'm certainly a proficient user of the Internet and I know all the risks of sharing passwords, but until a couple of months ago I was as guilty as the worst offenders out there. I had three passwords, one that was really sloppy for sites that I didn't care so much about. Another for semi-secure sites. And a third that I used for stuff that mattered. But even that bit was sloppy and not really managed well. The password was short, could be brute forced, etc.
 
 [![]({{ site.url }}{% link /assets/posts/2010/1Password-logo-170x170.jpg %})](http://agilewebsolutions.com/onepassword)Then I decided to take the plunge and do passwords right. I had meant to do it forever, but just didn't get around to it. In fact, I'm a bit embarrassed to admit that even [having my PayPal account hacked]({{site.url}}{% link _posts/2009/2009-10-23-unauthorized-transactions.md %}) didn't get me to "see the light" when it came to passwords. I knew I couldn't do this on my own, I needed a tool to help. I had bought 1Password forever ago in the first [MacHeist](http://www.macheist.com/) so I looked into the product again, liked what I saw, bought an upgrade to the newest version and was off.

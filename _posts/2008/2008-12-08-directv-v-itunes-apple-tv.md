@@ -8,6 +8,7 @@ tags:
 ---
 
 I recently was doing a review of some of our monthly expenses. With the economy in the toilet I think this is a pretty common activity. Mainly I wanted to look for things that we weren't necessarily using, or didn't think we needed anymore. The trick to doing this exercise is to annualize all the expenses. $50 a month doesn't sound nearly as expensive as $600 a year.
+
 Mostly everything was fine, but one number jumped out at me in a very big way -- DirecTV satellite TV service.
 
 $1,079.88

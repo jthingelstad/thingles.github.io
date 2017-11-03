@@ -5,6 +5,7 @@ categories:
 ---
 
 Now that I've upgraded to iOS 4.3 I was itching to enable Personal Hotspot on my iPhone 4. I take the bus to work most of the time and want to use Personal Hotspot to get my MacBook Air and iPad online for the trip. However, both Tammy and I were still grandfathered in to the original iPhone unlimited data plan and AT&T will not let you do unlimited data with the Personal Hotspot feature. I had to move to a metered plan to get the win.
+
 I went on the AT&T website and they now have this great feature that will show you your trends. I consider myself a bit of a data pig and use my phone all the time. The numbers really surprised me.
 
 ![]({{ site.url }}{% link /assets/posts/2011/jamie-data-usage.png %})

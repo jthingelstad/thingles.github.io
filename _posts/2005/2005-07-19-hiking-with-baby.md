@@ -6,7 +6,9 @@ redirect_from: /hiking-with-baby/
 ---
 
 I was reading some "evergreen" content on [BabyCenter.com](http://www.babycenter.com/) tonight. They have some semi-decent [content targeted at dad-types](http://www.babycenter.com/dads/). Anyway, they highlighted hiking as an activity to do with your baby. I like hiking so took a gander.
+
 They mentioned this group started in San Francisco called [Grateful Dads](http://www.gratefuldads.com/missionstatement.html).
+
 It's a group of dads that get together once a month on a weekend
 morning and go for a hike. It's all dad's and the kids vary from very
 young, 2-3 months to about 2 years old or even older. I checked out the

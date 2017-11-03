@@ -7,6 +7,7 @@ tags:
 ---
 
 It's been a couple of busy late nights here for me. I've been doing major work with [my websites](http://thingelstad.com/s/websites/img), including this one.
+
 The last two months have been rough for thingelstad.com. There has been a lot of downtime and slow responses. I moved to TextDrive (no link for these guys) a while back and it was just horrible. I don't feel like using the kind of language I would need to describe how much I was frustrated with TextDrive. Let's just consider it a bad period.
 
 [![]({{ site.url }}{% link /assets/posts/2007/dreamhostlogo1.jpg %})](http://www.dreamhost.com/)I was looking for a new provider and a [friend](http://www.raanan.com/) recommended [Dreamhost](http://www.dreamhost.com/). I started looking into it and liked what I saw. [![]({{ site.url }}{% link /assets/posts/2007/green21.gif %})](http://www.dreamhost.com/green.cgi)They had an amazing promotion for their 10 year anniversary for a year of hosting for $9 ($119 with a $110 discount) so I went for it. I'm absolutely loving Dreamhost. The administrative interface is slick and fast. The directory layout they give you makes sense. You can even SSH in and do command line things when needed. This is a huge saver from time-to-time. On top of all that, Dreamhost buys carbon credits to neutralize their data center. While I'd rather they used real renewable energy, this is a start.

@@ -5,6 +5,7 @@ categories:
 ---
 
 [![jonstewartrichardavedon.jpg]({{ site.url }}{% link /assets/posts/2007/jonstewartrichardavedon1.jpg %})](http://www.jonstewart.com/)Last night we went to see [Jon Stewart](http://www.jonstewart.com/) do his stand-up show at the Orpheum downtown. I'm a very committed fan of [The Daily Show](http://www.comedycentral.com/shows/the_daily_show/index.jhtml), and some friends ([here](http://www.jimbernard.net/) and [here](http://www.thetangens.net/)) and I got the opportunity to actual see a taping of The Daily Show a few weeks ago. Stewart's delivery is a riot, and his writing team is top notch.
+
 A friend of Tammy's saw that he was coming and called us up to see if we wanted to go. There wasn't much thinking required -- of course. The show was great.
 
 He came on stage with almost no introduction, just five or six words, no warm-up act, he just walked out and started throwing out some great material. I laughed so hard that at the end of the 90 minute performance I was hoping he would stop soon because I was just wore out!

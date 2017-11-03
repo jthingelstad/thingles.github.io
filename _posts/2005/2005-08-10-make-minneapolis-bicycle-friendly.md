@@ -5,6 +5,7 @@ categories:
 ---
 
 A few months ago I [sent a suggestion to the mayor of Minnetonka]({{site.url}}{% link _posts/2005/2005-03-20-make-minnetonka-bicycle-friendly.md %}) to request that they work with the League of American Bicyclists to get Minnetonka the designation of a Bicycle Friendly city. She had someone on her staff look into it but they ultimately decided it would be too difficult to pursue.
+
 In the new flyer from the League I noticed that Chicago had just received this designation. So, I dropped a note to [Mayor Rybak](http://www.ci.minneapolis.mn.us/mayor/) of Minneapolis on this topic. Maybe Minneapolis would go for this. If you think this is a good idea, how about sending him a note yourself.
 
 > Mayor Rybak,

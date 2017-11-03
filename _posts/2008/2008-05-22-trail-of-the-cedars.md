@@ -8,6 +8,7 @@ tags:
 ---
 
 Contrary to the predictions of the weather people, today was a better day than yesterday. The temperature seemed slightly warmer and there was definitely much less rain. We stayed dry most of the day, except for our treacherous trip to East Glacier.
+
 We had a great breakfast at the West Glacier Restaurant. The _only_ restaurant open. Tammy and I are both confused why there are nearly 10 gift shops open in the park, but only one restaurant. It would seem that visitors in need of gifts would also be in need of dining. After breakfast we took headed up the Going-to-the-Sun Road as far as we could go, to Avalanche. It seemed like a popular destination as there were more cars parked there than we'd seen almost anywhere this early in Glacier.
 
 Tammy and I have been trying to gauge our hiking (if you can call it that) expectations with little Mazie. As is typical, we have different worries. I'm worried about her getting in way over her head on even a moderate trail and that we are idiotic parents if we don't have a basic first aid kit, compass, tent, sleeping bag, 3 weeks of food, etc. along if we have a small child with us. Tammy on the other hand isn't worried about any of that, she's just afraid of the bears.

@@ -9,6 +9,7 @@ tags:
 ---
 
 [![rails2008_logo_conf.gif]({{ site.url }}{% link /assets/posts/2008/rails2008-logo-conf.gif %})](http://en.oreilly.com/rails2008/)We just left Portland today on our continuing Summer of Love trip. You wont find much about Portland from me though. Our stop in Portland for me was a visit to [RailsConf 2008](http://en.oreilly.com/rails2008/). Tammy did post about her thoughts on Portland. It was totally awesome that our good friends, the Tangen's were able to come out and join us in Portland. Kent attended RailsConf with me, and Maril, Simon and Caroline hung out with Tammy and Mazie. Mazie just adored Caroline the whole time.
+
 Let me share some of my comments on RailsConf 2008. I'm not going to dive into super detail on the Rails 2.1 release announced at the conference, or the details of various sessions. You can find that elsewhere online and many of the presentations and sessions are now up on the RailsConf wiki.
 
 <!-- more -->

@@ -6,6 +6,7 @@ categories:
 ---
 
 I just got home from another business trip. I seem to be in the middle of another spat of business travel with all the requisite fun of airports, flights, taxis, rental cars and hotels.
+
 As I drove to the airport for this trip I noted the electronic sign at the entrance of the airport proclaiming:
 
 **Threat Level Orange**

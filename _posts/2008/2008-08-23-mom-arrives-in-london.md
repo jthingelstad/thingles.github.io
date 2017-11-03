@@ -9,6 +9,7 @@ tags:
 ---
 
 Yesterday afternoon my Mom arrived in London to join us for part of our month abroad! She is hanging out with us a couple of days and then will be exploring London with Mazie while Tammy and I flit over to Scotland for a couple of days.
+
 After a week here her new husband Kurt, will be joining us and they will be going off for a week of fun on their own in Scotland with a quick trip to Paris.
 
 My mother is an energy generator. She arrived here just ready to get going and without even adjusting to the time change she headed off with Tammy to the Beatles Festival in Liverpool!

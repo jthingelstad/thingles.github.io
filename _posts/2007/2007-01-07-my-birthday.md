@@ -9,6 +9,7 @@ tags:
 ---
 
 A couple of days ago it was my birthday! _Have I mentioned how amazing my wife is?_ Anyway, it was my birthday, or should I say the week of my birthday. The festivities have continued all the way to today.
+
 We have decided in our household that birthdays are vacation days so I take my birthday, Tammy's and Mazie's off of work and we spend the day as a family. Tammy this year just made the most amazing birthday I could ask for.
 
 It wasn't just the gifts, which were great. It wasn't just the plans and events, which were awesome. Not even the "Dad-oriented" schedule, which was very nice. To be sure, she spoils me greatly. **Thanks Dear! You rock! **

@@ -10,6 +10,7 @@ tags:
 ---
 
 I [upgraded to Lightroom 2](http://twitter.com/thingles/statuses/871953202) as soon as it was available. I was lucky enough to be part of the beta program but I didn't give it the time needed to really dive in. Now that it is released, I've upgraded and have really enjoyed the new features. Just like in Lightroom 1, I spend most of my time in the Library module. But perhaps the biggest feature in [Lightroom](http://www.adobe.com/products/photoshoplightroom/) 2 comes in the Develop module with the Localized Corrections feature.
+
 Localized Corrections isn't a great name for a killer feature. Basically, in Lightroom 2 you can create a mask and then apply develop effects to that mask. You can have multiple masks in the same photo. You could have done this stuff in Photoshop but that round-trip to Photoshop is painful and I know Lightroom so much better than Photoshop. I'm happy to avoid Photoshop.
 
 With these tools easily at hand, I found yesterday how with just a few seconds you can really make pictures that once looked rough pretty good. Let's take a look at three pictures from the bus tour we took yesterday.<!-- more -->This first picture is just a shot down the Thames in London. It's not very good with too many clouds and not even taken level. It was taken from a moving bus after all.

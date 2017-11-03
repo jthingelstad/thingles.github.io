@@ -7,6 +7,7 @@ tags:
 ---
 
 ![iTunes Icon.png]({{ site.url }}{% link /assets/posts/2009/itunes-icon.png %})I have all of my music in [iTunes](http://www.apple.com/itunes/) and it is my central hub for distributing nearly all content to various iPods, iPhones and Apple TV's throughout the house and on-the-go. In my iTunes library, as of right now, I have 18,439 items totaling over 65 days of continuous music without any repeats. The only way to get the most out of a really large music collection is to leverage Smart Playlists extensively, and I do.
+
 I have dozens of Smart Playlists to listen to all kinds of slices of my music archive. Creating these Smart Playlists involves setting the criteria of what I want in the playlist, but also, what I don't want in the playlist. For example, unless the playlist is for Mazie's enjoyment, I don't want any Children's Music in it. Similarly, unless the playlist is for the holidays, I don't want Christmas music popping up. Sure, it's a 5-star Christmas song, but that doesn't mean I want to hear it in my 5-star Smart Playlist in July.
 
 So, I started by having a lot of repeated rules in my Smart Playlists and having to update dozens of things anytime some of my criteria changed. After dealing with that, I figured out a way to be a lot smarter about my Smart Playlists. Use a Smart Playlist to remove the stuff you don't want in other Smart Playlists.

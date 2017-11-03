@@ -5,6 +5,7 @@ categories:
 ---
 
 It's official! We have just finished the 5th week our trip. This was our last true day of vacation here in Charleston. We will hit the road early tomorrow heading through Atlanta with a brief stop at the Atlanta aquarium and then continuing our long journey home.
+
 We got rained out in the morning today on our visit to the [Boone Hall Plantation](http://www.boonehallplantation.com/). Boone Hall is the only plantation still operating in America, they grow fruit now. It also has one of the most amazing entrances I've ever seen.
 
 ![o_20060928-105222-9277]({{ site.url }}{% link /assets/posts/2006/o_20060928-105222-9277.jpg %})

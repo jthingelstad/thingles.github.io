@@ -10,6 +10,7 @@ redirect_from:
 ---
 
 When I got my [Big Green Egg](http://biggreenegg.com/) I got the large table to go with it. It seemed okay, not great. I knew I wanted to have a good work surface for my Egg and I didn't think the simple fold out "wing" tables would work at all. I know a lot of Eggheads make their own tables. There are some [wonderful plans online](http://www.nakedwhiz.com/cart.htm) that help out. But I don't have even the basic woodworking skills, or patience, to do that. So I just went with the table from the store.
+
 It was okay but pretty quickly I was disappointed with it. The build quality wasn't great. It was stapled together instead of using screws. But it worked so that is what I used for the first year.
 
 I'm glad I did because it allowed me to really figure out what I wanted in a custom table for my Egg. After a lot of searching I found a carpenter to work with and after a design session with some sketches I now have my dream Egg table.

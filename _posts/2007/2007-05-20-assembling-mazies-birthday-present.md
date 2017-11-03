@@ -8,4 +8,5 @@ tags:
 ---
 
 One of the cool features of [my new Canon SD750]({{site.url}}{% link _posts/2007/2007-05-20-canon-sd750.md %}) is a brain-dead simple way to do time-elapsed movies. I just had to play today while putting together Mazie's birthday present. In case you are wondering, it isn't Mazie's birthday today. That's a few weeks away but the present we got her had arrived and we decided to let her have it now. Fewer things on her actual birthday make it easier for her little 2 year old self.
+
 Anyway -- here in 48 seconds is Mazie and I putting together her new table and chairs. I love it.

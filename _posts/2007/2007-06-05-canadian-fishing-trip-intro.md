@@ -6,6 +6,7 @@ categories:
 ---
 
 I will soon be departing on a [Canadian Fishing Adventure](https://thingles.backpackit.com/pub/885111). T-minus _nine days_ before I head out with my father-in-law and all my brother-in-laws to Canada for a week of fishing giant fish. Really giant fish. Fish that, if you are not careful, can severely injure you. I'm not an expert fisherman. I'm not even a basic fisherman. I haven't fished for a decade, and this trip will double the amount of time I've fished in probably my entire life. This fills me with some trepidation.
+
 However, I'm also really excited. This isn't the type of trip I would typically go on so it's fun to try something completely outside of your typical zone. Plus, fishing is loaded with gear and I'm a gear addict so that is fun. We'll be departing for our trip and heading into the great unknown with a sun that never sets and [more water than land](http://maps.google.com/maps?f=q&hl=en&q=N52.88794+W87.85125&ie=UTF8&t=k&om=1&ll=52.893785,-87.845306&spn=0.108533,0.300064&z=12&iwloc=addr), [GPS](http://www.garmin.com/products/gpsmap60csx) in hand of course.
 
 [![figslogopurple.jpg]({{ site.url }}{% link /assets/posts/2007/figslogopurple1.jpg %})](http://www.figamajigs.com/)We'll be eating a lot of fish. I'm going to pack some extra stuff just in case. I've ordered some wacky natural bars to take along called [Figamajigs](http://www.figamajigs.com/). They are supposedly pretty good, and should be a nice break if desired.

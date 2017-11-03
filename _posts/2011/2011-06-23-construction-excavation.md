@@ -8,6 +8,7 @@ tags:
 ---
 
 I came home tonight and was excited to see the first significant work on the excavation around the house.
+
 This digger was in the front yard getting its work done.
 
 [![]({{ site.url }}{% link /assets/posts/2011/photo-5.jpg %})](http://thingelstad.com/s/construction-excavation/photo-5-2/img)

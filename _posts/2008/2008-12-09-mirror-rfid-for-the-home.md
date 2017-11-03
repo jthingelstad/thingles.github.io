@@ -5,6 +5,7 @@ categories:
 ---
 
 I've been wondering when these little [RFID](http://en.wikipedia.org/wiki/Rfid) gadgets will start to make a presence in the home. Big companies have done pretty amazing things with their supply chains using RFID, but what use will a _geeky_ household be able to make of RFID. There hasn't been much.
+
 I was interested to see an email this morning from [Violet](http://www.violet.net/), the makers of the [Nabaztag](http://www.nabaztag.com/en/index.html). This company is definitely "out there". I've tried explaining the Nabaztag to visitors and they just look funny when you tell them "it is a WiFi Rabbit". Then it starts talking and moving its ears and they really wonder. Both Violet and [Ambient Devices](http://ambientdevices.com/), makers of the [Ambient Orb](http://ambientdevices.com/cat/orb/orborder.html), are doing some really interesting things bringing the web into the real world. [Mir:ror](http://www.violet.net/_mirror-give-powers-to-your-objects.html) is Violet's newest product. This video explains it best.
 
 {% include embed/youtube.html youtube_id="NruxD1ZDdig" %}

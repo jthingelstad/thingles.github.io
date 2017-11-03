@@ -8,6 +8,7 @@ tags:
 ---
 
 This past weekend Tammy and her sisters Corinne, [Angie](http://www.lundeenscene.blogspot.com/) and [Michelle](http://hmfernandez.com/) threw a surprise birthday party for their Dad, Don Olson.
+
 It was a very nice party and Don was totally surprised. Denny and Corinne made some awesome food and about 70 people were there. My job for the event was to get a video together. We did interview scenes with all the girls and mom, along with a bunch of pictures.
 
 http://www.vimeo.com/1506195

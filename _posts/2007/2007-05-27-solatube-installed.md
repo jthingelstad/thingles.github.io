@@ -5,6 +5,7 @@ categories:
 ---
 
 A few weeks ago I was flipping through a recent issue of [Home Power](http://www.homepower.com/) magazine and I stumbled upon an article abut solar tubes. (Sorry, I would provide a link to the article but they don't make it available online.) Solar tubes are not new technology, but there has been some pretty amazing improvements in recent years. The author of the article had installed a Solatube in his office and was very pleased with it. [![solarmidwest.jpg]({{ site.url }}{% link /assets/posts/2007/solarmidwest1.jpg %})](http://www.solarmidwest.com/)Shortly after this we ran into [Solar Midwest](http://www.solarmidwest.com/) while we were at the [Living Green Expo](http://www.livinggreenexpo.org/). They had the Solatube units on display and I got to ask a ton of questions. Shortly after that I got a quote and decided to get one installed.
+
 The basic principle of the [Solatube](http://www.solatube.com/) is exremely simple. You mount a light collector on your roof. You then run a 10" or 14" tube that is exceptionally reflective to a room in your house. There are three main areas of technical focus. Making the collector dome as efficient as possible, losing as little light as possible in the tube, and distributing in the room in an even way. This diagram from Solatube's website sums it up well.
 
 [![solatube.jpg]({{ site.url }}{% link /assets/posts/2007/solatube1.jpg %})](http://www.solatube.com/res_edu.php)

@@ -5,6 +5,7 @@ categories:
 ---
 
 Let me nitpick for a moment. I'm a huge fan of [Omnifocus](http://www.omnigroup.com/products/omnifocus/) and I use it on my Macs, iPhone and iPad. I've bought it for everything I use regularly and I use it dozens of times every day. One of the key things that Omnifocus does so well is synchronize all of your task data across all the devices you use. It works great. I've never had it lose anything and I can really trust that nothing gets lost.
+
 However, when I synchronize my phone I'm always irked with the screen. The problem: **synced**.
 
 [![]({{ site.url }}{% link /assets/posts/2011/synced-on-iphone.jpg %})]({{ site.url }}{% link /assets/posts/2011/synced-on-iphone.jpg %})

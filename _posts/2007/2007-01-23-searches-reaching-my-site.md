@@ -7,6 +7,7 @@ tags:
 ---
 
 I've had [Google Analytics](http://analytics.google.com/) on my website since it became free. It's amazing the amount of detail it gives you. I barely use 10% of the data that it provides.
+
 Recently a friend of mine did some research on search terms that people used to get to his site. I was inspired to do some reflection on the search terms used to get to my site as well. Some observations.
 
 

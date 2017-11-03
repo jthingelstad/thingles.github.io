@@ -7,6 +7,7 @@ tags:
 ---
 
 A little over a year ago I created a handful of stingers to use on video content that I create. The stinger serves a bunch of purposes. On the practical side it gives the movie player and data stream to get going. I often notice that in the first couple of seconds of video there are some breaks and with a stinger that happens before the content starts. Also, you can name your site and show what license terms apply to it (the later is something I forgot to do in my first stingers).
+
 I decided to redo them and improved a number of things:
 
   * Made the stingers 5 seconds long. The first ones were 7 seconds and just a little too long.

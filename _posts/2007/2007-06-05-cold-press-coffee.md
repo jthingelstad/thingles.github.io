@@ -7,6 +7,7 @@ tags:
 ---
 
 I had a great coffee moment today that I just have to share. It's worthy of sharing because there is information here that is new to me, and it highlights why small, local coffee shops are great.
+
 I have two "coffee moments" each day. The first one is at home with my [DeLonghi Espresso machine]({{site.url}}{% link _posts/2006/2006-10-16-triple-caffeine-shotgun-to-the-head.md %}) that I'm still loving. Two shots easily obtained with the press of a button. Just great. The second one is in the afternoon with a quick walk to [One on One](http://www.oneononebike.com/) and get some afternoon espresso.
 
 It's summer now, or at least summer enough, and I've now switched to iced drinks in the afternoon. My typical drink is iced espresso. It used to be a triple shot over ice, but I've brought it down to a double shot over ice to reduce the shakes later in the evening (too much caffeine!).

@@ -7,6 +7,7 @@ tags:
 ---
 
 I've been cleaning up some old, old files on my machine and have run into some really fun stuff. I'll have a few posts with some of this stuff.
+
 Here is a fake homepage for [MarketWatch](http://www.marketwatch.com/) that was created by our editorial team in San Francisco on the day that webfront died. You see, in the ancient days, MarketWatch had one publishing server called webfront, and one day it died. It was never coming back and that sucked. We couldn't publish anything. We had been working on other solutions and those got an immediate boost that day. In the matter of 24, or 36, or 48 hours -- the number seems to get bigger with time -- we put in place a whole new system for publishing content.
 
 ![cbs-marketwatch-fake-frontpage.gif]({{ site.url }}{% link /assets/posts/2008/cbs-marketwatch-fake-frontpage.gif %})

@@ -7,6 +7,7 @@ tags:
 ---
 
 I've grown tired of the [Wordpress](http://www.wordpress.org/) theme I was using, [K2](http://www.getk2.com/). It's a nice theme, but I didn't like how heavy it was and I started growing more frustrated that it wasn't "stretchy". I searched for a bit tonight for something better and after trying a number of them out, I found [blog.txt](http://www.plaintxt.org/themes/blogtxt/). I wasn't sure about it at first, but I'm really liking it now. It's super, super-simple and I like the elegance of it. I'm having some trouble getting [Ultimate Tag Warrior](http://www.neato.co.nz/ultimate-tag-warrior/) to play with it, but I think it's doable.
+
 Let me know what you think, or if you find something broken.
 
 **Update**

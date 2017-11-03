@@ -7,6 +7,7 @@ tags:
 ---
 
 I was honored this year to be invited by the [Computer Science department](http://www.cs.umn.edu/) at the [University of Minnesota](http://www.umn.edu/) to give the keynote for the [2009 Computer Science Open House](http://www.cs.umn.edu/news/news.php?id=900). The department has an open house every other year and it is a great opportunity for all the various research groups to present the work they are doing. The common area of the building was filled with researchers talking through their research and what the impacts will be. Really great stuff. Informative, inspiring, interesting.
+
 The audience for the keynote was a mix of students and people from the industry. I decided right away that I wanted to take the opportunity evangelize my perspective that software has a critical, fundamental, role in our society and that we as the people who make that software are responsible to create elegant and inspired environments. The anti-codemonkey.
 
 Several people from the talk asked me for a [copy of my slides](http://thingelstad.com/s/wp-content/uploads/2009/10/2009-UMN-CSci-Open-House-Keynote-Thingelstad.pdf). The [download is large (7.11 MB)](http://thingelstad.com/s/wp-content/uploads/2009/10/2009-UMN-CSci-Open-House-Keynote-Thingelstad.pdf) and it is really meant to go with the talk. Some sections you'll have to try to connect the dots for yourself.

@@ -8,6 +8,7 @@ tags:
 ---
 
 A lot of people consider [Twitter](http://twitter.com/) a [microblogging](http://en.wikipedia.org/wiki/Microblogging) platform. I don't really agree with that. I think [Tumblr](http://tumblr.com/) and [Posterous](http://posterous.com/) are great examples of microblogging platforms. Twitter, to me, is much more like a "micromessaging" platform. As such I think it has more in common with email and instant messenger than [WordPress](http://www.wordpress.org/) and Tumblr.
+
 I've been thinking more recently about the digital trails we all leave and it struck me that Twitter really should be managed more like messaging applications. In those applications, I tend to have an expiration date for things. To be formal about it, there is a retention policy for that content. Twitter needs a retention policy. Do I really care to have archived forever the Tweet about lunch from three years ago? No. Does Google need to index it? No. The only practical use I can think of for a long history on Twitter is to be able to profile me for advertising better. No thanks.
 
 I did a little looking and couldn't find anything to do this, so whipped up a Ruby program with the handy Twitter4R library to do what I want.
