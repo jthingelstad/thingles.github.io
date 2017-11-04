@@ -6,7 +6,6 @@ categories:
 
 [![]({{ site.url }}{% link /assets/posts/2004/r_tal-logo.jpg %})](http://www.thisamericanlife.org/)
 
-
 On Saturday we found ourselves doing something that we both recalled we hadn't done probably in a decade. We were hopping into the car to drive hundreds of miles just to see a performance. Now, a decade ago I may have been found doing a road trip like this for a punk rock concert, today we found ourselves driving 360 miles to see [Ira Glass](http://www.barclayagency.com/glass.html) of [This American Life](http://www.thisamericanlife.org/).
 
 We headed out on I-94 and went straight from home to Milwaukee. As we were driving I noted again that either Wisconsin has tremendously more road kill or they do not do a good job of cleaning up the roads. We saw more than twenty deer in various states of decay on the side of the road. Driving I-94 West instead of East for a dozen hours as I've done many times you will see a deer on the side of the road dead, but it's rare. For some reason Wisconsin peppers the side of the road to a disturbing amount.
