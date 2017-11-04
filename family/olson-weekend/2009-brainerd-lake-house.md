@@ -1,0 +1,4 @@
+---
+title: Brainerd Lake House
+---
+
