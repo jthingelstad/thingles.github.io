@@ -6,7 +6,7 @@ tags:
 - Google
 ---
 
-I mentioned earlier that I had [moved my sites over to Slicehost](http://www.slashthing.com/sites-now-on-slicehost/). My reasoning for this was performance. Here is a graph that proves that performance out as seen by the Google robot. This graph shows the response times that Google was seeing when it spidered my site. The crazy noise on the left is Dreamhost. The nice, flat, consistently fast response on the right is Slicehost.
+I mentioned earlier that I had [moved my sites over to Slicehost]({{ site.url }}{% link _posts/2008/2008-05-23-sites-now-on-slicehost.md %}). My reasoning for this was performance. Here is a graph that proves that performance out as seen by the Google robot. This graph shows the response times that Google was seeing when it spidered my site. The crazy noise on the left is Dreamhost. The nice, flat, consistently fast response on the right is Slicehost.
 
 ![GoogleWebmasterToolsDownloadTimes.png]({{ site.url }}{% link /assets/posts/2008/googlewebmastertoolsdownloadtimes.png %})
 

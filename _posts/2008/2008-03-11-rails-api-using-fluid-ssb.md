@@ -7,7 +7,7 @@ tags:
 - Ruby
 ---
 
-I've been diving big into Ruby on Rails this week with this class I'm taking. One of the things I found right away is you need to have the Rails API documentation very handy. The main site is [api.rubyonrails.com](http://api.rubyonrails.com/), and frankly it's horrible. Luckily there is a great alternative at [RailsBrain](http://www.railsbrain.com/) that uses AJAX and all sorts of spiffy fun to make the API so much more usable. Today though I was getting frustrated because I had a slow internet connection and things were taking forever. Enter the solution, a [site-specific browser](http://www.slashthing.com/fluid-and-site-specific-browsers/).
+I've been diving big into Ruby on Rails this week with this class I'm taking. One of the things I found right away is you need to have the Rails API documentation very handy. The main site is [api.rubyonrails.com](http://api.rubyonrails.com/), and frankly it's horrible. Luckily there is a great alternative at [RailsBrain](http://www.railsbrain.com/) that uses AJAX and all sorts of spiffy fun to make the API so much more usable. Today though I was getting frustrated because I had a slow internet connection and things were taking forever. Enter the solution, a [site-specific browser]({{ site.url }}{% link _posts/2008/2008-03-11-fluid-and-site-specific-browsers.md %}).
 
 My friend [Kent](http://www.thetangens.net/) came up with this idea, so credit to him for it, but I know he'll never blog about it and I want to share the love. RailsBrain allows you to download the API documentation as a zip file. It is simply a collection of files and can be served without a web server.
 
