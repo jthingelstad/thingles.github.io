@@ -6,7 +6,7 @@ tags:
 - Apple
 ---
 
-Today brought the [Apple TV](http://www.apple.com/appletv) faithful a big win with the release of Apple TV Take 2, or more appropriately the Apple TV 2.0 Software. Being the [proud owner of three Apple TV's](http://thingelstad.com/s/2007/12/all-in-on-apple-tv/img) I was eager to get this update applied.
+Today brought the [Apple TV](http://www.apple.com/appletv) faithful a big win with the release of Apple TV Take 2, or more appropriately the Apple TV 2.0 Software. Being the [proud owner of three Apple TV's]({{ site.url }}{% link _posts/2007/2007-12-21-all-in-on-apple-tv.md %}) I was eager to get this update applied.
 
 ![apple-tv-2.0.png]({{ site.url }}{% link /assets/posts/2008/apple-tv-201.png %})
 

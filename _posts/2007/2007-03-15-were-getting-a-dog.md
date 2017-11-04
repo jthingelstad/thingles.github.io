@@ -25,4 +25,3 @@ Tammy has been scouting the adoption sites for a good pup. We wanted to adopt a 
 
 She's a terrier-poodle cross. We'll get her on Wednesday. I'm really excited, and need to learn a lot about dogs.
 
-**We need to figure out a name!** We've got some ideas, but if you think of something that seems great **give us your suggestion** by [commenting here](http://thingelstad.com/s/were-getting-a-dog/img)!

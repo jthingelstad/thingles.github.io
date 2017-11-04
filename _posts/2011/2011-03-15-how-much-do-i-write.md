@@ -12,7 +12,7 @@ I was able to find a WordPress plugin called [Word Stats](http://bestseller.fran
 
 ![]({{ site.url }}{% link /assets/posts/2011/words-written-per-month.gif %})
 
-I write an average of **2,631** words per month for a total of **226,235** words since [February 2004](http://thingelstad.com/s/2004/02/img). The highest month was [July 2004](http://thingelstad.com/s/2004/07/img) when I wrote **9,711** words. There were three months when I didn't write anything: May 2004, August 2010 and October 2010. That graph really highlights that [2010](http://thingelstad.com/s/2010/img) was a really quiet year for me. That is a trend I'm reversing in [2011](http://thingelstad.com/s/2011/img).
+I write an average of **2,631** words per month for a total of **226,235** words since February 2004. The highest month was July 2004 when I wrote **9,711** words. There were three months when I didn't write anything: May 2004, August 2010 and October 2010. That graph really highlights that 2010 was a really quiet year for me. That is a trend I'm reversing in 2011.
 
 I did some quick searches and the average novel has about 100,000 words in it. So, it seems I've written 2 novels here in the last 7 years. Pretty cool!
 

@@ -12,4 +12,3 @@ Christmas 2007 is a wrap! Great time with family. Mazie really started to [grok]
   
 [Assembling Mazie's Present](http://www.vimeo.com/453154/l:embed_453154) from [Jamie Thingelstad](http://www.vimeo.com/thingles/l:embed_453154) on [Vimeo](http://vimeo.com/l:embed_453154).
 
-Check out [Christmas photos](http://thingelstad.com/s/photos/album/72157603547641557/Christmas-2007.html) in the [photo](http://thingelstad.com/s/photos/img) section as well.

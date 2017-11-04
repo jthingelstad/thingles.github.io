@@ -7,7 +7,7 @@ tags:
 - iTunes
 ---
 
-I've written before about some of the [ways I use Smart Playlists in iTunes](http://thingelstad.com/s/tag/smart-playlist/img) to enjoy my music more. I've got a  large music collection with 1,463 albums containing 19,392 songs. I have a challenge keeping new music highlighted in this big pool of nearly twenty thousand songs. Today I had an idea for a Smart Playlist that I'm finding very useful.
+I've written before about some of the ways I use Smart Playlists in iTunes to enjoy my music more. I've got a  large music collection with 1,463 albums containing 19,392 songs. I have a challenge keeping new music highlighted in this big pool of nearly twenty thousand songs. Today I had an idea for a Smart Playlist that I'm finding very useful.
 
 I call the playlist Three Plays and the basic idea is that any new track added to my collection should get three plays before it gets shuffled into the general archive. The playlist works like this:
 

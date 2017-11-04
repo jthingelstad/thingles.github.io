@@ -223,23 +223,23 @@ Chrome 27.0
 
 WikiApiary is largely about graphs, so that seems like a logical way to explore the first year of WikiApiary. The number of active users on WikiApiary has roughly been around 30 for most of the year, peaking over 50. This doesn't seem like a ton, but most wikis that are monitored actually have fewer than 5 active users. The total number of users is over 250 and grows steadily. Those are **all** real accounts too, no spam accounts. Registration is required to edit so this is a good reflection of engagement.
 
-[![WikiApiary-users]({{ site.url }}{% link /assets/posts/2013/WikiApiary-users.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-users/img)
+![WikiApiary-users]({{ site.url }}{% link /assets/posts/2013/WikiApiary-users.png %})
 
 Edit activity on WikiApiary is mostly robotic. The bots are constantly tending to the data set and they do this with edits. You can see the edit rate jumped in October after I added tracking for MaxMind geo data as well as Whois records for wikis. **Over 5 million edits** in the first year.
 
-[![WikiApiary-edits]({{ site.url }}{% link /assets/posts/2013/WikiApiary-edits.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-edits/img)
+![WikiApiary-edits]({{ site.url }}{% link /assets/posts/2013/WikiApiary-edits.png %})
 
 Total pages of content largely reflect the number of wikis being tracked, plus the number of extensions and skins that exist. Notably you can see the initial load of sites in February and March. There were additional farmer bots that added in some reasonably sized farms in June. In October the pages spike again with the addition of more datasets.
 
-[![WikiApiary-pages-articles]({{ site.url }}{% link /assets/posts/2013/WikiApiary-pages-articles.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-pages-articles/img)
+![WikiApiary-pages-articles]({{ site.url }}{% link /assets/posts/2013/WikiApiary-pages-articles.png %})
 
 WikiApiary is itself the 11th largest Semantic MediaWiki installation that it tracks. The largest is [Gyvosios gamtos enciklopedija](http://wikiapiary.com/wiki/Gyvosios_gamtos_enciklopedija) with over 16 million properties (think of a property as a data value). WikiApiary has **over 3.3 million property values**.
 
-[![WikiApiary-property-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-property-count.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-property-count/img)
+![WikiApiary-property-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-property-count.png %})
 
 These 3.3 million properties are queried in MediaWiki templates so you can see the data. There are **nearly 140,000 queries** in WikiApiary.
 
-[![WikiApiary-query-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-query-count.png %})](http://thingelstad.com/s/one-year-for-wikiapiary/wikiapiary-query-count/img)
+![WikiApiary-query-count]({{ site.url }}{% link /assets/posts/2013/WikiApiary-query-count.png %})
 
 ### Special Thanks
 

@@ -6,7 +6,7 @@ tags:
 - WordPress
 ---
 
-It's been a couple of busy late nights here for me. I've been doing major work with [my websites](http://thingelstad.com/s/websites/img), including this one.
+It's been a couple of busy late nights here for me. I've been doing major work with my websites, including this one.
 
 The last two months have been rough for thingelstad.com. There has been a lot of downtime and slow responses. I moved to TextDrive (no link for these guys) a while back and it was just horrible. I don't feel like using the kind of language I would need to describe how much I was frustrated with TextDrive. Let's just consider it a bad period.
 

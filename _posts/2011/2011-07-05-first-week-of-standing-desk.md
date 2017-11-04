@@ -6,20 +6,12 @@ categories:
 
 Today I started my second week of using my [makeshift standing desk]({{site.url}}{% link _posts/2011/2011-06-25-standing-desk-trial.md %}). My initial observations are:
 
-
-
   * I've struggled with some lower back pain and I was hoping it would get better not sitting as much. On the contrary, my lower back pain is worse now.
-
-
   * My feet hurt. Plain and simple. I need to wear a better pair of shoes than I have the first week. Going to switch tomorrow.
-
-
   * I get the sense that I'm more likely to move about during the day. More walking around and more interactions with the rest of the team at the office.
-
-
   * It's harder for people to meet in my office. Since I'm standing, people don't come in and sit down to chat. This makes conversations shorter, which is good and bad. It makes it notably harder to have a one-on-one conversation though. A small desk to meet at would be helpful.
 
-[![]({{ site.url }}{% link /assets/posts/2011/first-week-of-standing-desk.jpg %})](http://thingelstad.com/s/standing-desk-trial/photo13-3/img)
+![]({{ site.url }}{% link /assets/posts/2011/first-week-of-standing-desk.jpg %})
 
 My makeshift standing desk is far from ideal. I know my keyboard is about 6" too low. My monitor is as high as it goes but at an angle so I look down at it. Looking down is kind of nice in one way, but I think it would be ergonomically better to have it much higher and looking straight on.
 

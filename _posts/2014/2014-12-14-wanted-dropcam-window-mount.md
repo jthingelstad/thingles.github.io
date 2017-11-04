@@ -10,11 +10,11 @@ I've had a [Dropcam](https://www.dropcam.com) now for several months and I reall
 
 The biggest challenge I had was figuring out where to mount it. It has a really nice metal stand that provides a lot of options, but we have it placed in a bay window and there just wasn't any place I really had an option to screw the mount into. I finally decided to use some double-stick tape and attach it to the window.
 
-[![IMG_2362.JPG]({{ site.url }}{% link /assets/posts/2014/IMG_2362.jpg %})](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2362-jpg/img)
+![IMG_2362.JPG]({{ site.url }}{% link /assets/posts/2014/IMG_2362.jpg %})
 
 Once I did this it really struck me how nice it would be if Dropcam made a proper window mount for the camera. The camera itself is relatively light and fairly thin. It is like a small hockey puck that sits in the metal stand. It could easily be set directly onto a window.
 
-[![IMG_2361.JPG]({{ site.url }}{% link /assets/posts/2014/IMG_2361.jpg %})](http://thingelstad.com/s/wanted-dropcam-window-mount/img_2361-jpg/img)
+![IMG_2361.JPG]({{ site.url }}{% link /assets/posts/2014/IMG_2361.jpg %})
 
 I have to think a lot of Dropcam units end up pointing at the outside through a window. This mount I did works okay, but has some real shortcomings that a proper mount would remove.
 

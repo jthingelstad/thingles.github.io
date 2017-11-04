@@ -17,6 +17,6 @@ Then you start framing out the software. Big swaths go in place, but mostly just
 
 At the end, it feels like the thing is so close to done but it just keeps dragging on. The edge cases have to be handled, error handling needs improvement. You need to log things. Not to mention that final design of the visual elements. This is where people get frustrated.
 
-I fully expect the same thing to happen with [this remodel](http://thingelstad.com/s/tag/morgan-remodel-2011/img). It seemed like a long time to get the structural stuff rolling. This week it seemed like a lot started to happen, and with the framing right around the corner it will feel like we are almost there. Then, things will take a very long time to get the light switches all wired up right and all the final punch list items completed.
+I fully expect the same thing to happen with [this remodel]({{ site.url }}{% link tags/index.html %}#Morgan%20Remodel%202011). It seemed like a long time to get the structural stuff rolling. This week it seemed like a lot started to happen, and with the framing right around the corner it will feel like we are almost there. Then, things will take a very long time to get the light switches all wired up right and all the final punch list items completed.
 
 While I ride the Perceived Progress line I'm going to try to keep a good grounding on the Actual Progress line. It is the only one that matters after all.

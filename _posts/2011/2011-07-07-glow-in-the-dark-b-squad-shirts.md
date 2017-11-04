@@ -7,10 +7,11 @@ tags:
 ---
 
 The 2011 B-Squad shirts have an [easter egg](http://en.wikipedia.org/wiki/Easter_egg_(media)).
-[![]({{ site.url }}{% link /assets/posts/2011/B-Squad-2011-Shirts.jpg %})](http://thingelstad.com/s/glow-in-the-dark-b-squad-shirts/b-squad-2011-shirts/img)
+
+![]({{ site.url }}{% link /assets/posts/2011/B-Squad-2011-Shirts.jpg %})
 
 **They glow!**
 
-[![]({{ site.url }}{% link /assets/posts/2011/B-Squad-2011-Shirts-Glowing.jpg %})](http://thingelstad.com/s/glow-in-the-dark-b-squad-shirts/b-squad-2011-shirts-glowing/img)
+![]({{ site.url }}{% link /assets/posts/2011/B-Squad-2011-Shirts-Glowing.jpg %})
 
 [Keekley](https://twitter.com/#!/tkeekley) you brilliant bastard!

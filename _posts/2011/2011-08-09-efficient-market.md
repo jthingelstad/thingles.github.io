@@ -8,6 +8,6 @@ One of the things that I really like about eBay is that I don't have to set a pr
 
 I'm doing something interesting right now though. I have three first generation Apple TV's on eBay. I find the bids really interesting. These three units are exactly the same, and they all have auction ends within an hour of each other.
 
-[![]({{ site.url }}{% link /assets/posts/2011/Apple-TV-eBay-Listings.png %})](http://thingelstad.com/s/efficient-market/apple-tv-ebay-listings/img)
+![]({{ site.url }}{% link /assets/posts/2011/Apple-TV-eBay-Listings.png %})
 
 If markets are always so efficient, shouldn't the price of these all be the same? I'll be curious to see what the three units ultimately sell for. They all have the same number of watchers too, which is odd. Maybe they are the same 15 people watching all of them.

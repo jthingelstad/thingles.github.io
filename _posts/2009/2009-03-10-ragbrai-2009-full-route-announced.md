@@ -12,7 +12,7 @@ One of the things my friend [Jim](http://www.jimbernard.net/), who did RAGBRAI o
 
 ![RAGBRAI-2009-Daily-Mileage-Climbing-Graph.png]({{ site.url }}{% link /assets/posts/2009/ragbrai-2009-daily-mileage-climbing-graph.png %})
 
-Looking back on [my posts from Texas Hellweek 2001](http://thingelstad.com/s/tag/hellweek/img) those routes had about 5,000 feet of climbing every day. It looks like Monday and Tuesday will be some good challenges.
+Looking back on [my posts from Texas Hellweek 2001]({{ site.url }}{% link tags/index.html %}#Hellweek) those routes had about 5,000 feet of climbing every day. It looks like Monday and Tuesday will be some good challenges.
 
 Feet of climbing though has to be gauged with the distance of the leg. A better way to look at it is feet of climbing per mile.
 

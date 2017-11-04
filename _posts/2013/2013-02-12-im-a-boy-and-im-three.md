@@ -1,5 +1,5 @@
 ---
-title: '"I'm a boy and I'm three."'
+title: "I'm a boy and I'm three."
 categories:
 - Family
 tags:

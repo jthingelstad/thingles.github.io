@@ -8,7 +8,7 @@ We have been enrolled in the [Windsource](http://www.xcelenergy.com/Save_Money_&
 
 I found this [blog post on The Deets](http://www.thedeets.com/2011/06/12/the-xcel-energys-windsource-program-financial-hedge/) that highlighted a benefit I didn't even realize though about Windsource. Since the energy I'm buying is renewable, I don't have to pay the Fuel Cost Charge. I didn't even realize there were credits you got if you opted into Windsource.
 
-[![]({{ site.url }}{% link /assets/posts/2011/electric-bill.gif %})](http://thingelstad.com/s/windsource-savings/electric-bill/img)
+![]({{ site.url }}{% link /assets/posts/2011/electric-bill.gif %})
 
 The first thing I noticed is that we sure use a lot more electricity than The Deets does.** We paid $29.30 on our most recent bill for Windsource.** So just $29.30 went to XcelEnergy to then go on the renewable energy market and buy 830 kWh of power. I would have paid $23.48 in Fuel Cost Charge, but wait, wind energy doesn't have that. So I get a **$23.48 credit** for that. That nets out to $5.82 net increase in cost to use renewable energy. There were 32 days in the billing period, so it netted out to **$0.18 per day**.
 

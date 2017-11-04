@@ -133,7 +133,7 @@ The amazing thing about this storage issue is the rate at which it is growing. I
 ![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image004.gif %})
 Figure 2
 
-This may sound huge, but luckily this technical problem has been helped by hard drive manufacturers. Figure 3 below compares the growth of my digital photos to Moore's Law[[1]](http://thingelstad.com/s/digital-photography-storage-explosion/img) and Kryder's Law[[2]](http://thingelstad.com/s/digital-photography-storage-explosion/img). Both of these laws relate to the growth rates of technology. Moore's Law, reduced, states that computing power doubles every 18 months. Kryder's Law is a similar law for storage, but doubling even faster at 13 months.
+This may sound huge, but luckily this technical problem has been helped by hard drive manufacturers. Figure 3 below compares the growth of my digital photos to Moore's Law(1) and Kryder's Law(2). Both of these laws relate to the growth rates of technology. Moore's Law, reduced, states that computing power doubles every 18 months. Kryder's Law is a similar law for storage, but doubling even faster at 13 months.
 
 ![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image006.gif %})
 Figure 3 - Plotted on logarithmic scale.
@@ -175,7 +175,7 @@ The results are not terribly surprising. The majority of photos are taken on the
 
 ### Terabytes of Disney World
 
-So clearly this is a growing mountain of data, and this is just one families archive of photos. The impact of this on a large scale, with hundreds of millions of photographers throughout the world is stunning. On a recent vacation to Disney World I was particularly taken with the pervasiveness of digital photography and digital video[[3]](http://thingelstad.com/s/digital-photography-storage-explosion/img) equipment. I started to wonder what the storage requirement of the thousands of vacationers visiting Disney World everyday was.
+So clearly this is a growing mountain of data, and this is just one families archive of photos. The impact of this on a large scale, with hundreds of millions of photographers throughout the world is stunning. On a recent vacation to Disney World I was particularly taken with the pervasiveness of digital photography and digital video[3] equipment. I started to wonder what the storage requirement of the thousands of vacationers visiting Disney World everyday was.
 
 I contacted Disney to find out how many visitors on average attend Disney World each day but they do not disclose that number.
 
@@ -198,11 +198,11 @@ I contacted Disney to find out how many visitors on average attend Disney World 
 > Ronda
 > WDW Online Communications
 
-Denied the true information, I did find some estimates of attendance on the web[[4]](http://thingelstad.com/s/digital-photography-storage-explosion/img). Using this estimate I concluded that Disney World averaged 38,462 visitors a day. According to at least one survey 54% of Americans are using digital cameras[[5]](http://thingelstad.com/s/digital-photography-storage-explosion/img). It seems straightforward to me that the average visitor to Disney World is also more likely to have a digital camera, but we'll use the average anyway.
+Denied the true information, I did find some estimates of attendance on the web[4]. Using this estimate I concluded that Disney World averaged 38,462 visitors a day. According to at least one survey 54% of Americans are using digital cameras[5]. It seems straightforward to me that the average visitor to Disney World is also more likely to have a digital camera, but we'll use the average anyway.
 
 ![]({{ site.url }}{% link /assets/posts/2005/DigitalPhotographyStorageExplosion-image018.gif %})The next challenge is determining the distribution of camera types. I used a standard bell curve distribution from 2 megapixel to 8 megapixel (shown on the right), and also assumed that everyone is taking a JPEG file. The last bit of information needed is an estimate of how many pictures each one of these digitally equipped visitors would take at Disney World. I estimated 100 pictures, which I would suggest is high, but realistic given that you are on vacation, at a special place and have a high desire to capture "life's moments". For comparison, I took 241 pictures in two days at Disney World, averaging 120 pictures a day.
 
-Given these assumptions, the attendees to Disney World generate 3,869 GB, or 3.78 **terabytes**, of data every single day. An equally interesting way to look at this is bandwidth. If you used the average cable modem available in the US today, and transmitted data at the maximum rate every minute that Disney World was open[[6]](http://thingelstad.com/s/digital-photography-storage-explosion/img), you would have to have 420 cable modems running in parallel (839 Mbps) to handle the data.
+Given these assumptions, the attendees to Disney World generate 3,869 GB, or 3.78 **terabytes**, of data every single day. An equally interesting way to look at this is bandwidth. If you used the average cable modem available in the US today, and transmitted data at the maximum rate every minute that Disney World was open[6], you would have to have 420 cable modems running in parallel (839 Mbps) to handle the data.
 
 ### Challenges
 
@@ -218,7 +218,7 @@ We may think that the storage requirement problem is easily solved by Kryder's l
 
 ### The Raw Problem
 
-Almost all digital photography is done straight to a JPEG file. This is an easy format that is usable on nearly every computer that exists, but may be a bad decision for pictures that you really care about. Most cameras support a file format called RAW which captures the photo in a different way, allowing you much more flexibility in the future. To keep it simple, a RAW file can be considered analogous to a negative[[7]](http://thingelstad.com/s/digital-photography-storage-explosion/img), with shooting to JPEG being similar to a Polaroid. You can then digitally develop that RAW file and improve the picture significantly. However, this comes at a cost - storage. It should be assumed that in the relatively near future camera manufacturers will migrate away from JPEG as consumers look for higher quality and more post-processing capability.
+Almost all digital photography is done straight to a JPEG file. This is an easy format that is usable on nearly every computer that exists, but may be a bad decision for pictures that you really care about. Most cameras support a file format called RAW which captures the photo in a different way, allowing you much more flexibility in the future. To keep it simple, a RAW file can be considered analogous to a negative[7], with shooting to JPEG being similar to a Polaroid. You can then digitally develop that RAW file and improve the picture significantly. However, this comes at a cost - storage. It should be assumed that in the relatively near future camera manufacturers will migrate away from JPEG as consumers look for higher quality and more post-processing capability.
 
 Raw files are compressed, but not as much as JPEG files. The resulting file is approximately 300% larger than a comparable JPEG file. Figure 9 shows the theoretical effect of using RAW photography as opposed to JPEG.
 

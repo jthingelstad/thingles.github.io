@@ -6,4 +6,4 @@ tags:
 - B-Squad
 ---
 
-[![]({{ site.url }}{% link /assets/posts/2010/IMG_0894.png %})](http://thingelstad.com/s/double-grilled-cheese-dego/img_0894/img)
+![]({{ site.url }}{% link /assets/posts/2010/IMG_0894.png %})

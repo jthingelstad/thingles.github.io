@@ -4,7 +4,7 @@ categories:
 - Dear Diary
 ---
 
-Having your own website is pretty fun. You get to be your own editor and can decide what things you feel are important and want to share with people. Sometimes things happen that really don't seem that big. For example, you may get [rain gutters installed on your house]({{site.url}}{% link _posts/2004/2004-06-07-rain-gutters-installed.md %}). Why would you ever put that up on a web site? [Who else would ever care about that](http://thingelstad.com/s/rain-gutters-installed/img)? Probably nobody.
+Having your own website is pretty fun. You get to be your own editor and can decide what things you feel are important and want to share with people. Sometimes things happen that really don't seem that big. For example, you may get [rain gutters installed on your house]({{site.url}}{% link _posts/2004/2004-06-07-rain-gutters-installed.md %}). Why would you ever put that up on a web site? Who else would ever care about that? Probably nobody.
 
 You may think that getting a new vacuum cleaner would be the pinnacle example of such trivial nonsense that has no place being shared with others around the world. It's just a vacuum cleaner! Who cares!? Really. Get over it.
 

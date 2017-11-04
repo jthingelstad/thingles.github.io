@@ -8,4 +8,5 @@ categories:
 
 I had no idea this was a problem requiring a specific pair of pants.
 
-[![]({{ site.url }}{% link /assets/posts/2011/Crouch-Without-the-Ouch.jpg %})](http://thingelstad.com/s/crouch-without-the-ouch/crouch-without-the-ouch/img)
+![]({{ site.url }}{% link /assets/posts/2011/Crouch-Without-the-Ouch.jpg %})
+
