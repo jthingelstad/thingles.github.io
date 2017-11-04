@@ -22,7 +22,7 @@ You can now rate all posts on the site using a 5-star scale. You'll see the rati
 
 ### Articles
 
-I setup an [article page](http://thingelstad.com/s/articlesarticles?format=original) on the site where certain posts are highlighted and called out. This allows me to give special positioning to certain things I write. (Thanks to [Alex King](http://alexking.org/)'s [Articles Plug-in](http://alexking.org/projects/wordpress/readme?project=articles).)
+I setup an article page on the site where certain posts are highlighted and called out. This allows me to give special positioning to certain things I write. (Thanks to [Alex King](http://alexking.org/)'s [Articles Plug-in](http://alexking.org/projects/wordpress/readme?project=articles).)
 
 ### Polls
 

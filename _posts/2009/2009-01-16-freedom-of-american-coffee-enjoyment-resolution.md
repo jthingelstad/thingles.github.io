@@ -7,6 +7,7 @@ tags:
 ---
 
 _I suggest that congress work on enacting the following legislation:_
+
 Whereas many residents of the United States seek the pleasure of a coffee-based beverage, including many variations thereof, and that these beverages should be preserved for future enjoyment;
 
 Whereas it is understood that [espresso](http://en.wikipedia.org/wiki/Espresso) is a drink, and is not simply an ingredient to be added with milk or chocolate;

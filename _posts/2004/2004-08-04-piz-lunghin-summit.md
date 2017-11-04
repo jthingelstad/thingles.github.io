@@ -6,7 +6,8 @@ tags:
 - Switzerland
 ---
 
-**Today's Stats:** Moving Time **5h 4m** Distance** 9.5 miles** Ascent _**3,589'**_ Max Elevation _**9,124'**_
+**Today's Stats:** Moving Time **5h 4m** Distance **9.5 miles** Ascent _**3,589'** Max Elevation **9,124'**
+
 Shirley left us this morning. Shirley is one of the happy members of our hiking group and she's a pretty incredible lady. She has no problem talking but luckily she's got a wealth of stories that are interesting to back it up with. Shirley has done something like 20 [Ryder Walker](http://www.ryderwalker.com/) hiking trips and just keeps on coming back. She sets a pace on the trail that is hard to keep up with. I can only wish that I'm as healthy and fun when I'm retired and kicking back (if you can call what she does kicking back!)
 
 Anyway, onto our hike. Today was awesome! Simply great. Best day of hiking I've ever had.

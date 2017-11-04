@@ -10,7 +10,7 @@ I had my iPad stolen out of my hands tonight while waiting for the 8:50pm 4K bus
 
 ![]({{ site.url }}{% link /assets/posts/2011/map-lake-and-lyndale.gif %})
 
-We had a fun [8thBridge](http://www.8thBridge.com/) outing this afternoon at [Bryant Lake Bowl](http://www.bryantlakebowl.com/). After that a bunch of us went over to [moto-i](http://www.moto-i.com/) and had some dinner and then a final beer at [Muddy Waters](http://www.muddywatersmpls.com/new_home.html). Everyone else left by cab and I walked over to the bus stop to catch the [4K](http://www.metrotransit.org/Schedules/WebSchedules.aspx?route=4) home. I was about 15 minutes early so I got my iPad out and started reading [The Selfish Gene](http://rwbookclub.com/wiki/The_Selfish_Gene), my [book club](http://rwbookclub.com/) book.
+We had a fun [8thBridge](http://www.8thBridge.com/) outing this afternoon at [Bryant Lake Bowl](http://www.bryantlakebowl.com/). After that a bunch of us went over to [moto-i](http://www.moto-i.com/) and had some dinner and then a final beer at [Muddy Waters](http://www.muddywatersmpls.com/new_home.html). Everyone else left by cab and I walked over to the bus stop to catch the [4K](http://www.metrotransit.org/Schedules/WebSchedules.aspx?route=4) home. I was about 15 minutes early so I got my iPad out and started reading [The Selfish Gene](http://rwbookclub.com/wiki/The_Selfish_Gene), my [book club](https://rwbook.club/) book.
 
 After a few minutes a guy walked up next to me and asked me for the time. I didn't hear him at first and then he asked again so I told him the time. I didn't think anything of it, but it seems after the fact that I was the mark at that point. Two other people that were at the bus stop mentioned that he looked suspicious and after he talked to me he had gone back and talked to another guy.
 
@@ -22,7 +22,7 @@ I seriously doubt that the iPad will be recovered. I have no idea what they will
 
 The MetroTransit police officer I talked to was nice. I asked him if they ever found these things and he said the fact the 4F was approaching was a good thing. The buses, he said, have cameras all over them and they are going to pull the relevant video and see if they can find anything.
 
-First time I've ever been robbed. Happily my wallet was still in my pocket, I still had my iPhone in my pocket and nobody threatened me. Doesn't make me feel different about [taking the bus](http://wiki.thingelstad.com/wiki/Transit_journal), but I probably need to be a bit more "street wise" at night on a local bus as opposed to an express bus with commuters.
+First time I've ever been robbed. Happily my wallet was still in my pocket, I still had my iPhone in my pocket and nobody threatened me. Doesn't make me feel different about taking the bus, but I probably need to be a bit more "street wise" at night on a local bus as opposed to an express bus with commuters.
 
 ## Update Oct. 5
 

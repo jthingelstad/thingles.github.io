@@ -8,6 +8,7 @@ tags:
 ---
 
 One of the ways in which the iPhone claims to be revolutionary is how you activate it. Rather than sitting in the store and having someone press a few dozen numbers on your phone, you simply take it home and plug it into your computer and follow a few easy screens in iTunes. Sounds great!
+
 And great it is! On Tammy's phone, it was flawless. I changed her phone on her existing account and it flowed with ease through iTunes. Everything was great. No issues. Bliss.
 
 Then it was my turn. I knew this would be more complicated since I decided that I was going to move my phone to my individual account and no longer submit it through my business. During the weekend I called AT&T and the service representative said I had to call back on Monday, but I could just activate now on my individual plan and they could fix it up on Monday. It turns out that was incorrect. After about 90 minutes of time on the phone with AT&T this is what had to be done.

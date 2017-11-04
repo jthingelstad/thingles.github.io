@@ -11,4 +11,4 @@ I always feel bad that Izzy and Chase don't get enough exercise. We are pretty b
 
 [![Dog Walk](http://farm3.static.flickr.com/2320/2492496906_2226a4fddf.jpg)](http://www.flickr.com/photos/46408384@N00/2492496906)
 
-They love it. Its good exercise for them. And I can certainly use any exercise I can get as well. It definitely mellows Chase to get a good walk in. Izzy is still her usual hyperkinetic self, but maybe a little better.Here are our two routes we've taken so far, [Dog Walk East](http://thingelstad.com/s/wp-content/uploads/2008/05/dog-walk-east.kmz) and [Dog Walk South](http://thingelstad.com/s/wp-content/uploads/2008/05/dog-walk-south.kmz).
+They love it. Its good exercise for them. And I can certainly use any exercise I can get as well. It definitely mellows Chase to get a good walk in. Izzy is still her usual hyperkinetic self, but maybe a little better.Here are our two routes we've taken so far, Dog Walk East and Dog Walk South.

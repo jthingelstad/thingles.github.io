@@ -8,6 +8,7 @@ tags:
 ---
 
 Mazie and I had a nice Sunday. We ended up skipping swimming class. Mazie wasn't feeling very well and was pretty congested. I imagined being in the pool and having Mazie sneeze and snot shooting right into the pool. Nah. We'll skip this one. Grandma Rosalin and Aunt Alona came over in the morning and Mazie had a great time playing with them while I got a shower and took Izzy out. A highlight of the day was that there were no Izzy "accidents" today! Yeah!
+
 We had lunch at the Good Day Cafe (highly recommended by the way) that ended up taking us way too late and Mazie nearly fell asleep waiting. Lunch was challenging with her being so tired, but even with her nap near she was pretty excited to see the chocolate cupcake that she got after her pancakes.  She feel asleep promptly on the way home, and unfortunately she didn't get a very good nap. She woke up really groggy still.
 
 Aunt Angie and her dog Louie came over in the afternoon and pandemonium resulted. Izzy and Louie were insane, chasing each other around with abandon. Izzy was all puppy -- just going crazy and jumping, leaping and sprinting everywhere. We had to pull them apart a few times just to keep it civilized, in dog terms.

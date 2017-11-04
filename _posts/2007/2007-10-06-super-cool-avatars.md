@@ -10,6 +10,7 @@ tags:
 ---
 
 I'm giddy! It's like Christmas around the Thingelstad house. Why?_ We have new [avatars](http://en.wikipedia.org/wiki/Avatar_%28icon%29)!_
+
 Several weeks ago a [friend](http://www.jimbernard.net/) of mine clued me in on this service at [Iconize Me!](http://www.iconizeme.com/) Iconize Me is the [brain-child of Paul Sahner](http://www.iconizeme.com/about.html) who decided to start creating caricature based avatars for people online. Iconize Me! is a great service, but it's completely overloaded. They've stopped taking pre-orders again. Huge plus, you get vector images back. Can't wait to make my 10 foot poster!
 
 I think this is brilliant. I've always just used a head shot photo but using a real photo is, well, a real photo. A drawing is a little less personal but still gives you that individual identity. Enough of the words, here is my new avatar. (These images are all much bigger than would be typically used.)

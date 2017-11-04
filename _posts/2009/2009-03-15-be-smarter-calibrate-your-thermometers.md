@@ -18,4 +18,4 @@ Whoa! That's not just off, it's horribly off. I was shocked that the thermometer
 
 Why am I posting about this? It's a really simple thing, but I bet a lot of people don't do a calibration. Your out there grilling away and you need to know your temps. I'm not sure if being outside all winter causes the calibration to get all screwed up. Either way it was off so much that I was grilling at temperatures that were just **way** too hot.
 
-I had the newly calibrated thermometer in [tonight for some grilling](http://things.thingelstad.com/post/86824341/nice-evening-of-grilling-on-the-big-green-egg) and things were so much better. Lesson learned. Get a pot of water boiling and make sure all your thermometers and probes read 212° on the nose.
+I had the newly calibrated thermometer in [tonight for some grilling]({{ site.url }}{% link _posts/2009/2009-03-15-nice-evening-of-grilling-on-the-big-green-egg.md %}) and things were so much better. Lesson learned. Get a pot of water boiling and make sure all your thermometers and probes read 212° on the nose.

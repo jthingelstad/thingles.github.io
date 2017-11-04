@@ -5,8 +5,6 @@ categories:
 - Techie
 ---
 
-_[This article is also available in PDF format](http://thingelstad.com/s/wp-content/uploads/2005/11/DigitalPhotographyStorageExplosion.pdf)You can [download the raw data used in this analysis (2.28MB)](http://thingelstad.com/s/wp-content/uploads/2005/11/DigitalPhotographyStorageExplosion-PicsAnalysis.zip)_
-
 ### Abstract
 
 Digital cameras have spread at an amazing rate. There are almost no film cameras being developed anymore, having been relegated to antique status. In fact, at the most recent photographer's expo, for the first time in the history of the event, no 35mm film cameras were introduced. Canon, Nikon and others are only focused in the digital realm. Even for high-end photography, digital has now become the "king of the hill".

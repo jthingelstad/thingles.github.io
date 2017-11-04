@@ -9,6 +9,7 @@ tags:
 ---
 
 Today was the best ride of the trip. Tammy and I figured that while we had suffered up some mountain climbs we hadn't really gotten any distance in. We decided that since today's ride would be "flatter" (this is a relative term) we would do the 115km option. We left on our bikes straight from [Beaune](http://beaune-burgundy.com/) and rode to Besancon for the time trial. We rode with a fast group in a huge bunch for the first 70 k's and then fell off the back. The speed kept getting faster and it was very hard to stay on. We'd get shot off the back and then have to kill ourselves to get back on a wheel. Then we realized that we were on vacation and I could stare at a rear wheel in Minnesota. Time to smell the flowers!
+
 We let the group ride off. It's amazing how fast they ride off, in minutes we weren't even able to see them. We pedaled along and had a simply great ride along the valleys in rural France. We went through so many small villages, stopped at a bakery for some pastries, went along rivers. It was simply wonderful.
 
 We ended up clicking off 125 km which is I believe 78 miles or so in the Queens measurements. That is the longest ride Tammy has ever done topping her previous 67 mile record. She's now saying that she might do a century with me. She's doing great on the bike. Clearly the running and workout out she's done has paid in spades.

@@ -14,4 +14,4 @@ The drive to [Mount St. Helens](http://en.wikipedia.org/wiki/Mount_St._Helens) f
 
 The view of the volcano, and the very young trees everywhere, just exclaim the power of something as mighty as a volcano. Looking at the mountain inspires awe and respect. It takes a wild imagination to envision the _cubic mile_ of dirt that was blown out during the eruption.
 
-If your in the area, take the time to see it. Even [the kids](http://thingelstad.com/s/photos/album/72157605333918289/photo/2535026447/Mount-St-Helens-Kids-Loaded-Up.html) thought it was pretty cool. I'd love to come in the summer and hike around the area -- although access is very limited even now. I took a [bunch of pictures](http://thingelstad.com/s/photos/album/72157605333918289/Mount-St-Helens.html) -- good stuff.
+If your in the area, take the time to see it. Even the kids thought it was pretty cool. I'd love to come in the summer and hike around the area -- although access is very limited even now. I took a bunch of pictures -- good stuff.
