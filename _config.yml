@@ -65,7 +65,7 @@ nav:
     url:            "/links/"
   - icon:           "<i class='fa fa-envelope' aria-hidden='true' title='Weekly Thing'></i>"
     name:           "Weekly Thing"
-    url:            "/weekly-thing/"
+    url:            "https://weekly.thingelstad.com"
   - icon:           "<i class='fa fa-tags' aria-hidden='true' title='Tags'></i>"
     name:           "Tags"
     url:            "/tags/"
