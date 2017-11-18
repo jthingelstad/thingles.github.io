@@ -2,4 +2,4 @@
 title: Family
 ---
 
-- [Olson Family Weekend]({% link family/olson-weekend/index.md %})
+- [Olson Family Weekend]({% link family/olson-weekend/index.html %})

@@ -1,0 +1,15 @@
+---
+title: Olson Family Weekend
+---
+
+{% assign weekends = site.pages | where:"group","olson-weekend" | sort: 'year' %}
+{% capture locations %}{% for i in weekends %}{{ i.location }}|{% endfor %}{% endcapture %}
+
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=Minneapolis,MN&zoom=6&size=600x500&scale=2&markers={{ locations | uri_escape }}&key=AIzaSyA_2pvx7wJH2p7-p74HEaTMSCMbEJj-9_Y" >
+
+
+<ul>
+{% for i in weekends %}
+<li> <a href="{{ i.url }}">{{ i.title }} ({{ i.year }})</a></li>
+{% endfor %}
+</ul>
