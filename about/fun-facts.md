@@ -2,7 +2,7 @@
 title: Fun Facts
 ---
 
-In addition to my [bio]{% link about/bio/index.md %} here are some fun facts. You may also find my [now page]{% link about/now.md %} interesting.
+In addition to my [bio]({% link about/bio/index.md %}) here are some fun facts. You may also find my [now page]({% link about/now.md %}) interesting.
 
 ## Professional
 
