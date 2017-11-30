@@ -11,8 +11,10 @@ In addition to my [bio]({% link about/bio/index.md %}) here are some fun facts. 
 ## Personal
 
 * I’m an amateur photographer and continue to explore a variety of photography types using both mobile and DSLR cameras. Selected phots are on my [photography website](https://photos.thingelstad.com).
-* I once created a fun travel game about identifying mathematical relationships in the numbers that appear on road signs, called Road Sign Math!
-* I’m more Star Trek than Star Wars, and more R.E.M. than U2. But confusingly I’m more Coldplay than Radiohead so that’s confusing. I’m generally a very big music fan and enjoy nearly all genres.
+* I'm a fan of the lawn game [Kubb](https://en.wikipedia.org/wiki/Kubb) and play on the [Kubbchucks](http://kubbchucks.planetkubb.com). Together with a friend of mine, we created the very first [scoring & notation system for Kubb](http://wiki.planetkubb.com/wiki/Notation) so that games can be recorded like a baseball box score. A turn of Kubb can be recorded as `3ir 2f f - b b K`!
+* I once created a fun travel game about identifying mathematical relationships in the numbers that appear on road signs, called Road Sign Math! I launched a website to share the signs and had 30 people submit over 250 signs from every continent in the world!
+* I’m more Star Trek than Star Wars, and more R.E.M. than U2. But confusingly I’m more Coldplay than Radiohead. I’m generally a very big music fan and enjoy nearly all genres, but particularly like Americana and Electronica. If I have a big project to get done I will usually listen to Beethovens Symphonies.
+* I'm a member of a very cool [book club](https://rwbook.club). We read books about science, technology, psychology and a wide variety of other topics. We get together about monthly and dive deep into the book for at least an hour. It's very intellectually stimulating.
 
 ## Techie
 

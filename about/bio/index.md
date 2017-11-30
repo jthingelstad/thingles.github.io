@@ -2,7 +2,7 @@
 title: Bio
 ---
 
-*If preferred, use [short bio](short/).*
+*If preferred, use [short bio]({% link about/bio/short.md %}). Also see [fun facts]({% link about/fun-facts.md %}).*
 
 **Jamie Thingelstad** is an experienced technology visionary with a successful track record of product and platform innovation and technology leadership for large-scale, financial services, media, retail, and software-as-a-service technology companies. He currently serves as Senior Vice President, Chief Technology Officer of [SPS Commerce][] ([NASDAQ: SPSC][SPSC]), the leading provider retail cloud services powering the largest retail business network connecting 70,000 companies in the retail industry to efficiently and quickly conduct business.
 
