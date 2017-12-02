@@ -4,8 +4,6 @@ date: 2017-12-01 18:50:52 -0600
 description: Notes from the announcements at the Amazon Web Services 2017 Keynote
 ---
 
-# AWS re:Invent 2017
-
 My quick reaction to the notable announcements at AWS re:Invent 2017.
 
 ## Compute
