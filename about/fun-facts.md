@@ -4,9 +4,11 @@ title: Fun Facts
 
 In addition to my [bio]({% link about/bio/index.md %}) here are some fun facts. You may also find my [now page]({% link about/now.md %}) interesting.
 
-## Professional
+## Professional (see [LinkedIn](https://www.linkedin.com/in/jthingelstad/))
 
-* I’m a focused practitioner of the [Getting Things Done](http://gettingthingsdone.com) methodology and am focused on it as a lifelong skill to continually improve my productivity but even more important to give me the mental space and clarity to focus on what I want to focus on at any time.
+* I work at [SPS Commerce](https://www.spscommerce.com) where I lead the technology team. SPS helps retailers and suppliers track their inventory, purchase orders and all manner of transactions in their supply chain. It sounds dry, but it has huge scale which makes it an interesting challenge and its crticitally important to our partners which makes it fast-paced. SPS is a publically traded company (NASDAQ:SPSC) in Minneapolis. 
+* My career started around the time that the Internet got popular where I helped build a company called BigCharts. It was the first stock charting application on the Internet and was part of every newly-minted investor’s life in the early 00’s. BigCharts got bought by MarketWatch which got bought by Dow Jones and through all those transitions I lead different technology teams. I really loved working in media and finance because it was so dynamic and the technology problems are critical and challenging! As an aside, when I was in middle-school I got a subscription to the Wall Street Journal and made my own stock charts on graph paper. It was fun to then build a company that did that same thing!
+*  I’m a focused practitioner of the [Getting Things Done](http://gettingthingsdone.com) methodology and am focused on it as a lifelong skill to continually improve my productivity but even more important to give me the mental space and clarity to focus on what I want to focus on at any time.
 
 ## Personal
 
