@@ -1,0 +1,11 @@
+---
+title: Escape Rooms
+layout: page
+---
+
+<ul>
+	{% for p in site.data.escape-rooms %}
+	<li>{{ p.room }} at {{ p.name }} in {{ p.location }} on {{ p.date }}</li>
+	{% endfor %}
+</ul>
+

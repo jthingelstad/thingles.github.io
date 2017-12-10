@@ -1,0 +1,53 @@
+- room: The Library
+  name: Trapped Puzzle Rooms
+  location: Minneapolis, MN
+  date: 7/2016
+
+- room: The Maine Room
+  name: Maine Escape Games
+  location: Portland, ME
+  date: 8/2016
+
+- room: Dupree’s Office
+  name: Escape MSP
+  location: Minneapolis, MN
+  date: 8/2016
+
+- room: The Bunker
+  name: Fox in the Box
+  location: Chicago, IL
+  date: 10/2016
+
+- room: James Bond Room “Agency”
+  name: Escape the Room
+  location: Minneapolis, MN
+  date: 12/2016
+
+- room: The Zen Room
+  name: Clue Pursuit
+  location: Springfield, MO
+  date: 12/2016
+
+- room: Ivan's Will
+  name: Kato Escape
+  location: Mankato, MN
+  date: 1/2017
+
+- room: Barber Shop
+  time: 57:10
+  name: Grand Haven Room Escape
+  location: Grand Haven, MI
+  date: 6/2017
+
+- room: The Oval-ish Office
+  name: St. Louis Room
+  location: St. Louis, Missouri
+  date: 8/2017
+
+- room: A Very Potter Escape Room
+  url: http://www.trappedpuzzlerooms.com/very-potter
+  time: 54:00
+  finished: true
+  name: Trapped Puzzle Room
+  location: St. Paul, MN
+  date: 12/2017
