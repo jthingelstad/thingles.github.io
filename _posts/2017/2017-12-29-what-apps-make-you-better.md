@@ -10,8 +10,6 @@ A while back I started keeping an entire page of applications that are all there
 
 ![Apps To Make You Better]({% link assets/posts/2017/apps-make-you-better.png %})
 
-### Apps
-
 ##### [YouAte](https://itunes.apple.com/us/app/youate-food-diary-tracker/id1164976477?mt=8&uo=4&at=1001lxyE&ct=thingelstad_com)
 
 Keeping a food journal is a great way to eat better and YouAte does it all with photos. I had used [Rise](https://itunes.apple.com/us/app/rise-nutrition-weight-loss-coach/id794278760?mt=8&uo=4&at=1001lxyE&ct=thingelstad_com) for a while which you typically use with a coach. YouAte can be used with friends for support or you can use it solo.
