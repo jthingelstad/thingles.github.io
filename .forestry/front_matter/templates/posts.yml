@@ -1,5 +1,7 @@
 ---
 pages:
+- _posts/2018/identify-addictive-application-patterns.md
+- _posts/taskpaper-as-a-standard.md
 - _posts/2018/2018-02-03-forestry-io.md
 - _posts/omnifocus-templates-with-workflow.md
 - _posts/2018/2018-01-21-2017-in-meetings.md
@@ -1744,7 +1746,6 @@ pages:
 - _posts/2001/2001-03-02-hellweek-gear-test-1.md
 - _posts/2000/2000-03-26-caribbean-vacation-day-2.md
 - _posts/2000/2000-03-25-caribbean-vacation-day-1.md
-- _posts/taskpaper-as-a-standard.md
 - _posts/new-website-new-focus.md
 hide_body: false
 fields:
