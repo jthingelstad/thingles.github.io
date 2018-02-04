@@ -16,11 +16,24 @@ fields:
     min: '2000'
     max: '2050'
     step: '1'
+- type: select
+  name: organizer
+  config:
+    source:
+      type: simple
+    options:
+    - Kaye
+    - Corinne
+    - Tammy
+    - Angie
+    - Michelle
+  label: Organizer
+  description: Who organized this event?
 - type: datetime
   label: Date
   name: date
   config:
-    required: true
+    required: false
 - type: text
   label: Location
   name: location
@@ -34,3 +47,7 @@ fields:
   description: Do not change this.
   config:
     required: true
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Selected images from the weekend.
