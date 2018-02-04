@@ -1,6 +1,19 @@
 ---
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: number
+  name: year
+  label: Year
+  description: The calendar year for this trip.
+  config:
+    min: '2000'
+    max: '2050'
+    step: '1'
 - type: datetime
   label: Date
   name: date
@@ -10,5 +23,12 @@ fields:
   label: Location
   name: location
   description: The longitude and latitude where this event happened.
+  config:
+    required: true
+- type: text
+  name: group
+  label: Group
+  default: olson-weekend
+  description: Do not change this.
   config:
     required: true
