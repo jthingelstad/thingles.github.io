@@ -1,3 +1,14 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: datetime
+  label: Date
+  name: date
+  config:
+    required: true
+- type: text
+  label: Location
+  name: location
+  description: The longitude and latitude where this event happened.
+  config:
+    required: true
