@@ -1,0 +1,80 @@
+---
+pages:
+- weekly-thing.html
+- about/bio/short.md
+- about/secure.md
+- about/recommend.md
+- lists/presentations.html
+- about/now.md
+- links.html
+- projects/index.md
+- about/index.md
+- family/index.md
+- photos/index.md
+- photos/iceland/index.md
+- lists/index.md
+- about/bio/index.md
+- archive/index.html
+- index.html
+- projects/open-loop/index.html
+- family/olson-weekend/index.html
+- projects/road-sign-math/index.html
+- tags/index.html
+- about/fun-facts.md
+- lists/escape-rooms.html
+- photos/iceland/djupavik-herring-factory.md
+- about/contact.html
+- about/colophon.md
+- about/business-cards.md
+- 404.html
+- family/olson-weekend/2017-nicaboyne-lake.md
+- family/olson-weekend/2016-blue-heron-lodge.md
+- family/olson-weekend/2015-hibbing.md
+- family/olson-weekend/2014-grand-view-lodge.md
+- family/olson-weekend/2013-lanesboro-2.md
+- family/olson-weekend/2012-aitkin.md
+- family/olson-weekend/2011-barn-on-the-bluff.md
+- family/olson-weekend/2010-chequamegon.md
+- family/olson-weekend/2009-brainerd-lake-house.md
+- family/olson-weekend/2008-alexandria.md
+- family/olson-weekend/2007-lundeen-cabin.md
+- family/olson-weekend/2006-lanesboro.md
+- family/olson-weekend/2005-wisconsin-dells.md
+- family/olson-weekend/2004-grand-superior.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: group
+  label: Group
+  type: text
+  hidden: false
+  default: ''
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: ''
+- name: year
+  label: Year
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: redirect_to
+  label: Redirect to
+  type: list
+  hidden: false
+  default: ''
