@@ -1,7 +1,21 @@
 ---
 title: OmniFocus Templates with Workflow
-tags: OmniFocus, GTD, Workflow
+tags:
+- Workflow
+- OmniFocus
+- GTD
 desc: Automating Taskpaper templates with Workflow and Github.
+date: 2018-02-04 03:59:36 +0000
+slug: ''
+weather: ''
+location: ''
+categories: []
+description: ''
+redirect_from: []
+author: ''
+image: ''
+tag: []
+layout: post
 ---
 
 A while ago I dove into using [Taskpaper][] templates with [OmniFocus][] and [Editorial][] on iOS. This thread on [automation in OmniFocus][omni forum] caught my attention when OmniFocus 2.14 shipped. Automation was a big push for that release. I really liked the use of Taskpaper and the real magic here for me was using variables inside the Taskpaper files so that you could drop in different dates or names as needed. The Editorial solution that Ken Case posted on that forum post worked well so I started using it.
