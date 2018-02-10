@@ -1,19 +1,8 @@
 ---
 layout: post
 title: Identify Addictive Application Patterns
-date: 2018-02-04 18:42:33 +0000
-description: Learn to identify patterns in software that create addictive feedback
-  loops.
-desc: ''
-tags: []
-slug: ''
-weather: ''
-location: ''
-categories: []
-redirect_from: []
-author: ''
-image: ''
-tag: []
+date: 2018-02-04 18:42:33 -0600
+description: Learn to identify patterns in software that create addictive feedback loops.
 ---
 As our environment gets more complex we need to be better educated to navigate it. For example, I think that people would be more protective of their privacy, if they learned all the ways the data is used to manipulate them. I have been considering lately that we need to better identify other patterns that are intentionally used to create addictive behavior in applications and websites. Knowing these patterns may allow us to understand certain features for what they are and avoid them.
 

@@ -2,18 +2,9 @@
 layout: post
 title: Forestry.io
 date: 2018-02-03 22:43:58 -0600
-desc: A powerful CMS for static sites.
 tags:
 - Jekyll
 description: A powerful CMS for static sites.
-slug: ''
-weather: ''
-location: ''
-categories: []
-redirect_from: []
-author: ''
-image: ''
-tag: []
 ---
 I have been happy having my blog hosted in Jekyll and built as a static site with [Netlify](https://www.netlify.com). There is a wonderful calm to knowing you just have a bunch of HTML pages. It’s light and airy. But, and this is a big one, I've found authoring to be simply too hard. Writing using a source code workflow adds too much friction.
 
