@@ -1,8 +1,8 @@
 ---
 pages:
+- _posts/2018/2018-02-03-forestry-io.md
 - _posts/taskpaper-as-a-standard.md
 - _posts/2018/2018-02-04-identify-addictive-application-patterns.md
-- _posts/2018/2018-02-03-forestry-io.md
 - _posts/omnifocus-templates-with-workflow.md
 - _posts/2018/2018-01-21-2017-in-meetings.md
 - _posts/2018/2018-01-20-2017-in-links.md
@@ -1754,34 +1754,27 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: desc
-  label: Desc
-  type: text
+  config:
+    required: true
+  description: Title for post.
+- name: description
+  label: Description
+  type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Tagline that will appear below the title. This dos not show up in feeds.
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: tags
   label: Tags
   type: tag_list
-  hidden: false
-  default: ''
-- name: slug
-  label: Slug
-  type: text
-  hidden: false
-  default: ''
-- name: weather
-  label: Weather
-  type: text
-  hidden: false
-  default: ''
-- name: location
-  label: Location
-  type: text
   hidden: false
   default: ''
 - name: categories
@@ -1789,33 +1782,13 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
-- name: redirect_from
-  label: Redirect from
-  type: list
-  hidden: false
-  default: ''
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
 - name: image
   label: Image
   type: file
   hidden: false
   default: ''
-- name: tag
-  label: Tag
-  type: tag_list
-  hidden: false
-  default: ''
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
