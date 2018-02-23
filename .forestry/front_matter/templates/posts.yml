@@ -1,7 +1,15 @@
 ---
 pages:
-- _posts/2018/2018-02-03-forestry-io.md
+- _posts/2018/weekly-thing-enhancements.md
+- _posts/2017/2017-06-05-thinking-in-decades.md
+- _posts/2017/2017-05-17-horseshoe-pits-completed.md
+- _posts/2017/2017-05-11-minnesota-original-layne-kennedy.md
+- _posts/2017/2017-02-18-steve-wozniak-at-augsburg-college.md
+- _posts/2017/2017-02-04-kubbchucks-mn-kubb-2017.md
+- _posts/2001/2001-03-03-hellweek-gear-test-2.md
+- _posts/2000/2000-03-25-caribbean-vacation-day-1.md
 - _posts/taskpaper-as-a-standard.md
+- _posts/2018/2018-02-03-forestry-io.md
 - _posts/2018/2018-02-04-identify-addictive-application-patterns.md
 - _posts/omnifocus-templates-with-workflow.md
 - _posts/2018/2018-01-21-2017-in-meetings.md
@@ -15,18 +23,13 @@ pages:
 - _posts/2017/2017-06-23-assembling-the-weekly-thing.md
 - _posts/2017/2017-06-16-introducing-the-weekly-thing.md
 - _posts/2017/2017-06-09-omnifocus-tip:-using-context-notifications.md
-- _posts/2017/2017-06-05-thinking-in-decades.md
 - _posts/2017/2017-05-30-turing-tumble-on-kickstarter.md
 - _posts/2017/2017-05-26-speaker-suggestions.md
 - _posts/2017/2017-05-19-using-project-templates.md
-- _posts/2017/2017-05-17-horseshoe-pits-completed.md
-- _posts/2017/2017-05-11-minnesota-original-layne-kennedy.md
 - _posts/2017/2017-02-18-minnebar-ticketing-proposal.md
 - _posts/2017/2017-02-18-creativity-vampires.md
-- _posts/2017/2017-02-18-steve-wozniak-at-augsburg-college.md
 - _posts/2017/2017-02-17-minnedemo-25.md
 - _posts/2017/2017-02-15-sending-email-omnifocus-using-flow-office-365.md
-- _posts/2017/2017-02-04-kubbchucks-mn-kubb-2017.md
 - _posts/2016/2016-08-22-collaborative-gtd.md
 - _posts/2016/2016-06-21-vibe-stats-for-omnifocus.md
 - _posts/2016/2016-05-03-technical-downsizing.md
@@ -1742,10 +1745,8 @@ pages:
 - _posts/2001/2001-03-12-hellweek-day-3-southern-comfort.md
 - _posts/2001/2001-03-11-hellweek-day-2-the-harper-image.md
 - _posts/2001/2001-03-10-hellweek-day-1-lbj-ramble.md
-- _posts/2001/2001-03-03-hellweek-gear-test-2.md
 - _posts/2001/2001-03-02-hellweek-gear-test-1.md
 - _posts/2000/2000-03-26-caribbean-vacation-day-2.md
-- _posts/2000/2000-03-25-caribbean-vacation-day-1.md
 - _posts/new-website-new-focus.md
 hide_body: false
 fields:
