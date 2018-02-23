@@ -1,7 +1,6 @@
 ---
 title: "Minnesota Original: Layne Kennedy"
-location: "Minneapolis, MN"
-tag: Photography
+tags: Photography
 date: 2017-05-11 06:37:31 -0500
 ---
 

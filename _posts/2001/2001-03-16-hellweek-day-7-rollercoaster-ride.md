@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 7 - Rollercoaster Ride
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 48°F Partly Cloudy
 ---
 
 We followed up [the death ride]({% post_url 2001/2001-03-15-hellweek-day-6-the-leakey-death-ride %}) with the Rollercoaster. I have to admit, aside from the headwinds and the rather cold weather and a general lack of convenience stores, this ride is gorgeous. The ride goes through some really pretty canyons where you ride along streams up through Majestic Rock state park, and has some incredible views. While the ride has a respectable amount of climbing, it didn't feel like it was beating you on the head all day. All in all, great route. Believe it or not, there was even a flat stretch for a little while!

@@ -1,6 +1,5 @@
 ---
 title: "Speaker Suggestions"
-location: "Cabin"
 date: 2017-05-26 21:35:28 -0500
 description: Three repeated anti-patterns that I see when speakers present.
 tags: Presenting

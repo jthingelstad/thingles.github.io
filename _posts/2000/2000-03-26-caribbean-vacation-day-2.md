@@ -1,8 +1,6 @@
 ---
 title: Caribbean Vacation Day 2
 tags: Vacation
-weather: 73°F Mostly Cloudy
-location: San Juan, PR, United States
 ---
 
 Boats rock a lot, even big ones. Rum, Gin and Tequila don't help the rocking boat. Tomorrow is the wedding, and the first day on St. Thomas. No excursions planned for tomorrow since the wedding will take most of the time.

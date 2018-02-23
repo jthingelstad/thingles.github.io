@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 6 - The Leakey Death Ride
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 50°F Clear
 ---
 
 **I SURVIVED THE DEATH RIDE!**

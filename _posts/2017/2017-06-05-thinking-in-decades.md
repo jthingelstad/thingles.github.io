@@ -1,6 +1,5 @@
 ---
 title: "Thinking in Decades"
-location: "Home"
 date: 2017-06-05 21:35:56 -0500
 description: Deleting my Flickr account of over a decade before it gets transferred to Verizon. Why I feel it's important to own my content.
 image: /assets/posts/2017/flickr-account-deleted.png

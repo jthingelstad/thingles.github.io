@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 4 - Fred's Ride
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 61°F Light Rain
 ---
 
 Fred's Ride is named after a friend of Nick's, the Hellweek organizer who passed away a couple years ago, and this route was his favorite of Hellweek. It serves as a memorial ride for any cyclists that are no longer with us.

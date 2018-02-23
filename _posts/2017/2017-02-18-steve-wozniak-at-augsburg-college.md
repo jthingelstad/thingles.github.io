@@ -4,7 +4,6 @@ description: A great chance to see Woz talk about how he got into technology and
 tags: Technology
 date: 2017-02-18 12:00:00 -06:00
 image: /assets/posts/2017/woz-at-augsburg-college.jpg
-location: Augsburg College, Minneapolis, MN
 ---
 
 [Steve Wozniak][woz], or "Woz", was a guest at [Augsburg College][augsburg] today and it was a pleasure to see him talk about his early days in technology and his first experimentations with [microchips][] which eventually led to the creation of the [Apple I](https://en.wikipedia.org/wiki/Apple_I) and beyond. 

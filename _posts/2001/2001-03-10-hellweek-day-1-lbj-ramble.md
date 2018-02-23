@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 1 - LBJ Ramble
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 59°F Overcast
 ---
 
 Let's actually start with yesterday, Friday. Got into San Antonia, got the bike from luggage, all went very easy, to my surprise. Got the gate upgrade on the car rental to a Ford Explorer, much better for putting stuff into. Made my way to Fredericksburg and put the bike together, with one big gotcha. One of my spokes on my rear wheel had been damaged. There is a single bike shop in Fredericksburg, but they were closed. Luckily, another rider Tom had extra spokes and one actually fit. Got the spoke fixed and all was better. YES!

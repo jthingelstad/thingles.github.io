@@ -1,8 +1,6 @@
 ---
 title: Bob Evans Pancakes!
 tags: 
-weather: 45°F Partly Cloudy
-location: Bob Evans, Marion, IL, United States
 ---
 
 I'm sitting this morning at the counter of a Bob Evans restaurant in Marion, IL. I've never been to a Bob Evans before and Tammy really thought that I would like it. Bob Evans focuses on breakfast and I, as it seems most men do, feel that breakfast is certainly the best meal of the day. I took the opportunity to have a counter seat. While I would never sit at the counter in normal activities, traveling always makes me want to take a single seat at the counter. In small towns with diners this always gives you an opportunity to mingle with the locals, usually also old men that are now completely and totally absorbed in their morning breakfast (something in the genes).

@@ -1,8 +1,6 @@
 ---
 title: Hellweek Gear Test 2
 tags: Hellweek
-weather: 28°F Clear
-location: One Ten Grant, Minneapolis, MN, United States
 ---
 
 Second gear test, got everything working the way I want this time.

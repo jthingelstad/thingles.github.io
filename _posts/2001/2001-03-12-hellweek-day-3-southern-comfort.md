@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 3 - Southern Comfort
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 52°F Clear
 ---
 
 We had a re-route on the beginning of today's ride since one of the bridges was flooded, this cut a couple miles off of the route so "only" came in at 96.6 miles today. Was a good ride, however the wind seemed to be always in front of me. One of the riders got hit by a truck, he's gonna be okay but had to have an ambulance come and take him out. His name is Bill from Oklahoma City if I remember right. (Update on Bill, found out at dinner that they ended up taking him out by helicopter to San Antonio to be worked on. He fractured a vertebrae, otherwise known as breaking your neck. He'll be okay, but that's a tough one).

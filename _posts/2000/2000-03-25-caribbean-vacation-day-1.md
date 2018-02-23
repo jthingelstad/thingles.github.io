@@ -1,8 +1,6 @@
 ---
 title: Caribbean Vacation Day 1
 tags: Vacation
-weather: 73°F Partly Cloudy
-location: San Juan, PR, United States
 ---
 
 Got into San Juan at 4:00p. Got sent to the El San Juan hotel instead of the Old San Juan hotel, figured out where I was and got that taken care of. Got to the right hotel and decided to take a walk around the local area. Nice area, our dock for the cruise is about a block away. San Juan is an interesting town. The roads are just lined with cars back-to-back, going about 5 mph. The sides of San Juan are really interesting because of the war remnants of the walls and such.

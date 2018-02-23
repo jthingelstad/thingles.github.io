@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 2 - The Harper Image
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 64°F Overcast
 ---
 
 Today was a long ride. 8-) Little over a thousand more vertical feet of climbing than we had yesterday, add onto that wet morning with a hot afternoon (read as your clothing is always not right) and a headwind that seemed to follow us wherever we went, no matter what! However, the "roller coaster hills" were a lot of fun, hitting some pretty good speeds. New GPS method worked excellent, just put it in a zip-loc and throw it in the mesh part of the CamelBack.

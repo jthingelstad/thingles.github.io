@@ -1,8 +1,6 @@
 ---
 title: Hellweek Gear Test 1
 tags: Hellweek
-weather: 27°F Clear
-location: One Ten Grant, Minneapolis, MN, United States
 ---
 
 Took my GPS on my ride with me to do a gear test before heading to Texas. Had the heart rate monitor on as well, but for some reason I got no signal, not sure what the problem was with that.

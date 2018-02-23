@@ -1,8 +1,6 @@
 ---
 title: Hellweek, Day 5 - Born to Boerne
 tags: Hellweek
-location: Fredericksburg, TX, United States
-weather: 55°F Overcast
 ---
 
 Todays ride was a mentally exhausting ride. 102 miles that took nearly 7 hours to complete. We started the morning in a light drizzle, 3 hours and 50 miles in it was raining pretty hard and the temperature was in the 50's, read as, miserable. By the time we got to 70 miles the sun was showing itself a little. Even though the ride "only" had a little over 5,000 feet of vertical climbing, it felt like we were going uphill all day!

@@ -1,6 +1,5 @@
 ---
 title: "Horseshoe Pits Completed!"
-location: "Cabin"
 date: 2017-05-17 21:30:04 -0500
 description: 
 image: /assets/posts/2017/horseshoe-pits/horseshoe-pits-2.jpg
