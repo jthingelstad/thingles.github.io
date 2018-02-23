@@ -1754,16 +1754,24 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Title for post.
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Tagline that will appear below the title. This dos not show up in feeds.
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: tags
   label: Tags
   type: tag_list
@@ -1782,5 +1790,5 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
