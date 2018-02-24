@@ -1,5 +1,6 @@
 ---
 pages:
+- 404.html
 - weekly-thing.html
 - about/bio/short.md
 - about/secure.md
@@ -26,7 +27,6 @@ pages:
 - about/contact.html
 - about/colophon.md
 - about/business-cards.md
-- 404.html
 - family/olson-weekend/2016-blue-heron-lodge.md
 - family/olson-weekend/2014-grand-view-lodge.md
 - family/olson-weekend/2013-lanesboro-2.md
