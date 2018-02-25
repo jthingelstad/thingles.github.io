@@ -13,7 +13,7 @@ I recently finished reading [Why Buddhism is True: The Science and Philosophy of
 
 I appreciated how Wright connected ancient Buddhist concepts to modern psychology. His deconstruction of complex topics like essence and nothingness are well done and allow Western readers to connect to them easier. I would highly recommend this book if you are curious about meditation and the overall approach to mindfulness.
 
-I’m trying something new, and sharing my highlighted passages from the book. I read this on the Kindle app and it’s easy to highlight things.
+I’m trying something new, and sharing my highlighted passages from the book.
 
 #### 1. Taking the Red Pill
 

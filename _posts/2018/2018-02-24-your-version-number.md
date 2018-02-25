@@ -21,4 +21,4 @@ I think the version metaphor works. You are a different person in your 20s, 30s,
 
 Today I’m **v4.6.52** of me. I decided the patch version is the days since your birthday. In fact, I made a [Birthday Version](https://workflow.is/workflows/f207d69d37d147dcbf7d58bebb1c81b5) script for [Workflow](https://workflow.is/download) to calculate the version of people in your address book.
 
-How will v4.6.53 be different? I don't know, but I hope ever so slightly bit better. 🤞
+How will v4.6.53 be different? I don't know, but I hope ever so slightly better. 🤞
