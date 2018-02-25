@@ -15,7 +15,7 @@ I appreciated how Wright connected ancient Buddhist concepts to modern psycholog
 
 I’m trying something new, and sharing my highlighted passages from the book. I read this on the Kindle app and it’s easy to highlight things.
 
-### 1. Taking the Red Pill
+#### 1. Taking the Red Pill
 
 Page 8
 
@@ -29,7 +29,7 @@ Page 14
 
 > Buddhism offers an explicit diagnosis of the problem and a cure. And the cure, when it works, brings not just happiness but clarity of vision: the actual truth about things, or at least something way, way closer to that than our everyday view of them.
 
-### 2. Paradoxes of Meditation
+#### 2. Paradoxes of Meditation
 
 Page 18
 
@@ -39,7 +39,7 @@ Page 21
 
 > This is something that can happen again and again via meditation: accepting, even embracing, an unpleasant feeling can give you a critical distance from it that winds up diminishing the unpleasantness.
 
-### 3. When Are Feelings Illusions?
+#### 3. When Are Feelings Illusions?
 
 Page 29
 
@@ -53,13 +53,13 @@ Page 40
 
 > cognitive-behavioral therapy is very much in the spirit of mindfulness meditation. Both in some sense question the validity of feelings. It’s just that with cognitive-behavioral therapy, the questioning is more literal.
 
-### 4. Bliss, Ecstasy, and More Important Reasons to Meditate
+#### 4. Bliss, Ecstasy, and More Important Reasons to Meditate
 
 Page 57
 
 > Noticing that your mind is wandering doesn’t seem like a very profound insight; and in fact it isn’t one, notwithstanding my teacher’s kind insistence on giving it a standing ovation. But it’s not without significance. What I was saying in that session with my teacher was that I — that is, my “self,” the thing I had thought was in control — don’t readily control the most fundamental aspect of my mental life: what I’m thinking about.
 
-### 5. The Alleged Nonexistence of Your Self
+#### 5. The Alleged Nonexistence of Your Self
 
 Page 62
 
@@ -73,7 +73,7 @@ Page 71
 
 > But once I followed that logic — quit seeing these things I couldn’t control as part of my self — I was liberated from them and, in a certain sense, back in control. Or maybe it would be better to put it this way: my lack of control over them ceased to be a problem.
 
-### 7. The Mental Modules That Run Your Life
+#### 7. The Mental Modules That Run Your Life
 
 Page 96
 
@@ -87,7 +87,7 @@ Page 104
 
 > If the way they seize control of the show is through feelings, it stands to reason that one way to change the show
 
-### 8. How Thoughts Think Themselves
+#### 8. How Thoughts Think Themselves
 
 Page 105
 
@@ -101,7 +101,7 @@ Page 115
 
 > And I don’t mean just focus on whatever thought is distracting you — I mean see if you can detect some feeling that is linked to the thought that is distracting you.
 
-### 9. “Self” Control
+#### 9. “Self” Control
 
 Page 135
 
@@ -111,7 +111,7 @@ Page 135
 
 > RAIN. First you Recognize the feeling. Then you Accept the feeling (rather than try to drive it away). Then you Investigate the feeling and its relationship to your body. Finally, the N stands for Nonidentification, or, equivalently, Nonattachment.
 
-### 10. Encounters with the Formless
+#### 10. Encounters with the Formless
 
 Page 143
 
@@ -121,7 +121,7 @@ Page 144
 
 > There is a pretty uncontroversial sense in which, when we apprehend the world out there, we’re not really apprehending the world out there but rather are “constructing” it.
 
-### 11. The Upside of Emptiness
+#### 11. The Upside of Emptiness
 
 Page 166
 
@@ -131,7 +131,7 @@ Page 169
 
 > And maybe this helps explain how Weber could say that “emptiness” is actually “full”: sometimes not seeing essence lets you get drawn into the richness of things.
 
-### 12. A Weedless World
+#### 12. A Weedless World
 
 Page 176
 
@@ -141,13 +141,13 @@ Page 185
 
 > There is a meditative technique specifically designed to blur this line. It is called loving-kindness meditation, or, to use the ancient Pali word for loving-kindness, metta meditation.
 
-### 14. Nirvana in a Nutshell
+#### 14. Nirvana in a Nutshell
 
 Page 219
 
 > These two senses of liberation are reflected in the Buddhist idea that there are two kinds of nirvana. As soon as you are liberated in the here and now, you enter a nirvana you can enjoy for the rest of your life. Then, after death — which will be your final death, now that you’re liberated from the cycle of rebirth — a second kind of nirvana will apply.
 
-### 15. Is Enlightenment Enlightening?
+#### 15. Is Enlightenment Enlightening?
 
 Page 232
 
@@ -167,7 +167,7 @@ Page 238
 
 > That’s the thing about feelings, a thing that is particularly true when we talk about their role in shaping essence: they can render judgment so subtly that we don’t realize that it’s the feelings that are rendering the judgment; we think the judgment is objective.
 
-### 16. Meditation and the Unseen Order
+#### 16. Meditation and the Unseen Order
 
 Page 252
 
