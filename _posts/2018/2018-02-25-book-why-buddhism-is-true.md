@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book: Why Buddhism Is True'
-date: 2018-02-25 08:21:21 -0600
+date: 2018-02-25 13:07:21 -0600
 description: Good read connecting Buddhist concepts and practices to benefits in modern
   life.
 tags:
@@ -9,7 +9,11 @@ tags:
 categories: []
 image: ''
 ---
-I recently finished reading Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment by Robert Wright and enjoyed it very much.
+I recently finished reading [Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment](https://www.amazon.com/gp/product/1439195455/ref=as_li_tl?ie=UTF8&tag=thingelstad01-20) by Robert Wright and enjoyed it very much.
+
+I appreciated how Wright connected ancient Buddhist concepts to modern psychology. His deconstruction of complex topics like essence and nothingness are well done and allow Western readers to connect to them easier. I would highly recommend this book if you are curious about meditation and the overall approach to mindfulness.
+
+I’m trying something new, and sharing my highlighted passages from the book. I read this on the Kindle app and it’s easy to highlight things.
 
 ### 1. Taking the Red Pill
 
@@ -23,25 +27,17 @@ Page 12
 
 Page 14
 
-> Buddhism offers an explicit diagnosis of the problem and a cure. And the cure, when it works, brings not
-
-Page 14
-
-> just happiness but clarity of vision: the actual truth about things, or at least something way, way closer to that than our everyday view of them.
+> Buddhism offers an explicit diagnosis of the problem and a cure. And the cure, when it works, brings not just happiness but clarity of vision: the actual truth about things, or at least something way, way closer to that than our everyday view of them.
 
 ### 2. Paradoxes of Meditation
 
 Page 18
 
-> Technologies of distraction have made attention deficits more common. And there’s something about the modern environment—something technological or cultural or political or all of the above—that seems conducive to harsh judgment and ready rage.
+> Technologies of distraction have made attention deficits more common. And there’s something about the modern environment — something technological or cultural or political or all of the above — that seems conducive to harsh judgment and ready rage.
 
 Page 21
 
-> This is something that can happen again and again via meditation: accepting, even embracing, an unpleasant feeling can give
-
-Page 21
-
-> you a critical distance from it that winds up diminishing the unpleasantness.
+> This is something that can happen again and again via meditation: accepting, even embracing, an unpleasant feeling can give you a critical distance from it that winds up diminishing the unpleasantness.
 
 ### 3. When Are Feelings Illusions?
 
@@ -61,21 +57,21 @@ Page 40
 
 Page 57
 
-> Noticing that your mind is wandering doesn’t seem like a very profound insight; and in fact it isn’t one, notwithstanding my teacher’s kind insistence on giving it a standing ovation. But it’s not without significance. What I was saying in that session with my teacher was that I—that is, my “self,” the thing I had thought was in control—don’t readily control the most fundamental aspect of my mental life: what I’m thinking about.
+> Noticing that your mind is wandering doesn’t seem like a very profound insight; and in fact it isn’t one, notwithstanding my teacher’s kind insistence on giving it a standing ovation. But it’s not without significance. What I was saying in that session with my teacher was that I — that is, my “self,” the thing I had thought was in control — don’t readily control the most fundamental aspect of my mental life: what I’m thinking about.
 
 ### 5. The Alleged Nonexistence of Your Self
 
 Page 62
 
-> But, he notes, our bodies do lead to affliction, and we can’t magically change that by saying “May my form be thus.” So form—the stuff the human body is made of—isn’t really under our control. Therefore, says the Buddha, it must be the case that “form is not-self.” We are not our bodies.
+> But, he notes, our bodies do lead to affliction, and we can’t magically change that by saying “May my form be thus.” So form — the stuff the human body is made of — isn’t really under our control. Therefore, says the Buddha, it must be the case that “form is not-self.” We are not our bodies.
 
 Page 63
 
-> So two of the properties commonly associated with a self—control and persistence through time—are found to be absent, not evident in any of the five components that seem to constitute human beings.
+> So two of the properties commonly associated with a self—control and persistence through time — are found to be absent, not evident in any of the five components that seem to constitute human beings.
 
 Page 71
 
-> But once I followed that logic—quit seeing these things I couldn’t control as part of my self—I was liberated from them and, in a certain sense, back in control. Or maybe it would be better to put it this way: my lack of control over them ceased to be a problem.
+> But once I followed that logic — quit seeing these things I couldn’t control as part of my self — I was liberated from them and, in a certain sense, back in control. Or maybe it would be better to put it this way: my lack of control over them ceased to be a problem.
 
 ### 7. The Mental Modules That Run Your Life
 
@@ -103,7 +99,7 @@ Page 111
 
 Page 115
 
-> And I don’t mean just focus on whatever thought is distracting you—I mean see if you can detect some feeling that is linked to the thought that is distracting you.
+> And I don’t mean just focus on whatever thought is distracting you — I mean see if you can detect some feeling that is linked to the thought that is distracting you.
 
 ### 9. “Self” Control
 
@@ -149,7 +145,7 @@ Page 185
 
 Page 219
 
-> These two senses of liberation are reflected in the Buddhist idea that there are two kinds of nirvana.† As soon as you are liberated in the here and now, you enter a nirvana you can enjoy for the rest of your life. Then, after death—which will be your final death, now that you’re liberated from the cycle of rebirth—a second kind of nirvana will apply.
+> These two senses of liberation are reflected in the Buddhist idea that there are two kinds of nirvana. As soon as you are liberated in the here and now, you enter a nirvana you can enjoy for the rest of your life. Then, after death — which will be your final death, now that you’re liberated from the cycle of rebirth — a second kind of nirvana will apply.
 
 ### 15. Is Enlightenment Enlightening?
 
@@ -159,18 +155,12 @@ Page 232
 
 Page 232
 
-> Emptiness, you may recall, is, roughly speaking, the idea that things don’t have essence. And the perception of essence seems to revolve, however subtly, around feelings; the essence of anything is shaped by the feeling it evokes. It is when things don’t evoke much in the way of feelings—when our normal
-
-Page 232
-
-> affective reaction to things is subdued—that we see these things as “empty” or “formless.”
+> Emptiness, you may recall, is, roughly speaking, the idea that things don’t have essence. And the perception of essence seems to revolve, however subtly, around feelings; the essence of anything is shaped by the feeling it evokes. It is when things don’t evoke much in the way of feelings—when our normal affective reaction to things is subdued—that we see these things as “empty” or “formless.”
 
 Page 236
 
 > What happens to essence when we let go of our particular perspective—the perspective that the feelings that shape the perceived essences of things were designed to serve?
-
-Page 236
-
+>
 > I think the answer is that essence disappears.
 
 Page 238
@@ -185,15 +175,13 @@ Page 252
 
 Page 254
 
-> sounds. It isn’t just that you feel a little more relaxed by the end of a meditation session; it’s that you observe your anxiety, or your fear, or your hatred, or whatever, so mindfully that for a moment you see it as not being part of you.
+> It isn’t just that you feel a little more relaxed by the end of a meditation session; it’s that you observe your anxiety, or your fear, or your hatred, or whatever, so mindfully that for a moment you see it as not being part of you.
 
 Page 264
 
-> In case all this sounds too abstractly philosophical, let me try to put it in more practical form, as the answer to this oft-asked question: Will meditation make me happier? And, if so, how much happier? Well, in my case—and, as you will recall, I’m a particularly hard case—the answer is yes, it’s made me a little happier. That’s good, because I’m in favor of happiness, especially my own. At the same time, the
-
-Page 264
-
-> argument I’d make to people about why they should meditate is less about the quantity of happiness than about the quality of the happiness. The happiness I now have involves, on balance, a truer view of the world than the happiness I had before. And a boost in happiness that rests on truth, I would argue, is better than a boost in happiness that doesn’t—not just because things that rest on truth have a more secure footing than things that don’t, but because, as it happens, acting in accordance with this truth means behaving better toward your fellow beings.
+> In case all this sounds too abstractly philosophical, let me try to put it in more practical form, as the answer to this oft-asked question: Will meditation make me happier? And, if so, how much happier?
+>
+> Well, in my case—and, as you will recall, I’m a particularly hard case—the answer is yes, it’s made me a little happier. That’s good, because I’m in favor of happiness, especially my own. At the same time, the argument I’d make to people about why they should meditate is less about the quantity of happiness than about the quality of the happiness. The happiness I now have involves, on balance, a truer view of the world than the happiness I had before. And a boost in happiness that rests on truth, I would argue, is better than a boost in happiness that doesn’t—not just because things that rest on truth have a more secure footing than things that don’t, but because, as it happens, acting in accordance with this truth means behaving better toward your fellow beings.
 
 Page 264
 
