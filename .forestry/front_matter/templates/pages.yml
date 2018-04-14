@@ -1,10 +1,10 @@
 ---
 pages:
+- about/recommend.md
 - 404.html
 - weekly-thing.html
 - about/bio/short.md
 - about/secure.md
-- about/recommend.md
 - lists/presentations.html
 - about/now.md
 - links.html
@@ -38,6 +38,7 @@ pages:
 - family/olson-weekend/2007-lundeen-cabin.md
 - family/olson-weekend/2006-lanesboro.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
