@@ -1,6 +1,54 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+  description: Title for post.
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+  config:
+    required: true
+  description: Tagline that will appear below the title. This dos not show up in feeds.
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
 pages:
+- _posts/2018/humble-leadership-profile.md
 - _posts/2018/2018-04-14-minnebar-13.md
+- _posts/2005/2005-05-21-fun-with-mrtg-and-snmp.md
 - _posts/taskpaper-as-a-standard.md
 - _posts/2018/2018-03-17-why-mailchimp-for-weekly-thing.md
 - _posts/2018/2018-02-24-your-version-number.md
@@ -1501,7 +1549,6 @@ pages:
 - _posts/2005/2005-05-30-the-christmas-bell.md
 - _posts/2005/2005-05-28-tree-mosaic.md
 - _posts/2005/2005-05-22-star-wars-iii.md
-- _posts/2005/2005-05-21-fun-with-mrtg-and-snmp.md
 - _posts/2005/2005-05-21-daddy-boot-camp.md
 - _posts/2005/2005-05-19-mnpass.md
 - _posts/2005/2005-05-19-breastfeeding-class.md
@@ -1752,49 +1799,3 @@ pages:
 - _posts/2001/2001-03-02-hellweek-gear-test-1.md
 - _posts/2000/2000-03-26-caribbean-vacation-day-2.md
 - _posts/new-website-new-focus.md
-hide_body: false
-is_partial: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
-  description: Title for post.
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
-  config:
-    required: true
-  description: Tagline that will appear below the title. This dos not show up in feeds.
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
-  config:
-    required: true
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
-- name: image
-  label: Image
-  type: file
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post

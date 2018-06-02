@@ -1,9 +1,4 @@
 ---
-pages:
-- family/olson-weekend/2005-wisconsin-dells.md
-- family/olson-weekend/2004-grand-superior.md
-- family/olson-weekend/2015-hibbing.md
-- family/olson-weekend/2017-nicaboyne-lake.md
 hide_body: false
 is_partial: false
 fields:
@@ -55,3 +50,8 @@ fields:
   name: gallery
   label: Gallery
   description: Selected images from the weekend.
+pages:
+- family/olson-weekend/2005-wisconsin-dells.md
+- family/olson-weekend/2004-grand-superior.md
+- family/olson-weekend/2015-hibbing.md
+- family/olson-weekend/2017-nicaboyne-lake.md
