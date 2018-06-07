@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2018/devops-minneapolis-changing-the-enterprise-session.md
 - _posts/2018/2018-06-01-humble-leadership-profile.md
 - _posts/2018/2018-04-14-minnebar-13.md
 - _posts/2005/2005-05-21-fun-with-mrtg-and-snmp.md
