@@ -13,7 +13,7 @@ This morning I got the opportunity to be a guest on [Midmorning](http://minnesot
 ![]({{ site.url }}{% link /assets/posts/2009/mpr-twitter.png %})
 
 <audio controls>
-  <source src="{{ site.url }}/assets/audio/Midmorning_(March_16,_2009).mp3" type="audio/mpeg">
+  <source src="https://files.thingelstad.com/site/audio/Midmorning_(March_16,_2009).mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
