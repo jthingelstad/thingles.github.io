@@ -37,6 +37,6 @@ It was tough, I expected it to be difficult, but it was even harder. He was part
 
 I didn’t realize how much he was always there with us, and particularly with me. The mornings have been lonely without him there to do whatever was the plan. When we come home from doing something, there is no welcoming tail wagging at the door with eager eyes.
 
-![](/assets/posts/2018/Chase-Jamie.jpg)
+**I miss my buddy.**
 
-I miss my buddy.
+![](/assets/posts/2018/Chase-Jamie.jpg)
