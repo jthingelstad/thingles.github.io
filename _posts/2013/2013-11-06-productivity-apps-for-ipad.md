@@ -51,15 +51,15 @@ Pretty much required.
 
 If your gonna Twitter, ditch the Twitter official client for Tweetbot. It’s about a million times better. At some point a new iOS 7 optimized Tweetbot will come out for the iPad, it’s already out for the iPhone, but until then this current version is the best out there.
 
-[1p]: https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[db]: https://itunes.apple.com/us/app/dropbox/id327630330?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[hc]: https://itunes.apple.com/us/app/hipchat/id418168984?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[ia]: https://itunes.apple.com/us/app/ia-writer/id392502056?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[key]: https://itunes.apple.com/us/app/keynote/id361285480?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[mn]: https://itunes.apple.com/us/app/mindnode/id312220102?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[of]: https://itunes.apple.com/us/app/omnifocus-for-ipad/id383804552?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[oo]: https://itunes.apple.com/us/app/omnioutliner-2/id704610906?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[op]: https://itunes.apple.com/us/app/omniplan-2/id694470832?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[pc]: https://itunes.apple.com/us/app/pcalc-the-best-calculator/id284666222?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[skype]: https://itunes.apple.com/us/app/skype-for-ipad/id442012681?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
-[tb]: https://itunes.apple.com/us/app/tweetbot-for-twitter-ipad/id498801050?mt=8&at={{ site.affiliate.itunes }}&ct=thingelstad_com
+[1p]: https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4
+[db]: https://itunes.apple.com/us/app/dropbox/id327630330?mt=8
+[hc]: https://itunes.apple.com/us/app/hipchat/id418168984?mt=8
+[ia]: https://itunes.apple.com/us/app/ia-writer/id392502056?mt=8
+[key]: https://itunes.apple.com/us/app/keynote/id361285480?mt=8
+[mn]: https://itunes.apple.com/us/app/mindnode/id312220102?mt=8
+[of]: https://itunes.apple.com/us/app/omnifocus-for-ipad/id383804552?mt=8
+[oo]: https://itunes.apple.com/us/app/omnioutliner-2/id704610906?mt=8
+[op]: https://itunes.apple.com/us/app/omniplan-2/id694470832?mt=8
+[pc]: https://itunes.apple.com/us/app/pcalc-the-best-calculator/id284666222?mt=8
+[skype]: https://itunes.apple.com/us/app/skype-for-ipad/id442012681?mt=8
+[tb]: https://itunes.apple.com/us/app/tweetbot-for-twitter-ipad/id498801050?mt=8
