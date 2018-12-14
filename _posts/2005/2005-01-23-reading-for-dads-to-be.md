@@ -12,4 +12,4 @@ The other thing I've noticed is that these are not really books. It seems when p
 
 Luckily, the Internet and specifically blogs come to the rescue of us dads-to-be. [Daddy Types](http://www.daddytypes.com/) is a good blog and links to a lot of other resources. You can quickly find a number of different blogs that cater to the specific kind of thing you are looking for. Including ones you hope to never care about, like [Laid-Off Dad](http://laidoffdad.typepad.com/lod/). I've also went back to the well and am still trying to find some good books. I know there are some out there.
 
-There are some notable exemptions. The [Baby Owner's Manual](http://www.amazon.com/dp/1931686238/?tag={{ site.affiliate.amazon }}) is a good book for dad's even though it violates many of the rules above. Somehow I don't feel like I'm being treated like an idiot when reading it.
+There are some notable exemptions. The [Baby Owner's Manual](http://www.amazon.com/dp/1931686238/) is a good book for dad's even though it violates many of the rules above. Somehow I don't feel like I'm being treated like an idiot when reading it.

@@ -12,4 +12,4 @@ I was watching some recent video segments from [TED](http://www.ted.com/) and wa
 
 
 
-Csikszentmihalyi is "the man" on flow, and has a book on the topic called [Flow: The Psychology of Optimal Experience](http://www.amazon.com/dp/0060920432/?tag={{ site.affiliate.amazon }}). I may need to read that.
+Csikszentmihalyi is "the man" on flow, and has a book on the topic called [Flow: The Psychology of Optimal Experience](http://www.amazon.com/dp/0060920432/). I may need to read that.

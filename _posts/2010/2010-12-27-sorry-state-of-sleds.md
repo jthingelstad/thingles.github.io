@@ -17,6 +17,6 @@ So I went online and there I found the small niche of real sleds still alive and
 
 [![]({{ site.url }}{% link /assets/posts/2010/PMBG-061011-1.jpg %})]({{ site.url }}{% link /assets/posts/2010/PMBG-061011-1.jpg %})
 
-I was going to order direct but Amazon had great prices and the shipping was totally free. I've got the [Mountain Boy Sledworks Ultimate Flyer 52"](http://www.amazon.com/dp/B000OVC1B6/?tag={{ site.affiliate.amazon }}) as well as the [Mountain Boy Sledworks 6' Mountain Boggan](http://www.amazon.com/dp/B001JJBNVQ/?tag={{ site.affiliate.amazon }}).
+I was going to order direct but Amazon had great prices and the shipping was totally free. I've got the [Mountain Boy Sledworks Ultimate Flyer 52"](http://www.amazon.com/dp/B000OVC1B6/) as well as the [Mountain Boy Sledworks 6' Mountain Boggan](http://www.amazon.com/dp/B001JJBNVQ/).
 
 I'm excited to get them and take a few runs down the hill. I'll report back on the results.

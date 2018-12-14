@@ -6,7 +6,7 @@ tags:
 - Coffee
 ---
 
-[![Toddy-Cold-Brew-System.png]({{ site.url }}{% link /assets/posts/2008/toddy-cold-brew-system.png %})](http://www.amazon.com/dp/B0006H0JVW/?tag={{ site.affiliate.amazon }})I wrote a little over a year ago about my [introduction to cold press coffee]({{site.url}}{% link _posts/2007/2007-06-05-cold-press-coffee.md %}). Shortly after that post I got a [Toddy Cold Press Brewing System](http://www.amazon.com/dp/B0006H0JVW/?tag={{ site.affiliate.amazon }}) and I've enjoyed a decent amount of cold press since then as well as introducing a few people to it.
+[![Toddy-Cold-Brew-System.png]({{ site.url }}{% link /assets/posts/2008/toddy-cold-brew-system.png %})](http://www.amazon.com/dp/B0006H0JVW/)I wrote a little over a year ago about my [introduction to cold press coffee]({{site.url}}{% link _posts/2007/2007-06-05-cold-press-coffee.md %}). Shortly after that post I got a [Toddy Cold Press Brewing System](http://www.amazon.com/dp/B0006H0JVW/) and I've enjoyed a decent amount of cold press since then as well as introducing a few people to it.
 
 I've been surprised by how few people know about Cold Press and some of the benefits. Many people assume it's just brewed coffee that is then stored in the refrigerator. That is not the case. The basic cold press is made as follows.
 

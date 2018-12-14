@@ -26,7 +26,6 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 # Affiliates
 affiliate:
-  amazon:           "thingelstad01-20"
   itunes:           "1001lxyE"
 
 

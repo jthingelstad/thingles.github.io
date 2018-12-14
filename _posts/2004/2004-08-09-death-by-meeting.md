@@ -4,7 +4,7 @@ categories:
 - Books
 ---
 
-[![]({{ site.url }}{% link /assets/posts/2004/o_death-meeting.gif %})](http://www.amazon.com/dp/0787968056/?tag={{ site.affiliate.amazon }})While I was on vacation I wanted to read a light-hearted business book. I like to have something to spin around in my head during the downtime. [Death by Meeting](http://www.amazon.com/dp/0787968056/?tag={{ site.affiliate.amazon }}) was recommended to me and it fit the bill just right.
+[![]({{ site.url }}{% link /assets/posts/2004/o_death-meeting.gif %})](http://www.amazon.com/dp/0787968056/)While I was on vacation I wanted to read a light-hearted business book. I like to have something to spin around in my head during the downtime. [Death by Meeting](http://www.amazon.com/dp/0787968056/) was recommended to me and it fit the bill just right.
 
 First of all, this book is a business fable and some may find that really annoying. It's a very fast read. Even though it weighs in at over 200 pages you flip through them very quickly.
 

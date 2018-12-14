@@ -6,7 +6,7 @@ tags:
 - Google
 ---
 
-I just pulled the data out of my [Garmin GPSmap 60CSx](http://www.amazon.com/dp/B000CSOXTO/?tag={{ site.affiliate.amazon }}) from my [dog sledding trip](). I just love being able to go into the wilderness and just drop my GPS somewhere with a little visibility and get a perfect track log. I fired up [GPS Babel](http://www.gpsbabel.org/) and got the data into [KML](http://en.wikipedia.org/wiki/Kml) format and you can now see it in [Google Earth](http://earth.google.com/), check out Wintergreen 2009 Photography Workshop in Google Earth.
+I just pulled the data out of my [Garmin GPSmap 60CSx](http://www.amazon.com/dp/B000CSOXTO/) from my [dog sledding trip](). I just love being able to go into the wilderness and just drop my GPS somewhere with a little visibility and get a perfect track log. I fired up [GPS Babel](http://www.gpsbabel.org/) and got the data into [KML](http://en.wikipedia.org/wiki/Kml) format and you can now see it in [Google Earth](http://earth.google.com/), check out Wintergreen 2009 Photography Workshop in Google Earth.
 
 ![Wintergreen-2009-KML-Snapshot.png]({{ site.url }}{% link /assets/posts/2009/wintergreen-2009-kml-snapshot.png %})
 

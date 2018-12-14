@@ -7,7 +7,7 @@ categories:
 
 Do you have a video camera? You _need_ a monopod!
 
-This Christmas I got the [Bogen-Manfrotto Pro Black Monopod with Swivel Tilt Head![11ARRTHHG6L._SL110_.jpg]({{ site.url }}{% link /assets/posts/2008/11arrthhg6l.-sl110-1.jpg %})](http://www.amazon.com/gp/product/B0002HMQV2?ie=UTF8&tag={{ site.affiliate.amazon }}&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0002HMQV2)![](http://www.assoc-amazon.com/e/ir?t=thingelstadco-20&l=as2&o=1&a=B0002HMQV2). This item has been on my wish list for a long time and after having it for just a couple days I wish I would have pulled the trigger on it a long, long time ago.
+This Christmas I got the [Bogen-Manfrotto Pro Black Monopod with Swivel Tilt Head![11ARRTHHG6L._SL110_.jpg]({{ site.url }}{% link /assets/posts/2008/11arrthhg6l.-sl110-1.jpg %})](http://www.amazon.com/gp/product/B0002HMQV2?ie=UTF8&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0002HMQV2)![](http://www.assoc-amazon.com/e/ir?t=thingelstadco-20&l=as2&o=1&a=B0002HMQV2). This item has been on my wish list for a long time and after having it for just a couple days I wish I would have pulled the trigger on it a long, long time ago.
 
 I had thought that I would use this for photography, and it will be great for that. Particularly if you are going to put a really long telephoto lens on and take a lot of shots. The monopod will help with stabilizing and framing the shot, as well as just keeping your arms from getting tired of holding the camera rig. Great for a photo trip to the zoo or arboretum.
 
