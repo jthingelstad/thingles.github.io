@@ -1,12 +1,7 @@
 ---
-layout: ''
 title: 'Book: When Breath Becomes Air'
 description: Well written book with unique perspective.
 date: 2018-12-27 20:16:00 -0600
-tags: []
-categories: []
-image: ''
-
 ---
 I’ve had “When Breath Becomes Air” sitting at our cabin for a while, but decided to pick it up and read it on winter break. The book is a memoir by [Paul Kalanithi](http://paulkalanithi.com) told in two parts. The first part is his path through medical school and becoming a neurosurgeon, being close to serious illnesses, and dealing with death as a Doctor. The second part is after his cancer diagnosis with stage IV lung cancer, which causes his death within 18 months.
 
